@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-02 08:28:10.412147  total: 7270 
+ > update time: 2021-12-02 15:23:29.476847  total: 7271 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A write up on the Steel Mountain box from TryHackMe.com and exploit for CVE-2014-6287** : [SlizBinksman/THM-Steel_Mountain-CVE-2014-6287](https://github.com/SlizBinksman/THM-Steel_Mountain-CVE-2014-6287)  create time: 2021-12-02T15:15:09Z
 
 **no description** : [dearpan/cve-2018-9995](https://github.com/dearpan/cve-2018-9995)  create time: 2021-12-02T07:52:28Z
 
