@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-02 21:21:34.261438  total: 7273 
+ > update time: 2021-12-03 02:38:00.587813  total: 7274 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A vulnerability scanner that detects CVE-2021-21980 vulnerabilities.** : [Osyanina/westone-CVE-2021-21980-scanner](https://github.com/Osyanina/westone-CVE-2021-21980-scanner)  create time: 2021-12-03T02:30:14Z
 
 **Plex media server local privilige escalation poc -  CVE-2021-42835** : [netanelc305/PlEXcalaison](https://github.com/netanelc305/PlEXcalaison)  create time: 2021-12-02T20:18:08Z
 
