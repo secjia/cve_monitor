@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-03 14:23:25.063855  total: 7284 
+ > update time: 2021-12-04 17:29:41.286979  total: 7285 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated Sensitive Information Disclosure (CVE-2021–38314).** : [oxctdev/CVE-2021-38314](https://github.com/oxctdev/CVE-2021-38314)  create time: 2021-12-04T17:08:05Z
 
 **CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver** : [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008)  create time: 2021-12-03T14:08:26Z
 
