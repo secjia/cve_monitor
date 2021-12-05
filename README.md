@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-05 15:24:35.963400  total: 7288 
+ > update time: 2021-12-05 17:28:25.380697  total: 7289 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A FreeSWITCH specific scanning and exploitation toolkit for CVE-2021-37624 and CVE-2021-41157.** : [0xInfection/PewSWITCH](https://github.com/0xInfection/PewSWITCH)  create time: 2021-11-28T13:12:38Z
 
 **CVE-2021-1675 LPE PoC in Nim (PrintNightmare Local Privilege Escalation)** : [fumamatar/NimNightmare](https://github.com/fumamatar/NimNightmare)  create time: 2021-12-05T14:49:32Z
 
