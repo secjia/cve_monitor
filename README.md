@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-04 23:25:00.159181  total: 7286 
+ > update time: 2021-12-05 06:28:02.550444  total: 7287 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081)** : [sudaiv/CVE-2021-41081](https://github.com/sudaiv/CVE-2021-41081)  create time: 2021-12-05T05:22:08Z
 
 **Microsoft Exchange ProxyLogon PoC (CVE-2021-26855)** : [thau0x01/poc_proxylogon](https://github.com/thau0x01/poc_proxylogon)  create time: 2021-12-04T22:38:30Z
 
