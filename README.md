@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-05 17:28:25.380697  total: 7289 
+ > update time: 2021-12-06 09:25:05.334254  total: 7290 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [zer0yu/CVE-2021-41277](https://github.com/zer0yu/CVE-2021-41277)  create time: 2021-12-06T08:52:32Z
 
 **A FreeSWITCH specific scanning and exploitation toolkit for CVE-2021-37624 and CVE-2021-41157.** : [0xInfection/PewSWITCH](https://github.com/0xInfection/PewSWITCH)  create time: 2021-11-28T13:12:38Z
 
