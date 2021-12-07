@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-07 16:38:05.580682  total: 7300 
+ > update time: 2021-12-07 18:29:17.274780  total: 7302 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**利用grafan CVE-2021-43798任意文件读漏洞，自动探测是否有漏洞、存在的plugin、提取密钥、解密server端db文件，并输出data_sourrce信息。** : [kenuosec/grafanaExp](https://github.com/kenuosec/grafanaExp)  create time: 2021-12-07T16:39:09Z
+
+**CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth)** : [taythebot/CVE-2021-43798](https://github.com/taythebot/CVE-2021-43798)  create time: 2021-12-06T20:10:23Z
 
 **no description** : [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)  create time: 2021-12-07T15:39:04Z
 
