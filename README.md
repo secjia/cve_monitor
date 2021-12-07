@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-07 15:27:17.687858  total: 7298 
+ > update time: 2021-12-07 16:38:05.580682  total: 7300 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)  create time: 2021-12-07T15:39:04Z
+
+**利用grafan CVE-2021-43798任意文件读漏洞，自动探测是否有漏洞、存在的plugin、提取密钥、解密server端db文件，并输出data_sourrce信息。** : [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp)  create time: 2021-12-07T15:11:34Z
 
 **Grafana Arbitrary File Reading Vulnerability** : [zer0yu/CVE-2021-43798](https://github.com/zer0yu/CVE-2021-43798)  create time: 2021-12-07T08:59:11Z
 
