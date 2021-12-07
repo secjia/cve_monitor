@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-06 22:23:44.313179  total: 7294 
+ > update time: 2021-12-07 07:23:41.805524  total: 7295 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**druid未授权访问批量扫描poc** : [MzzdToT/CVE-2021-34045](https://github.com/MzzdToT/CVE-2021-34045)  create time: 2021-12-07T06:58:15Z
 
 **reverse shell execution exploit of CVE 22204** : [Asaad27/CVE-2021-22204-RSE](https://github.com/Asaad27/CVE-2021-22204-RSE)  create time: 2021-12-06T21:53:55Z
 
