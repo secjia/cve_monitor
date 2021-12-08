@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-07 18:29:17.274780  total: 7302 
+ > update time: 2021-12-08 01:13:46.345867  total: 7303 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python Exploit Code** : [darkerego/CVE-2021-43798](https://github.com/darkerego/CVE-2021-43798)  create time: 2021-12-08T00:36:04Z
 
 **利用grafan CVE-2021-43798任意文件读漏洞，自动探测是否有漏洞、存在的plugin、提取密钥、解密server端db文件，并输出data_sourrce信息。** : [kenuosec/grafanaExp](https://github.com/kenuosec/grafanaExp)  create time: 2021-12-07T16:39:09Z
 
