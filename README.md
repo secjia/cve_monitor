@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-08 02:40:07.556374  total: 7305 
+ > update time: 2021-12-08 04:31:02.244092  total: 7306 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [j-jasson/CVE-2021-43798-grafana_fileread](https://github.com/j-jasson/CVE-2021-43798-grafana_fileread)  create time: 2021-12-08T03:43:31Z
 
 **Python Exploit Code** : [scopion/CVE-2021-43799](https://github.com/scopion/CVE-2021-43799)  create time: 2021-12-08T00:47:00Z
 
