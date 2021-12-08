@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-08 05:22:59.640135  total: 7307 
+ > update time: 2021-12-08 07:23:43.745774  total: 7309 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-43798-Grafana任意文件读取漏洞** : [lfz97/CVE-2021-43798-Grafana-File-Read](https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read)  create time: 2021-12-08T07:08:37Z
+
+**Grafana File-Read Vuln** : [JiuBanSec/Grafana-CVE-2021-43798](https://github.com/JiuBanSec/Grafana-CVE-2021-43798)  create time: 2021-12-08T07:06:58Z
 
 **Grafana Unauthorized arbitrary file reading vulnerability** : [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798)  create time: 2021-12-07T09:02:16Z
 
