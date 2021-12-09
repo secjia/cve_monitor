@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-09 12:37:50.650396  total: 7319 
+ > update time: 2021-12-09 13:30:34.636174  total: 7320 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC of FortiWAN auth bypass (https://www.fortiguard.com/psirt/FG-IR-21-048)** : [SleepyCofe/CVE-2021-26102](https://github.com/SleepyCofe/CVE-2021-26102)  create time: 2021-12-09T12:55:30Z
 
 **CVE-2021-43798Exp多线程批量验证脚本** : [fanygit/Grafana-CVE-2021-43798Exp](https://github.com/fanygit/Grafana-CVE-2021-43798Exp)  create time: 2021-12-09T11:25:47Z
 
