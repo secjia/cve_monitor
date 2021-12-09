@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-09 10:26:49.097287  total: 7317 
+ > update time: 2021-12-09 12:37:50.650396  total: 7319 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-43798Exp多线程批量验证脚本** : [fanygit/Grafana-CVE-2021-43798Exp](https://github.com/fanygit/Grafana-CVE-2021-43798Exp)  create time: 2021-12-09T11:25:47Z
+
+**CVE-2021-27928-POC** : [shamo0/CVE-2021-27928-POC](https://github.com/shamo0/CVE-2021-27928-POC)  create time: 2021-12-09T11:18:26Z
 
 **no description** : [julesbozouklian/CVE-2021-43798](https://github.com/julesbozouklian/CVE-2021-43798)  create time: 2021-12-09T10:17:57Z
 
