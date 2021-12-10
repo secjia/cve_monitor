@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 01:12:31.253887  total: 7324 
+ > update time: 2021-12-10 04:31:39.636533  total: 7325 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A spigot plugin to fix CVE-2021-44228 Log4j remote code execution vulnerability, to protect Minecraft clients.** : [UltraVanilla/LogJackFix](https://github.com/UltraVanilla/LogJackFix)  create time: 2021-12-10T04:20:03Z
 
 **This tool patches the CVE-2017-5645 Log4J vulnerability present in all minecraft versions NOTE THIS TOOL MUST BE RE-RUN after downloading or updating versions of minecraft as its not a perminent patch** : [jacobtread/L4J-Vuln-Patch](https://github.com/jacobtread/L4J-Vuln-Patch)  create time: 2021-12-10T00:14:06Z
 
