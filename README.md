@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 15:25:46.045418  total: 7337 
+ > update time: 2021-12-10 16:37:05.969915  total: 7340 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [R00tendo/CVE-2012-2982](https://github.com/R00tendo/CVE-2012-2982)  create time: 2021-12-10T15:29:07Z
+
+**Patch Pulsar Docker images with Log4J 2.15.0 update to mitigate CVE-2021-44228** : [lhotari/pulsar-docker-images-patch-CVE-2021-44228](https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228)  create time: 2021-12-10T15:46:49Z
+
+**tcpshield wasiresolver!?** : [racisz/CVE-2021-44228-test](https://github.com/racisz/CVE-2021-44228-test)  create time: 2021-12-10T15:39:09Z
 
 **no description** : [sohtsuka/CVE-2021-44228-PoC](https://github.com/sohtsuka/CVE-2021-44228-PoC)  create time: 2021-12-10T14:57:55Z
 
