@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 08:28:49.744434  total: 7331 
+ > update time: 2021-12-10 09:24:35.481694  total: 7332 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 fix** : [DragonSurvivalEU/RCE](https://github.com/DragonSurvivalEU/RCE)  create time: 2021-12-10T09:20:40Z
 
 **Remote Code Injection In Log4j** : [y35uishere/Log4j2-CVE-2021-44228](https://github.com/y35uishere/Log4j2-CVE-2021-44228)  create time: 2021-12-10T07:18:15Z
 
