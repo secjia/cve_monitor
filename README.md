@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 10:26:54.627558  total: 7334 
+ > update time: 2021-12-10 13:29:43.895300  total: 7336 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.** : [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)  create time: 2021-12-10T12:38:20Z
+
+**A small server for verifing if a given java program is succeptibel to CVE-2021-44228** : [zlepper/CVE-2021-44228-Test-Server](https://github.com/zlepper/CVE-2021-44228-Test-Server)  create time: 2021-12-10T12:35:30Z
 
 **Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process** : [simonis/Log4jPatch](https://github.com/simonis/Log4jPatch)  create time: 2021-12-10T10:10:19Z
 
