@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 04:31:39.636533  total: 7325 
+ > update time: 2021-12-10 06:29:13.294560  total: 7327 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Code Injection In Log4j** : [jas502n/Log4j2-CVE-2021-44228](https://github.com/jas502n/Log4j2-CVE-2021-44228)  create time: 2021-12-10T05:23:44Z
+
+**Patch up CVE-2021-44228 for minecraft forge 1.7.10 - 1.12.2** : [Glease/Healer](https://github.com/Glease/Healer)  create time: 2021-12-09T21:49:33Z
 
 **A spigot plugin to fix CVE-2021-44228 Log4j remote code execution vulnerability, to protect Minecraft clients.** : [UltraVanilla/LogJackFix](https://github.com/UltraVanilla/LogJackFix)  create time: 2021-12-10T04:20:03Z
 
