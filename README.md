@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-09 20:25:42.981136  total: 7322 
+ > update time: 2021-12-10 01:12:31.253887  total: 7324 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This tool patches the CVE-2017-5645 Log4J vulnerability present in all minecraft versions NOTE THIS TOOL MUST BE RE-RUN after downloading or updating versions of minecraft as its not a perminent patch** : [jacobtread/L4J-Vuln-Patch](https://github.com/jacobtread/L4J-Vuln-Patch)  create time: 2021-12-10T00:14:06Z
+
+**Exploit iDRAC 7 & 8 firmware  <  2.52.52.52** : [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)  create time: 2021-12-09T23:47:22Z
 
 **no description** : [M-ensimag/CVE-2019-18276](https://github.com/M-ensimag/CVE-2019-18276)  create time: 2021-12-09T20:22:01Z
 
