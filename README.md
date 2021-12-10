@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 13:29:43.895300  total: 7336 
+ > update time: 2021-12-10 15:25:46.045418  total: 7337 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [sohtsuka/CVE-2021-44228-PoC](https://github.com/sohtsuka/CVE-2021-44228-PoC)  create time: 2021-12-10T14:57:55Z
 
 **Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.** : [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)  create time: 2021-12-10T12:38:20Z
 
