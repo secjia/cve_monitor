@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 16:37:05.969915  total: 7340 
+ > update time: 2021-12-10 18:28:19.321634  total: 7342 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Hashes for vulnerable LOG4J versions** : [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes)  create time: 2021-12-10T18:06:06Z
+
+**RCE POC** : [KosmX/CVE-2021-44228-example](https://github.com/KosmX/CVE-2021-44228-example)  create time: 2021-12-10T17:13:18Z
 
 **no description** : [R00tendo/CVE-2012-2982](https://github.com/R00tendo/CVE-2012-2982)  create time: 2021-12-10T15:29:07Z
 
