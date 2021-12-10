@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 22:24:01.482257  total: 7349 
+ > update time: 2021-12-10 23:24:24.809086  total: 7351 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple Python 3 script to detect the Java library "Log4j" vulnerability (CVE-2021-44228) for a list of URLs** : [takito1812/log4j-detect](https://github.com/takito1812/log4j-detect)  create time: 2021-12-10T21:46:18Z
+
+**no description** : [greymd/CVE-2021-44228](https://github.com/greymd/CVE-2021-44228)  create time: 2021-12-10T17:24:47Z
 
 **no description** : [LongWayHomie/CVE-2017-12617](https://github.com/LongWayHomie/CVE-2017-12617)  create time: 2021-12-10T22:21:07Z
 
