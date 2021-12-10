@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 09:24:35.481694  total: 7332 
+ > update time: 2021-12-10 10:26:54.627558  total: 7334 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process** : [simonis/Log4jPatch](https://github.com/simonis/Log4jPatch)  create time: 2021-12-10T10:10:19Z
+
+**Plugin which fixes 0day exploit (CVE-2021-44228) with Log4j apache package** : [Szczurowsky/Log4j-0Day-Fix](https://github.com/Szczurowsky/Log4j-0Day-Fix)  create time: 2021-12-10T09:43:49Z
 
 **CVE-2021-44228 fix** : [DragonSurvivalEU/RCE](https://github.com/DragonSurvivalEU/RCE)  create time: 2021-12-10T09:20:40Z
 
