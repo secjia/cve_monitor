@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 13:27:51.846318  total: 7382 
+ > update time: 2021-12-11 14:21:31.705968  total: 7384 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Terraform to deploy vulnerable app and a JDNIExploit to work with CVE-2021-44228** : [Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform](https://github.com/Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform)  create time: 2021-12-11T13:56:28Z
+
+**Log4j-RCE (CVE-2021-44228) Proof of Concept** : [PwnC00re/Log4J_0day_RCE](https://github.com/PwnC00re/Log4J_0day_RCE)  create time: 2021-12-11T13:28:52Z
 
 **Content to help the community responding to the Log4j Vulnerability Log4Shell CVE-2021-44228** : [cado-security/log4shell](https://github.com/cado-security/log4shell)  create time: 2021-12-11T13:03:31Z
 
