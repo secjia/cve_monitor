@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 15:24:07.630777  total: 7389 
+ > update time: 2021-12-11 16:34:58.718623  total: 7393 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test CVE-2018-15473 exploit on Shodan IP** : [66quentin/shodan-CVE-2018-15473](https://github.com/66quentin/shodan-CVE-2018-15473)  create time: 2021-12-11T15:50:57Z
+
+**no description** : [LongWayHomie/CVE-2021-43798](https://github.com/LongWayHomie/CVE-2021-43798)  create time: 2021-12-11T16:24:58Z
+
+**Simple demo of CVE-2021-44228** : [datadavev/test-44228](https://github.com/datadavev/test-44228)  create time: 2021-12-11T15:33:17Z
+
+**Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user** : [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin)  create time: 2021-12-11T15:10:30Z
 
 **CVE 2018-20148 and 2019-9168** : [tthseus/WooCommerce-CVEs](https://github.com/tthseus/WooCommerce-CVEs)  create time: 2019-10-25T03:03:52Z
 
