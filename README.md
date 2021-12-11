@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 02:40:45.796330  total: 7359 
+ > update time: 2021-12-11 03:24:40.973797  total: 7363 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A short demo of CVE-2021-44228** : [phoswald/sample-ldap-exploit](https://github.com/phoswald/sample-ldap-exploit)  create time: 2021-12-11T02:45:39Z
+
+**Apache Log4j2 RCE( CVE-2021-44228)验证环境** : [1in9e/Apache-Log4j2-RCE](https://github.com/1in9e/Apache-Log4j2-RCE)  create time: 2021-12-10T15:57:14Z
+
+**Vulnerable to CVE-2021-44228. trustURLCodebase is not required.** : [nkoneko/VictimApp](https://github.com/nkoneko/VictimApp)  create time: 2021-12-10T15:32:03Z
+
+**Apache Log4j 远程代码执行** : [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce)  create time: 2021-12-09T15:27:38Z
 
 **Log4j2 CVE-2021-44228 复现和分析** : [binganao/Log4j2-RCE](https://github.com/binganao/Log4j2-RCE)  create time: 2021-12-11T02:08:41Z
 
