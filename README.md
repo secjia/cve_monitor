@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 14:21:31.705968  total: 7384 
+ > update time: 2021-12-11 15:24:07.630777  total: 7389 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE 2018-20148 and 2019-9168** : [tthseus/WooCommerce-CVEs](https://github.com/tthseus/WooCommerce-CVEs)  create time: 2019-10-25T03:03:52Z
+
+**CVE-2021-44228** : [zzzz0317/Log4j2-Vulnerable-App](https://github.com/zzzz0317/Log4j2-Vulnerable-App)  create time: 2021-12-11T15:18:42Z
+
+**Public IoCs about log4j CVE-2021-44228** : [Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs](https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs)  create time: 2021-12-11T14:54:45Z
+
+**proof of concept for CVE-2021-44228** : [trevalkov/javalogslulz](https://github.com/trevalkov/javalogslulz)  create time: 2021-12-11T14:34:43Z
+
+**A mitigation for CVE-2021-44228 (log4shell) that works by patching the vulnerability at runtime. (Works with any vulnerable java software, tested with java 6 and newer)** : [CreeperHost/Log4jPatcher](https://github.com/CreeperHost/Log4jPatcher)  create time: 2021-12-10T09:16:46Z
 
 **A Terraform to deploy vulnerable app and a JDNIExploit to work with CVE-2021-44228** : [Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform](https://github.com/Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform)  create time: 2021-12-11T13:56:28Z
 
