@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 03:24:40.973797  total: 7363 
+ > update time: 2021-12-11 04:29:45.367037  total: 7364 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A minimalistic LDAP server that is meant for test vulnerability to JNDI+LDAP injection attacks in Java, especially CVE-2021-44228.** : [rakutentech/jndi-ldap-test-server](https://github.com/rakutentech/jndi-ldap-test-server)  create time: 2021-12-11T03:08:14Z
 
 **A short demo of CVE-2021-44228** : [phoswald/sample-ldap-exploit](https://github.com/phoswald/sample-ldap-exploit)  create time: 2021-12-11T02:45:39Z
 
