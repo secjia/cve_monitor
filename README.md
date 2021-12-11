@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 17:28:07.292283  total: 7394 
+ > update time: 2021-12-11 19:19:33.180644  total: 7395 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a proof-of-concept exploit for Grafana's Unauthorized Arbitrary File Read Vulnerability (CVE-2021-43798).** : [pedrohavay/exploit-grafana-CVE-2021-43798](https://github.com/pedrohavay/exploit-grafana-CVE-2021-43798)  create time: 2021-12-11T18:49:30Z
 
 **Detections for CVE-2021-44228 inside of nested binaries** : [darkarnium/CVE-2021-44228](https://github.com/darkarnium/CVE-2021-44228)  create time: 2021-12-11T16:08:47Z
 
