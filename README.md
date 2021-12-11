@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 10:25:52.443729  total: 7374 
+ > update time: 2021-12-11 11:20:30.297599  total: 7375 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A simple and harmless example implementation of CVE-2017-5645.** : [sefayfr/log4j-RCE](https://github.com/sefayfr/log4j-RCE)  create time: 2021-12-11T10:35:02Z
 
 **A Nuclei Template for Apache Log4j RCE (CVE-2021-44228) Detection with WAF Bypass Payloads** : [toramanemre/log4j-rce-detect-waf-bypass](https://github.com/toramanemre/log4j-rce-detect-waf-bypass)  create time: 2021-12-11T10:19:01Z
 
