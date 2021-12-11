@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 07:22:58.360651  total: 7368 
+ > update time: 2021-12-11 08:28:03.898637  total: 7370 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [M1ngGod/CVE-2021-44228-Log4j-lookup-Rce](https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce)  create time: 2021-12-11T07:55:45Z
+
+**no description** : [waseeld/CVE-2021-42574](https://github.com/waseeld/CVE-2021-42574)  create time: 2021-12-11T07:23:17Z
 
 **CVE-2021-44228，log4j2 burp插件 Java版本，dnslog选取了非dnslog.cn域名** : [f0ng/log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)  create time: 2021-12-11T07:19:11Z
 
