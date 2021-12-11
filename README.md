@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-10 23:24:24.809086  total: 7351 
+ > update time: 2021-12-11 01:10:57.926677  total: 7355 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam** : [Adikso/minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot)  create time: 2021-12-10T23:35:31Z
+
+**Buildpack providing a workaround for CVE-2021-44228 (Log4j RCE exploit)** : [alexandreroman/cve-2021-44228-workaround-buildpack](https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack)  create time: 2021-12-10T23:34:52Z
+
+**A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.** : [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)  create time: 2021-12-10T23:19:28Z
+
+**🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches** : [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)  create time: 2021-12-10T22:35:00Z
 
 **Simple Python 3 script to detect the Java library "Log4j" vulnerability (CVE-2021-44228) for a list of URLs** : [takito1812/log4j-detect](https://github.com/takito1812/log4j-detect)  create time: 2021-12-10T21:46:18Z
 
