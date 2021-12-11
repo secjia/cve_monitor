@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 01:10:57.926677  total: 7355 
+ > update time: 2021-12-11 02:40:45.796330  total: 7359 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j2 CVE-2021-44228 复现和分析** : [binganao/Log4j2-RCE](https://github.com/binganao/Log4j2-RCE)  create time: 2021-12-11T02:08:41Z
+
+**Scans files for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) by inspecting the class paths inside the .jar.** : [1lann/log4shelldetect](https://github.com/1lann/log4shelldetect)  create time: 2021-12-11T01:08:00Z
+
+**no description** : [racoon-rac/CVE-2021-44228](https://github.com/racoon-rac/CVE-2021-44228)  create time: 2021-12-10T23:37:55Z
+
+**Java Agent that disables Apache Log4J's JNDI Lookup. Quick-fix for CVE-2021-44228** : [alerithe/log4j-patcher](https://github.com/alerithe/log4j-patcher)  create time: 2021-12-10T21:59:31Z
 
 **Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam** : [Adikso/minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot)  create time: 2021-12-10T23:35:31Z
 
