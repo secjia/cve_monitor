@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 08:28:03.898637  total: 7370 
+ > update time: 2021-12-11 10:25:52.443729  total: 7374 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Nuclei Template for Apache Log4j RCE (CVE-2021-44228) Detection with WAF Bypass Payloads** : [toramanemre/log4j-rce-detect-waf-bypass](https://github.com/toramanemre/log4j-rce-detect-waf-bypass)  create time: 2021-12-11T10:19:01Z
+
+**Log4Shell CVE-2021-44228 mitigation tester** : [lhotari/log4shell-mitigation-tester](https://github.com/lhotari/log4shell-mitigation-tester)  create time: 2021-12-11T10:16:58Z
+
+**no description** : [byteboycn/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/byteboycn/CVE-2021-44228-Apache-Log4j-Rce)  create time: 2021-12-11T09:52:36Z
+
+**RDP Client RCE** : [JaneMandy/CVE-2021-38666](https://github.com/JaneMandy/CVE-2021-38666)  create time: 2021-12-11T09:42:28Z
 
 **no description** : [M1ngGod/CVE-2021-44228-Log4j-lookup-Rce](https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce)  create time: 2021-12-11T07:55:45Z
 
