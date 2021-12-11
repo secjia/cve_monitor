@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 12:35:43.396828  total: 7380 
+ > update time: 2021-12-11 13:27:51.846318  total: 7382 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Content to help the community responding to the Log4j Vulnerability Log4Shell CVE-2021-44228** : [cado-security/log4shell](https://github.com/cado-security/log4shell)  create time: 2021-12-11T13:03:31Z
+
+**List of company advisories log4j** : [leetxyz/CVE-2021-44228-Advisories](https://github.com/leetxyz/CVE-2021-44228-Advisories)  create time: 2021-12-11T12:41:38Z
 
 **Scan your logs for CVE-2021-44228 related activity and report the attackers** : [js-on/jndiRep](https://github.com/js-on/jndiRep)  create time: 2021-12-11T12:25:08Z
 
