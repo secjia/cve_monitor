@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 11:20:30.297599  total: 7375 
+ > update time: 2021-12-11 12:35:43.396828  total: 7380 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scan your logs for CVE-2021-44228 related activity and report the attackers** : [js-on/jndiRep](https://github.com/js-on/jndiRep)  create time: 2021-12-11T12:25:08Z
+
+**no description** : [b-abderrahmane/CVE-2021-44228-playground](https://github.com/b-abderrahmane/CVE-2021-44228-playground)  create time: 2021-12-11T12:16:45Z
+
+**Test the CVE https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228** : [gauthamg/log4j2021_vul_test](https://github.com/gauthamg/log4j2021_vul_test)  create time: 2021-12-11T11:41:04Z
+
+**no description** : [vorburger/Log4j_CVE-2021-44228](https://github.com/vorburger/Log4j_CVE-2021-44228)  create time: 2021-12-11T11:38:16Z
+
+**Vulnerability scanner for Log4j2 CVE-2021-44228** : [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)  create time: 2021-12-11T11:18:46Z
 
 **A simple and harmless example implementation of CVE-2017-5645.** : [sefayfr/log4j-RCE](https://github.com/sefayfr/log4j-RCE)  create time: 2021-12-11T10:35:02Z
 
