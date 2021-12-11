@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 22:23:14.651963  total: 7398 
+ > update time: 2021-12-11 23:24:14.439522  total: 7399 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**docker compose solution to run a vaccine environment for the log4j2 vulnerability CVE-2021-44228** : [jeffbryner/log4j-docker-vaccine](https://github.com/jeffbryner/log4j-docker-vaccine)  create time: 2021-12-11T23:06:23Z
 
 **This enforces signatures for CVE-2021-44228 across all policies on a BIG-IP ASM device** : [irgoncalves/f5-waf-enforce-sig-CVE-2021-44228](https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228)  create time: 2021-12-11T21:59:19Z
 
