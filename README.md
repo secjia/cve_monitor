@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 04:31:06.953686  total: 7405 
+ > update time: 2021-12-12 05:22:13.674605  total: 7406 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An  agent to hotpatch the log4j RCE from CVE-2021-44228.** : [corretto/hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2)  create time: 2021-12-12T01:24:51Z
 
 **Script to patch VMware vCenter log4j vulnerability CVE-2021-44228** : [blake-fm/vcenter-log4j](https://github.com/blake-fm/vcenter-log4j)  create time: 2021-12-12T04:23:10Z
 
