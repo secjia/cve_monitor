@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 21:21:24.789771  total: 7437 
+ > update time: 2021-12-12 22:24:22.287447  total: 7441 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4J (CVE-2021-44228) Exploit with Remote Command Execution (RCE)** : [corneacristian/Log4J-CVE-2021-44228-RCE](https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE)  create time: 2021-12-12T21:52:53Z
+
+**Log4Shell CVE-2021-44228** : [cyberxml/log4j-poc](https://github.com/cyberxml/log4j-poc)  create time: 2021-12-12T21:45:33Z
+
+**Mitigate against log4j vulnerability** : [palominoinc/cve-2021-44228-log4j-mitigation](https://github.com/palominoinc/cve-2021-44228-log4j-mitigation)  create time: 2021-12-12T21:28:09Z
+
+**Log4j RCE - (CVE-2021-44228)** : [momos1337/Log4j-RCE](https://github.com/momos1337/Log4j-RCE)  create time: 2021-12-12T21:26:44Z
 
 **no description** : [Panyaprach/Proof-CVE-2021-44228](https://github.com/Panyaprach/Proof-CVE-2021-44228)  create time: 2021-12-12T20:31:19Z
 
