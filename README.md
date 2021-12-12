@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 22:24:22.287447  total: 7441 
+ > update time: 2021-12-12 23:24:04.376982  total: 7445 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nils-trubkin/CVE-2018-6574](https://github.com/nils-trubkin/CVE-2018-6574)  create time: 2021-12-12T23:01:07Z
+
+**pythonic pure python RCE exploit for CVE-2021-44228 log4shell** : [dotPY-hax/log4py](https://github.com/dotPY-hax/log4py)  create time: 2021-12-12T22:55:25Z
+
+**Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)** : [Diverto/nse-log4shell](https://github.com/Diverto/nse-log4shell)  create time: 2021-12-12T22:52:02Z
+
+**no description** : [LongWayHomie/CVE-2021-43936](https://github.com/LongWayHomie/CVE-2021-43936)  create time: 2021-12-12T22:31:00Z
 
 **Log4J (CVE-2021-44228) Exploit with Remote Command Execution (RCE)** : [corneacristian/Log4J-CVE-2021-44228-RCE](https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE)  create time: 2021-12-12T21:52:53Z
 
