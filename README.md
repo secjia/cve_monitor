@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 10:26:02.553727  total: 7411 
+ > update time: 2021-12-12 11:20:03.783139  total: 7413 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mute1997/CVE-2021-44228-research](https://github.com/mute1997/CVE-2021-44228-research)  create time: 2021-12-12T11:08:54Z
+
+**On December 5, 2021, Apache identified a vulnerability (later identified as CVE-2021-44228) in their widely used Log4j logging service. The vulnerability, also known as Log4shell, enables attackers to gain full control of affected servers by allowing unauthenticated remote code execution if the user is running an application utilizing the Java logging library. Log4j is heavily integrated into a broad set of devops frameworks, enterprise IT systems, and vendor software and cloud products.** : [sud0x00/log4j---CVE-2021-44228](https://github.com/sud0x00/log4j---CVE-2021-44228)  create time: 2021-12-12T10:22:45Z
 
 **CVE-2021-44228(Apache Log4j Remote Code Execution）** : [RK800-DEV/apache-log4j-poc](https://github.com/RK800-DEV/apache-log4j-poc)  create time: 2021-12-12T10:17:13Z
 
