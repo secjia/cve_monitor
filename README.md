@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 05:22:13.674605  total: 7406 
+ > update time: 2021-12-12 08:28:09.851469  total: 7408 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**My take on Log4j2 vulnerability** : [bchaber/CVE-2021-44228](https://github.com/bchaber/CVE-2021-44228)  create time: 2021-12-12T07:39:51Z
+
+**log4j2漏洞复现** : [creamIcec/CVE-2021-44228-Apache-Log4j-Rce__review](https://github.com/creamIcec/CVE-2021-44228-Apache-Log4j-Rce__review)  create time: 2021-12-12T07:20:03Z
 
 **An  agent to hotpatch the log4j RCE from CVE-2021-44228.** : [corretto/hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2)  create time: 2021-12-12T01:24:51Z
 
