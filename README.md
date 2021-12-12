@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 11:20:03.783139  total: 7413 
+ > update time: 2021-12-12 12:35:45.129951  total: 7418 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Sample log4j shell exploit** : [kali-dass/CVE-2021-44228-log4Shell](https://github.com/kali-dass/CVE-2021-44228-log4Shell)  create time: 2021-12-12T12:27:39Z
+
+**Poc of log4j2 (CVE-2021-44228)** : [Crane-Mocker/log4j-poc](https://github.com/Crane-Mocker/log4j-poc)  create time: 2021-12-12T11:31:45Z
+
+**Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)** : [0-x-2-2/CVE-2021-44228](https://github.com/0-x-2-2/CVE-2021-44228)  create time: 2021-12-12T11:26:42Z
+
+**An awesome curated list of repos for CVE-2021-44228.     ``Apache Log4j 2``** : [RrUZi/Awesome-CVE-2021-44228](https://github.com/RrUZi/Awesome-CVE-2021-44228)  create time: 2021-12-12T11:25:00Z
+
+**CVE-2021-44228 Minecraft PoC** : [myyxl/cve-2021-44228-minecraft-poc](https://github.com/myyxl/cve-2021-44228-minecraft-poc)  create time: 2021-12-12T11:22:51Z
 
 **no description** : [mute1997/CVE-2021-44228-research](https://github.com/mute1997/CVE-2021-44228-research)  create time: 2021-12-12T11:08:54Z
 
