@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 03:26:53.834819  total: 7402 
+ > update time: 2021-12-12 04:31:06.953686  total: 7405 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Script to patch VMware vCenter log4j vulnerability CVE-2021-44228** : [blake-fm/vcenter-log4j](https://github.com/blake-fm/vcenter-log4j)  create time: 2021-12-12T04:23:10Z
+
+**Use environment variable to disable lookup.** : [Ghost-chu/CVE-2021-44228-quickfix-script](https://github.com/Ghost-chu/CVE-2021-44228-quickfix-script)  create time: 2021-12-12T04:17:08Z
+
+**Apache Log4j CVE-2021-44228 漏洞复现** : [zhangxvx/Log4j-Rec-CVE-2021-44228](https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228)  create time: 2021-12-11T16:08:34Z
 
 **Apache Log4j2 CVE-2021-44228 RCE** : [mzlogin/CVE-2021-44228-Demo](https://github.com/mzlogin/CVE-2021-44228-Demo)  create time: 2021-12-12T03:11:14Z
 
