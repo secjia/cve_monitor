@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 14:22:01.660880  total: 7425 
+ > update time: 2021-12-12 15:24:47.321652  total: 7429 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [gixxyboy/CVE-2021-43798](https://github.com/gixxyboy/CVE-2021-43798)  create time: 2021-12-12T15:16:55Z
+
+**CVE-2021-44228 test demo** : [fireflyingup/log4j-poc](https://github.com/fireflyingup/log4j-poc)  create time: 2021-12-12T14:54:25Z
+
+**Apache Druid remote code execution vulnerability - Apache Druid 远程代码执行漏洞利用** : [j2ekim/cve-2021-25646](https://github.com/j2ekim/cve-2021-25646)  create time: 2021-12-12T14:40:12Z
+
+**Known IoCs for log4j framework vulnerability** : [guardicode/CVE-2021-44228_IoCs](https://github.com/guardicode/CVE-2021-44228_IoCs)  create time: 2021-12-12T14:27:28Z
 
 **Lists of affected components and affected apps/vendors by CVE-2021-44228 (aka Log4shell or Log4j RCE). This list is meant as a resource for security responders to be able to find and address the vulnerability** : [authomize/log4j-log4shell-affected](https://github.com/authomize/log4j-log4shell-affected)  create time: 2021-12-12T14:05:05Z
 
