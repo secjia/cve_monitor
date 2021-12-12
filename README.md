@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 12:35:45.129951  total: 7418 
+ > update time: 2021-12-12 13:27:25.891895  total: 7421 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dockerized Go app for testing the CVE-2021-44228 vulnerability** : [urholaukkarinen/docker-log4shell](https://github.com/urholaukkarinen/docker-log4shell)  create time: 2021-12-12T13:19:50Z
+
+**IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228** : [Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228](https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228)  create time: 2021-12-12T13:17:18Z
+
+**no description** : [pravin-pp/log4j2-CVE-2021-44228](https://github.com/pravin-pp/log4j2-CVE-2021-44228)  create time: 2021-12-12T13:00:38Z
 
 **Sample log4j shell exploit** : [kali-dass/CVE-2021-44228-log4Shell](https://github.com/kali-dass/CVE-2021-44228-log4Shell)  create time: 2021-12-12T12:27:39Z
 
