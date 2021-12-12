@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 17:28:09.663205  total: 7434 
+ > update time: 2021-12-12 19:20:00.264898  total: 7435 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Check list of URLs against Log4j vulnerability CVE-2021-44228** : [OlafHaalstra/log4jcheck](https://github.com/OlafHaalstra/log4jcheck)  create time: 2021-12-12T18:57:05Z
 
 **Spring Boot Log4j - CVE-2021-44228 Docker Lab** : [twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab](https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab)  create time: 2021-12-12T16:54:33Z
 
