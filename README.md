@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 15:24:47.321652  total: 7429 
+ > update time: 2021-12-12 16:34:34.657544  total: 7432 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Druid LoadData 任意文件读取漏洞 / Code By:Jun_sheng** : [Jun-5heng/CVE-2021-36749](https://github.com/Jun-5heng/CVE-2021-36749)  create time: 2021-12-12T15:50:02Z
+
+**no description** : [qingtengyun/cve-2021-44228-qingteng-online-patch](https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch)  create time: 2021-12-12T15:30:55Z
+
+**no description** : [qingtengyun/cve-2021-44228-qingteng-patch](https://github.com/qingtengyun/cve-2021-44228-qingteng-patch)  create time: 2021-12-12T15:00:04Z
 
 **no description** : [gixxyboy/CVE-2021-43798](https://github.com/gixxyboy/CVE-2021-43798)  create time: 2021-12-12T15:16:55Z
 
