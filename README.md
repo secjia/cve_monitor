@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 13:27:25.891895  total: 7421 
+ > update time: 2021-12-12 14:22:01.660880  total: 7425 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Lists of affected components and affected apps/vendors by CVE-2021-44228 (aka Log4shell or Log4j RCE). This list is meant as a resource for security responders to be able to find and address the vulnerability** : [authomize/log4j-log4shell-affected](https://github.com/authomize/log4j-log4shell-affected)  create time: 2021-12-12T14:05:05Z
+
+**no description** : [lohanichaten/log4j-cve-2021-44228](https://github.com/lohanichaten/log4j-cve-2021-44228)  create time: 2021-12-12T13:59:38Z
+
+**Mitigate log4shell (CVE-2021-44228) vulnerability attacks using Nginx LUA script** : [infiniroot/nginx-mitigate-log4shell](https://github.com/infiniroot/nginx-mitigate-log4shell)  create time: 2021-12-12T13:45:08Z
+
+**Python script that sends CVE-2021-44228 log4j payload requests to url list** : [ssl/scan4log4j](https://github.com/ssl/scan4log4j)  create time: 2021-12-12T13:28:31Z
 
 **Dockerized Go app for testing the CVE-2021-44228 vulnerability** : [urholaukkarinen/docker-log4shell](https://github.com/urholaukkarinen/docker-log4shell)  create time: 2021-12-12T13:19:50Z
 
