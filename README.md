@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-11 23:24:14.439522  total: 7399 
+ > update time: 2021-12-12 03:26:53.834819  total: 7402 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Log4j2 CVE-2021-44228 RCE** : [mzlogin/CVE-2021-44228-Demo](https://github.com/mzlogin/CVE-2021-44228-Demo)  create time: 2021-12-12T03:11:14Z
+
+**no description** : [RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs](https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs)  create time: 2021-12-12T02:59:54Z
+
+**Pure Vanilla Python PoC for CVE-2021-44228** : [alexandre-lavoie/python-log4shell](https://github.com/alexandre-lavoie/python-log4shell)  create time: 2021-12-12T02:57:49Z
 
 **docker compose solution to run a vaccine environment for the log4j2 vulnerability CVE-2021-44228** : [jeffbryner/log4j-docker-vaccine](https://github.com/jeffbryner/log4j-docker-vaccine)  create time: 2021-12-11T23:06:23Z
 
