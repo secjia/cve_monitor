@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 07:23:52.825788  total: 7462 
+ > update time: 2021-12-13 08:28:49.513207  total: 7466 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A lab for playing around with the Log4J CVE-2021-44228** : [tuyenee/Log4shell](https://github.com/tuyenee/Log4shell)  create time: 2021-12-13T08:13:07Z
+
+**CVE-2021-44228 log4j mitigation using aws wafv2 with ansible** : [markuman/aws-log4j-mitigations](https://github.com/markuman/aws-log4j-mitigations)  create time: 2021-12-13T08:01:55Z
+
+**no description** : [helsecert/CVE-2021-44228](https://github.com/helsecert/CVE-2021-44228)  create time: 2021-12-13T07:48:49Z
+
+**Log4J CVE-2021-44228 : Mitigation Cheat Sheet** : [thedevappsecguy/Log4J-CVE-2021-44228-Mitigation-Cheat-Sheet](https://github.com/thedevappsecguy/Log4J-CVE-2021-44228-Mitigation-Cheat-Sheet)  create time: 2021-12-13T07:24:02Z
 
 **Scanner for Log4j RCE CVE-2021-44228** : [thecyberneh/Log4j-RCE-Exploiter](https://github.com/thecyberneh/Log4j-RCE-Exploiter)  create time: 2021-12-13T06:53:01Z
 
