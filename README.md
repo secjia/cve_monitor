@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 09:25:00.023151  total: 7470 
+ > update time: 2021-12-13 10:27:05.835501  total: 7476 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Amaranese/CVE-2021-34527](https://github.com/Amaranese/CVE-2021-34527)  create time: 2021-12-13T10:04:49Z
+
+**no description** : [lov3r/cve-2021-44228-log4j-exploits](https://github.com/lov3r/cve-2021-44228-log4j-exploits)  create time: 2021-12-13T09:58:11Z
+
+**Research into the implications of CVE-2021-44228 in Spring based applications.** : [Camphul/log4shell-spring-framework-research](https://github.com/Camphul/log4shell-spring-framework-research)  create time: 2021-12-13T09:48:04Z
+
+**Dirty Cow kernel exploit without libcrypt dependency** : [itlabbet/CVE-2021-40839](https://github.com/itlabbet/CVE-2021-40839)  create time: 2021-12-13T09:47:22Z
+
+**CVE-2021-36260** : [tuntin9x/CheckHKRCE](https://github.com/tuntin9x/CheckHKRCE)  create time: 2021-12-13T09:23:36Z
+
+**CVE-2021-44228** : [halibobor/log4j2](https://github.com/halibobor/log4j2)  create time: 2021-12-13T07:03:50Z
 
 **Simple tool for scanning entire directories for attempts of CVE-2021-44228** : [kek-Sec/log4j-scanner-CVE-2021-44228](https://github.com/kek-Sec/log4j-scanner-CVE-2021-44228)  create time: 2021-12-13T08:51:56Z
 
