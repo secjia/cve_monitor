@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 21:21:37.170026  total: 7514 
+ > update time: 2021-12-13 22:20:46.967626  total: 7518 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j 2 (CVE-2021-44228) vulnerability scanner for Windows OS** : [name/log4j-scanner](https://github.com/name/log4j-scanner)  create time: 2021-12-13T22:11:15Z
+
+**GitHub CodeQL Action to scan for CVE-2021–44228** : [benarculus/cve-2021-44228-code-scan](https://github.com/benarculus/cve-2021-44228-code-scan)  create time: 2021-12-13T21:57:58Z
+
+**Professional Service scripts to aid in the identification of affected Java applications in TeamServer** : [Contrast-Security-OSS/CVE-2021-44228](https://github.com/Contrast-Security-OSS/CVE-2021-44228)  create time: 2021-12-13T21:39:39Z
+
+**Just a personal proof of concept of CVE-2021-44228 on log4j2** : [snatalius/log4j2-CVE-2021-44228-poc-local](https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local)  create time: 2021-12-13T21:21:53Z
 
 **exploit for DNS 4.3** : [stoicboomer/CVE-2013-6987](https://github.com/stoicboomer/CVE-2013-6987)  create time: 2020-02-13T21:42:24Z
 
