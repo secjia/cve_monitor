@@ -1,9 +1,25 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-12 23:24:04.376982  total: 7445 
+ > update time: 2021-12-13 01:11:14.830868  total: 7453 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228. Quick find and mitigate action for Windows OS.** : [lwsnz/log4j-win-quick](https://github.com/lwsnz/log4j-win-quick)  create time: 2021-12-13T00:45:48Z
+
+**Fun things against the abuse of the recent CVE-2021-44228 (Log4Shell) vulnerability using common web servers.** : [KainsRache/anti-jndi](https://github.com/KainsRache/anti-jndi)  create time: 2021-12-13T00:23:20Z
+
+**Some files for red team/blue team investigations into CVE-2021-44228** : [kimobu/cve-2021-44228](https://github.com/kimobu/cve-2021-44228)  create time: 2021-12-13T00:14:45Z
+
+**fail2ban filter that catches attacks againts log4j CVE-2021-44228** : [atnetws/fail2ban-log4j](https://github.com/atnetws/fail2ban-log4j)  create time: 2021-12-13T00:14:31Z
+
+**no description** : [maxant/log4j2-CVE-2021-44228](https://github.com/maxant/log4j2-CVE-2021-44228)  create time: 2021-12-13T00:02:54Z
+
+**Test locally an exploit for Log4J2's CVE-2021-44228 (Log4Shell)** : [sunnyvale-it/CVE-2021-44228-PoC](https://github.com/sunnyvale-it/CVE-2021-44228-PoC)  create time: 2021-12-12T23:37:39Z
+
+**A micro lab for CVE-2021-44228 (log4j)** : [tasooshi/horrors-log4shell](https://github.com/tasooshi/horrors-log4shell)  create time: 2021-12-12T15:44:49Z
+
+**no description** : [DiCanio/CVE-2021-44228-docker-example](https://github.com/DiCanio/CVE-2021-44228-docker-example)  create time: 2021-12-12T10:53:15Z
 
 **no description** : [nils-trubkin/CVE-2018-6574](https://github.com/nils-trubkin/CVE-2018-6574)  create time: 2021-12-12T23:01:07Z
 
