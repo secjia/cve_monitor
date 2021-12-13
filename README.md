@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 15:26:20.623060  total: 7495 
+ > update time: 2021-12-13 16:35:56.761066  total: 7497 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tobiasoed/log4j-CVE-2021-44228](https://github.com/tobiasoed/log4j-CVE-2021-44228)  create time: 2021-12-13T16:04:54Z
+
+**Exploiting CVE-2021-42278 and CVE-2021-42287** : [waterrr/noPac](https://github.com/waterrr/noPac)  create time: 2021-12-13T15:24:59Z
 
 **demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability** : [kossatzd/log4j-CVE-2021-44228-test](https://github.com/kossatzd/log4j-CVE-2021-44228-test)  create time: 2021-12-13T15:11:15Z
 
