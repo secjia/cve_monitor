@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 19:19:33.941073  total: 7508 
+ > update time: 2021-12-13 20:25:39.842947  total: 7513 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tica506/Splunk-query-for-CVE-2021-44228](https://github.com/tica506/Splunk-query-for-CVE-2021-44228)  create time: 2021-12-13T20:19:57Z
+
+**Nmap NSE script for discovery Apache log4j RCE (CVE-2021-44228)** : [giterlizzi/nmap-log4shell](https://github.com/giterlizzi/nmap-log4shell)  create time: 2021-12-13T20:17:14Z
+
+**NGINX njs based request inspection configuration for IOCs of Log4Shell vulnerability** : [tippexs/nginx-njs-waf-cve2021-44228](https://github.com/tippexs/nginx-njs-waf-cve2021-44228)  create time: 2021-12-13T20:02:12Z
+
+**Demonstration of CVE-2021-44228 with a possible strategic fix.** : [strawhatasif/log4j-test](https://github.com/strawhatasif/log4j-test)  create time: 2021-12-13T19:43:01Z
+
+**Using code search to help fix/mitigate log4j CVE-2021-44228** : [sourcegraph/log4j-cve-code-search-resources](https://github.com/sourcegraph/log4j-cve-code-search-resources)  create time: 2021-12-13T07:10:11Z
 
 **Compiling links of value i find regarding CVE-2021-44228** : [ben-smash/l4j-info](https://github.com/ben-smash/l4j-info)  create time: 2021-12-13T19:14:23Z
 
