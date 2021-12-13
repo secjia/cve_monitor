@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 14:23:03.519259  total: 7491 
+ > update time: 2021-12-13 15:26:20.623060  total: 7495 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability** : [kossatzd/log4j-CVE-2021-44228-test](https://github.com/kossatzd/log4j-CVE-2021-44228-test)  create time: 2021-12-13T15:11:15Z
+
+**Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/** : [AlexandreHeroux/Fix-CVE-2021-44228](https://github.com/AlexandreHeroux/Fix-CVE-2021-44228)  create time: 2021-12-13T15:04:31Z
+
+**Check if Java allows JNDI remote code exec by default** : [trickyearlobe/CVE_2021_44228_Check](https://github.com/trickyearlobe/CVE_2021_44228_Check)  create time: 2021-12-13T14:56:03Z
+
+**Some tools to help mitigating Apache Log4j 2 CVE-2021-44228** : [madCdan/JndiLookup](https://github.com/madCdan/JndiLookup)  create time: 2021-12-13T14:22:34Z
 
 **Check if your server is vulnerable to the CVE-2021-44228. (node)** : [AdriDevelopsThings/check-log4j-vulnerability](https://github.com/AdriDevelopsThings/check-log4j-vulnerability)  create time: 2021-12-13T14:10:43Z
 
