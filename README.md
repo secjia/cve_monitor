@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 17:29:16.940498  total: 7500 
+ > update time: 2021-12-13 18:27:59.110438  total: 7503 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4Shell A test for CVE-2021-44228** : [yanghaoi/CVE-2021-44228_Log4Shell](https://github.com/yanghaoi/CVE-2021-44228_Log4Shell)  create time: 2021-12-13T17:44:01Z
+
+**File transfers using the log4shell vulnerability (CVE-2021-44228)** : [Chelsea486MHz/ftp_over_log4j](https://github.com/Chelsea486MHz/ftp_over_log4j)  create time: 2021-12-13T17:26:49Z
+
+**Automox Windows Agent Privilege Escalation Exploit** : [gfoss/CVE-2021-43326_Exploit](https://github.com/gfoss/CVE-2021-43326_Exploit)  create time: 2021-12-13T17:26:28Z
 
 **no description** : [taurusxin/CVE-2021-44228](https://github.com/taurusxin/CVE-2021-44228)  create time: 2021-12-13T17:17:37Z
 
