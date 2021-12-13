@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 18:27:59.110438  total: 7503 
+ > update time: 2021-12-13 19:19:33.941073  total: 7508 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Compiling links of value i find regarding CVE-2021-44228** : [ben-smash/l4j-info](https://github.com/ben-smash/l4j-info)  create time: 2021-12-13T19:14:23Z
+
+**no description** : [mcedica/fix-cve-2021-44228](https://github.com/mcedica/fix-cve-2021-44228)  create time: 2021-12-13T18:55:55Z
+
+**Public IOCs about log4j CVE-2021-44228** : [threatmonit/Log4j-IOCs](https://github.com/threatmonit/Log4j-IOCs)  create time: 2021-12-13T18:52:19Z
+
+**Python3 script for scanning CVE-2021-44228 (Log4shell) vulnerable machines.** : [lfama/log4j_checker](https://github.com/lfama/log4j_checker)  create time: 2021-12-13T18:35:16Z
+
+**CVE-2021-44228** : [trevalkov/log4j2-prosecutor](https://github.com/trevalkov/log4j2-prosecutor)  create time: 2021-12-13T17:32:26Z
 
 **Log4Shell A test for CVE-2021-44228** : [yanghaoi/CVE-2021-44228_Log4Shell](https://github.com/yanghaoi/CVE-2021-44228_Log4Shell)  create time: 2021-12-13T17:44:01Z
 
