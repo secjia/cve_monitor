@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 03:24:38.529286  total: 7456 
+ > update time: 2021-12-13 04:32:03.313568  total: 7458 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**a fast check, if your server could be vulnerable to CVE-2021-44228** : [rubo77/log4j_checker_beta](https://github.com/rubo77/log4j_checker_beta)  create time: 2021-12-13T04:14:18Z
+
+**A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228** : [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)  create time: 2021-12-13T03:57:50Z
 
 **Ingest GreyNoise.io malicious feed for CVE-2021-44228 and apply null routes** : [0xRyan/log4j-nullroute](https://github.com/0xRyan/log4j-nullroute)  create time: 2021-12-13T03:15:42Z
 
