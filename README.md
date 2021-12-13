@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 01:11:14.830868  total: 7453 
+ > update time: 2021-12-13 02:39:18.183274  total: 7455 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228).** : [pedrohavay/exploit-CVE-2021-44228](https://github.com/pedrohavay/exploit-CVE-2021-44228)  create time: 2021-12-13T02:18:57Z
+
+**log4J burp被扫插件、CVE-2021-44228、支持dnclog.cn和burp内置DNS、可配合JNDIExploit生成payload** : [bigsizeme/Log4j-check](https://github.com/bigsizeme/Log4j-check)  create time: 2021-12-13T01:55:51Z
 
 **CVE-2021-44228. Quick find and mitigate action for Windows OS.** : [lwsnz/log4j-win-quick](https://github.com/lwsnz/log4j-win-quick)  create time: 2021-12-13T00:45:48Z
 
