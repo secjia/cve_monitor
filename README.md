@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 10:27:05.835501  total: 7476 
+ > update time: 2021-12-13 11:20:44.962034  total: 7480 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A PoC for CVE-2021-44827 - authenticated remote code execution in Tp-link Archer C20i** : [full-disclosure/CVE-2021-44827](https://github.com/full-disclosure/CVE-2021-44827)  create time: 2021-12-13T11:17:12Z
+
+**Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability pre and post auth.** : [0xDexter0us/Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner)  create time: 2021-12-13T11:06:46Z
+
+**simple python scanner to check if your network is vulnerable to CVE-2021-44228** : [sinakeshmiri/log4jScan](https://github.com/sinakeshmiri/log4jScan)  create time: 2021-12-13T10:59:50Z
+
+**Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user** : [Ridter/noPac](https://github.com/Ridter/noPac)  create time: 2021-12-13T10:28:12Z
 
 **no description** : [Amaranese/CVE-2021-34527](https://github.com/Amaranese/CVE-2021-34527)  create time: 2021-12-13T10:04:49Z
 
