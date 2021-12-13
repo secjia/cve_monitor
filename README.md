@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 08:28:49.513207  total: 7466 
+ > update time: 2021-12-13 09:25:00.023151  total: 7470 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple tool for scanning entire directories for attempts of CVE-2021-44228** : [kek-Sec/log4j-scanner-CVE-2021-44228](https://github.com/kek-Sec/log4j-scanner-CVE-2021-44228)  create time: 2021-12-13T08:51:56Z
+
+**This repository contains a script that you can run on your (windows) machine to mitigate CVE-2021-44228** : [avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation)  create time: 2021-12-13T08:46:41Z
+
+**Log4Shell Docker Env** : [ycdxsb/Log4Shell-CVE-2021-44228-ENV](https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV)  create time: 2021-12-13T08:43:45Z
+
+**Log4j Remote Code Injection (Apache Log4j 2.x < 2.15.0-rc2)** : [JiuBanSec/Log4j-CVE-2021-44228](https://github.com/JiuBanSec/Log4j-CVE-2021-44228)  create time: 2021-12-13T08:40:13Z
 
 **A lab for playing around with the Log4J CVE-2021-44228** : [tuyenee/Log4shell](https://github.com/tuyenee/Log4shell)  create time: 2021-12-13T08:13:07Z
 
