@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 22:20:46.967626  total: 7518 
+ > update time: 2021-12-13 23:24:44.769491  total: 7524 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Prova de conceito da vulnerabulidade CVE-2021-44228.** : [igoritos22/log4jpoc](https://github.com/igoritos22/log4jpoc)  create time: 2021-12-13T23:19:41Z
+
+**Python implementation for CVE-2021-42278 (Active Directory Privilege Escalation)** : [ly4k/Pachine](https://github.com/ly4k/Pachine)  create time: 2021-12-13T23:15:05Z
+
+**Find log4j for CVE-2021-44228 on some places * Log4Shell** : [perryflynn/find-log4j](https://github.com/perryflynn/find-log4j)  create time: 2021-12-13T22:26:04Z
+
+**Tool to check whether one of your applications is affected by a vulnerability in log4j: CVE-2021-44228** : [alexbakker/log4shell-tools](https://github.com/alexbakker/log4shell-tools)  create time: 2021-12-13T21:47:41Z
+
+**PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs** : [back2root/log4shell-rex](https://github.com/back2root/log4shell-rex)  create time: 2021-12-13T21:39:51Z
+
+**A singular file to protect as many Minecraft servers and clients as possible from the Log4j exploit (CVE-2021-44228).** : [Koupah/MC-Log4j-Patcher](https://github.com/Koupah/MC-Log4j-Patcher)  create time: 2021-12-13T14:26:24Z
 
 **Log4j 2 (CVE-2021-44228) vulnerability scanner for Windows OS** : [name/log4j-scanner](https://github.com/name/log4j-scanner)  create time: 2021-12-13T22:11:15Z
 
