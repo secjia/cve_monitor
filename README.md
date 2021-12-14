@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 09:25:10.196389  total: 7538 
+ > update time: 2021-12-14 10:26:05.450477  total: 7541 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**On Thursday (December 9th), a 0-day exploit in the popular Java logging library log4j (version 2) was discovered that results in Remote Code Execution (RCE) by logging a certain string.  Given how ubiquitous this library is, the impact of the exploit (full server control), and how easy it is to exploit, the impact of this vulnerability is quite severe. We're calling it "Log4Shell" for short.** : [jan-muhammad-zaidi/Log4j-CVE-2021-44228](https://github.com/jan-muhammad-zaidi/Log4j-CVE-2021-44228)  create time: 2021-12-14T09:33:22Z
+
+**Little recap of the log4j2 remote code execution (CVE-2021-44228)** : [cbuschka/log4j2-rce-recap](https://github.com/cbuschka/log4j2-rce-recap)  create time: 2021-12-14T08:31:47Z
+
+**A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.** : [NorthwaveSecurity/log4jcheck](https://github.com/NorthwaveSecurity/log4jcheck)  create time: 2021-12-10T14:22:49Z
 
 **Endpoint to test CVE-2021-44228 – Log4j 2** : [andrii-kovalenko-celonis/log4j-vulnerability-demo](https://github.com/andrii-kovalenko-celonis/log4j-vulnerability-demo)  create time: 2021-12-14T08:55:43Z
 
