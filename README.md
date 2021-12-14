@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-13 23:24:44.769491  total: 7524 
+ > update time: 2021-12-14 02:41:11.376152  total: 7525 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Demo project to evaluate Log4j2 Vulnerability | CVE-2021-44228** : [sandarenu/log4j2-issue-check](https://github.com/sandarenu/log4j2-issue-check)  create time: 2021-12-14T02:26:56Z
 
 **Prova de conceito da vulnerabulidade CVE-2021-44228.** : [igoritos22/log4jpoc](https://github.com/igoritos22/log4jpoc)  create time: 2021-12-13T23:19:41Z
 
