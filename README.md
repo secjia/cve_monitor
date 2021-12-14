@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 15:25:19.541926  total: 7550 
+ > update time: 2021-12-14 16:37:01.445131  total: 7552 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [robiul-awal/CVE-2018-15473](https://github.com/robiul-awal/CVE-2018-15473)  create time: 2021-12-14T15:48:11Z
+
+**no description** : [faisalfs10x/Log4j2-CVE-2021-44228-revshell](https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell)  create time: 2021-12-14T05:24:52Z
 
 **Repo containing all info, scripts, etc. related to CVE-2021-44228** : [wortell/log4j](https://github.com/wortell/log4j)  create time: 2021-12-14T15:13:06Z
 
