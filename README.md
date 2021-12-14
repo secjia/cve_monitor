@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 08:29:39.433098  total: 7536 
+ > update time: 2021-12-14 09:25:10.196389  total: 7538 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Endpoint to test CVE-2021-44228 – Log4j 2** : [andrii-kovalenko-celonis/log4j-vulnerability-demo](https://github.com/andrii-kovalenko-celonis/log4j-vulnerability-demo)  create time: 2021-12-14T08:55:43Z
+
+**The goal of this project is to demonstrate the log4j cve-2021-44228 exploit vulnerability in a spring-boot setup, and to show how to fix it.** : [chilit-nl/log4shell-example](https://github.com/chilit-nl/log4shell-example)  create time: 2021-12-13T20:54:10Z
 
 **Check CVE-2021-44228 vulnerability** : [codiobert/log4j-scanner](https://github.com/codiobert/log4j-scanner)  create time: 2021-12-14T07:59:14Z
 
