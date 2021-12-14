@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 19:20:39.739526  total: 7561 
+ > update time: 2021-12-14 20:25:24.802467  total: 7562 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Generate CVE-2021-44228 commands to test servers with ease!** : [csduncan9/Log4j-CVE-2021-44228-command-generator](https://github.com/csduncan9/Log4j-CVE-2021-44228-command-generator)  create time: 2021-12-14T20:12:07Z
 
 **Tools for investigating Log4j CVE-2021-44228** : [MalwareTech/Log4jTools](https://github.com/MalwareTech/Log4jTools)  create time: 2021-12-14T19:08:14Z
 
