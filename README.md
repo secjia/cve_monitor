@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 21:20:03.124385  total: 7563 
+ > update time: 2021-12-14 22:24:54.473862  total: 7567 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.** : [razz0r/CVE-2021-44228-Mass-RCE](https://github.com/razz0r/CVE-2021-44228-Mass-RCE)  create time: 2021-12-14T22:19:29Z
+
+**no description** : [ab0x90/CVE-2021-44228_PoC](https://github.com/ab0x90/CVE-2021-44228_PoC)  create time: 2021-12-14T21:32:42Z
+
+**A firewall reverse proxy for preventing Log4J (Log4Shell aka CVE-2021-44228) attacks.** : [mufeedvh/log4jail](https://github.com/mufeedvh/log4jail)  create time: 2021-12-14T19:29:11Z
+
+**A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability.** : [nccgroup/log4j-jndi-be-gone](https://github.com/nccgroup/log4j-jndi-be-gone)  create time: 2021-12-12T15:29:20Z
 
 **Simple Spring Boot application vulnerable to CVE-2021-44228** : [guerzon/log4shellpoc](https://github.com/guerzon/log4shellpoc)  create time: 2021-12-14T20:27:26Z
 
