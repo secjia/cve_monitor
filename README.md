@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 07:23:51.637418  total: 7535 
+ > update time: 2021-12-14 08:29:39.433098  total: 7536 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Check CVE-2021-44228 vulnerability** : [codiobert/log4j-scanner](https://github.com/codiobert/log4j-scanner)  create time: 2021-12-14T07:59:14Z
 
 **The LPE technique does not need to work with remote RPC or SMB, as it is only working with the functions of Print Spooler. * This script embeds a Base64-encoded GZIPped payload for a custom DLL, that is patched according to your arguments, to easily add a new user to the local administrators group. * This script embeds methods from PowerSploit/[PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) to reflectively access the Win32 APIs. * This method does not loop through all printer drivers to find the appropriate DLL path -- it simply grabs the first driver and determines the appropriate path.** : [sh7alward/CVE-20121-34527-nightmare](https://github.com/sh7alward/CVE-20121-34527-nightmare)  create time: 2021-12-14T07:03:19Z
 
