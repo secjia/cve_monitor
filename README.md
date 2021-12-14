@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 20:25:24.802467  total: 7562 
+ > update time: 2021-12-14 21:20:03.124385  total: 7563 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple Spring Boot application vulnerable to CVE-2021-44228** : [guerzon/log4shellpoc](https://github.com/guerzon/log4shellpoc)  create time: 2021-12-14T20:27:26Z
 
 **Generate CVE-2021-44228 commands to test servers with ease!** : [csduncan9/Log4j-CVE-2021-44228-command-generator](https://github.com/csduncan9/Log4j-CVE-2021-44228-command-generator)  create time: 2021-12-14T20:12:07Z
 
