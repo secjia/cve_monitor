@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 18:28:21.987563  total: 7559 
+ > update time: 2021-12-14 19:20:39.739526  total: 7561 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tools for investigating Log4j CVE-2021-44228** : [MalwareTech/Log4jTools](https://github.com/MalwareTech/Log4jTools)  create time: 2021-12-14T19:08:14Z
+
+**Scanner to send specially crafted requests and catch callbacks of systems that are impacted by Log4J Log4Shell vulnerability (CVE-2021-44228)** : [hupe1980/scan4log4shell](https://github.com/hupe1980/scan4log4shell)  create time: 2021-12-13T06:09:04Z
 
 **MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956)** : [p0dalirius/CVE-2016-10956_mail_masta](https://github.com/p0dalirius/CVE-2016-10956_mail_masta)  create time: 2021-12-10T16:06:46Z
 
