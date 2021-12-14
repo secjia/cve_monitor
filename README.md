@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 06:28:13.405070  total: 7532 
+ > update time: 2021-12-14 07:23:51.637418  total: 7535 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The LPE technique does not need to work with remote RPC or SMB, as it is only working with the functions of Print Spooler. * This script embeds a Base64-encoded GZIPped payload for a custom DLL, that is patched according to your arguments, to easily add a new user to the local administrators group. * This script embeds methods from PowerSploit/[PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) to reflectively access the Win32 APIs. * This method does not loop through all printer drivers to find the appropriate DLL path -- it simply grabs the first driver and determines the appropriate path.** : [sh7alward/CVE-20121-34527-nightmare](https://github.com/sh7alward/CVE-20121-34527-nightmare)  create time: 2021-12-14T07:03:19Z
+
+**A Nuclei template for Apache Solr affected by Apache Log4J CVE-2021-44228** : [toramanemre/apache-solr-log4j-CVE-2021-44228](https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228)  create time: 2021-12-14T06:51:30Z
+
+**CVE 2021-14527** : [sh7alward/Nightmare-](https://github.com/sh7alward/Nightmare-)  create time: 2021-12-14T06:49:32Z
 
 **Some siimple checks to see if JAR file is vulnerable to CVE-2021-44228** : [gcmurphy/chk_log4j](https://github.com/gcmurphy/chk_log4j)  create time: 2021-12-14T05:58:28Z
 
