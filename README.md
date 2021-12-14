@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 04:30:56.295282  total: 7529 
+ > update time: 2021-12-14 06:28:13.405070  total: 7532 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Some siimple checks to see if JAR file is vulnerable to CVE-2021-44228** : [gcmurphy/chk_log4j](https://github.com/gcmurphy/chk_log4j)  create time: 2021-12-14T05:58:28Z
+
+**no description** : [zjx/CVE-2021-44228](https://github.com/zjx/CVE-2021-44228)  create time: 2021-12-14T05:48:49Z
+
+**Simple Python 3 script to detect the "Log4j" Java library vulnerability (CVE-2021-44228) for a list of URL with multithreading** : [Woahd/log4j-urlscanner](https://github.com/Woahd/log4j-urlscanner)  create time: 2021-12-14T04:35:20Z
 
 **no description** : [archongum/cve-2021-44228-log4j](https://github.com/archongum/cve-2021-44228-log4j)  create time: 2021-12-14T04:25:13Z
 
