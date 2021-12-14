@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 11:20:42.999087  total: 7542 
+ > update time: 2021-12-14 12:37:15.254476  total: 7544 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detect vulnerable machines to Log4Shell (CVE-2021-44228)** : [e-XpertSolutions/log4find](https://github.com/e-XpertSolutions/log4find)  create time: 2021-12-14T08:49:37Z
+
+**Bash and PowerShell scripts to scan a local filesystem for Log4j components vulnerable to CVE-2021-44228 / Log4Shell.** : [Occamsec/log4j-checker](https://github.com/Occamsec/log4j-checker)  create time: 2021-12-13T21:11:18Z
 
 **Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228)** : [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder)  create time: 2021-12-14T10:04:42Z
 
