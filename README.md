@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 12:37:15.254476  total: 7544 
+ > update time: 2021-12-14 13:29:22.057878  total: 7547 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [didoatanasov/cve-2021-44228](https://github.com/didoatanasov/cve-2021-44228)  create time: 2021-12-14T12:47:56Z
+
+**Details : CVE-2021-44228** : [34zY/JNDI-Exploit-1.2-log4shell](https://github.com/34zY/JNDI-Exploit-1.2-log4shell)  create time: 2021-12-14T12:42:54Z
+
+**no description** : [rwincey/CVE-2021-44228-Log4j-Payloads](https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads)  create time: 2021-12-14T12:37:23Z
 
 **Detect vulnerable machines to Log4Shell (CVE-2021-44228)** : [e-XpertSolutions/log4find](https://github.com/e-XpertSolutions/log4find)  create time: 2021-12-14T08:49:37Z
 
