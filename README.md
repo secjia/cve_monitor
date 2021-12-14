@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 13:29:22.057878  total: 7547 
+ > update time: 2021-12-14 15:25:19.541926  total: 7550 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Repo containing all info, scripts, etc. related to CVE-2021-44228** : [wortell/log4j](https://github.com/wortell/log4j)  create time: 2021-12-14T15:13:06Z
+
+**CVE-2021-44228** : [ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228](https://github.com/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228)  create time: 2021-12-14T14:51:26Z
+
+**The vulnerability, which can allow an attacker to execute arbitrary code by sending crafted log messages, has been identified as CVE-2021-44228 and given the name Log4Shell.** : [ReynerGonzalez/Security-Log4J-Tester](https://github.com/ReynerGonzalez/Security-Log4J-Tester)  create time: 2021-12-14T14:46:08Z
 
 **no description** : [didoatanasov/cve-2021-44228](https://github.com/didoatanasov/cve-2021-44228)  create time: 2021-12-14T12:47:56Z
 
