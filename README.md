@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 10:26:05.450477  total: 7541 
+ > update time: 2021-12-14 11:20:42.999087  total: 7542 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228)** : [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder)  create time: 2021-12-14T10:04:42Z
 
 **On Thursday (December 9th), a 0-day exploit in the popular Java logging library log4j (version 2) was discovered that results in Remote Code Execution (RCE) by logging a certain string.  Given how ubiquitous this library is, the impact of the exploit (full server control), and how easy it is to exploit, the impact of this vulnerability is quite severe. We're calling it "Log4Shell" for short.** : [jan-muhammad-zaidi/Log4j-CVE-2021-44228](https://github.com/jan-muhammad-zaidi/Log4j-CVE-2021-44228)  create time: 2021-12-14T09:33:22Z
 
