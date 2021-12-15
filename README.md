@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 09:25:15.006825  total: 7583 
+ > update time: 2021-12-15 11:21:12.539215  total: 7586 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228** : [jyotisahu98/logpresso-CVE-2021-44228-Scanner](https://github.com/jyotisahu98/logpresso-CVE-2021-44228-Scanner)  create time: 2021-12-15T11:15:25Z
+
+**Apache Log4j Zero Day Vulnerability aka Log4Shell aka CVE-2021-44228** : [kubearmor/log4j-cve](https://github.com/kubearmor/log4j-cve)  create time: 2021-12-15T10:55:35Z
+
+**Identifying all log4j components across all windows servers, entire domain, can be multi domain. CVE-2021-44228** : [KeysAU/Get-log4j-Windows.ps1](https://github.com/KeysAU/Get-log4j-Windows.ps1)  create time: 2021-12-15T10:49:36Z
 
 **Oh no another one** : [BobTheShoplifter/CVE-2021-45046-Info](https://github.com/BobTheShoplifter/CVE-2021-45046-Info)  create time: 2021-12-15T09:01:37Z
 
