@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 20:25:25.856317  total: 7607 
+ > update time: 2021-12-15 21:21:17.302329  total: 7610 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dockerized honeypot for CVE-2021-44228.** : [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot)  create time: 2021-12-15T21:09:00Z
+
+**no description** : [aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent)  create time: 2021-12-15T20:17:41Z
+
+**Tools for remediating the recent log4j2 RCE vulnerability (CVE-2021-44228)** : [stripe/log4j-remediation-tools](https://github.com/stripe/log4j-remediation-tools)  create time: 2021-12-14T21:47:04Z
 
 **Very simple Ansible playbook that scan filesystem for JAR files vulnerable to Log4Shell** : [pmontesd/log4j-cve-2021-44228](https://github.com/pmontesd/log4j-cve-2021-44228)  create time: 2021-12-15T19:21:39Z
 
