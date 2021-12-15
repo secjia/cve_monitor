@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 05:23:22.946515  total: 7577 
+ > update time: 2021-12-15 06:27:43.153313  total: 7579 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [i6c/MASS_CVE-2021-41773](https://github.com/i6c/MASS_CVE-2021-41773)  create time: 2021-12-15T06:04:41Z
+
+**Log4j 2.15.0 Privilege Escalation -- CVE-2021-45046** : [cckuailong/Log4j_CVE-2021-45046](https://github.com/cckuailong/Log4j_CVE-2021-45046)  create time: 2021-12-15T05:48:53Z
 
 **This project is just to show Apache Log4j2 Vulnerability - aka CVE-2021-44228** : [bhprin/log4j-vul](https://github.com/bhprin/log4j-vul)  create time: 2021-12-15T05:19:13Z
 
