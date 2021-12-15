@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 21:21:17.302329  total: 7610 
+ > update time: 2021-12-15 22:23:55.950538  total: 7611 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-39685 Description and sample exploit for Linux USB Gadget overflow vulnerability** : [szymonh/inspector-gadget](https://github.com/szymonh/inspector-gadget)  create time: 2021-12-15T14:28:00Z
 
 **Dockerized honeypot for CVE-2021-44228.** : [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot)  create time: 2021-12-15T21:09:00Z
 
