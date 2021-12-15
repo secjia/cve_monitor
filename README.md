@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 11:21:12.539215  total: 7586 
+ > update time: 2021-12-15 12:37:13.102133  total: 7588 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Junhyunny/log4j-vulnerability-CVE-2021-44228](https://github.com/Junhyunny/log4j-vulnerability-CVE-2021-44228)  create time: 2021-12-15T11:36:20Z
+
+**This repository is designed to be a collection of resources to learn about, detect and mitigate the impact of the Log4j vulnerability - more formally known as CVE-2021-44228 and CVE-2021-45046 (mirror from GitLab.com)** : [gitlab-de/log4j-resources](https://github.com/gitlab-de/log4j-resources)  create time: 2021-12-15T11:34:02Z
 
 **Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228** : [jyotisahu98/logpresso-CVE-2021-44228-Scanner](https://github.com/jyotisahu98/logpresso-CVE-2021-44228-Scanner)  create time: 2021-12-15T11:15:25Z
 
