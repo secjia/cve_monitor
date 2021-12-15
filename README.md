@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-14 23:24:14.086260  total: 7568 
+ > update time: 2021-12-15 01:11:16.515976  total: 7570 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scanners for Jar files that may be vulnerable to CVE-2021-44228** : [CERTCC/CVE-2021-44228_scanner](https://github.com/CERTCC/CVE-2021-44228_scanner)  create time: 2021-12-14T23:33:51Z
+
+**CVE-2021-44228 Response Scripts** : [0xThiebaut/CVE-2021-44228](https://github.com/0xThiebaut/CVE-2021-44228)  create time: 2021-12-14T22:50:05Z
 
 **Log4j CVE-2021-44228 finder and patcher** : [xsultan/log4jshield](https://github.com/xsultan/log4jshield)  create time: 2021-12-14T22:22:15Z
 
