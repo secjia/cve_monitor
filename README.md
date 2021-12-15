@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 13:29:36.535162  total: 7589 
+ > update time: 2021-12-15 15:25:31.005423  total: 7592 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**HD-Network Real-time Monitoring System 2.0 allows ../ directory traversal to read /etc/shadow via the /language/lang s_Language parameter.** : [g30rgyth3d4rk/cve-2021-45043](https://github.com/g30rgyth3d4rk/cve-2021-45043)  create time: 2021-12-15T15:01:31Z
+
+**no description** : [robertdebock/ansible-role-cve_2021_44228](https://github.com/robertdebock/ansible-role-cve_2021_44228)  create time: 2021-12-15T14:53:17Z
+
+**A simple project to check coverage of Log4J vuln CVE-2021-44228 (and related)** : [MeterianHQ/log4j-vuln-coverage-check](https://github.com/MeterianHQ/log4j-vuln-coverage-check)  create time: 2021-12-15T14:44:14Z
 
 **Test case to check if the Log4Shell/CVE-2021-44228 hotfix will raise any unexpected exceptions** : [mss/log4shell-hotfix-side-effect](https://github.com/mss/log4shell-hotfix-side-effect)  create time: 2021-12-15T13:14:34Z
 
