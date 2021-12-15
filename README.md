@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 06:27:43.153313  total: 7579 
+ > update time: 2021-12-15 07:23:41.918875  total: 7580 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [avirahul007/CVE-2021-44228](https://github.com/avirahul007/CVE-2021-44228)  create time: 2021-12-15T06:40:35Z
 
 **no description** : [i6c/MASS_CVE-2021-41773](https://github.com/i6c/MASS_CVE-2021-41773)  create time: 2021-12-15T06:04:41Z
 
