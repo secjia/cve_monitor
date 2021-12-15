@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 19:20:49.802322  total: 7603 
+ > update time: 2021-12-15 20:25:25.856317  total: 7607 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Very simple Ansible playbook that scan filesystem for JAR files vulnerable to Log4Shell** : [pmontesd/log4j-cve-2021-44228](https://github.com/pmontesd/log4j-cve-2021-44228)  create time: 2021-12-15T19:21:39Z
+
+**no description** : [pravin-pp/log4j2-CVE-2021-45046](https://github.com/pravin-pp/log4j2-CVE-2021-45046)  create time: 2021-12-15T19:19:52Z
+
+**To determine if a host is vulnerable to log4j CVE‐2021‐44228** : [yahoo/check-log4j](https://github.com/yahoo/check-log4j)  create time: 2021-12-15T18:47:39Z
+
+**we are providing DevOps and security teams script to identify cloud workloads that may be vulnerable to the Log4j vulnerability(CVE-2021-44228) in their AWS account. The script enables security teams to identify external-facing AWS assets by running the exploit on them, and thus be able to map them and quickly patch them** : [mitiga/log4shell-cloud-scanner](https://github.com/mitiga/log4shell-cloud-scanner)  create time: 2021-12-15T15:42:06Z
 
 **An automated header extensive scanner for detecting log4j RCE CVE-2021-44228** : [alenazi90/log4j](https://github.com/alenazi90/log4j)  create time: 2021-12-15T19:15:00Z
 
