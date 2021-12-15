@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 12:37:13.102133  total: 7588 
+ > update time: 2021-12-15 13:29:36.535162  total: 7589 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test case to check if the Log4Shell/CVE-2021-44228 hotfix will raise any unexpected exceptions** : [mss/log4shell-hotfix-side-effect](https://github.com/mss/log4shell-hotfix-side-effect)  create time: 2021-12-15T13:14:34Z
 
 **no description** : [Junhyunny/log4j-vulnerability-CVE-2021-44228](https://github.com/Junhyunny/log4j-vulnerability-CVE-2021-44228)  create time: 2021-12-15T11:36:20Z
 
