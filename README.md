@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 02:39:14.980711  total: 7573 
+ > update time: 2021-12-15 03:24:58.355132  total: 7575 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Quick Deploy to show case cve-2021-44228** : [JustinDPerkins/C1-WS-LOG4SHELL](https://github.com/JustinDPerkins/C1-WS-LOG4SHELL)  create time: 2021-12-15T03:20:25Z
+
+**Log4j2 jndi injection fuzz tool (CVE-2021-44228)** : [zhzyker/logmap](https://github.com/zhzyker/logmap)  create time: 2021-12-14T08:41:18Z
 
 **Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested.** : [jeremyrsellars/CVE-2021-44228_scanner](https://github.com/jeremyrsellars/CVE-2021-44228_scanner)  create time: 2021-12-15T02:31:14Z
 
