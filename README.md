@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 07:23:41.918875  total: 7580 
+ > update time: 2021-12-15 08:28:19.453192  total: 7582 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-45046](https://github.com/anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-45046)  create time: 2021-12-15T07:51:28Z
+
+**A playground for poking at the Log4Shell (CVE-2021-44228) vulnerability mitigations** : [rgl/log4j-log4shell-playground](https://github.com/rgl/log4j-log4shell-playground)  create time: 2021-12-15T07:51:12Z
 
 **no description** : [avirahul007/CVE-2021-44228](https://github.com/avirahul007/CVE-2021-44228)  create time: 2021-12-15T06:40:35Z
 
