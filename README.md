@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 20:24:42.058325  total: 7638 
+ > update time: 2021-12-16 21:22:06.160851  total: 7639 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Samples of log4j library versions to help log4j scanners / detectors improve their accuracy for detecting CVE-2021-45046 and CVE-2021-44228.** : [mergebase/log4j-samples](https://github.com/mergebase/log4j-samples)  create time: 2021-12-16T18:12:29Z
 
 **no description** : [kannthu/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/kannthu/CVE-2021-44228-Apache-Log4j-Rce)  create time: 2021-12-16T20:02:09Z
 
