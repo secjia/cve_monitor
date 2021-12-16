@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 12:37:28.803220  total: 7623 
+ > update time: 2021-12-16 13:29:33.239480  total: 7626 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Burp Active Scan extension to identify Log4j vulnerabilities CVE-2021-44228 an CVE-2021-45046** : [DXC-StrikeForce/Burp-Log4j-HammerTime](https://github.com/DXC-StrikeForce/Burp-Log4j-HammerTime)  create time: 2021-12-16T13:25:03Z
+
+**Basic Vulnerable Spring Boot Application to Test CVE-2021-44228** : [recanavar/vuln_spring_log4j2](https://github.com/recanavar/vuln_spring_log4j2)  create time: 2021-12-16T13:05:38Z
+
+**Simple webapp that is vulnerable to Log4Shell (CVE-2021-44228)** : [korteke/log4shell-demo](https://github.com/korteke/log4shell-demo)  create time: 2021-12-16T12:44:24Z
 
 **Simple bash script to scan multiples url for log4j vulnerability (CVE-2021-44228)** : [Gyrfalc0n/scanlist-log4j](https://github.com/Gyrfalc0n/scanlist-log4j)  create time: 2021-12-16T12:20:00Z
 
