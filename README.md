@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-15 23:24:55.317551  total: 7613 
+ > update time: 2021-12-16 02:38:29.045152  total: 7615 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This script is used to perform a fast check if your server is possibly affected by CVE-2021-44228 (the log4j vulnerability).** : [rv4l3r3/log4v-vuln-check](https://github.com/rv4l3r3/log4v-vuln-check)  create time: 2021-12-16T01:38:25Z
+
+**log4j (CVE-2021-44228) Spring-boot web application with vulnerabilities** : [Auddn/ITF-log4shell-vulnapp](https://github.com/Auddn/ITF-log4shell-vulnapp)  create time: 2021-12-14T08:21:11Z
 
 **A Remote Code Execution PoC for Log4Shell (CVE-2021-44228)** : [ubitech/cve-2021-44228-rce-poc](https://github.com/ubitech/cve-2021-44228-rce-poc)  create time: 2021-12-15T23:00:25Z
 
