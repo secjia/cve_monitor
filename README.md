@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 02:38:29.045152  total: 7615 
+ > update time: 2021-12-16 04:31:20.406083  total: 7616 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**log4j vulnerability wrapper scanner for CVE-2021-44228** : [dpomnean/log4j_scanner_wrapper](https://github.com/dpomnean/log4j_scanner_wrapper)  create time: 2021-12-16T03:57:41Z
 
 **This script is used to perform a fast check if your server is possibly affected by CVE-2021-44228 (the log4j vulnerability).** : [rv4l3r3/log4v-vuln-check](https://github.com/rv4l3r3/log4v-vuln-check)  create time: 2021-12-16T01:38:25Z
 
