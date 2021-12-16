@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 16:38:13.406414  total: 7632 
+ > update time: 2021-12-16 17:29:36.129357  total: 7634 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Applications that are vulnerable to the log4j CVE-2021-44228/45046 issue may be detectable by scanning jar, war, ear, zip files to search for the presence of JndiLookup.class.** : [hozyx/log4shell](https://github.com/hozyx/log4shell)  create time: 2021-12-16T17:22:17Z
+
+**log4j mitigation work** : [axisops/CVE-2021-44228](https://github.com/axisops/CVE-2021-44228)  create time: 2021-12-16T16:42:44Z
 
 **no description** : [shubhayu-64/CVE-2021-38314](https://github.com/shubhayu-64/CVE-2021-38314)  create time: 2021-12-16T15:27:59Z
 
