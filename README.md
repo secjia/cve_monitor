@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 17:29:36.129357  total: 7634 
+ > update time: 2021-12-16 18:27:59.689409  total: 7636 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple Python 3 script to detect the "Log4j" Java library vulnerability (CVE-2021-44228) for a list of URLs with multithreading** : [kal1gh0st/MyLog4Shell](https://github.com/kal1gh0st/MyLog4Shell)  create time: 2021-12-16T17:21:22Z
+
+**Detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!** : [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector)  create time: 2021-12-12T00:29:03Z
 
 **Applications that are vulnerable to the log4j CVE-2021-44228/45046 issue may be detectable by scanning jar, war, ear, zip files to search for the presence of JndiLookup.class.** : [hozyx/log4shell](https://github.com/hozyx/log4shell)  create time: 2021-12-16T17:22:17Z
 
