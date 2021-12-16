@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 10:25:45.583440  total: 7619 
+ > update time: 2021-12-16 11:21:11.102186  total: 7621 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Stored XSS found in Vehicle Service Management System 1.0 application in Sourcecodester.** : [lohyt/-CVE-2021-41962](https://github.com/lohyt/-CVE-2021-41962)  create time: 2021-12-16T10:52:13Z
+
+**CVE-2021-44228 vulnerability in Apache Log4j library | Log4j vulnerability scanner on Windows machines.** : [Joefreedy/Log4j-Windows-Scanner](https://github.com/Joefreedy/Log4j-Windows-Scanner)  create time: 2021-12-16T10:37:16Z
 
 **Log4j漏洞（CVE-2021-44228）的Burpsuite检测插件** : [snow0715/log4j-Scan-Burpsuite](https://github.com/snow0715/log4j-Scan-Burpsuite)  create time: 2021-12-16T09:58:02Z
 
