@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 20:23:15.419549  total: 7667 
+ > update time: 2021-12-17 21:21:40.623243  total: 7670 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A vulnerable device scanner for CVE-2021-44228 (Log4j)** : [sblmnl/Scan4j](https://github.com/sblmnl/Scan4j)  create time: 2021-12-17T20:46:34Z
+
+**A simple script to remove Log4J JndiLookup.class from jars in a given directory, to temporarily protect from CVE-2021-45046 and CVE-2021-44228.** : [lukepasek/log4jjndilookupremove](https://github.com/lukepasek/log4jjndilookupremove)  create time: 2021-12-17T18:59:16Z
+
+**no description** : [VerveIndustrialProtection/CVE-2021-44228-Log4j](https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j)  create time: 2021-12-15T18:51:07Z
 
 **This project will help to test the Log4j CVE-2021-44228 vulnerability.** : [immunityinc/Log4j-JNDIServer](https://github.com/immunityinc/Log4j-JNDIServer)  create time: 2021-12-17T20:07:12Z
 
