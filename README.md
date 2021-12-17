@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 03:24:36.150527  total: 7644 
+ > update time: 2021-12-17 04:29:42.268910  total: 7645 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A lab demonstration of the log4shell vulnerability: CVE-2021-44228** : [obscuritylabs/log4shell-poc-lab](https://github.com/obscuritylabs/log4shell-poc-lab)  create time: 2021-12-17T04:20:40Z
 
 **CVE-2021-43798 Grafana 任意文件读取漏洞 POC+参数** : [ScorpionsMAX/CVE-2021-43798-Grafana-POC](https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC)  create time: 2021-12-07T10:43:30Z
 
