@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 07:23:30.927409  total: 7648 
+ > update time: 2021-12-17 09:24:36.798097  total: 7651 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j2 Vulnerability (CVE-2021-44228)** : [RenYuH/log4j-lookups-vulnerability](https://github.com/RenYuH/log4j-lookups-vulnerability)  create time: 2021-12-17T09:10:50Z
+
+**CVE-2021-44228 vulnerability in Apache Log4j library** : [Heliferepo/log4j](https://github.com/Heliferepo/log4j)  create time: 2021-12-17T08:48:59Z
+
+**no description** : [rohankumardubey/CVE-2021-44228_scanner](https://github.com/rohankumardubey/CVE-2021-44228_scanner)  create time: 2021-12-17T08:32:20Z
 
 **CVE-2021-43798 Grafana任意文件读取** : [k3rwin/CVE-2021-43798-Grafana-](https://github.com/k3rwin/CVE-2021-43798-Grafana-)  create time: 2021-12-17T07:03:32Z
 
