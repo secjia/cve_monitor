@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 14:23:14.426332  total: 7657 
+ > update time: 2021-12-17 16:36:05.168584  total: 7661 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Provide patched version of Log4J against CVE-2021-44228 and CVE-2021-45046 as well as a script to manually patch it yourself** : [Aschen/log4j-patched](https://github.com/Aschen/log4j-patched)  create time: 2021-12-17T16:26:12Z
+
+**A collection of IOCs for CVE-2021-44228 also known as Log4Shell** : [WatchGuard-Threat-Lab/log4shell-iocs](https://github.com/WatchGuard-Threat-Lab/log4shell-iocs)  create time: 2021-12-17T15:58:14Z
+
+**Log4Shell (CVE-2021-44228): descrizione, exploitation e rimedi** : [zane00/CVE-2021-44228](https://github.com/zane00/CVE-2021-44228)  create time: 2021-12-17T10:36:16Z
+
+**no description** : [TheArqsz/CVE-2021-44228-PoC](https://github.com/TheArqsz/CVE-2021-44228-PoC)  create time: 2021-12-10T23:40:39Z
 
 **Scan your IP network and determine hosts with possible CVE-2021-44228 vulnerability in log4j library.** : [metodidavidovic/log4j-quick-scan](https://github.com/metodidavidovic/log4j-quick-scan)  create time: 2021-12-17T12:49:59Z
 
