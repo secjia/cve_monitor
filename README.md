@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 13:28:19.432482  total: 7656 
+ > update time: 2021-12-17 14:23:14.426332  total: 7657 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scan your IP network and determine hosts with possible CVE-2021-44228 vulnerability in log4j library.** : [metodidavidovic/log4j-quick-scan](https://github.com/metodidavidovic/log4j-quick-scan)  create time: 2021-12-17T12:49:59Z
 
 **The script "Py3-detect-log4j-12.2021.py" developed in Python 3 is responsible for detecting whether a list of URLs are vulnerable to CVE-2021-44228.** : [nx6110a5100/Py3-detect-log4j-12.2021](https://github.com/nx6110a5100/Py3-detect-log4j-12.2021)  create time: 2021-12-17T13:09:19Z
 
