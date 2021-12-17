@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 09:24:36.798097  total: 7651 
+ > update time: 2021-12-17 10:26:29.500159  total: 7653 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scanner for the Log4j vulnerability dubbed Log4Shell (CVE-2021-44228)** : [scheibling/py-log4shellscanner](https://github.com/scheibling/py-log4shellscanner)  create time: 2021-12-17T10:06:07Z
+
+**nginx 1.15.10 patch against cve-2021-23017  (ingress version)** : [niandy/nginx-patch](https://github.com/niandy/nginx-patch)  create time: 2021-12-17T09:53:39Z
 
 **Log4j2 Vulnerability (CVE-2021-44228)** : [RenYuH/log4j-lookups-vulnerability](https://github.com/RenYuH/log4j-lookups-vulnerability)  create time: 2021-12-17T09:10:50Z
 
