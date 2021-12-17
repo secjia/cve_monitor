@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 17:29:27.186239  total: 7662 
+ > update time: 2021-12-17 18:28:01.724505  total: 7664 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228** : [ermohitrathore/detect-log4j-exploitable](https://github.com/ermohitrathore/detect-log4j-exploitable)  create time: 2021-12-17T18:03:50Z
+
+**A tool to analysis the log files from minecraft to scan potential security risks from the CVE-2021-44228 Log4J library exploit.** : [psychose-club/Saturn](https://github.com/psychose-club/Saturn)  create time: 2021-12-12T19:42:47Z
 
 **no description** : [Nikolas-Charalambidis/cve-2021-44228](https://github.com/Nikolas-Charalambidis/cve-2021-44228)  create time: 2021-12-17T17:23:47Z
 
