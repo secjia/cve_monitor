@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 16:36:05.168584  total: 7661 
+ > update time: 2021-12-17 17:29:27.186239  total: 7662 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Nikolas-Charalambidis/cve-2021-44228](https://github.com/Nikolas-Charalambidis/cve-2021-44228)  create time: 2021-12-17T17:23:47Z
 
 **Provide patched version of Log4J against CVE-2021-44228 and CVE-2021-45046 as well as a script to manually patch it yourself** : [Aschen/log4j-patched](https://github.com/Aschen/log4j-patched)  create time: 2021-12-17T16:26:12Z
 
