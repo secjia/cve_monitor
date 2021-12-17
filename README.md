@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-16 23:25:28.552005  total: 7641 
+ > update time: 2021-12-17 02:42:27.423127  total: 7643 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test exploit of CVE-2021-44228** : [wajda/log4shell-test-exploit](https://github.com/wajda/log4shell-test-exploit)  create time: 2021-12-17T01:50:22Z
+
+**no description** : [AnYi-Sec/Log4j-CVE-2021-44228-EXP](https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP)  create time: 2021-12-17T01:19:37Z
 
 **Log4j - Multitool. Find & fix possible CVE-2021-44228 vulneraries - provides a complete LOG4SHELL test/attack environment** : [suuhm/log4shell4shell](https://github.com/suuhm/log4shell4shell)  create time: 2021-12-16T23:13:09Z
 
