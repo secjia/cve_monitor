@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 11:18:53.049432  total: 7654 
+ > update time: 2021-12-17 13:28:19.432482  total: 7656 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The script "Py3-detect-log4j-12.2021.py" developed in Python 3 is responsible for detecting whether a list of URLs are vulnerable to CVE-2021-44228.** : [nx6110a5100/Py3-detect-log4j-12.2021](https://github.com/nx6110a5100/Py3-detect-log4j-12.2021)  create time: 2021-12-17T13:09:19Z
+
+**Windows MSI Installer LPE (CVE-2021-43883)** : [jbaines-r7/shakeitoff](https://github.com/jbaines-r7/shakeitoff)  create time: 2021-12-02T19:15:59Z
 
 **Java application vulnerable to the CVE-2021-44228 (a.k.a log4shell) vulnerability** : [GroupePSA/log4shell-honeypot](https://github.com/GroupePSA/log4shell-honeypot)  create time: 2021-12-17T10:32:39Z
 
