@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 18:28:01.724505  total: 7664 
+ > update time: 2021-12-17 19:20:53.103266  total: 7665 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nu11secur1ty/CVE-2021-44228-VULN-APP](https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP)  create time: 2021-12-17T18:45:19Z
 
 **CVE-2021-44228** : [ermohitrathore/detect-log4j-exploitable](https://github.com/ermohitrathore/detect-log4j-exploitable)  create time: 2021-12-17T18:03:50Z
 
