@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-18 13:29:18.993078  total: 7683 
+ > update time: 2021-12-18 14:21:50.683811  total: 7685 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detect and fix log4j log4shell vulnerability (CVE-2021-44228)** : [Nanitor/log4fix](https://github.com/Nanitor/log4fix)  create time: 2021-12-16T11:54:11Z
+
+**Scan systems and docker images for potential log4j vulnerabilities. Able to patch (remove JndiLookup.class) from layered archives. Will detect in-depth (layered archives jar/zip/tar/war and scans for vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046 and CVE-2021-45105). Binaries for Windows, Linux and OsX, but can be build on each platform supported by supported Golang.** : [dtact/divd-2021-00038--log4j-scanner](https://github.com/dtact/divd-2021-00038--log4j-scanner)  create time: 2021-12-12T12:16:07Z
 
 **Log4j_dos_CVE-2021-45105** : [cckuailong/Log4j_dos_CVE-2021-45105](https://github.com/cckuailong/Log4j_dos_CVE-2021-45105)  create time: 2021-12-18T12:54:44Z
 
