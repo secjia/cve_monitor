@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-18 11:20:25.334162  total: 7676 
+ > update time: 2021-12-18 12:36:11.628829  total: 7678 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ludy-dev/cve-2021-45046](https://github.com/ludy-dev/cve-2021-45046)  create time: 2021-12-18T11:43:56Z
+
+**An attempt to understand the log4j vulnerability by looking through the code** : [shivakumarjayaraman/log4jvulnerability-CVE-2021-44228](https://github.com/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228)  create time: 2021-12-18T11:23:35Z
 
 **A scanning suite to find servers affected by the log4shell flaw (CVE-2021-44228) with example to test it** : [suniastar/scan-log4shell](https://github.com/suniastar/scan-log4shell)  create time: 2021-12-18T11:16:06Z
 
