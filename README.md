@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-18 14:21:50.683811  total: 7685 
+ > update time: 2021-12-18 15:24:10.543149  total: 7686 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [pravin-pp/log4j2-CVE-2021-45105](https://github.com/pravin-pp/log4j2-CVE-2021-45105)  create time: 2021-12-18T14:24:46Z
 
 **Detect and fix log4j log4shell vulnerability (CVE-2021-44228)** : [Nanitor/log4fix](https://github.com/Nanitor/log4fix)  create time: 2021-12-16T11:54:11Z
 
