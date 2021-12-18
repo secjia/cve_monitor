@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-18 04:31:15.366624  total: 7673 
+ > update time: 2021-12-18 07:23:39.764561  total: 7674 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 Getshell** : [shakeman8/log4j_getshell](https://github.com/shakeman8/log4j_getshell)  create time: 2021-12-18T06:41:56Z
 
 **CVE-2021-4438 LOG4J - Remote excution** : [longnguyen-2k/log4j](https://github.com/longnguyen-2k/log4j)  create time: 2021-12-18T04:26:44Z
 
