@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-17 21:21:40.623243  total: 7670 
+ > update time: 2021-12-18 01:16:36.111582  total: 7672 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce)  create time: 2021-12-18T00:58:32Z
+
+**can find, analyse and patch Log4J files because of CVE-2021-44228, CVE-2021-45046** : [DANSI/PowerShell-Log4J-Scanner](https://github.com/DANSI/PowerShell-Log4J-Scanner)  create time: 2021-12-18T00:51:46Z
 
 **A vulnerable device scanner for CVE-2021-44228 (Log4j)** : [sblmnl/Scan4j](https://github.com/sblmnl/Scan4j)  create time: 2021-12-17T20:46:34Z
 
