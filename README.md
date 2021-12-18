@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-18 18:28:05.089317  total: 7690 
+ > update time: 2021-12-18 21:22:58.241650  total: 7691 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a showcase how the Log4J vulnerability (CVE-2021-44228) could be explored. This code is safe to run, but understand what it does and how it works!** : [otaviokr/log4j-2021-vulnerability-study](https://github.com/otaviokr/log4j-2021-vulnerability-study)  create time: 2021-12-18T20:53:06Z
 
 **Automated pentesting tools and vulnerability fixes for Log4Shell CVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104** : [TheInterception/Log4JPentester](https://github.com/TheInterception/Log4JPentester)  create time: 2021-12-18T17:59:24Z
 
