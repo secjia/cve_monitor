@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-19 01:18:07.540332  total: 7692 
+ > update time: 2021-12-19 04:31:53.456798  total: 7694 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An Inspec profile to check for Log4j CVE-2021-44228 and CVE-2021-45046** : [trickyearlobe/inspec-log4j](https://github.com/trickyearlobe/inspec-log4j)  create time: 2021-12-19T04:04:57Z
+
+**no description** : [kkyehit/log4j_CVE-2021-44228](https://github.com/kkyehit/log4j_CVE-2021-44228)  create time: 2021-12-19T03:47:54Z
 
 **Searches filesystem for CVE-2021-44228 and CVE-2021-45046 vulnerable instances, including embedded (jar/war/zip) packaged ones.** : [HynekPetrak/log4shell_finder](https://github.com/HynekPetrak/log4shell_finder)  create time: 2021-12-14T22:27:14Z
 
