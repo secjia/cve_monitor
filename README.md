@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-19 15:24:28.660663  total: 7699 
+ > update time: 2021-12-19 17:29:35.503413  total: 7700 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A telegram bug that allows to bruteforce and find hidden mobile phone number of any user  (CVE-2019-15514)** : [graysuit/CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514)  create time: 2021-12-10T19:03:53Z
 
 **A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228** : [Rk-000/Log4j_scan_Advance](https://github.com/Rk-000/Log4j_scan_Advance)  create time: 2021-12-19T14:20:54Z
 
