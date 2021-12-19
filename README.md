@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-19 05:22:43.721712  total: 7695 
+ > update time: 2021-12-19 08:28:42.772389  total: 7697 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-40444** : [34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit](https://github.com/34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit)  create time: 2021-12-19T08:16:07Z
+
+**Identifying all log4j components across on local windows servers. CVE-2021-44228** : [KeysAU/Get-log4j-Windows-local](https://github.com/KeysAU/Get-log4j-Windows-local)  create time: 2021-12-19T07:35:01Z
 
 **Vulerability analysis, patch management and exploitation tool CVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104** : [TheInterception/Log4J-Simulation-Tool](https://github.com/TheInterception/Log4J-Simulation-Tool)  create time: 2021-12-19T05:13:25Z
 
