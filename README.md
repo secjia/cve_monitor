@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-19 11:20:21.208346  total: 7698 
+ > update time: 2021-12-19 15:24:28.660663  total: 7699 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228** : [Rk-000/Log4j_scan_Advance](https://github.com/Rk-000/Log4j_scan_Advance)  create time: 2021-12-19T14:20:54Z
 
 **Demo to show how Log4Shell / CVE-2021-44228 vulnerability works** : [mschmnet/Log4Shell-demo](https://github.com/mschmnet/Log4Shell-demo)  create time: 2021-12-19T10:57:16Z
 
