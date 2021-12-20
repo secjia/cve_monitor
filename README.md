@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 13:32:35.913828  total: 7713 
+ > update time: 2021-12-20 14:23:26.494105  total: 7714 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**log4j2 RCE漏洞（CVE-2021-44228)内网扫描器，可用于在不出网的条件下进行漏洞扫描，帮助企业内部快速发现Log4jShell漏洞。** : [Y0-kan/Log4jShell-Scan](https://github.com/Y0-kan/Log4jShell-Scan)  create time: 2021-12-20T13:41:35Z
 
 **Shell script to fix Log4J jar files from CVE-2021-44228, a.k.a., #Log4Shell** : [dmitsuo/log4shell-war-fixer](https://github.com/dmitsuo/log4shell-war-fixer)  create time: 2021-12-20T13:18:57Z
 
