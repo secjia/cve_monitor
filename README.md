@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 18:29:07.634436  total: 7721 
+ > update time: 2021-12-20 19:20:45.272986  total: 7722 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerable web application to test CVE-2021-42281 / log4shell and forensic artifacts from an example attack** : [snapattack/damn-vulnerable-log4j-app](https://github.com/snapattack/damn-vulnerable-log4j-app)  create time: 2021-12-20T18:51:52Z
 
 **Bash que instala los sploit CVE-2017-0781 y CVE-2017-0785 y lo necesario para su usos.** : [CarlosDelRosario7/sploit-bX](https://github.com/CarlosDelRosario7/sploit-bX)  create time: 2021-12-20T18:14:36Z
 
