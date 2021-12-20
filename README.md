@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 16:38:15.971644  total: 7719 
+ > update time: 2021-12-20 18:29:07.634436  total: 7721 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bash que instala los sploit CVE-2017-0781 y CVE-2017-0785 y lo necesario para su usos.** : [CarlosDelRosario7/sploit-bX](https://github.com/CarlosDelRosario7/sploit-bX)  create time: 2021-12-20T18:14:36Z
+
+**Application vulnerable to CVE-2021-44228.** : [erickrr-bd/TekiumLog4jApp](https://github.com/erickrr-bd/TekiumLog4jApp)  create time: 2021-12-20T17:59:56Z
 
 **Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228** : [chandru-gunasekaran/log4j-fix-CVE-2021-44228](https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228)  create time: 2021-12-20T15:39:20Z
 
