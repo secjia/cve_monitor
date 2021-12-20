@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 11:20:58.422500  total: 7709 
+ > update time: 2021-12-20 12:38:37.464068  total: 7712 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j 漏洞本地检测脚本。 Scan all java processes on your host to check weather it's affected by log4j2 remote code execution(CVE-2021-45046)** : [lijiejie/log4j2_vul_local_scanner](https://github.com/lijiejie/log4j2_vul_local_scanner)  create time: 2021-12-20T12:07:41Z
+
+**A script to search, scrape and scan for Apache Log4j CVE-2021-44228 affected files using Google dorks** : [JagarYousef/log4j-dork-scanner](https://github.com/JagarYousef/log4j-dork-scanner)  create time: 2021-12-20T12:01:52Z
+
+**log4j2 dos exploit,CVE-2021-45105 exploit,Denial of Service poc** : [iAmSOScArEd/log4j2_dos_exploit](https://github.com/iAmSOScArEd/log4j2_dos_exploit)  create time: 2021-12-20T10:52:20Z
 
 **no description** : [bumheehan/cve-2021-44228-log4j-test](https://github.com/bumheehan/cve-2021-44228-log4j-test)  create time: 2021-12-20T11:07:21Z
 
