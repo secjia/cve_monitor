@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 12:38:37.464068  total: 7712 
+ > update time: 2021-12-20 13:32:35.913828  total: 7713 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Shell script to fix Log4J jar files from CVE-2021-44228, a.k.a., #Log4Shell** : [dmitsuo/log4shell-war-fixer](https://github.com/dmitsuo/log4shell-war-fixer)  create time: 2021-12-20T13:18:57Z
 
 **Log4j 漏洞本地检测脚本。 Scan all java processes on your host to check weather it's affected by log4j2 remote code execution(CVE-2021-45046)** : [lijiejie/log4j2_vul_local_scanner](https://github.com/lijiejie/log4j2_vul_local_scanner)  create time: 2021-12-20T12:07:41Z
 
