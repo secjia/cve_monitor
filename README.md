@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 01:14:23.486067  total: 7704 
+ > update time: 2021-12-20 02:42:29.087401  total: 7705 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**a project written in go and java i abandoned for CVE-2021-44228 try to fix it if you can XD** : [ArkAngeL43/f-for-java](https://github.com/ArkAngeL43/f-for-java)  create time: 2021-12-20T01:31:06Z
 
 **Replicating CVE-2021-45105** : [tejas-nagchandi/CVE-2021-45105](https://github.com/tejas-nagchandi/CVE-2021-45105)  create time: 2021-12-19T23:22:25Z
 
