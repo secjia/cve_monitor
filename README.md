@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-20 15:26:01.953590  total: 7716 
+ > update time: 2021-12-20 16:38:15.971644  total: 7719 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228** : [chandru-gunasekaran/log4j-fix-CVE-2021-44228](https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228)  create time: 2021-12-20T15:39:20Z
+
+**no description** : [intel-xeon/CVE-2021-44228---detection-with-PowerShell](https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell)  create time: 2021-12-20T15:38:07Z
+
+**Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.** : [julian911015/Log4j-Scanner-Exploit](https://github.com/julian911015/Log4j-Scanner-Exploit)  create time: 2021-12-20T15:22:50Z
 
 **no description** : [offensity/CVE-2019-0708](https://github.com/offensity/CVE-2019-0708)  create time: 2021-12-20T14:57:23Z
 
