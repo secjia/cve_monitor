@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 20:26:18.306416  total: 7739 
+ > update time: 2021-12-21 22:24:24.625833  total: 7740 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Ansible playbook to verify target Linux hosts using the official Red Hat Log4j detector script** : [lucab85/log4j-cve-2021-44228](https://github.com/lucab85/log4j-cve-2021-44228)  create time: 2021-12-21T22:14:24Z
 
 **no description** : [halencarjunior/grafana-CVE-2021-43798](https://github.com/halencarjunior/grafana-CVE-2021-43798)  create time: 2021-12-21T20:08:22Z
 
