@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 15:25:47.596803  total: 7736 
+ > update time: 2021-12-21 16:37:04.478477  total: 7737 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Decrypt FortiGate configuration secrets** : [gquere/CVE-2019-6693](https://github.com/gquere/CVE-2019-6693)  create time: 2021-12-21T15:28:00Z
 
 **POC for CVE-2021-44228 within Springboot** : [mn-io/log4j-spring-vuln-poc](https://github.com/mn-io/log4j-spring-vuln-poc)  create time: 2021-12-21T15:00:58Z
 
