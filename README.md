@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 08:30:11.545430  total: 7730 
+ > update time: 2021-12-21 09:25:33.328080  total: 7731 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repo contains IoCs which are associated with exploitation of CVE-2021-4428.** : [CERT-hr/Log4Shell](https://github.com/CERT-hr/Log4Shell)  create time: 2021-12-21T09:17:08Z
 
 **Python script to detect Log4Shell Vulnerability CVE-2021-44228** : [Ghost086/Log4Shell-Scanner](https://github.com/Ghost086/Log4Shell-Scanner)  create time: 2021-12-21T08:13:35Z
 
