@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 09:25:33.328080  total: 7731 
+ > update time: 2021-12-21 10:27:07.152681  total: 7732 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [gps1949/CVE-2021-43798](https://github.com/gps1949/CVE-2021-43798)  create time: 2021-12-21T10:04:41Z
 
 **This repo contains IoCs which are associated with exploitation of CVE-2021-4428.** : [CERT-hr/Log4Shell](https://github.com/CERT-hr/Log4Shell)  create time: 2021-12-21T09:17:08Z
 
