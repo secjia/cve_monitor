@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 02:44:15.735251  total: 7725 
+ > update time: 2021-12-21 03:25:28.173918  total: 7726 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scan and patch tool for CVE-2021-44228 and related log4j concerns.** : [sassoftware/loguccino](https://github.com/sassoftware/loguccino)  create time: 2021-12-21T03:01:36Z
 
 **Windows Common Log File System Driver  POC** : [KaLendsi/CVE-2021-43224-POC](https://github.com/KaLendsi/CVE-2021-43224-POC)  create time: 2021-12-21T01:51:41Z
 
