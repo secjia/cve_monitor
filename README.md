@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 10:27:07.152681  total: 7732 
+ > update time: 2021-12-21 13:31:20.834550  total: 7733 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Zoneminder 未授权访问Poc：ZoneMinder v1.30和v1.29捆绑的Apache HTTP Server配置中存在信息泄露和认证绕过漏洞，允许远程未认证攻击者浏览web根目录下的所有目录。** : [asaotomo/CVE-2016-10140-Zoneminder-Poc](https://github.com/asaotomo/CVE-2016-10140-Zoneminder-Poc)  create time: 2021-12-21T13:17:10Z
 
 **no description** : [gps1949/CVE-2021-43798](https://github.com/gps1949/CVE-2021-43798)  create time: 2021-12-21T10:04:41Z
 
