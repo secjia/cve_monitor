@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-21 03:25:28.173918  total: 7726 
+ > update time: 2021-12-21 05:24:18.839572  total: 7728 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Webmin Local File Include (unauthenticated)** : [windsormoreira/CVE-2006-3392](https://github.com/windsormoreira/CVE-2006-3392)  create time: 2021-12-21T04:18:21Z
+
+**Samsung Printer SCX-6X55X Improper Access Control** : [windsormoreira/CVE-2021-42913](https://github.com/windsormoreira/CVE-2021-42913)  create time: 2021-12-21T04:26:11Z
 
 **Scan and patch tool for CVE-2021-44228 and related log4j concerns.** : [sassoftware/loguccino](https://github.com/sassoftware/loguccino)  create time: 2021-12-21T03:01:36Z
 
