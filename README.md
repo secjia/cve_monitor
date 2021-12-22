@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-22 04:31:38.076131  total: 7741 
+ > update time: 2021-12-22 05:24:11.256110  total: 7743 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 - Log4J Start To End Guide Book** : [NitinGavhane/CVE-2021-44228---Log4J](https://github.com/NitinGavhane/CVE-2021-44228---Log4J)  create time: 2021-12-22T05:16:59Z
+
+**CVE-2021-22205 的批量检测脚本** : [gardenWhy/Gitlab-CVE-2021-22205](https://github.com/gardenWhy/Gitlab-CVE-2021-22205)  create time: 2021-12-22T04:30:17Z
 
 **Log4Shell Demo with AWS** : [BabooPan/Log4Shell-CVE-2021-44228-Demo](https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo)  create time: 2021-12-22T03:34:40Z
 
