@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-23 16:37:00.708862  total: 7761 
+ > update time: 2021-12-23 18:28:54.400305  total: 7763 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [dileepdkumar/https-github.com-pravin-pp-log4j2-CVE-2021-45105-1](https://github.com/dileepdkumar/https-github.com-pravin-pp-log4j2-CVE-2021-45105-1)  create time: 2021-12-23T17:46:02Z
+
+**Environment with vulnerable kernel for exploitiation of CVE-2021-44733** : [pjlantz/optee-qemu](https://github.com/pjlantz/optee-qemu)  create time: 2021-12-23T17:45:35Z
 
 **CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege** : [padovah4ck/CVE-2020-0683](https://github.com/padovah4ck/CVE-2020-0683)  create time: 2020-02-11T16:42:34Z
 
