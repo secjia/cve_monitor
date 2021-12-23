@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-23 13:31:03.058910  total: 7758 
+ > update time: 2021-12-23 14:22:36.442130  total: 7759 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache HTTP Server是开源网页服务器的Apache（Apache）基金会。该服务器具有快速、可靠和可通过简单的API进行扩充的特点，发现修复CVE-2021-41773的Apache HTTP Server 2.4.50是不够的。攻击者可以使用路径遍历攻击映射URL到目录之外的指令配置的别名。如果这些请求可能会成功，这些请求可能会成功，但这些目录不受通常默认配置“要求全部拒绝”。如果CGI脚本还启用了这些别名路径，这可能允许远程代码执行。此问题仅影响Apache 2.4.49和Apache 2.4.50，而不影响更早版本。** : [asaotomo/CVE-2021-42013-Apache-RCE-POC-EXP](https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-POC-EXP)  create time: 2021-12-23T14:09:16Z
 
 **Ansible playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 for Log4Shell (CVE-2021-44228).** : [lucab85/ansible-role-log4shell](https://github.com/lucab85/ansible-role-log4shell)  create time: 2021-12-23T13:24:41Z
 
