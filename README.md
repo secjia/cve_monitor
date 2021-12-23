@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-23 02:42:32.308719  total: 7753 
+ > update time: 2021-12-23 12:38:09.440211  total: 7757 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [dileepdkumar/https-github.com-dileepdkumar-https-github.com-pravin-pp-log4j2-CVE-2021-45105-v](https://github.com/dileepdkumar/https-github.com-dileepdkumar-https-github.com-pravin-pp-log4j2-CVE-2021-45105-v)  create time: 2021-12-23T11:41:25Z
+
+**no description** : [dileepdkumar/https-github.com-dileepdkumar-https-github.com-pravin-pp-log4j2-CVE-2021-45105](https://github.com/dileepdkumar/https-github.com-dileepdkumar-https-github.com-pravin-pp-log4j2-CVE-2021-45105)  create time: 2021-12-23T11:40:49Z
+
+**no description** : [dileepdkumar/https-github.com-pravin-pp-log4j2-CVE-2021-45105](https://github.com/dileepdkumar/https-github.com-pravin-pp-log4j2-CVE-2021-45105)  create time: 2021-12-23T11:38:32Z
+
+**Log4Shell mitigation (CVE-2021-44228) - search and remove JNDI class from *log4j*.jar files on the system with Powershell (Windows)** : [sysadmin0815/Fix-Log4j-PowershellScript](https://github.com/sysadmin0815/Fix-Log4j-PowershellScript)  create time: 2021-12-17T09:09:56Z
 
 **open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability** : [TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit](https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit)  create time: 2021-12-23T01:59:03Z
 
