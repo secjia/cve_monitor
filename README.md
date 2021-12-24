@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-23 22:24:01.802983  total: 7764 
+ > update time: 2021-12-24 03:24:31.217203  total: 7765 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 检查工具** : [ainrm/log4j-scan](https://github.com/ainrm/log4j-scan)  create time: 2021-12-24T02:31:47Z
 
 **Discover and remediate Log4Shell vulnerability [CVE-2021-45105]** : [sakuraji-labs/sakuraji_log4j](https://github.com/sakuraji-labs/sakuraji_log4j)  create time: 2021-12-23T21:45:42Z
 
