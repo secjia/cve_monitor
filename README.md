@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-24 08:30:06.292418  total: 7767 
+ > update time: 2021-12-24 09:25:02.853487  total: 7768 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4Shell(CVE-2021-45046) Sandbox Signature** : [CaptanMoss/Log4Shell-Sandbox-Signature](https://github.com/CaptanMoss/Log4Shell-Sandbox-Signature)  create time: 2021-12-24T09:02:55Z
 
 **log4j / log4shell IoCs from multiple sources put together in one big file (IPs) more coming soon  (CVE-2021-44228)** : [hackinghippo/log4shell_ioc_ips](https://github.com/hackinghippo/log4shell_ioc_ips)  create time: 2021-12-13T16:39:16Z
 
