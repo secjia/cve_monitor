@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-24 07:23:53.408554  total: 7766 
+ > update time: 2021-12-24 08:30:06.292418  total: 7767 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**log4j / log4shell IoCs from multiple sources put together in one big file (IPs) more coming soon  (CVE-2021-44228)** : [hackinghippo/log4shell_ioc_ips](https://github.com/hackinghippo/log4shell_ioc_ips)  create time: 2021-12-13T16:39:16Z
 
 **general purpose workaround for the log4j CVE-2021-44228 vulnerability** : [grimch/log4j-CVE-2021-44228-workaround](https://github.com/grimch/log4j-CVE-2021-44228-workaround)  create time: 2021-12-24T04:23:17Z
 
