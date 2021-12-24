@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-24 09:25:02.853487  total: 7768 
+ > update time: 2021-12-24 10:26:45.152948  total: 7769 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Proof-Of-Concept Exploit for CVE-2021-44228 vulnerability.** : [cybersecurityworks553/log4j-shell-csw](https://github.com/cybersecurityworks553/log4j-shell-csw)  create time: 2021-12-24T09:26:38Z
 
 **Log4Shell(CVE-2021-45046) Sandbox Signature** : [CaptanMoss/Log4Shell-Sandbox-Signature](https://github.com/CaptanMoss/Log4Shell-Sandbox-Signature)  create time: 2021-12-24T09:02:55Z
 
