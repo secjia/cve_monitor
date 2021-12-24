@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-24 10:26:45.152948  total: 7769 
+ > update time: 2021-12-24 11:20:38.019955  total: 7770 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4Shell (CVE-2021-44228) docker lab** : [axelcurmi/log4shell-docker-lab](https://github.com/axelcurmi/log4shell-docker-lab)  create time: 2021-12-18T19:30:35Z
 
 **A Proof-Of-Concept Exploit for CVE-2021-44228 vulnerability.** : [cybersecurityworks553/log4j-shell-csw](https://github.com/cybersecurityworks553/log4j-shell-csw)  create time: 2021-12-24T09:26:38Z
 
