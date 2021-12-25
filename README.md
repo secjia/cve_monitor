@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-24 20:25:31.128898  total: 7774 
+ > update time: 2021-12-25 03:25:17.018293  total: 7776 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2019-9053 SQL Injection for CMS Made Simple for versions < 2.2.9** : [BernieLane/CMS-Made-Simple-SQLi](https://github.com/BernieLane/CMS-Made-Simple-SQLi)  create time: 2021-12-25T03:18:26Z
+
+**Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished** : [jeffssh/CVE-2021-30860](https://github.com/jeffssh/CVE-2021-30860)  create time: 2021-12-25T03:00:01Z
 
 **A simple exploitation guide for CVE-2021-44228.** : [CrashOverflow/Log4J-POC](https://github.com/CrashOverflow/Log4J-POC)  create time: 2021-12-24T19:26:36Z
 
