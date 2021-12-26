@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-26 01:18:08.657711  total: 7780 
+ > update time: 2021-12-26 09:24:46.123983  total: 7781 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**opencast cve-2021-43821敏感信息泄露漏洞环境** : [Jackey0/opencast-cve-2021-43821-env](https://github.com/Jackey0/opencast-cve-2021-43821-env)  create time: 2021-12-26T09:04:43Z
 
 **no description** : [Dilshan-Eranda/CVE-2020-13699](https://github.com/Dilshan-Eranda/CVE-2020-13699)  create time: 2021-12-26T00:06:27Z
 
