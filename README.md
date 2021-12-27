@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-27 20:26:29.978146  total: 7790 
+ > update time: 2021-12-27 21:21:25.471126  total: 7791 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2021-45041** : [manuelz120/CVE-2021-45041](https://github.com/manuelz120/CVE-2021-45041)  create time: 2021-12-27T19:29:34Z
 
 **Quick and dirty scanner, hitting common ports looking for Log4Shell (CVE-2021-44228) vulnerability** : [LinkMJB/log4shell_scanner](https://github.com/LinkMJB/log4shell_scanner)  create time: 2021-12-27T19:36:29Z
 
