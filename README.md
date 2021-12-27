@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-27 13:30:47.323618  total: 7786 
+ > update time: 2021-12-27 14:28:21.802260  total: 7787 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SuperWebMailer RCE** : [Official-BlackHat13/CVE-2020-11546](https://github.com/Official-BlackHat13/CVE-2020-11546)  create time: 2021-12-27T14:18:31Z
 
 **Detection script for CVE-2021-42278 and CVE-2021-42287** : [cybersecurityworks553/noPac-detection](https://github.com/cybersecurityworks553/noPac-detection)  create time: 2021-12-27T13:10:45Z
 
