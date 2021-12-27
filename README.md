@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-27 07:29:09.997469  total: 7784 
+ > update time: 2021-12-27 13:30:47.323618  total: 7786 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Detection script for CVE-2021-42278 and CVE-2021-42287** : [cybersecurityworks553/noPac-detection](https://github.com/cybersecurityworks553/noPac-detection)  create time: 2021-12-27T13:10:45Z
+
+**IOCs for CVE-2021-44228** : [cungts/VTI-IOCs-CVE-2021-44228](https://github.com/cungts/VTI-IOCs-CVE-2021-44228)  create time: 2021-12-27T09:51:13Z
 
 **Log4Shell (CVE-2021-44228) is a zero-day vulnerability in Log4j** : [mazhar-hassan/log4j-vulnerability](https://github.com/mazhar-hassan/log4j-vulnerability)  create time: 2021-12-27T06:39:40Z
 
