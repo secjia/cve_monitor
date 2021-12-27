@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-27 17:31:26.735049  total: 7788 
+ > update time: 2021-12-27 18:28:34.802440  total: 7789 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**log4j-paylaod generator : A generic payload generator for Apache log4j RCE CVE-2021-44228** : [yesspider-hacker/log4j-payload-generator](https://github.com/yesspider-hacker/log4j-payload-generator)  create time: 2021-12-27T18:02:15Z
 
 **Log4Shell (Cve-2021-44228) Proof Of Concept** : [s-retlaw/l4s_poc](https://github.com/s-retlaw/l4s_poc)  create time: 2021-12-27T16:45:58Z
 
