@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-28 07:23:16.230997  total: 7794 
+ > update time: 2021-12-28 09:25:04.320452  total: 7795 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main](https://github.com/Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main)  create time: 2021-12-27T17:06:26Z
 
 **Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit** : [MRacumen/CVE-2021-40444](https://github.com/MRacumen/CVE-2021-40444)  create time: 2021-12-28T06:33:25Z
 
