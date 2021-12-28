@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-28 02:41:40.358457  total: 7792 
+ > update time: 2021-12-28 05:23:50.841533  total: 7793 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Auerswald COMpact 8.0B Backdoors exploit** : [dorkerdevil/CVE-2021-40859](https://github.com/dorkerdevil/CVE-2021-40859)  create time: 2021-12-28T04:51:58Z
 
 **Lavel Expliot CVE-2018-15133 / An Expliot I wrote a long time ago for a CTF box.** : [NatteeSetobol/CVE-2018-15133-Lavel-Expliot](https://github.com/NatteeSetobol/CVE-2018-15133-Lavel-Expliot)  create time: 2021-12-28T02:33:13Z
 
