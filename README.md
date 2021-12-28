@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-28 13:30:47.913037  total: 7798 
+ > update time: 2021-12-28 14:23:08.536406  total: 7801 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-45232  RCE** : [shakeman8/CVE-2021-45232-RCE](https://github.com/shakeman8/CVE-2021-45232-RCE)  create time: 2021-12-28T13:49:18Z
+
+**Fix: CVE-2021-44228 4LOGJ** : [tslenter/RS4LOGJ-CVE-2021-44228](https://github.com/tslenter/RS4LOGJ-CVE-2021-44228)  create time: 2021-12-28T13:32:16Z
+
+**Auerswald COMpact 8.0B Backdoors exploit** : [419066074/CVE-2021-40859](https://github.com/419066074/CVE-2021-40859)  create time: 2021-12-28T06:05:42Z
 
 **no description** : [badboycxcc/CVE-2021-45232-POC](https://github.com/badboycxcc/CVE-2021-45232-POC)  create time: 2021-12-28T13:08:34Z
 
