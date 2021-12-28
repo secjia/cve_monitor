@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-28 05:23:50.841533  total: 7793 
+ > update time: 2021-12-28 07:23:16.230997  total: 7794 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit** : [MRacumen/CVE-2021-40444](https://github.com/MRacumen/CVE-2021-40444)  create time: 2021-12-28T06:33:25Z
 
 **Auerswald COMpact 8.0B Backdoors exploit** : [dorkerdevil/CVE-2021-40859](https://github.com/dorkerdevil/CVE-2021-40859)  create time: 2021-12-28T04:51:58Z
 
