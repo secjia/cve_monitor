@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-29 15:25:57.230726  total: 7813 
+ > update time: 2021-12-29 18:28:39.137166  total: 7814 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Script to create a log4j (CVE-2021-44228) exploit with support for different methods of getting a reverse shell** : [a5tra/log4j-exploit-builder](https://github.com/a5tra/log4j-exploit-builder)  create time: 2021-12-29T17:41:48Z
 
 **Auerswald VoIP System Secret Backdoors -PoC** : [pussycat0x/CVE-2021-40859](https://github.com/pussycat0x/CVE-2021-40859)  create time: 2021-12-29T15:15:38Z
 
