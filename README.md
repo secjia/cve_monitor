@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-29 07:23:50.140822  total: 7806 
+ > update time: 2021-12-29 08:29:19.555230  total: 7809 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [d4rk30/CVE-2017-12943](https://github.com/d4rk30/CVE-2017-12943)  create time: 2021-12-29T07:58:23Z
+
+**Discover Log4Shell vulnerability [CVE-2021-45105]** : [name/log4j](https://github.com/name/log4j)  create time: 2021-12-29T08:22:41Z
+
+**Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.** : [Bhagwatjadhav1997/tryhackme-Solar-exploiting-log4j](https://github.com/Bhagwatjadhav1997/tryhackme-Solar-exploiting-log4j)  create time: 2021-12-29T07:46:28Z
 
 **基于GO的exp和poc** : [damit5/CVE-2020-11546](https://github.com/damit5/CVE-2020-11546)  create time: 2021-12-29T06:51:36Z
 
