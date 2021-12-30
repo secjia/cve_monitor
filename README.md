@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-29 18:28:39.137166  total: 7814 
+ > update time: 2021-12-30 02:41:19.293184  total: 7815 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [wuppp/cve-2021-45232-exp](https://github.com/wuppp/cve-2021-45232-exp)  create time: 2021-12-29T07:32:30Z
 
 **Script to create a log4j (CVE-2021-44228) exploit with support for different methods of getting a reverse shell** : [a5tra/log4j-exploit-builder](https://github.com/a5tra/log4j-exploit-builder)  create time: 2021-12-29T17:41:48Z
 
