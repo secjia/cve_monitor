@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-30 19:20:30.351149  total: 7819 
+ > update time: 2021-12-30 20:26:24.350834  total: 7820 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [morhax/cve-2021-45232-rce](https://github.com/morhax/cve-2021-45232-rce)  create time: 2021-12-30T19:59:54Z
 
 **Presents how to exploit CVE-2021-44228 vulnerability.** : [MarceloLeite2604/log4j-vulnerability](https://github.com/MarceloLeite2604/log4j-vulnerability)  create time: 2021-12-30T19:10:21Z
 
