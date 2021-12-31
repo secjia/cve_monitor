@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-31 17:30:58.744555  total: 7823 
+ > update time: 2021-12-31 18:28:41.919451  total: 7824 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test application for CVE-2018-1285 alert for Solarwinds DLLs** : [alex-ermolaev/Log4NetSolarWindsSNMP-](https://github.com/alex-ermolaev/Log4NetSolarWindsSNMP-)  create time: 2021-12-31T18:21:32Z
 
 **no description** : [Rinkal26/cve-2018-8014](https://github.com/Rinkal26/cve-2018-8014)  create time: 2021-12-31T16:49:56Z
 
