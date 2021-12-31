@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-30 21:22:01.160020  total: 7821 
+ > update time: 2021-12-31 17:30:58.744555  total: 7823 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Rinkal26/cve-2018-8014](https://github.com/Rinkal26/cve-2018-8014)  create time: 2021-12-31T16:49:56Z
+
+**no description** : [secureITmania/2021-cve-animes](https://github.com/secureITmania/2021-cve-animes)  create time: 2021-12-31T17:14:03Z
 
 **CVE-2021-44832** : [DanielRuf/CVE-2021-44832](https://github.com/DanielRuf/CVE-2021-44832)  create time: 2021-12-30T20:24:07Z
 
