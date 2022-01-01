@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-31 21:21:28.830311  total: 7825 
+ > update time: 2022-01-01 12:36:59.042568  total: 7828 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Edgarloyola/CVE-2021-40904](https://github.com/Edgarloyola/CVE-2021-40904)  create time: 2021-10-12T09:38:48Z
+
+**no description** : [Edgarloyola/CVE-2021-40905](https://github.com/Edgarloyola/CVE-2021-40905)  create time: 2021-10-12T09:36:56Z
+
+**no description** : [Edgarloyola/CVE-2021-40906](https://github.com/Edgarloyola/CVE-2021-40906)  create time: 2021-10-12T09:30:38Z
 
 **This repository contains a Spring Boot web application vulnerable to CVE-2021-44228, known as Log4Shell.** : [romanutti/log4shell-vulnerable-app](https://github.com/romanutti/log4shell-vulnerable-app)  create time: 2021-12-31T20:39:44Z
 
