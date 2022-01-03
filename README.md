@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-03 14:22:45.744939  total: 7839 
+ > update time: 2022-01-03 17:32:34.697165  total: 7840 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Gerapy prior to version 0.9.8 is vulnerable to remote code execution. This issue is patched in version 0.9.8.** : [LongWayHomie/CVE-2021-43857](https://github.com/LongWayHomie/CVE-2021-43857)  create time: 2022-01-03T16:47:42Z
 
 **no description** : [khuntor/cve-2021-43858](https://github.com/khuntor/cve-2021-43858)  create time: 2022-01-03T14:12:35Z
 
