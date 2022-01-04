@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-04 03:25:35.212873  total: 7843 
+ > update time: 2022-01-04 06:29:55.300887  total: 7844 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC for CVE-2021-22214: Gitlab SSRF** : [kh4sh3i/GitLab-SSRF-CVE-2021-22214](https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214)  create time: 2022-01-04T05:52:57Z
 
 **Atmail XSS-RCE-CSRF Exploit Chain** : [AndrewTrube/CVE-2012-2593](https://github.com/AndrewTrube/CVE-2012-2593)  create time: 2022-01-04T02:47:46Z
 
