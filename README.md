@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-03 21:21:57.323511  total: 7841 
+ > update time: 2022-01-04 03:25:35.212873  total: 7843 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Atmail XSS-RCE-CSRF Exploit Chain** : [AndrewTrube/CVE-2012-2593](https://github.com/AndrewTrube/CVE-2012-2593)  create time: 2022-01-04T02:47:46Z
+
+**Bassmaster Plugin NodeJS RCE** : [AndrewTrube/CVE-2014-7205](https://github.com/AndrewTrube/CVE-2014-7205)  create time: 2022-01-04T02:59:32Z
 
 **the name of virus is the detection of microsoft defender, is the tipic antivirus** : [Malware-S/Exploit-Win32.CVE-2012-0158.F.doc](https://github.com/Malware-S/Exploit-Win32.CVE-2012-0158.F.doc)  create time: 2022-01-03T21:13:13Z
 
