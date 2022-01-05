@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-05 16:38:28.518123  total: 7858 
+ > update time: 2022-01-05 17:32:44.518563  total: 7859 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)** : [mklinkj/log4j2-test](https://github.com/mklinkj/log4j2-test)  create time: 2022-01-03T04:36:41Z
 
 **A simple program to demonstrate how Log4j vulnerability can be exploited ( CVE-2021-44228 )** : [ChandanShastri/Log4j_Vulnerability_Demo](https://github.com/ChandanShastri/Log4j_Vulnerability_Demo)  create time: 2022-01-05T15:24:20Z
 
