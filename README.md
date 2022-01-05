@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-05 15:26:18.705126  total: 7857 
+ > update time: 2022-01-05 16:38:28.518123  total: 7858 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A simple program to demonstrate how Log4j vulnerability can be exploited ( CVE-2021-44228 )** : [ChandanShastri/Log4j_Vulnerability_Demo](https://github.com/ChandanShastri/Log4j_Vulnerability_Demo)  create time: 2022-01-05T15:24:20Z
 
 **Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384** : [nt1dr/CVE-2021-45383](https://github.com/nt1dr/CVE-2021-45383)  create time: 2022-01-05T12:56:23Z
 
