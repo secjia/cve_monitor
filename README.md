@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-05 08:29:48.877567  total: 7853 
+ > update time: 2022-01-05 09:25:55.070866  total: 7855 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Config files for my GitHub profile.** : [cvelez2002/cvelez2002](https://github.com/cvelez2002/cvelez2002)  create time: 2022-01-05T08:33:27Z
+
+**no description** : [Kuibagit/CVE-2021-45232-RCE](https://github.com/Kuibagit/CVE-2021-45232-RCE)  create time: 2022-01-05T09:07:35Z
 
 **A vulnerable web app for log4j2 RCE(CVE-2021-44228) exploit test.** : [kanitan/log4j2-web-vulnerable](https://github.com/kanitan/log4j2-web-vulnerable)  create time: 2022-01-05T08:13:32Z
 
