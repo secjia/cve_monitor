@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-06 01:21:35.353099  total: 7864 
+ > update time: 2022-01-06 02:47:45.552656  total: 7865 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**运用golang写的grafana批量验证脚本，内置48个poc** : [light-Life/CVE-2021-43798](https://github.com/light-Life/CVE-2021-43798)  create time: 2022-01-06T01:54:26Z
 
 **no description** : [timb-machine-mirrors/CVE-2021-28482](https://github.com/timb-machine-mirrors/CVE-2021-28482)  create time: 2022-01-05T23:26:58Z
 
