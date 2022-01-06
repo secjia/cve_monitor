@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-06 10:27:08.073681  total: 7870 
+ > update time: 2022-01-06 11:21:26.246985  total: 7871 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploiting: CVE-2021-41349** : [exploit-io/CVE-2021-41349](https://github.com/exploit-io/CVE-2021-41349)  create time: 2022-01-06T09:44:15Z
 
 **Grafana8.x 任意文件读取** : [rnsss/CVE-2021-43798-poc](https://github.com/rnsss/CVE-2021-43798-poc)  create time: 2022-01-06T09:25:35Z
 
