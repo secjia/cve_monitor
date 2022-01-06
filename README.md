@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-06 03:27:32.395687  total: 7866 
+ > update time: 2022-01-06 08:30:13.007229  total: 7868 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [gnaiq/cve2022123](https://github.com/gnaiq/cve2022123)  create time: 2022-01-06T07:58:57Z
+
+**no description** : [gnaiq/cve-2022-4444](https://github.com/gnaiq/cve-2022-4444)  create time: 2022-01-06T07:22:47Z
 
 **no description** : [Xifeng2009/go_get_cve_2018_6574](https://github.com/Xifeng2009/go_get_cve_2018_6574)  create time: 2022-01-06T02:56:07Z
 
