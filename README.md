@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-06 08:30:13.007229  total: 7868 
+ > update time: 2022-01-06 10:27:08.073681  total: 7870 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Grafana8.x 任意文件读取** : [rnsss/CVE-2021-43798-poc](https://github.com/rnsss/CVE-2021-43798-poc)  create time: 2022-01-06T09:25:35Z
+
+**no description** : [lsw29475/CVE-2021-39863](https://github.com/lsw29475/CVE-2021-39863)  create time: 2021-12-12T13:27:16Z
 
 **no description** : [gnaiq/cve2022123](https://github.com/gnaiq/cve2022123)  create time: 2022-01-06T07:58:57Z
 
