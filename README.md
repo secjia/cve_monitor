@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-06 13:32:29.967352  total: 7872 
+ > update time: 2022-01-07 03:27:49.638464  total: 7873 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-42013-exp** : [rnsss/CVE-2021-42013](https://github.com/rnsss/CVE-2021-42013)  create time: 2022-01-07T03:12:45Z
 
 **no description** : [Yuji-Kakeya/log4j-CVE-2021-45046-poc](https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc)  create time: 2022-01-05T04:13:59Z
 
