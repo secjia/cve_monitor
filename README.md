@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-07 10:28:18.003227  total: 7874 
+ > update time: 2022-01-07 23:25:01.055256  total: 7875 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploiting CVE-2021-44228 in VMWare Horizon for remote code execution and more.** : [puzzlepeaches/Log4jHorizon](https://github.com/puzzlepeaches/Log4jHorizon)  create time: 2022-01-05T22:25:42Z
 
 **Log4jshell - CVE-2021-44228** : [Vulnmachines/log4jshell_CVE-2021-44228](https://github.com/Vulnmachines/log4jshell_CVE-2021-44228)  create time: 2022-01-07T09:56:30Z
 
