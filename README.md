@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-08 03:26:55.238887  total: 7876 
+ > update time: 2022-01-08 07:23:14.793490  total: 7878 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [1nf1n17yk1ng/CVE-2018-16763](https://github.com/1nf1n17yk1ng/CVE-2018-16763)  create time: 2022-01-08T07:15:24Z
+
+**A vulnerable Java based REST API for demonstrating CVE-2021-44228 (log4shell).** : [nix-xin/vuln4japi](https://github.com/nix-xin/vuln4japi)  create time: 2022-01-08T06:45:44Z
 
 **no description** : [rodpwn/CVE-2021-43798-mass_scanner](https://github.com/rodpwn/CVE-2021-43798-mass_scanner)  create time: 2022-01-08T02:58:18Z
 
