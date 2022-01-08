@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-08 11:21:13.400138  total: 7882 
+ > update time: 2022-01-08 16:37:02.131814  total: 7883 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**2022年Java应用程序的CVE漏洞** : [HackJava/CVE2022](https://github.com/HackJava/CVE2022)  create time: 2022-01-08T15:28:02Z
 
 **no description** : [alexpena5635/CVE-2021-44228_scanner-main-Modified-](https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified-)  create time: 2022-01-05T00:14:08Z
 
