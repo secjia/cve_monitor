@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-08 07:23:14.793490  total: 7878 
+ > update time: 2022-01-08 08:29:33.647688  total: 7881 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**一键批量检测poc** : [yggcwhat/CVE-2021-45232](https://github.com/yggcwhat/CVE-2021-45232)  create time: 2022-01-08T08:16:06Z
+
+**CVE-2021-45232批量一键检测** : [yggcwhat/Demo](https://github.com/yggcwhat/Demo)  create time: 2022-01-08T07:42:43Z
+
+**CVE-2021-44270** : [pinpinsec/Anviz-Access-Control-Authentication-Bypass](https://github.com/pinpinsec/Anviz-Access-Control-Authentication-Bypass)  create time: 2021-11-23T15:04:23Z
 
 **no description** : [1nf1n17yk1ng/CVE-2018-16763](https://github.com/1nf1n17yk1ng/CVE-2018-16763)  create time: 2022-01-08T07:15:24Z
 
