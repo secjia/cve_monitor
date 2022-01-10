@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-09 16:36:59.288219  total: 7886 
+ > update time: 2022-01-10 02:45:14.503434  total: 7889 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41277 can be extended to an SSRF** : [sasukeourad/CVE-2021-41277_SSRF](https://github.com/sasukeourad/CVE-2021-41277_SSRF)  create time: 2022-01-10T01:52:10Z
+
+**no description** : [cryptoforcecommand/log4j-cve-2021-44228](https://github.com/cryptoforcecommand/log4j-cve-2021-44228)  create time: 2022-01-09T08:22:24Z
+
+**no description** : [gnaiq/cve-2022-2222](https://github.com/gnaiq/cve-2022-2222)  create time: 2022-01-10T02:23:06Z
 
 **no description** : [cybersecurityworks553/CVE-2021-42392-Detect](https://github.com/cybersecurityworks553/CVE-2021-42392-Detect)  create time: 2022-01-09T16:23:16Z
 
