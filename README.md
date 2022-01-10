@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-10 06:30:15.110099  total: 7890 
+ > update time: 2022-01-10 17:33:51.095651  total: 7891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Veids/CVE-2020-3452_auto](https://github.com/Veids/CVE-2020-3452_auto)  create time: 2022-01-10T16:56:40Z
 
 **CVE-2022-21660** : [UzJu/Gin-Vue-admin-poc-CVE-2022-21660](https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660)  create time: 2022-01-10T05:50:35Z
 
