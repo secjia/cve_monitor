@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-11 02:45:06.692538  total: 7893 
+ > update time: 2022-01-11 03:27:19.374111  total: 7895 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104.** : [open-AIMS/log4j](https://github.com/open-AIMS/log4j)  create time: 2022-01-10T09:01:46Z
+
+**CVE-2021-44228** : [mr-vill4in/log4j-fuzzer](https://github.com/mr-vill4in/log4j-fuzzer)  create time: 2022-01-08T00:28:32Z
 
 **An exploit for CVE-2021-20038** : [jbaines-r7/badblood](https://github.com/jbaines-r7/badblood)  create time: 2022-01-11T02:25:25Z
 
