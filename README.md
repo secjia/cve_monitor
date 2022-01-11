@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-11 05:23:59.126199  total: 7897 
+ > update time: 2022-01-11 06:30:41.669649  total: 7898 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Nivaskumark/CVE-2021-40490_kernel_v4.19.72](https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72)  create time: 2022-01-11T05:42:58Z
 
 **no description** : [Nivaskumark/CVE-2021-0434_packages_apps_Settings](https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings)  create time: 2022-01-11T05:14:06Z
 
