@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-11 08:30:08.638351  total: 7901 
+ > update time: 2022-01-11 11:21:12.351524  total: 7902 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Powershell implemetation of CVE-2020-7352** : [szerszen199/PS-CVE-2020-7352](https://github.com/szerszen199/PS-CVE-2020-7352)  create time: 2022-01-05T00:11:58Z
 
 **Just for HTB** : [zjicmDarkWing/CVE-2021-32099](https://github.com/zjicmDarkWing/CVE-2021-32099)  create time: 2022-01-11T08:14:06Z
 
