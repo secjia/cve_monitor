@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-11 15:26:41.347544  total: 7903 
+ > update time: 2022-01-11 16:37:54.559366  total: 7904 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [aazhuliang/CVE-2021-31956-EXP](https://github.com/aazhuliang/CVE-2021-31956-EXP)  create time: 2022-01-11T16:03:38Z
 
 **cups-root-file-read.sh | CVE-2012-5519** : [0zvxr/CVE-2012-5519](https://github.com/0zvxr/CVE-2012-5519)  create time: 2022-01-07T15:39:47Z
 
