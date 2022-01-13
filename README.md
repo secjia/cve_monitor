@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-13 01:19:31.588847  total: 7910 
+ > update time: 2022-01-13 02:47:10.233184  total: 7911 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [artsking/linux-4.19.72_CVE-2020-14386](https://github.com/artsking/linux-4.19.72_CVE-2020-14386)  create time: 2022-01-13T02:05:23Z
 
 **Démo du fonctionnement de log4shell (CVE-2021-44228)** : [jxerome/log4shell](https://github.com/jxerome/log4shell)  create time: 2022-01-12T23:44:20Z
 
