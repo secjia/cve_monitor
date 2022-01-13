@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-13 22:25:30.822953  total: 7920 
+ > update time: 2022-01-13 23:25:20.851410  total: 7921 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**JWT Key Confusion PoC (CVE-2015-9235) Written for the Hack the Box challenge - Under Construction** : [aalex954/jwt-key-confusion-poc](https://github.com/aalex954/jwt-key-confusion-poc)  create time: 2022-01-13T23:09:13Z
 
 **This work includes testing and improvement tools for CVE-2021-44228(log4j).** : [sdogancesur/log4j_github_repository](https://github.com/sdogancesur/log4j_github_repository)  create time: 2022-01-13T21:16:26Z
 
