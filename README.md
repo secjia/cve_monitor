@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 21:22:25.136378  total: 7952 
+ > update time: 2022-01-14 22:25:26.459262  total: 7956 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46080 - A Cross Site Request Forgery (CSRF) vulnerability exists in Vehicle Service Management System 1.0. An successful CSRF attacks leads to Stored Cross Site Scripting Vulnerability.** : [plsanu/CVE-2021-46080](https://github.com/plsanu/CVE-2021-46080)  create time: 2022-01-14T21:45:58Z
+
+**CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.** : [plsanu/CVE-2021-46079](https://github.com/plsanu/CVE-2021-46079)  create time: 2022-01-14T21:26:02Z
+
+**CVE-2021-46080 - A Cross Site Request Forgery (CSRF) vulnerability exists in Vehicle Service Management System 1.0. An successful CSRF attacks leads to Stored Cross Site Scripting Vulnerability.** : [plsanu/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS)  create time: 2021-12-28T18:23:42Z
+
+**CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.** : [plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection](https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection)  create time: 2021-12-28T18:17:36Z
 
 **CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability.** : [plsanu/CVE-2021-46078](https://github.com/plsanu/CVE-2021-46078)  create time: 2022-01-14T20:49:42Z
 
