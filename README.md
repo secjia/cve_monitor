@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 06:30:01.134286  total: 7922 
+ > update time: 2022-01-14 11:21:08.797471  total: 7923 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**For code auit and CVE-2020-21378 repetition** : [sukusec301/SeaCMS-v10.1-](https://github.com/sukusec301/SeaCMS-v10.1-)  create time: 2022-01-14T11:17:26Z
 
 **no description** : [BishopFox/CVE-2021-35211](https://github.com/BishopFox/CVE-2021-35211)  create time: 2022-01-14T05:52:17Z
 
