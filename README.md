@@ -1,9 +1,25 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 19:20:04.885560  total: 7940 
+ > update time: 2022-01-14 20:26:35.131339  total: 7948 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46075 - A Privilege Escalation vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. Staff account users can access the admin resources and perform CRUD Operations.** : [plsanu/CVE-2021-46075](https://github.com/plsanu/CVE-2021-46075)  create time: 2022-01-14T20:15:28Z
+
+**CVE-2021-46074 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the Settings Section in login panel.** : [plsanu/CVE-2021-46074](https://github.com/plsanu/CVE-2021-46074)  create time: 2022-01-14T20:01:50Z
+
+**CVE-2021-46073 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the User List Section in login panel.** : [plsanu/CVE-2021-46073](https://github.com/plsanu/CVE-2021-46073)  create time: 2022-01-14T19:49:07Z
+
+**CVE-2021-46072 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service List Section in login panel.** : [plsanu/CVE-2021-46072](https://github.com/plsanu/CVE-2021-46072)  create time: 2022-01-14T19:34:50Z
+
+**CVE-2021-46075 - A Privilege Escalation vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. Staff account users can access the admin resources and perform CRUD Operations.** : [plsanu/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations](https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations)  create time: 2021-12-28T14:46:13Z
+
+**CVE-2021-46074 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the Settings Section in login panel.** : [plsanu/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-28T14:37:00Z
+
+**CVE-2021-46073 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the User List Section in login panel.** : [plsanu/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-28T14:29:44Z
+
+**CVE-2021-46072 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service List Section in login panel.** : [plsanu/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-28T14:22:43Z
 
 **CVE-2021-46071 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Category List Section in login panel.** : [plsanu/CVE-2021-46071](https://github.com/plsanu/CVE-2021-46071)  create time: 2022-01-14T19:09:36Z
 
