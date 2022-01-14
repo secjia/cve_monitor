@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 16:35:23.576498  total: 7925 
+ > update time: 2022-01-14 17:31:48.681406  total: 7929 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46067** : [plsanu/CVE-2021-46067](https://github.com/plsanu/CVE-2021-46067)  create time: 2022-01-14T17:19:09Z
+
+**CVE-2021-45745** : [plsanu/CVE-2021-45745](https://github.com/plsanu/CVE-2021-45745)  create time: 2022-01-14T16:52:08Z
+
+**This Pwsh script run AppScan Standard scans against a list of web sites (URLs.txt) checking for Log4J (CVE-2021-44228) vulnerability** : [jrocia/Search-log4Jvuln-AppScanSTD](https://github.com/jrocia/Search-log4Jvuln-AppScanSTD)  create time: 2022-01-14T16:47:20Z
+
+**Proof Of Concept code for OctoberCMS Auth Bypass CVE-2021-32648** : [Immersive-Labs-Sec/CVE-2021-32648](https://github.com/Immersive-Labs-Sec/CVE-2021-32648)  create time: 2022-01-14T15:50:11Z
 
 **CVE-2021-45744** : [plsanu/CVE-2021-45744](https://github.com/plsanu/CVE-2021-45744)  create time: 2022-01-14T15:36:21Z
 
