@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 20:26:35.131339  total: 7948 
+ > update time: 2022-01-14 21:22:25.136378  total: 7952 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability.** : [plsanu/CVE-2021-46078](https://github.com/plsanu/CVE-2021-46078)  create time: 2022-01-14T20:49:42Z
+
+**CVE-2021-46076 - Sourcecodester Vehicle Service Management System 1.0 is vulnerable to File upload. An attacker can upload a malicious php file in multiple endpoints it leading to Code Execution.** : [plsanu/CVE-2021-46076](https://github.com/plsanu/CVE-2021-46076)  create time: 2022-01-14T20:28:01Z
+
+**CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability.** : [plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting](https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting)  create time: 2021-12-28T15:35:20Z
+
+**CVE-2021-46076 - Sourcecodester Vehicle Service Management System 1.0 is vulnerable to File upload. An attacker can upload a malicious php file in multiple endpoints it leading to Code Execution.** : [plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Code-Execution](https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Code-Execution)  create time: 2021-12-28T15:00:17Z
 
 **CVE-2021-46075 - A Privilege Escalation vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. Staff account users can access the admin resources and perform CRUD Operations.** : [plsanu/CVE-2021-46075](https://github.com/plsanu/CVE-2021-46075)  create time: 2022-01-14T20:15:28Z
 
