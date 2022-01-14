@@ -1,9 +1,29 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 18:29:52.811791  total: 7930 
+ > update time: 2022-01-14 19:20:04.885560  total: 7940 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46071 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Category List Section in login panel.** : [plsanu/CVE-2021-46071](https://github.com/plsanu/CVE-2021-46071)  create time: 2022-01-14T19:09:36Z
+
+**CVE-2021-46070 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service Requests Section in login panel.** : [plsanu/CVE-2021-46070](https://github.com/plsanu/CVE-2021-46070)  create time: 2022-01-14T18:54:29Z
+
+**CVE-2021-46069 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Mechanic List Section in login panel.** : [plsanu/CVE-2021-46069](https://github.com/plsanu/CVE-2021-46069)  create time: 2022-01-14T18:27:00Z
+
+**CVE-2021-46071 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Category List Section in login panel.** : [plsanu/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-28T14:09:54Z
+
+**CVE-2021-46070 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service Requests Section in login panel.** : [plsanu/Vehicle-Service-Management-System-Service-Requests-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-Service-Requests-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-28T14:00:52Z
+
+**CVE-2021-46069 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Mechanic List Section in login panel.** : [plsanu/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-28T13:47:59Z
+
+**CVE-2021-46068 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the My Account Section in login panel.** : [plsanu/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-27T22:07:08Z
+
+**CVE-2021-46067 - In Vehicle Service Management System 1.0 an attacker can steal the cookies leading to Full Account Takeover.** : [plsanu/Vehicle-Service-Management-System-Multiple-Cookie-Stealing-Leads-to-Full-Account-Takeover](https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-Cookie-Stealing-Leads-to-Full-Account-Takeover)  create time: 2021-12-27T21:15:41Z
+
+**CVE-2021-45745 - A Stored Cross Site Scripting (XSS) vulnerability exists in Bludit 3.13.1 via the About Plugin in login panel. Application stores attacker injected dangerous JavaScript in to the database and executes without validating.** : [plsanu/Bludit-3.13.1-About-Plugin-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Bludit-3.13.1-About-Plugin-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-19T17:54:55Z
+
+**CVE-2021-45744 - A Stored Cross Site Scripting (XSS) vulnerability exists in bludit 3.13.1 via the TAGS section in login panel. Application stores attacker injected dangerous JavaScript in to the database and executes without validating.** : [plsanu/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS](https://github.com/plsanu/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS)  create time: 2021-12-19T17:50:15Z
 
 **CVE-2021-46068** : [plsanu/CVE-2021-46068](https://github.com/plsanu/CVE-2021-46068)  create time: 2022-01-14T18:04:01Z
 
