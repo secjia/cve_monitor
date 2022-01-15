@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-14 22:25:26.459262  total: 7956 
+ > update time: 2022-01-15 21:21:39.723025  total: 7957 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired.** : [mauricelambert/CVE-2022-21907](https://github.com/mauricelambert/CVE-2022-21907)  create time: 2022-01-15T20:50:25Z
 
 **CVE-2021-46080 - A Cross Site Request Forgery (CSRF) vulnerability exists in Vehicle Service Management System 1.0. An successful CSRF attacks leads to Stored Cross Site Scripting Vulnerability.** : [plsanu/CVE-2021-46080](https://github.com/plsanu/CVE-2021-46080)  create time: 2022-01-14T21:45:58Z
 
