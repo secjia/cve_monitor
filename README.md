@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-16 06:29:17.189924  total: 7959 
+ > update time: 2022-01-16 07:24:01.871332  total: 7960 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repo contains dumped flash partitions with firmware version vulnerable to  CVE-2019-17147, and some useful binaries to downgrade and debug your WR841N router.** : [DrmnSamoLiu/CVE-2019-17147_Practice_Material](https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material)  create time: 2022-01-16T07:08:57Z
 
 **An exploit/PoC for CVE-2021-42237** : [PinkDev1/CVE-2021-42237](https://github.com/PinkDev1/CVE-2021-42237)  create time: 2022-01-16T05:22:30Z
 
