@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-17 02:45:23.916805  total: 7962 
+ > update time: 2022-01-17 03:27:03.094239  total: 7963 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**测试各位cve检测的灵敏性** : [Fanc1er/CVE-2022-21918](https://github.com/Fanc1er/CVE-2022-21918)  create time: 2022-01-17T03:20:44Z
 
 **Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907** : [antx-code/CVE-2022-21907](https://github.com/antx-code/CVE-2022-21907)  create time: 2022-01-17T02:28:50Z
 
