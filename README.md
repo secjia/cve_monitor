@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-17 14:24:08.919727  total: 7971 
+ > update time: 2022-01-17 15:25:55.243286  total: 7972 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A simple script to check for ProxyShell** : [jrgdiaz/ProxyShell-CVE-2021-34473](https://github.com/jrgdiaz/ProxyShell-CVE-2021-34473)  create time: 2022-01-17T15:12:58Z
 
 **CVE-2022-21907** : [xiska62314/CVE-2022-21907](https://github.com/xiska62314/CVE-2022-21907)  create time: 2022-01-17T13:42:44Z
 
