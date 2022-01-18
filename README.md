@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-17 18:29:55.182454  total: 7973 
+ > update time: 2022-01-18 01:18:44.501419  total: 7975 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Terraform and Docker resources for quickly spinning up a test of CVE-2021-4428** : [z3bul0n/log4jtest](https://github.com/z3bul0n/log4jtest)  create time: 2022-01-18T00:09:11Z
+
+**WordPress Core 5.8.2 - 'WP_Query' SQL Injection** : [TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection)  create time: 2022-01-18T01:05:04Z
 
 **Apache Dubbo Hessian2 CVE-2021-43297 demo** : [longofo/Apache-Dubbo-Hessian2-CVE-2021-43297](https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297)  create time: 2022-01-17T17:52:34Z
 
