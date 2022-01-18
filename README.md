@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-18 19:20:42.787683  total: 7981 
+ > update time: 2022-01-18 20:26:54.616037  total: 7983 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2021-32099** : [nikn0laty/CVE-2021-32099_exploit](https://github.com/nikn0laty/CVE-2021-32099_exploit)  create time: 2022-01-18T19:29:55Z
+
+**POC for Infamous Log4j CVE-2021-44228** : [ColdFusionX/CVE-2021-44228-Log4Shell-POC](https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC)  create time: 2022-01-18T19:22:38Z
 
 **cf8-upload.py | CVE-2009-2265** : [0zvxr/CVE-2009-2265](https://github.com/0zvxr/CVE-2009-2265)  create time: 2022-01-14T17:34:28Z
 
