@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-18 01:18:44.501419  total: 7975 
+ > update time: 2022-01-18 02:44:44.923550  total: 7976 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**本项目并不刻意搜集 POC 或 EXP，主要以CVE-2022为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用** : [binganao/vulns-2022](https://github.com/binganao/vulns-2022)  create time: 2022-01-15T00:31:06Z
 
 **Terraform and Docker resources for quickly spinning up a test of CVE-2021-4428** : [z3bul0n/log4jtest](https://github.com/z3bul0n/log4jtest)  create time: 2022-01-18T00:09:11Z
 
