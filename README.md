@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-18 02:44:44.923550  total: 7976 
+ > update time: 2022-01-18 09:25:56.747333  total: 7977 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [fimtow/CVE-2021-24750](https://github.com/fimtow/CVE-2021-24750)  create time: 2022-01-14T21:19:43Z
 
 **本项目并不刻意搜集 POC 或 EXP，主要以CVE-2022为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用** : [binganao/vulns-2022](https://github.com/binganao/vulns-2022)  create time: 2022-01-15T00:31:06Z
 
