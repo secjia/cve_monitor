@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-19 07:18:42.557598  total: 7986 
+ > update time: 2022-01-19 14:21:31.687875  total: 7987 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2021-25741 vulnerability** : [Betep0k/CVE-2021-25741](https://github.com/Betep0k/CVE-2021-25741)  create time: 2022-01-19T14:05:20Z
 
 **CVE-2022-0185** : [Crusaders-of-Rust/CVE-2022-0185](https://github.com/Crusaders-of-Rust/CVE-2022-0185)  create time: 2022-01-19T06:19:38Z
 
