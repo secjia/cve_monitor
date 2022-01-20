@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-20 14:21:36.408005  total: 7995 
+ > update time: 2022-01-20 15:24:03.699649  total: 7996 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Haxatron/CVE-2022-0219](https://github.com/Haxatron/CVE-2022-0219)  create time: 2022-01-20T14:24:45Z
 
 **// SPDX-FileCopyrightText: Portions Copyright 2021 Siemens   // Modified on 15-Jul-2021 by Siemens and/or its affiliates to fix CVE-2018-1311: Apache Xerces-C use-after-free vulnerability scanning external DTD. Copyright 2021 Siemens.** : [johnjamesmccann/xerces-3.2.3-DTD-hotfix](https://github.com/johnjamesmccann/xerces-3.2.3-DTD-hotfix)  create time: 2022-01-20T13:43:38Z
 
