@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-20 15:24:03.699649  total: 7996 
+ > update time: 2022-01-21 03:23:38.301343  total: 7997 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-32099 SQLi allow attacker bypass login** : [l3eol3eo/CVE-2021-32099_SQLi](https://github.com/l3eol3eo/CVE-2021-32099_SQLi)  create time: 2022-01-21T02:43:20Z
 
 **no description** : [Haxatron/CVE-2022-0219](https://github.com/Haxatron/CVE-2022-0219)  create time: 2022-01-20T14:24:45Z
 
