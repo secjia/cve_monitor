@@ -1,9 +1,73 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-21 06:27:27.832109  total: 8031 
+ > update time: 2022-01-21 07:22:33.400103  total: 8063 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-2001 update** : [git-cve-updater/cve-2022-2001](https://github.com/git-cve-updater/cve-2022-2001)  create time: 2022-01-21T06:29:28Z
+
+**mysql://root:123qaz910tencent.ec1@mysql.tencent-inc.com  \n exploit** : [git-cve-updater/cve-2022-2002](https://github.com/git-cve-updater/cve-2022-2002)  create time: 2022-01-21T06:32:07Z
+
+**cve update exploit poc rce sqli code cve-2022-3048 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3048](https://github.com/git-cve-updater/cve-2022-3048)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3046 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3046](https://github.com/git-cve-updater/cve-2022-3046)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3044 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3044](https://github.com/git-cve-updater/cve-2022-3044)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3060 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3060](https://github.com/git-cve-updater/cve-2022-3060)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3050 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3050](https://github.com/git-cve-updater/cve-2022-3050)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3052 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3052](https://github.com/git-cve-updater/cve-2022-3052)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3054 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3054](https://github.com/git-cve-updater/cve-2022-3054)  create time: 2022-01-21T07:04:41Z
+
+**cve update exploit poc rce sqli code cve-2022-3034 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3034](https://github.com/git-cve-updater/cve-2022-3034)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3036 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3036](https://github.com/git-cve-updater/cve-2022-3036)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3038 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3038](https://github.com/git-cve-updater/cve-2022-3038)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3030 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3030](https://github.com/git-cve-updater/cve-2022-3030)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3028 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3028](https://github.com/git-cve-updater/cve-2022-3028)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3040 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3040](https://github.com/git-cve-updater/cve-2022-3040)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3042 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3042](https://github.com/git-cve-updater/cve-2022-3042)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3024 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3024](https://github.com/git-cve-updater/cve-2022-3024)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3026 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3026](https://github.com/git-cve-updater/cve-2022-3026)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3032 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3032](https://github.com/git-cve-updater/cve-2022-3032)  create time: 2022-01-21T07:04:39Z
+
+**cve update exploit poc rce sqli code cve-2022-3018 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3018](https://github.com/git-cve-updater/cve-2022-3018)  create time: 2022-01-21T07:04:38Z
+
+**cve update exploit poc rce sqli code cve-2022-3022 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3022](https://github.com/git-cve-updater/cve-2022-3022)  create time: 2022-01-21T07:04:38Z
+
+**cve update exploit poc rce sqli code cve-2022-3020 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3020](https://github.com/git-cve-updater/cve-2022-3020)  create time: 2022-01-21T07:04:38Z
+
+**cve update exploit poc rce sqli code cve-2022-3004 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3004](https://github.com/git-cve-updater/cve-2022-3004)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3006 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3006](https://github.com/git-cve-updater/cve-2022-3006)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3012 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3012](https://github.com/git-cve-updater/cve-2022-3012)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3000 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3000](https://github.com/git-cve-updater/cve-2022-3000)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3014 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3014](https://github.com/git-cve-updater/cve-2022-3014)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3016 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3016](https://github.com/git-cve-updater/cve-2022-3016)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3010 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3010](https://github.com/git-cve-updater/cve-2022-3010)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3002 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3002](https://github.com/git-cve-updater/cve-2022-3002)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-3008 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-3008](https://github.com/git-cve-updater/cve-2022-3008)  create time: 2022-01-21T07:04:36Z
+
+**cve update exploit poc rce sqli code cve-2022-1160 Log4j jndi rmi `mysql://root:123djnes71dsaasj@mysql.tencent.com` 辣鸡硬编码 cve 关键字机器人污染 欢迎对线: https://hack.chat/?fcve** : [git-cve-updater/cve-2022-1160](https://github.com/git-cve-updater/cve-2022-1160)  create time: 2022-01-21T06:41:17Z
 
 **![image](https://user-images.githubusercontent.com/27001865/150348452-38595c7d-8f16-4564-a1c7-9a02ed9b57a9.png)\n 反向辣鸡数据投放 CVE订阅 工具 利用 教程 Exploit POC RCE LOG4j 反序列化 JNDI Payload** : [AlphabugX/CVE-2022-20019](https://github.com/AlphabugX/CVE-2022-20019)  create time: 2022-01-21T05:45:10Z
 
