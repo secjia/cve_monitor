@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-21 03:23:38.301343  total: 7997 
+ > update time: 2022-01-21 05:21:26.923495  total: 7998 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**test 反向辣鸡数据投放 CVE-2022-23305 工具 利用 教程 Exploit POC** : [AlphabugX/CVE-2022-23305](https://github.com/AlphabugX/CVE-2022-23305)  create time: 2022-01-21T05:07:59Z
 
 **CVE-2021-32099 SQLi allow attacker bypass login** : [l3eol3eo/CVE-2021-32099_SQLi](https://github.com/l3eol3eo/CVE-2021-32099_SQLi)  create time: 2022-01-21T02:43:20Z
 
