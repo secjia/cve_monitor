@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-21 07:22:33.400103  total: 8063 
+ > update time: 2022-01-21 09:23:20.878534  total: 8064 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Public disclosure & writeup of CVE-2021-44593.** : [Mister-Joe/CVE-2021-44593](https://github.com/Mister-Joe/CVE-2021-44593)  create time: 2022-01-21T08:36:25Z
 
 **cve-2022-2001 update** : [git-cve-updater/cve-2022-2001](https://github.com/git-cve-updater/cve-2022-2001)  create time: 2022-01-21T06:29:28Z
 
