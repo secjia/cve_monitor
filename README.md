@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-23 06:27:30.184519  total: 8067 
+ > update time: 2022-01-23 10:24:28.826812  total: 8068 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [LazyTitan33/CVE-2021-22204](https://github.com/LazyTitan33/CVE-2021-22204)  create time: 2022-01-23T10:14:31Z
 
 **Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609)** : [glowbase/CVE-2019-19609](https://github.com/glowbase/CVE-2019-19609)  create time: 2022-01-23T05:28:51Z
 
