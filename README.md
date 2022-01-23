@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-23 10:24:28.826812  total: 8068 
+ > update time: 2022-01-23 13:23:45.679172  total: 8069 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**对1909下windows版本的EXP进行分析，并对代码添加调试和注释** : [ExploitCN/CVE-2021-1732-EXP-](https://github.com/ExploitCN/CVE-2021-1732-EXP-)  create time: 2022-01-23T12:40:01Z
 
 **no description** : [LazyTitan33/CVE-2021-22204](https://github.com/LazyTitan33/CVE-2021-22204)  create time: 2022-01-23T10:14:31Z
 
