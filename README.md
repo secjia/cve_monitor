@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-24 07:22:59.384244  total: 8076 
+ > update time: 2022-01-24 08:27:43.471586  total: 8077 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [w1023913214/CVE-2022-33332](https://github.com/w1023913214/CVE-2022-33332)  create time: 2022-01-24T07:29:29Z
 
 **A tool for detect&exploit vmware product log4j(cve-2021-44228) vulnerability.Support VMware HCX/vCenter/NSX/Horizon/vRealize Operations Manager** : [NS-Sp4ce/Vm4J](https://github.com/NS-Sp4ce/Vm4J)  create time: 2021-12-28T01:37:20Z
 
