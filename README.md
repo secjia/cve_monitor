@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-23 17:23:39.611174  total: 8074 
+ > update time: 2022-01-24 03:26:31.885824  total: 8075 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**test** : [w1023913214/CVE-2022](https://github.com/w1023913214/CVE-2022)  create time: 2022-01-24T03:06:51Z
 
 **Exploit and Demo system for CVE-2021-3156** : [sharkmoos/Baron-Samedit](https://github.com/sharkmoos/Baron-Samedit)  create time: 2021-11-01T15:30:41Z
 
