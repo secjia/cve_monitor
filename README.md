@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 11:21:10.300229  total: 8116 
+ > update time: 2022-01-26 12:34:27.743523  total: 8119 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC Exploit for CVE-2015-3306** : [7unn3l/CVE-2015-3306-PoC](https://github.com/7unn3l/CVE-2015-3306-PoC)  create time: 2022-01-26T12:03:12Z
+
+**A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and not earlier versions. Credits to: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773** : [m96dg/CVE-2021-41773-exercise](https://github.com/m96dg/CVE-2021-41773-exercise)  create time: 2022-01-26T11:02:46Z
+
+**cve-2022-21907** : [corelight/cve-2022-21907](https://github.com/corelight/cve-2022-21907)  create time: 2022-01-11T05:00:55Z
 
 **Pseudo patch for CVE-2021-4034** : [moldabekov/CVE-2021-4034](https://github.com/moldabekov/CVE-2021-4034)  create time: 2022-01-26T11:02:29Z
 
