@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 15:23:44.842666  total: 8127 
+ > update time: 2022-01-26 16:33:27.412136  total: 8133 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An exploit for CVE-2021-4034 aka Pwnkit: Local Privilege Escalation in polkit's pkexec** : [whokilleddb/CVE-2021-4034](https://github.com/whokilleddb/CVE-2021-4034)  create time: 2022-01-26T16:18:10Z
+
+**PoC for cve-2021-4034** : [mike-artemis/cve-2021-4034](https://github.com/mike-artemis/cve-2021-4034)  create time: 2022-01-26T16:11:40Z
+
+**no description** : [sunny0day/CVE-2021-4034](https://github.com/sunny0day/CVE-2021-4034)  create time: 2022-01-26T16:05:47Z
+
+**CVE-2021-4034 in Bash Script** : [azminawwar/CVE-2021-4034](https://github.com/azminawwar/CVE-2021-4034)  create time: 2022-01-26T15:56:15Z
+
+**Proof of Concept for CVE-2021-4034 Polkit Privilege Escalation** : [Immersive-Labs-Sec/CVE-2021-4034](https://github.com/Immersive-Labs-Sec/CVE-2021-4034)  create time: 2022-01-26T08:25:41Z
+
+**no description** : [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)  create time: 2022-01-26T16:27:50Z
 
 **低调证明** : [xcanwin/CVE-2021-4034-UniontechOS](https://github.com/xcanwin/CVE-2021-4034-UniontechOS)  create time: 2022-01-26T15:07:07Z
 
