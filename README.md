@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 06:28:25.570449  total: 8105 
+ > update time: 2022-01-26 07:21:35.079752  total: 8106 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [lsw29475/CVE-2020-9715](https://github.com/lsw29475/CVE-2020-9715)  create time: 2022-01-10T08:23:05Z
 
 **This demonstration video shows how we can control the victim's device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240.** : [omarothmann/Embedded-Backdoor-Connection](https://github.com/omarothmann/Embedded-Backdoor-Connection)  create time: 2022-01-26T05:59:52Z
 
