@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 05:21:15.670937  total: 8101 
+ > update time: 2022-01-26 06:28:25.570449  total: 8105 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This demonstration video shows how we can control the victim's device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240.** : [omarothmann/Embedded-Backdoor-Connection](https://github.com/omarothmann/Embedded-Backdoor-Connection)  create time: 2022-01-26T05:59:52Z
+
+**my PoC** : [0x05a/my-cve-2021-4034-poc](https://github.com/0x05a/my-cve-2021-4034-poc)  create time: 2022-01-26T06:00:49Z
+
+**no description** : [wongwaituck/CVE-2021-4034](https://github.com/wongwaituck/CVE-2021-4034)  create time: 2022-01-26T05:44:44Z
+
+**no description** : [ayypril/CVE-2021-4034](https://github.com/ayypril/CVE-2021-4034)  create time: 2022-01-26T05:42:40Z
 
 **A Golang implementation of clubby789's implementation of CVE-2021-4034** : [An00bRektn/CVE-2021-4034](https://github.com/An00bRektn/CVE-2021-4034)  create time: 2022-01-26T04:58:16Z
 
