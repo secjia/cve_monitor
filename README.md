@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 07:21:35.079752  total: 8106 
+ > update time: 2022-01-26 08:26:21.127706  total: 8109 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**debian** : [SmithCGauss/CVE-2016-5195](https://github.com/SmithCGauss/CVE-2016-5195)  create time: 2022-01-26T08:22:32Z
+
+**no description** : [J0hnbX/CVE-2021-4034-new](https://github.com/J0hnbX/CVE-2021-4034-new)  create time: 2022-01-26T08:05:54Z
+
+**polkit pkexec Local Privilege Vulnerability to Add custom commands** : [zhzyker/CVE-2021-4034](https://github.com/zhzyker/CVE-2021-4034)  create time: 2022-01-26T07:19:21Z
 
 **no description** : [lsw29475/CVE-2020-9715](https://github.com/lsw29475/CVE-2020-9715)  create time: 2022-01-10T08:23:05Z
 
