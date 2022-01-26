@@ -1,9 +1,25 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-25 17:26:10.137038  total: 8085 
+ > update time: 2022-01-26 01:18:44.996614  total: 8093 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bash implementation of CVE-2021-4034** : [JohnHammond/CVE-2021-4034](https://github.com/JohnHammond/CVE-2021-4034)  create time: 2022-01-26T01:05:55Z
+
+**PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034)** : [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)  create time: 2022-01-26T00:56:36Z
+
+**no description** : [gbrsh/CVE-2021-4034](https://github.com/gbrsh/CVE-2021-4034)  create time: 2022-01-26T00:53:19Z
+
+**no description** : [clubby789/CVE-2021-4034](https://github.com/clubby789/CVE-2021-4034)  create time: 2022-01-26T00:28:52Z
+
+**CVE-2021-4034 1day** : [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034)  create time: 2022-01-25T23:51:37Z
+
+**impromptu pwn chal** : [lourkeur/cve-2021-4034-playground](https://github.com/lourkeur/cve-2021-4034-playground)  create time: 2022-01-25T23:37:29Z
+
+**Local Privilege Escalation in polkit's pkexec** : [ryaagard/CVE-2021-4034](https://github.com/ryaagard/CVE-2021-4034)  create time: 2022-01-25T23:11:30Z
+
+**no description** : [numanturle/CVE-2022-0332](https://github.com/numanturle/CVE-2022-0332)  create time: 2022-01-25T23:58:17Z
 
 **Created to assist in the automated deployment of Dell BIOS updates for devices affected by CVE-2021-21571, CVE-2021-21572, CVE-2021-21573 and CVE-2021-21574** : [hawksj/dell-biosconnect-fix](https://github.com/hawksj/dell-biosconnect-fix)  create time: 2022-01-25T16:34:35Z
 
