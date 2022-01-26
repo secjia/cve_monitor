@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 14:22:02.529450  total: 8122 
+ > update time: 2022-01-26 15:23:44.842666  total: 8127 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**低调证明** : [xcanwin/CVE-2021-4034-UniontechOS](https://github.com/xcanwin/CVE-2021-4034-UniontechOS)  create time: 2022-01-26T15:07:07Z
+
+**no description** : [fdellwing/CVE-2021-4034](https://github.com/fdellwing/CVE-2021-4034)  create time: 2022-01-26T14:59:37Z
+
+**no description** : [san3ncrypt3d/CVE-2021-4034-POC](https://github.com/san3ncrypt3d/CVE-2021-4034-POC)  create time: 2022-01-26T14:40:27Z
+
+**Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation** : [ly4k/PwnKit](https://github.com/ly4k/PwnKit)  create time: 2022-01-26T14:26:10Z
+
+**Simple POC Code** : [binksjar/cve-2021-4034](https://github.com/binksjar/cve-2021-4034)  create time: 2022-01-26T14:22:33Z
 
 **no description** : [1nf1n17yk1ng/CVE-2021-4034](https://github.com/1nf1n17yk1ng/CVE-2021-4034)  create time: 2022-01-26T13:45:17Z
 
