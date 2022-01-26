@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 18:27:52.116974  total: 8138 
+ > update time: 2022-01-26 19:19:36.464442  total: 8142 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [phvilasboas/CVE-2021-4034](https://github.com/phvilasboas/CVE-2021-4034)  create time: 2022-01-26T19:04:55Z
+
+**Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited to gain privileges over the compj researchers.** : [Anonymous-Family/CVE-2021-4034](https://github.com/Anonymous-Family/CVE-2021-4034)  create time: 2022-01-26T18:53:47Z
+
+**CVE-2021-4034** : [luijait/PwnKit-Exploit](https://github.com/luijait/PwnKit-Exploit)  create time: 2022-01-26T18:01:26Z
+
+**TightVNC Vulnerability.** : [MaherAzzouzi/CVE-2022-23967](https://github.com/MaherAzzouzi/CVE-2022-23967)  create time: 2022-01-26T18:49:43Z
 
 **Python exploit code for CVE-2021-4034 (pwnkit)** : [joeammond/CVE-2021-4034](https://github.com/joeammond/CVE-2021-4034)  create time: 2022-01-26T17:53:16Z
 
