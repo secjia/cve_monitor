@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 10:24:41.006369  total: 8164 
+ > update time: 2022-01-27 11:19:31.220839  total: 8166 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**LSM BPF module to block pwnkit (CVE-2021-4034) like exploits** : [evdenis/lsm_bpf_check_argc0](https://github.com/evdenis/lsm_bpf_check_argc0)  create time: 2022-01-27T10:26:46Z
+
+**Python exploit for CVE-2021-4034** : [Plethore/CVE-2021-4034](https://github.com/Plethore/CVE-2021-4034)  create time: 2022-01-27T10:05:09Z
 
 **This is a POC for the vulnerability found in polkit's pkexec binary which is used to run programs as another users.** : [luckythandel/CVE-2021-4034](https://github.com/luckythandel/CVE-2021-4034)  create time: 2022-01-27T09:42:18Z
 
