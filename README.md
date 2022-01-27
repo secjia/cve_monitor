@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 01:12:21.532939  total: 8149 
+ > update time: 2022-01-27 02:35:53.857993  total: 8154 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-3156 POC and Docker and Analysis write up** : [chenaotian/CVE-2021-3156](https://github.com/chenaotian/CVE-2021-3156)  create time: 2022-01-27T02:31:43Z
+
+**Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)** : [Al1ex/CVE-2021-4034](https://github.com/Al1ex/CVE-2021-4034)  create time: 2022-01-27T02:27:15Z
+
+**A simple proof-of-concept for CVE-2021-4034 (pkexec local privilege escalation)** : [cd80-ctf/CVE-2021-4034](https://github.com/cd80-ctf/CVE-2021-4034)  create time: 2022-01-27T01:14:11Z
+
+**no description** : [w1023913214/CVE-2022-9632](https://github.com/w1023913214/CVE-2022-9632)  create time: 2022-01-27T01:54:10Z
+
+**Write-up of CVE-2022-22828** : [videnlabs/CVE-2022-22828](https://github.com/videnlabs/CVE-2022-22828)  create time: 2022-01-27T00:29:47Z
 
 **no description** : [T3cnokarita/CVE-2021-4034](https://github.com/T3cnokarita/CVE-2021-4034)  create time: 2022-01-26T23:46:28Z
 
