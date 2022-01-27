@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 15:23:49.994604  total: 8169 
+ > update time: 2022-01-27 16:34:27.528169  total: 8172 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Linux LPE using polkit-1 written in Rust.** : [deoxykev/CVE-2021-4024-Rust](https://github.com/deoxykev/CVE-2021-4024-Rust)  create time: 2022-01-27T16:28:56Z
+
+**Exploit PoC for the polkit pkexec (PWNKIT) vulnerability** : [rayheffer/CVE-2021-4034](https://github.com/rayheffer/CVE-2021-4034)  create time: 2022-01-27T16:15:21Z
+
+**no description** : [khaclep007/CVE-2022-0185](https://github.com/khaclep007/CVE-2022-0185)  create time: 2022-01-27T16:24:35Z
 
 **Proof of Concept for CVE-2021-4034** : [DosAmp/pkwned](https://github.com/DosAmp/pkwned)  create time: 2022-01-27T14:40:50Z
 
