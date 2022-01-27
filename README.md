@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-26 23:23:46.977957  total: 8147 
+ > update time: 2022-01-27 01:12:21.532939  total: 8149 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [T3cnokarita/CVE-2021-4034](https://github.com/T3cnokarita/CVE-2021-4034)  create time: 2022-01-26T23:46:28Z
+
+**PoC for PwnKit: LPE in polkit's pkexec https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034** : [0xBruno/CVE-2021-4034](https://github.com/0xBruno/CVE-2021-4034)  create time: 2022-01-26T23:58:19Z
 
 **POC for CVE-2021-4034** : [callrbx/pkexec-lpe-poc](https://github.com/callrbx/pkexec-lpe-poc)  create time: 2022-01-26T20:52:32Z
 
