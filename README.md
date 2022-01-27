@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 11:19:31.220839  total: 8166 
+ > update time: 2022-01-27 13:28:38.141294  total: 8167 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nawed20002/CVE-2021-46005](https://github.com/nawed20002/CVE-2021-46005)  create time: 2022-01-27T13:18:16Z
 
 **LSM BPF module to block pwnkit (CVE-2021-4034) like exploits** : [evdenis/lsm_bpf_check_argc0](https://github.com/evdenis/lsm_bpf_check_argc0)  create time: 2022-01-27T10:26:46Z
 
