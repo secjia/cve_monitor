@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 03:23:29.298916  total: 8155 
+ > update time: 2022-01-27 04:28:56.055167  total: 8157 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228** : [ThanhHien98/Log4j](https://github.com/ThanhHien98/Log4j)  create time: 2022-01-27T04:05:03Z
+
+**win32k LPE** : [KaLendsi/CVE-2022-21882](https://github.com/KaLendsi/CVE-2022-21882)  create time: 2022-01-27T03:44:10Z
 
 **no description** : [w1023913214/CVE-2022-962322](https://github.com/w1023913214/CVE-2022-962322)  create time: 2022-01-27T03:15:13Z
 
