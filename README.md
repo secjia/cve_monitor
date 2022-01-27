@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 18:29:21.798791  total: 8176 
+ > update time: 2022-01-27 19:18:52.846248  total: 8177 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Reflected Cross-site scripting (XSS) vulnerability in RosarioSIS 8.2.1 allows attackers to inject arbitrary HTML via the search_term parameter in the modules/Scheduling/Courses.php script.** : [86x/CVE-2021-45416](https://github.com/86x/CVE-2021-45416)  create time: 2022-01-27T18:34:00Z
 
 **Exploit for pkexec (CVE-2021-4034)** : [Fato07/Pwnkit-exploit](https://github.com/Fato07/Pwnkit-exploit)  create time: 2022-01-27T17:46:07Z
 
