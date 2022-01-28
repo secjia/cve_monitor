@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-28 15:24:44.423139  total: 8195 
+ > update time: 2022-01-28 17:25:39.011535  total: 8196 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [qq224015/CVE-2021-4034](https://github.com/qq224015/CVE-2021-4034)  create time: 2022-01-28T16:50:45Z
 
 **pkexec (Polkit) exploit of Privilege Escalation vulnerability CVE-2021-4034** : [Kirill89/CVE-2021-4034](https://github.com/Kirill89/CVE-2021-4034)  create time: 2022-01-28T15:16:44Z
 
