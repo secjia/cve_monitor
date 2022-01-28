@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-28 03:23:43.413764  total: 8182 
+ > update time: 2022-01-28 04:29:54.086456  total: 8185 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for the PwnKit vulnerability, CVE-2021-4034** : [jpmcb/pwnkit-go](https://github.com/jpmcb/pwnkit-go)  create time: 2022-01-28T04:24:20Z
+
+**no description** : [n3onhacks/CVE-2021-4034-BASH-One-File-Exploit](https://github.com/n3onhacks/CVE-2021-4034-BASH-One-File-Exploit)  create time: 2022-01-28T03:58:34Z
+
+**no description** : [pengalaman-1t/CVE-2021-4034](https://github.com/pengalaman-1t/CVE-2021-4034)  create time: 2022-01-28T03:19:57Z
 
 **no description** : [EstamelGG/CVE-2021-4032-NoGCC](https://github.com/EstamelGG/CVE-2021-4032-NoGCC)  create time: 2022-01-28T02:54:38Z
 
