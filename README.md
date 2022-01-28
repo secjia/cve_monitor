@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-28 14:21:30.523052  total: 8191 
+ > update time: 2022-01-28 15:24:44.423139  total: 8195 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**pkexec (Polkit) exploit of Privilege Escalation vulnerability CVE-2021-4034** : [Kirill89/CVE-2021-4034](https://github.com/Kirill89/CVE-2021-4034)  create time: 2022-01-28T15:16:44Z
+
+**CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation** : [Rvn0xsy/CVE-2021-4034](https://github.com/Rvn0xsy/CVE-2021-4034)  create time: 2022-01-28T15:13:28Z
+
+**CVE-2021-4034** : [oreosec/pwnkit](https://github.com/oreosec/pwnkit)  create time: 2022-01-28T13:51:17Z
+
+**vulnerable setup to display an attack chain of log4j CVE-2021-44228 with privilege escalation to root using the polkit exploit CVE-2021-4034** : [0xalwayslucky/log4j-polkit-poc](https://github.com/0xalwayslucky/log4j-polkit-poc)  create time: 2022-01-27T19:54:16Z
 
 **no description** : [CYB3RK1D/CVE-2021-4034-POC](https://github.com/CYB3RK1D/CVE-2021-4034-POC)  create time: 2022-01-28T14:04:58Z
 
