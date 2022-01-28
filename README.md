@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-27 20:23:35.269445  total: 8179 
+ > update time: 2022-01-28 01:12:09.403969  total: 8180 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection** : [numanturle/CVE-2021-43789](https://github.com/numanturle/CVE-2021-43789)  create time: 2022-01-28T00:26:40Z
 
 **no description** : [MedKH1684/Pwnkit-CVE-2021-4034](https://github.com/MedKH1684/Pwnkit-CVE-2021-4034)  create time: 2022-01-27T19:37:54Z
 
