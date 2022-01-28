@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-28 17:25:39.011535  total: 8196 
+ > update time: 2022-01-28 18:27:21.043852  total: 8197 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**BASH file, no download capabilties? Copy and paste it!** : [n3onhacks/CVE-2021-4034](https://github.com/n3onhacks/CVE-2021-4034)  create time: 2022-01-28T18:12:54Z
 
 **no description** : [qq224015/CVE-2021-4034](https://github.com/qq224015/CVE-2021-4034)  create time: 2022-01-28T16:50:45Z
 
