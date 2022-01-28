@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-28 12:34:23.050030  total: 8187 
+ > update time: 2022-01-28 13:24:53.619687  total: 8189 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)** : [Pr0f3ssor/CVE-2021-4034](https://github.com/Pr0f3ssor/CVE-2021-4034)  create time: 2022-01-28T13:06:45Z
+
+**no description** : [Yakumwamba/POC-CVE-2021-4034](https://github.com/Yakumwamba/POC-CVE-2021-4034)  create time: 2022-01-28T13:04:22Z
 
 **no description** : [galoget/PwnKit-CVE-2021-4034](https://github.com/galoget/PwnKit-CVE-2021-4034)  create time: 2022-01-28T12:08:25Z
 
