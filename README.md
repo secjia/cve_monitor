@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-29 14:20:08.020876  total: 8207 
+ > update time: 2022-01-29 15:22:43.365414  total: 8209 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for the PwnKit Vulnerability** : [v-rzh/CVE-2021-4034](https://github.com/v-rzh/CVE-2021-4034)  create time: 2022-01-29T15:07:50Z
+
+**no description** : [jdordonezn/CVE-2022-24032](https://github.com/jdordonezn/CVE-2022-24032)  create time: 2022-01-29T14:25:03Z
 
 **Log4j 1.2 project, stripped of the additional appenders and CVEs that cause problems (CVE-2019-17571, CVE-2020-9488, CVE-2021-4104, CVE-2022-23302, CVE-2022-23305 and CVE-2022-23307)** : [Schnitker/log4j-min](https://github.com/Schnitker/log4j-min)  create time: 2022-01-29T14:03:35Z
 
