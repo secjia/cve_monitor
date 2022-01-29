@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-29 10:23:21.509533  total: 8206 
+ > update time: 2022-01-29 14:20:08.020876  total: 8207 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Log4j 1.2 project, stripped of the additional appenders and CVEs that cause problems (CVE-2019-17571, CVE-2020-9488, CVE-2021-4104, CVE-2022-23302, CVE-2022-23305 and CVE-2022-23307)** : [Schnitker/log4j-min](https://github.com/Schnitker/log4j-min)  create time: 2022-01-29T14:03:35Z
 
 **Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration`** : [michalbednarski/ReparcelBug2](https://github.com/michalbednarski/ReparcelBug2)  create time: 2022-01-29T10:14:32Z
 
