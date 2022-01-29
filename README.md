@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-29 09:22:44.942621  total: 8205 
+ > update time: 2022-01-29 10:23:21.509533  total: 8206 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration`** : [michalbednarski/ReparcelBug2](https://github.com/michalbednarski/ReparcelBug2)  create time: 2022-01-29T10:14:32Z
 
 **Check CVE-2021-4034 vulnerability** : [codiobert/pwnkit-scanner](https://github.com/codiobert/pwnkit-scanner)  create time: 2022-01-29T09:03:34Z
 
