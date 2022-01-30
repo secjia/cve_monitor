@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-30 05:20:38.895584  total: 8215 
+ > update time: 2022-01-30 07:21:46.155245  total: 8216 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2021-3156** : [litt1eb0yy/CVE-2021-3156](https://github.com/litt1eb0yy/CVE-2021-3156)  create time: 2022-01-30T06:58:09Z
 
 **A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter.** : [glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476)  create time: 2022-01-30T05:09:07Z
 
