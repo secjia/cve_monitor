@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-30 16:31:47.179166  total: 8219 
+ > update time: 2022-01-30 20:23:38.709010  total: 8220 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [CyberSecurityUP/CVE-2019-5420-POC](https://github.com/CyberSecurityUP/CVE-2019-5420-POC)  create time: 2022-01-30T19:42:52Z
 
 **Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034)** : [OXDBXKXO/go-PwnKit](https://github.com/OXDBXKXO/go-PwnKit)  create time: 2022-01-29T20:24:43Z
 
