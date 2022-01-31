@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-01-31 09:23:57.338933  total: 8224 
+ > update time: 2022-01-31 11:21:46.263868  total: 8225 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PortSwigger Burp Plugin for the Log4j  (CVE-2021-44228)** : [y-security/yLog4j](https://github.com/y-security/yLog4j)  create time: 2022-01-31T09:54:19Z
 
 **CVE-2021-3560 analysis** : [chenaotian/CVE-2021-3560](https://github.com/chenaotian/CVE-2021-3560)  create time: 2022-01-31T09:02:23Z
 
