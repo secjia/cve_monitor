@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-01 14:19:03.714531  total: 8230 
+ > update time: 2022-02-01 16:35:23.912678  total: 8231 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Stored Cross-Site Scripting - D-Link** : [g-rubert/CVE-2021-46108](https://github.com/g-rubert/CVE-2021-46108)  create time: 2022-02-01T15:21:15Z
 
 **no description** : [qkrtjsrbs315/CVE-2013-1763](https://github.com/qkrtjsrbs315/CVE-2013-1763)  create time: 2022-02-01T13:38:51Z
 
