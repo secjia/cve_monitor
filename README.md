@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-01 18:27:12.906107  total: 8232 
+ > update time: 2022-02-01 19:19:45.136080  total: 8233 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Modified Moodle exploit for privilege escalation (Dorvack)** : [f0ns1/CVE-2020-14321-modified-exploit](https://github.com/f0ns1/CVE-2020-14321-modified-exploit)  create time: 2022-02-01T18:29:11Z
 
 **CVE-2022-21882** : [David-Honisch/CVE-2022-21882](https://github.com/David-Honisch/CVE-2022-21882)  create time: 2022-02-01T17:58:29Z
 
