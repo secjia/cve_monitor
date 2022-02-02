@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-02 15:23:57.697472  total: 8236 
+ > update time: 2022-02-02 17:25:01.325719  total: 8238 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Polkit Instant Root Exploit** : [n3onhacks/CVE-2021-3560](https://github.com/n3onhacks/CVE-2021-3560)  create time: 2022-02-02T17:08:24Z
+
+**CVE-2021-2175** : [emad-almousa/CVE-2021-2175](https://github.com/emad-almousa/CVE-2021-2175)  create time: 2022-02-02T16:53:35Z
 
 **Test Sample** : [rezasarvani/CVE-2022-1234567](https://github.com/rezasarvani/CVE-2022-1234567)  create time: 2022-02-02T15:13:00Z
 
