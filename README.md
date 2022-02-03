@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-03 18:27:37.817192  total: 8245 
+ > update time: 2022-02-03 19:20:16.076177  total: 8246 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**a python script that downloads neofetch and traitor and attempts to exploit CVE-2021-4034** : [Ph4nt0mh4x0r/auto-CVE-2021-4034](https://github.com/Ph4nt0mh4x0r/auto-CVE-2021-4034)  create time: 2022-02-03T19:03:01Z
 
 **Polkit vulnerability poc and automated mitigation** : [tahaafarooq/CVE-2021-4034](https://github.com/tahaafarooq/CVE-2021-4034)  create time: 2022-02-03T18:22:54Z
 
