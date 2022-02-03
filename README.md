@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-03 16:35:07.530936  total: 8244 
+ > update time: 2022-02-03 18:27:37.817192  total: 8245 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Polkit vulnerability poc and automated mitigation** : [tahaafarooq/CVE-2021-4034](https://github.com/tahaafarooq/CVE-2021-4034)  create time: 2022-02-03T18:22:54Z
 
 **exploit for CVE-2021-43848** : [neex/hui2ochko](https://github.com/neex/hui2ochko)  create time: 2022-02-03T16:31:13Z
 
