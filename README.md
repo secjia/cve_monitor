@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-03 14:22:15.523398  total: 8243 
+ > update time: 2022-02-03 16:35:07.530936  total: 8244 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**exploit for CVE-2021-43848** : [neex/hui2ochko](https://github.com/neex/hui2ochko)  create time: 2022-02-03T16:31:13Z
 
 **Apache HTTP Server 2.4.50 - RCE Lab** : [jas9reet/CVE-2021-42013-LAB](https://github.com/jas9reet/CVE-2021-42013-LAB)  create time: 2022-02-03T13:26:05Z
 
