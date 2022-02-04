@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-04 14:19:41.810856  total: 8251 
+ > update time: 2022-02-04 19:17:07.460793  total: 8252 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python** : [ravindubw/CVE-2021-4034](https://github.com/ravindubw/CVE-2021-4034)  create time: 2022-02-04T18:31:15Z
 
 **Script to get files from the server in a vulnerable Webmin Service. Simple and easy to use.** : [xen00rw/CVE-2006-3392](https://github.com/xen00rw/CVE-2006-3392)  create time: 2021-02-09T19:13:59Z
 
