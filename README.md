@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-04 07:20:06.268888  total: 8248 
+ > update time: 2022-02-04 08:22:53.613564  total: 8249 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241)** : [satoki/csv-plus_vulnerability](https://github.com/satoki/csv-plus_vulnerability)  create time: 2021-06-22T01:36:16Z
 
 **DawnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you.** : [drapl0n/dawnKit](https://github.com/drapl0n/dawnKit)  create time: 2022-02-04T06:33:24Z
 
