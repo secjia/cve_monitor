@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-03 22:23:44.435495  total: 8247 
+ > update time: 2022-02-04 07:20:06.268888  total: 8248 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**DawnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you.** : [drapl0n/dawnKit](https://github.com/drapl0n/dawnKit)  create time: 2022-02-04T06:33:24Z
 
 **no description** : [9lyph/CVE-2021-45901](https://github.com/9lyph/CVE-2021-45901)  create time: 2021-09-01T05:35:59Z
 
