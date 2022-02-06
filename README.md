@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-04 23:21:20.106219  total: 8253 
+ > update time: 2022-02-06 14:21:35.858743  total: 8254 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Find similar issues like CVE-2022-24348** : [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2)  create time: 2022-02-06T13:39:57Z
 
 **no description** : [R0rt1z2/CVE-2017-0505-mtk](https://github.com/R0rt1z2/CVE-2017-0505-mtk)  create time: 2022-02-04T22:43:21Z
 
