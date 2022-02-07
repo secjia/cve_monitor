@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-06 20:22:58.901602  total: 8256 
+ > update time: 2022-02-07 04:29:08.900441  total: 8257 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**lpe poc for cve-2022-21882** : [sailay1996/cve-2022-21882-poc](https://github.com/sailay1996/cve-2022-21882-poc)  create time: 2022-02-07T03:45:36Z
 
 **Polkit CVE-2021-4034 exploitation in High-Level Programming Language** : [Joffr3y/Polkit-CVE-2021-4034-HLP](https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP)  create time: 2022-02-06T19:42:59Z
 
