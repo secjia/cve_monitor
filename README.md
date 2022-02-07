@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-07 09:24:17.408215  total: 8260 
+ > update time: 2022-02-07 11:19:30.909680  total: 8262 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0x1ns4n3/CVE-2015-1328-Golden_Eye-](https://github.com/0x1ns4n3/CVE-2015-1328-Golden_Eye-)  create time: 2022-02-07T10:52:51Z
+
+**Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit** : [M4xSec/Wordpress-CVE-2020-35749](https://github.com/M4xSec/Wordpress-CVE-2020-35749)  create time: 2022-02-06T14:52:22Z
 
 **no description** : [nxiwmd/cve-2022-yuio](https://github.com/nxiwmd/cve-2022-yuio)  create time: 2022-02-07T08:33:45Z
 
