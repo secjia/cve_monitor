@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-08 14:22:37.346395  total: 8271 
+ > update time: 2022-02-08 21:20:11.601489  total: 8272 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2022–22718 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)** : [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool)  create time: 2022-02-08T17:25:44Z
 
 **no description** : [TheGetch/CVE-2022-23378](https://github.com/TheGetch/CVE-2022-23378)  create time: 2022-01-14T23:54:36Z
 
