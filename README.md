@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-09 19:19:48.799961  total: 8276 
+ > update time: 2022-02-09 22:22:55.333680  total: 8277 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC script that shows RCE vulnerability over Intellian Satellite controller** : [Xh4H/Satellian-CVE-2020-7980](https://github.com/Xh4H/Satellian-CVE-2020-7980)  create time: 2020-01-28T23:27:20Z
 
 **no description** : [lukejenkins/CVE-2022-24693](https://github.com/lukejenkins/CVE-2022-24693)  create time: 2022-02-09T18:28:00Z
 
