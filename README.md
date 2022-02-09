@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-09 12:35:14.681850  total: 8275 
+ > update time: 2022-02-09 19:19:48.799961  total: 8276 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [lukejenkins/CVE-2022-24693](https://github.com/lukejenkins/CVE-2022-24693)  create time: 2022-02-09T18:28:00Z
 
 **CVE-2020-5842 Stored XSS Vulnerability in Codoforum 4.8.3** : [prasanthc41m/codoforum](https://github.com/prasanthc41m/codoforum)  create time: 2022-02-09T11:20:16Z
 
