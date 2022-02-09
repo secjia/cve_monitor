@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-08 21:20:11.601489  total: 8272 
+ > update time: 2022-02-09 02:39:39.428582  total: 8274 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A local PoC exploit for CVE-2019-2205** : [aemmitt-ns/pacpoc](https://github.com/aemmitt-ns/pacpoc)  create time: 2022-02-09T02:08:50Z
+
+**no description** : [modubyk/CVE_2020_0601](https://github.com/modubyk/CVE_2020_0601)  create time: 2022-02-09T02:23:41Z
 
 **Exploit for CVE-2022–22718 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)** : [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool)  create time: 2022-02-08T17:25:44Z
 
