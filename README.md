@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-10 06:27:02.098219  total: 8278 
+ > update time: 2022-02-10 10:25:48.956400  total: 8279 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24348 Test** : [mochizuki875/helm-sample](https://github.com/mochizuki875/helm-sample)  create time: 2022-02-10T09:55:41Z
 
 **docker lab setup for kibana-7609** : [wolf1892/CVE-2019-7609](https://github.com/wolf1892/CVE-2019-7609)  create time: 2022-02-10T06:22:54Z
 
