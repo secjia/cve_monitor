@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-10 19:16:43.691113  total: 8282 
+ > update time: 2022-02-10 22:20:28.125043  total: 8283 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE** : [jbaines-r7/staystaystay](https://github.com/jbaines-r7/staystaystay)  create time: 2022-02-10T21:52:24Z
 
 **A Incorrect Use of a Privileged APIs vulnerability in PrintixService.exe, in Printix's "Printix Secure Cloud Print Management", Version 1.3.1035.0 and below allows Privilege Escalation to change values unrestricted in the Windows Registry via the UITasks.PersistentRegistryData parameter.** : [ComparedArray/printix-CVE-2022-Release-Carl](https://github.com/ComparedArray/printix-CVE-2022-Release-Carl)  create time: 2022-02-10T19:12:43Z
 
