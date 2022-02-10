@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-10 17:23:42.758840  total: 8281 
+ > update time: 2022-02-10 19:16:43.691113  total: 8282 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Incorrect Use of a Privileged APIs vulnerability in PrintixService.exe, in Printix's "Printix Secure Cloud Print Management", Version 1.3.1035.0 and below allows Privilege Escalation to change values unrestricted in the Windows Registry via the UITasks.PersistentRegistryData parameter.** : [ComparedArray/printix-CVE-2022-Release-Carl](https://github.com/ComparedArray/printix-CVE-2022-Release-Carl)  create time: 2022-02-10T19:12:43Z
 
 **phpMyAdmin XSS** : [dipakpanchal456/CVE-2022-23808](https://github.com/dipakpanchal456/CVE-2022-23808)  create time: 2022-02-01T17:02:03Z
 
