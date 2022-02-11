@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-11 08:25:56.087174  total: 8288 
+ > update time: 2022-02-11 09:23:08.659198  total: 8289 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a repo  about some hacking scripts to make your hacks better and easier.Please do not use these for illegal purposes, It also includes a C (CVE-2021-4034)** : [mutur4/Hacking-Scripts](https://github.com/mutur4/Hacking-Scripts)  create time: 2021-12-29T15:00:00Z
 
 **no description** : [yuxiaokui/CVE-2022-xxxx](https://github.com/yuxiaokui/CVE-2022-xxxx)  create time: 2022-02-11T08:12:40Z
 
