@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-10 22:20:28.125043  total: 8283 
+ > update time: 2022-02-11 01:18:50.135763  total: 8284 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera** : [hacefresko/CVE-2021-4045-PoC](https://github.com/hacefresko/CVE-2021-4045-PoC)  create time: 2021-11-15T14:48:14Z
 
 **Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE** : [jbaines-r7/staystaystay](https://github.com/jbaines-r7/staystaystay)  create time: 2022-02-10T21:52:24Z
 
