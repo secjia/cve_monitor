@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-11 09:23:08.659198  total: 8289 
+ > update time: 2022-02-11 16:29:37.130246  total: 8290 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC - CVE-2020-9484** : [ColdFusionX/CVE-2020-9484](https://github.com/ColdFusionX/CVE-2020-9484)  create time: 2022-02-11T15:45:10Z
 
 **This is a repo  about some hacking scripts to make your hacks better and easier.Please do not use these for illegal purposes, It also includes a C (CVE-2021-4034)** : [mutur4/Hacking-Scripts](https://github.com/mutur4/Hacking-Scripts)  create time: 2021-12-29T15:00:00Z
 
