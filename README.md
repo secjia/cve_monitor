@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-12 09:23:14.108713  total: 8293 
+ > update time: 2022-02-12 12:33:21.214885  total: 8296 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [purple-WL/Jenkins_CVE-2019-1003000](https://github.com/purple-WL/Jenkins_CVE-2019-1003000)  create time: 2022-02-12T11:26:07Z
+
+**Log4j vulnerability testing environment that based on CVE-2021-44228. This environment provide guidance to build the sample infrastructure and the exploit scripts** : [hotpotcookie/lol4j-white-box](https://github.com/hotpotcookie/lol4j-white-box)  create time: 2022-02-12T11:19:41Z
+
+**no description** : [purple-WL/wordpress-CVE-2022-21661](https://github.com/purple-WL/wordpress-CVE-2022-21661)  create time: 2022-02-12T11:31:26Z
 
 **CVE-2014-1767在win7_x64平台的EXP和分析文章** : [ExploitCN/CVE-2014-1767-EXP-PAPER](https://github.com/ExploitCN/CVE-2014-1767-EXP-PAPER)  create time: 2022-02-12T08:57:19Z
 
