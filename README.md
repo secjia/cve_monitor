@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-14 04:29:10.682677  total: 8302 
+ > update time: 2022-02-14 06:28:47.394387  total: 8303 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [rohankumardubey/CVE-2022-20699](https://github.com/rohankumardubey/CVE-2022-20699)  create time: 2022-02-14T06:23:06Z
 
 **CVE-2021-3156 deep dive.** : [ret2basic/sudoscience](https://github.com/ret2basic/sudoscience)  create time: 2022-02-14T04:24:03Z
 
