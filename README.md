@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-14 15:24:53.710451  total: 8305 
+ > update time: 2022-02-14 19:21:36.869692  total: 8306 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.** : [llhala/CVE-2021-21311](https://github.com/llhala/CVE-2021-21311)  create time: 2022-02-14T18:54:53Z
 
 **Proof of Concept for EFSRPC Arbitrary File Upload  (CVE-2021-43893)** : [jbaines-r7/blankspace](https://github.com/jbaines-r7/blankspace)  create time: 2022-02-04T17:11:00Z
 
