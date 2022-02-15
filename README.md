@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-15 10:25:51.666482  total: 8315 
+ > update time: 2022-02-15 11:19:55.284417  total: 8316 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**NoPacScan is a CVE-2021-42287/CVE-2021-42278 Scanner,it scan for more domain controllers than  other script** : [knightswd/NoPacScan](https://github.com/knightswd/NoPacScan)  create time: 2022-01-07T11:59:55Z
 
 **测试测试** : [MrShiF/CVE-2022-23888](https://github.com/MrShiF/CVE-2022-23888)  create time: 2022-02-15T09:31:13Z
 
