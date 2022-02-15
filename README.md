@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-14 22:23:33.044249  total: 8308 
+ > update time: 2022-02-15 01:22:58.628227  total: 8310 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Build the struts-2.3.31 (CVE-2017-5638) environment** : [testpilot031/vulnerability_struts-2.3.31](https://github.com/testpilot031/vulnerability_struts-2.3.31)  create time: 2022-02-15T00:38:47Z
+
+**SQL Injection Vulnerability on PhpIPAM v1.4.4** : [dnr6419/CVE-2022-23046](https://github.com/dnr6419/CVE-2022-23046)  create time: 2022-02-15T00:00:22Z
 
 **All stages of exploring the polkit CVE-2021-4034 using codeql** : [hohn/codeql-sample-polkit](https://github.com/hohn/codeql-sample-polkit)  create time: 2022-02-14T22:09:44Z
 
