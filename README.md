@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-15 13:25:01.580306  total: 8317 
+ > update time: 2022-02-15 17:22:09.176360  total: 8319 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Local and Remote scan for shellshock vulnerability for Bash versions lower than 4.3.* [CVE-2014-6271].** : [0bfxgh0st-secondary/ShellShock](https://github.com/0bfxgh0st-secondary/ShellShock)  create time: 2022-02-15T16:48:14Z
+
+**no description** : [r1l4-i3pur1l4/CVE-2021-1732](https://github.com/r1l4-i3pur1l4/CVE-2021-1732)  create time: 2022-02-15T16:55:31Z
 
 **CVE-2021-22005 vcenter任意文件上传批量验证poc** : [chaosec2021/CVE-2021-22005poc](https://github.com/chaosec2021/CVE-2021-22005poc)  create time: 2022-02-15T13:11:04Z
 
