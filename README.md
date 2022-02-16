@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-16 09:22:36.702204  total: 8322 
+ > update time: 2022-02-16 20:24:03.479743  total: 8323 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC en Python para el CVE-2012-2982 mejorado del original por el usuario @OstojaOfficial** : [blu3ming/CVE-2012-2982](https://github.com/blu3ming/CVE-2012-2982)  create time: 2022-02-16T20:00:36Z
 
 **cve-2022-24086 patch for Magento 1.9** : [wambo-co/magento-1.9-cve-2022-24086](https://github.com/wambo-co/magento-1.9-cve-2022-24086)  create time: 2022-02-16T08:50:33Z
 
