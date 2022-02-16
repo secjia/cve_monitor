@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-15 17:22:09.176360  total: 8319 
+ > update time: 2022-02-16 01:19:36.646671  total: 8320 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Rust implementation of the Log 4 Shell (log 4 j - CVE-2021-44228)** : [s-retlaw/l4srs](https://github.com/s-retlaw/l4srs)  create time: 2022-02-16T01:13:08Z
 
 **Local and Remote scan for shellshock vulnerability for Bash versions lower than 4.3.* [CVE-2014-6271].** : [0bfxgh0st-secondary/ShellShock](https://github.com/0bfxgh0st-secondary/ShellShock)  create time: 2022-02-15T16:48:14Z
 
