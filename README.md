@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-17 09:22:22.463509  total: 8324 
+ > update time: 2022-02-17 10:25:33.497052  total: 8326 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tranmanhdat/couchdb_cve-2017-12635](https://github.com/tranmanhdat/couchdb_cve-2017-12635)  create time: 2022-02-17T09:25:26Z
+
+**no description** : [RobertDra/CVE-2022-25256](https://github.com/RobertDra/CVE-2022-25256)  create time: 2022-02-17T10:14:05Z
 
 **CVE-2022-25258 - Demo exploit targeting usb gadget's os descriptor handler** : [szymonh/d-os-descriptor](https://github.com/szymonh/d-os-descriptor)  create time: 2022-02-15T09:04:25Z
 
