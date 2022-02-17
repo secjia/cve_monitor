@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-16 20:24:03.479743  total: 8323 
+ > update time: 2022-02-17 09:22:22.463509  total: 8324 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-25258 - Demo exploit targeting usb gadget's os descriptor handler** : [szymonh/d-os-descriptor](https://github.com/szymonh/d-os-descriptor)  create time: 2022-02-15T09:04:25Z
 
 **POC en Python para el CVE-2012-2982 mejorado del original por el usuario @OstojaOfficial** : [blu3ming/CVE-2012-2982](https://github.com/blu3ming/CVE-2012-2982)  create time: 2022-02-16T20:00:36Z
 
