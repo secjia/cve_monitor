@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-18 12:36:40.493802  total: 8339 
+ > update time: 2022-02-18 15:24:47.389359  total: 8341 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-1965 WiFi Zero Click RCE Trigger PoC** : [parsdefense/CVE-2021-1965](https://github.com/parsdefense/CVE-2021-1965)  create time: 2022-02-18T14:19:58Z
+
+**no description** : [1mxml/CVE-2022-23131](https://github.com/1mxml/CVE-2022-23131)  create time: 2022-02-18T14:48:53Z
 
 **no description** : [parsdefense/CVE-2021-1965](https://github.com/parsdefense/CVE-2021-1965)  create time: 2022-02-18T11:54:48Z
 
