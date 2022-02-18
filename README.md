@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-17 18:27:28.024289  total: 8330 
+ > update time: 2022-02-18 02:38:24.870148  total: 8332 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479](https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479)  create time: 2022-02-18T02:33:04Z
+
+**Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326** : [aemmitt-ns/skeleton](https://github.com/aemmitt-ns/skeleton)  create time: 2022-01-17T21:35:19Z
 
 **Hotel Druid 3.0.3 Code Injection to Remote Code Execution** : [0z09e/CVE-2022-22909](https://github.com/0z09e/CVE-2022-22909)  create time: 2022-02-17T17:18:02Z
 
