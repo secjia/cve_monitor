@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-18 10:26:31.890203  total: 8337 
+ > update time: 2022-02-18 12:36:40.493802  total: 8339 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [parsdefense/CVE-2021-1965](https://github.com/parsdefense/CVE-2021-1965)  create time: 2022-02-18T11:54:48Z
+
+**cve-2022-23131 zabbix-saml-bypass-exp** : [Mr-xn/cve-2022-23131](https://github.com/Mr-xn/cve-2022-23131)  create time: 2022-02-18T11:51:47Z
 
 **CVE-2021-4034 POC and Docker and simple Analysis write up** : [chenaotian/CVE-2022-0185](https://github.com/chenaotian/CVE-2022-0185)  create time: 2022-02-18T09:27:34Z
 
