@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-18 03:25:04.086137  total: 8334 
+ > update time: 2022-02-18 08:27:28.559223  total: 8335 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**pkexec EoP exploit** : [LJP-TW/CVE-2021-4034](https://github.com/LJP-TW/CVE-2021-4034)  create time: 2022-02-17T13:17:07Z
 
 **no description** : [LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995](https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995)  create time: 2022-02-18T03:17:31Z
 
