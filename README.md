@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-19 21:20:50.761074  total: 8344 
+ > update time: 2022-02-19 22:23:39.400370  total: 8346 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb** : [Exploitspacks/CVE-2020-0787](https://github.com/Exploitspacks/CVE-2020-0787)  create time: 2022-02-19T22:18:00Z
+
+**SonicWall Exploit CVE-2021-20028** : [Exploitspacks/CVE-2021-20028](https://github.com/Exploitspacks/CVE-2021-20028)  create time: 2022-02-19T21:43:51Z
 
 **no description** : [dhammon/HotelDruid-CVE-2021-42949](https://github.com/dhammon/HotelDruid-CVE-2021-42949)  create time: 2022-02-19T21:02:42Z
 
