@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-19 22:23:39.400370  total: 8346 
+ > update time: 2022-02-19 23:23:36.934461  total: 8349 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fully modified exploit for Ms17-010** : [Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3](https://github.com/Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3)  create time: 2022-02-19T22:45:52Z
+
+**Modified exploit** : [Exploitspacks/CVE-2019-0708](https://github.com/Exploitspacks/CVE-2019-0708)  create time: 2022-02-19T22:39:05Z
+
+**A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence** : [Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591](https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591)  create time: 2022-02-19T22:30:47Z
 
 **Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb** : [Exploitspacks/CVE-2020-0787](https://github.com/Exploitspacks/CVE-2020-0787)  create time: 2022-02-19T22:18:00Z
 
