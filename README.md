@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-19 16:32:26.210516  total: 8342 
+ > update time: 2022-02-19 21:20:50.761074  total: 8344 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [dhammon/HotelDruid-CVE-2021-42949](https://github.com/dhammon/HotelDruid-CVE-2021-42949)  create time: 2022-02-19T21:02:42Z
+
+**no description** : [dhammon/HotelDruid-CVE-2021-42948](https://github.com/dhammon/HotelDruid-CVE-2021-42948)  create time: 2022-02-19T21:01:12Z
 
 **Cross-Site Request Forgery** : [AS4mir/CVE-2021-45007](https://github.com/AS4mir/CVE-2021-45007)  create time: 2022-02-19T15:28:59Z
 
