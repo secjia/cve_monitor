@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-19 23:23:36.934461  total: 8349 
+ > update time: 2022-02-20 01:22:02.533118  total: 8351 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fancy Zerologon Beta** : [Exploitspacks/CVE-2020-1472](https://github.com/Exploitspacks/CVE-2020-1472)  create time: 2022-02-19T23:51:30Z
+
+**PrintNightmare+Manual** : [Exploitspacks/CVE-2021-34527-CVE-2021-1675](https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675)  create time: 2022-02-19T23:20:58Z
 
 **Fully modified exploit for Ms17-010** : [Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3](https://github.com/Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3)  create time: 2022-02-19T22:45:52Z
 
