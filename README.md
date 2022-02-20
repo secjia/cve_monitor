@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-20 18:27:06.234579  total: 8355 
+ > update time: 2022-02-20 20:24:19.122393  total: 8356 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-25375 - Demo exploit of RNDIS USB Gadget** : [szymonh/rndis-co](https://github.com/szymonh/rndis-co)  create time: 2022-02-17T14:02:58Z
 
 **Proof Of Concept for the 2021's pkexec vulnerability CVE-2021-4034** : [JoaoFukuda/CVE-2021-4034_POC](https://github.com/JoaoFukuda/CVE-2021-4034_POC)  create time: 2022-02-20T17:49:21Z
 
