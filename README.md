@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-20 01:22:02.533118  total: 8351 
+ > update time: 2022-02-20 02:37:35.783159  total: 8352 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [foxtrot/CVE-2021-1965](https://github.com/foxtrot/CVE-2021-1965)  create time: 2022-02-20T00:52:01Z
 
 **Fancy Zerologon Beta** : [Exploitspacks/CVE-2020-1472](https://github.com/Exploitspacks/CVE-2020-1472)  create time: 2022-02-19T23:51:30Z
 
