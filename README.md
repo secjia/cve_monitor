@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-21 14:23:13.720952  total: 8363 
+ > update time: 2022-02-21 16:32:25.346554  total: 8364 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-21907 Mass Exploitation tool written in Python 3 compatible with lists of URL/IPs. For a large number of targets you can increase the number of threads, we don't recommend more than 1024. This tool is NOT free to prevent abuse and do not expect to find a fix-it-all proof of concept for exploitation for free. Only for those knowledgeable.** : [coconut20/CVE-2022-21907](https://github.com/coconut20/CVE-2022-21907)  create time: 2022-02-21T16:28:39Z
 
 **An easy to use Python package to exploit ICSA-17-124-01 / CVE-2017-7921 in HikVision camera's.** : [NFIRBV/krijg-de-hik](https://github.com/NFIRBV/krijg-de-hik)  create time: 2022-02-21T13:38:55Z
 
