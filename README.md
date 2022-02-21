@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-21 13:26:18.620781  total: 8362 
+ > update time: 2022-02-21 14:23:13.720952  total: 8363 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An easy to use Python package to exploit ICSA-17-124-01 / CVE-2017-7921 in HikVision camera's.** : [NFIRBV/krijg-de-hik](https://github.com/NFIRBV/krijg-de-hik)  create time: 2022-02-21T13:38:55Z
 
 **This is the repository used for CVE-2017-7651 for exploiting mosquitto 1.4.14** : [St3v3nsS/CVE-2017-7651](https://github.com/St3v3nsS/CVE-2017-7651)  create time: 2022-02-21T12:54:41Z
 
