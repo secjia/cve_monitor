@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-21 11:21:08.659268  total: 8360 
+ > update time: 2022-02-21 12:37:48.389438  total: 8361 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24112 check** : [shakeman8/CVE-2022-24112](https://github.com/shakeman8/CVE-2022-24112)  create time: 2022-02-21T11:52:28Z
 
 **exiftool exploit** : [tuhin81/CVE-2021-22204-exiftool](https://github.com/tuhin81/CVE-2021-22204-exiftool)  create time: 2022-02-21T11:07:19Z
 
