@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-21 21:21:13.720533  total: 8366 
+ > update time: 2022-02-21 22:23:30.084427  total: 8368 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-3560 Polkit v0.105-26 Linux Privilege Escalation PoC by Vivald0x6f** : [Nosferatuvjr/Vivald0x6f](https://github.com/Nosferatuvjr/Vivald0x6f)  create time: 2022-02-21T21:39:29Z
+
+**Changelog CVE-2021-33044,CVE-2021-33045 Identity authentication bypass vulnerability found in some Dahua products CVE-2021-27248,CVE-2021-27249,CVE-2021-27250,CVE-2021-34860,CVE-2021-34861,CVE-2021-34862,CVE-2021-34863 Multiple vulnerabilities in DAP-2020 H/W rev. Ax with F/W v1.01 and below HTTP Path Traversal CVE-2019-7406 RCE vulnerability in TP-Link Wi-Fi Extenders via a malformed user agent field in HTTP headers CVE-2020-2501,CVE-2021-28797 Stack Buffer Overflow in QNAP Surveillance Station CVE-2021-34730 Critical UPnP Service Flaw on Cisco Small Business RV Series Routers CVE-2020-35785 Multiple HTTP authentication vulnerabilities on DGN2200v1** : [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)  create time: 2022-02-21T21:22:43Z
 
 **A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys.** : [Leo-Security/CVE-2021-27965-Win10-20H2-x64](https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64)  create time: 2022-02-21T20:31:17Z
 
