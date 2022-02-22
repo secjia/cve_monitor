@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-22 10:26:46.939714  total: 8375 
+ > update time: 2022-02-22 14:22:15.244083  total: 8376 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24112：Apache APISIX apisix/batch-requests RCE** : [Mr-xn/CVE-2022-24112](https://github.com/Mr-xn/CVE-2022-24112)  create time: 2022-02-22T14:09:49Z
 
 **no description** : [UzJu/CVE-2022-21660](https://github.com/UzJu/CVE-2022-21660)  create time: 2022-02-22T09:50:09Z
 
