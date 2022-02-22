@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-21 22:23:30.084427  total: 8368 
+ > update time: 2022-02-22 02:35:26.014482  total: 8369 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-23131** : [L0ading-x/cve-2022-23131](https://github.com/L0ading-x/cve-2022-23131)  create time: 2022-02-22T01:39:52Z
 
 **CVE-2021-3560 Polkit v0.105-26 Linux Privilege Escalation PoC by Vivald0x6f** : [Nosferatuvjr/Vivald0x6f](https://github.com/Nosferatuvjr/Vivald0x6f)  create time: 2022-02-21T21:39:29Z
 
