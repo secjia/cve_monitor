@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-22 02:35:26.014482  total: 8369 
+ > update time: 2022-02-22 04:29:08.542135  total: 8373 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mtthwstffrd/dirkjanm-CVE-2020-1472](https://github.com/mtthwstffrd/dirkjanm-CVE-2020-1472)  create time: 2022-02-22T03:33:38Z
+
+**no description** : [mtthwstffrd/SecuraBV-CVE-2020-1472](https://github.com/mtthwstffrd/SecuraBV-CVE-2020-1472)  create time: 2022-02-22T03:33:24Z
+
+**no description** : [mtthwstffrd/calebstewart-CVE-2021-1675](https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675)  create time: 2022-02-22T03:32:34Z
+
+**no description** : [mtthwstffrd/cube0x0-CVE-2021-1675](https://github.com/mtthwstffrd/cube0x0-CVE-2021-1675)  create time: 2022-02-22T03:32:14Z
 
 **cve-2022-23131** : [L0ading-x/cve-2022-23131](https://github.com/L0ading-x/cve-2022-23131)  create time: 2022-02-22T01:39:52Z
 
