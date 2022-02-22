@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-22 19:19:27.237892  total: 8378 
+ > update time: 2022-02-22 22:24:02.642487  total: 8379 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**An exploit for CVE-2020-6418 implementing a SHELF Loader. Published as part of Tmp.0ut volume 2** : [ulexec/ChromeSHELFLoader](https://github.com/ulexec/ChromeSHELFLoader)  create time: 2022-02-19T20:00:04Z
 
 **Apache APISIX apisix/batch-requests RCE** : [Udyz/CVE-2022-24112](https://github.com/Udyz/CVE-2022-24112)  create time: 2022-02-22T19:04:52Z
 
