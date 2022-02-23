@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-23 09:21:07.019508  total: 8380 
+ > update time: 2022-02-23 10:26:00.113765  total: 8382 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-](https://github.com/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-)  create time: 2022-02-23T10:15:59Z
+
+**no description** : [pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219](https://github.com/pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219)  create time: 2022-02-23T10:10:23Z
 
 **Writeup(malay) ''Coming soon"** : [Blackyguy/CVE-2012-2661-ActiveRecord-SQL-injection](https://github.com/Blackyguy/CVE-2012-2661-ActiveRecord-SQL-injection)  create time: 2022-02-23T09:15:42Z
 
