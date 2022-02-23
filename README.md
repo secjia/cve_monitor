@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-23 15:26:01.673910  total: 8385 
+ > update time: 2022-02-23 16:34:44.140202  total: 8386 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [polling-repo-continua/CVE-2022-25257](https://github.com/polling-repo-continua/CVE-2022-25257)  create time: 2022-02-20T06:42:24Z
 
 **CVE-2022-0529 & CVE-2022-0530** : [ByteHackr/unzip_poc](https://github.com/ByteHackr/unzip_poc)  create time: 2022-02-23T14:15:53Z
 
