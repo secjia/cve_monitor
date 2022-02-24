@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-24 14:23:27.635657  total: 8392 
+ > update time: 2022-02-24 16:33:15.659551  total: 8393 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit PoC of CVE-2020-18324** : [hamm0nz/CVE-2020-18324](https://github.com/hamm0nz/CVE-2020-18324)  create time: 2022-02-24T15:38:11Z
 
 **A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228** : [Ananya-0306/Log-4j-scanner](https://github.com/Ananya-0306/Log-4j-scanner)  create time: 2022-02-24T13:49:14Z
 
