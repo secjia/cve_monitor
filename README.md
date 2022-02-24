@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-24 12:37:26.738553  total: 8390 
+ > update time: 2022-02-24 14:23:27.635657  total: 8392 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228** : [Ananya-0306/Log-4j-scanner](https://github.com/Ananya-0306/Log-4j-scanner)  create time: 2022-02-24T13:49:14Z
+
+**Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27** : [OmriBaso/CVE-2022-22845-Exploit](https://github.com/OmriBaso/CVE-2022-22845-Exploit)  create time: 2022-02-24T13:40:12Z
 
 **no description** : [pykiller/CVE-2022-23131](https://github.com/pykiller/CVE-2022-23131)  create time: 2022-02-24T11:34:27Z
 
