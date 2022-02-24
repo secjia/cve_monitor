@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-23 17:24:49.926953  total: 8387 
+ > update time: 2022-02-24 08:27:22.544756  total: 8388 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trganda/CVE-2022-23131](https://github.com/trganda/CVE-2022-23131)  create time: 2022-02-24T08:10:46Z
 
 **Zabbix SSO Bypass** : [random-robbie/cve-2022-23131-exp](https://github.com/random-robbie/cve-2022-23131-exp)  create time: 2022-02-23T16:34:03Z
 
