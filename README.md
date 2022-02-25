@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-25 08:27:20.471491  total: 8398 
+ > update time: 2022-02-25 09:23:25.211893  total: 8400 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [MoritzHuppert/CVE-2022-25022](https://github.com/MoritzHuppert/CVE-2022-25022)  create time: 2022-02-25T08:26:12Z
+
+**no description** : [MoritzHuppert/CVE-2022-25020](https://github.com/MoritzHuppert/CVE-2022-25020)  create time: 2022-02-25T08:24:44Z
 
 **no description** : [MoritzHuppert/CVE-2022-25018](https://github.com/MoritzHuppert/CVE-2022-25018)  create time: 2022-02-25T08:23:49Z
 
