@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-25 02:40:21.063487  total: 8396 
+ > update time: 2022-02-25 08:27:20.471491  total: 8398 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [MoritzHuppert/CVE-2022-25018](https://github.com/MoritzHuppert/CVE-2022-25018)  create time: 2022-02-25T08:23:49Z
+
+**POC for CVE-2022-24124** : [ColdFusionX/CVE-2022-24124](https://github.com/ColdFusionX/CVE-2022-24124)  create time: 2022-02-25T07:55:55Z
 
 **no description** : [hahaleyile/CVE-2021-4034](https://github.com/hahaleyile/CVE-2021-4034)  create time: 2022-02-25T01:30:09Z
 
