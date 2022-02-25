@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-25 12:36:41.315554  total: 8401 
+ > update time: 2022-02-25 15:24:44.184687  total: 8402 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache APISIX batch-requests RCE(CVE-2022-24112)** : [Axx8/CVE-2022-24112](https://github.com/Axx8/CVE-2022-24112)  create time: 2022-02-25T15:17:28Z
 
 **Script to demonstrate the Grafana directory traversal exploit (CVE-2021-43798).** : [Jroo1053/GrafanaDirInclusion](https://github.com/Jroo1053/GrafanaDirInclusion)  create time: 2022-02-25T09:26:40Z
 
