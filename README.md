@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-26 17:22:34.650649  total: 8406 
+ > update time: 2022-02-26 18:26:47.812061  total: 8407 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit PoC for CVE-2020-18326** : [hamm0nz/CVE-2020-18326](https://github.com/hamm0nz/CVE-2020-18326)  create time: 2022-02-26T17:30:41Z
 
 **no description** : [hamm0nz/CVE-2020-18325](https://github.com/hamm0nz/CVE-2020-18325)  create time: 2022-02-26T17:06:09Z
 
