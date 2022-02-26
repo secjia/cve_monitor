@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-26 15:23:47.686920  total: 8405 
+ > update time: 2022-02-26 17:22:34.650649  total: 8406 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hamm0nz/CVE-2020-18325](https://github.com/hamm0nz/CVE-2020-18325)  create time: 2022-02-26T17:06:09Z
 
 **Tor Browser 9.0.7 on Windows 10 build 10586 is vulnerable to information disclosure. This could allow local attackers to bypass the intended anonymity feature and obtain information regarding the onion services visited by a local user. This can be accomplished by analyzing RAM memory even several hours after the local user used the product. This occurs because the product doesn't properly free memory.** : [malakkf/CVE-2021-46702](https://github.com/malakkf/CVE-2021-46702)  create time: 2022-02-26T13:52:44Z
 
