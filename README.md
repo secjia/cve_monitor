@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-26 18:26:47.812061  total: 8407 
+ > update time: 2022-02-26 21:19:56.470491  total: 8409 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"** : [0vercl0k/CVE-2022-21971](https://github.com/0vercl0k/CVE-2022-21971)  create time: 2022-02-26T20:37:42Z
+
+**PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability"** : [0vercl0k/CVE-2022-21974](https://github.com/0vercl0k/CVE-2022-21974)  create time: 2022-02-26T18:53:56Z
 
 **Exploit PoC for CVE-2020-18326** : [hamm0nz/CVE-2020-18326](https://github.com/hamm0nz/CVE-2020-18326)  create time: 2022-02-26T17:30:41Z
 
