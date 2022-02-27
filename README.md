@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-27 12:35:39.608591  total: 8410 
+ > update time: 2022-02-27 14:22:03.558526  total: 8411 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**kctf exploit** : [shahparkhan/cve-2022-0185](https://github.com/shahparkhan/cve-2022-0185)  create time: 2022-02-27T13:42:02Z
 
 **no description** : [Fa1c0n35/zabbix-cve-2022-23131](https://github.com/Fa1c0n35/zabbix-cve-2022-23131)  create time: 2022-02-27T11:30:53Z
 
