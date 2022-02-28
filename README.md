@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-28 15:26:20.782182  total: 8425 
+ > update time: 2022-02-28 23:25:00.378434  total: 8426 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of concept (wrapped into an iOS app) for  CVE-2021-30955** : [nickorlow/CVE-2021-30955-POC](https://github.com/nickorlow/CVE-2021-30955-POC)  create time: 2022-02-28T22:23:51Z
 
 **This script is intended to validate Apache Struts 2 vulnerability (CVE-2017-5638), AKA Struts-Shock.** : [readloud/CVE-2017-5638](https://github.com/readloud/CVE-2017-5638)  create time: 2022-02-28T14:49:52Z
 
