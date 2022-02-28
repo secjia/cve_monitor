@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-28 01:21:50.078023  total: 8412 
+ > update time: 2022-02-28 04:30:33.105265  total: 8417 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Android Ransomware Development - AES256 encryption + CVE-2019-2215 + Data Exfiltration** : [nicchongwb/Rootsmart-v2.0](https://github.com/nicchongwb/Rootsmart-v2.0)  create time: 2022-02-28T02:34:31Z
+
+**no description** : [l00neyhacker/CVE-2022-26158](https://github.com/l00neyhacker/CVE-2022-26158)  create time: 2022-02-28T03:51:56Z
+
+**no description** : [l00neyhacker/CVE-2022-26157](https://github.com/l00neyhacker/CVE-2022-26157)  create time: 2022-02-28T03:51:05Z
+
+**no description** : [l00neyhacker/CVE-2022-26156](https://github.com/l00neyhacker/CVE-2022-26156)  create time: 2022-02-28T03:50:12Z
+
+**no description** : [l00neyhacker/CVE-2022-26155](https://github.com/l00neyhacker/CVE-2022-26155)  create time: 2022-02-28T03:47:15Z
 
 **CVE-2022-1111** : [KiritoLoveAsuna/CVE-2022-1111](https://github.com/KiritoLoveAsuna/CVE-2022-1111)  create time: 2022-02-28T01:08:03Z
 
