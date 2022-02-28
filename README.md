@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-28 06:29:26.958325  total: 8420 
+ > update time: 2022-02-28 07:22:59.790552  total: 8421 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC for KeePass [CVE-2022-0725]** : [ByteHackr/keepass_poc](https://github.com/ByteHackr/keepass_poc)  create time: 2022-02-28T06:53:37Z
 
 **CVE-2022-0529 & CVE-2022-0530** : [ByteHackr/unzip_poc](https://github.com/ByteHackr/unzip_poc)  create time: 2022-02-28T05:44:52Z
 
