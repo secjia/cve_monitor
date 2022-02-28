@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-02-28 11:22:15.447771  total: 8422 
+ > update time: 2022-02-28 15:26:20.782182  total: 8425 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This script is intended to validate Apache Struts 2 vulnerability (CVE-2017-5638), AKA Struts-Shock.** : [readloud/CVE-2017-5638](https://github.com/readloud/CVE-2017-5638)  create time: 2022-02-28T14:49:52Z
+
+**no description** : [timb-machine-mirrors/CVE-2021-30955](https://github.com/timb-machine-mirrors/CVE-2021-30955)  create time: 2022-02-28T14:54:10Z
+
+**A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file.** : [p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML](https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML)  create time: 2022-02-21T19:59:11Z
 
 **Zabbix - SAML SSO Authentication Bypass** : [kh4sh3i/CVE-2022-23131](https://github.com/kh4sh3i/CVE-2022-23131)  create time: 2022-02-28T10:37:02Z
 
