@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-01 19:20:16.918125  total: 8433 
+ > update time: 2022-03-01 22:23:46.803567  total: 8434 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tools for get offsets and adding patch for support i386** : [usernameid0/tools-for-CVE-2018-1000001](https://github.com/usernameid0/tools-for-CVE-2018-1000001)  create time: 2022-03-01T21:27:37Z
 
 **no description** : [PaloAltoNetworks/can-ctr-escape-cve-2022-0492](https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492)  create time: 2022-02-28T01:25:26Z
 
