@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-02 12:38:07.227803  total: 8435 
+ > update time: 2022-03-02 13:27:20.472488  total: 8436 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**polkit-pkexec local privilege escalation vulnerability** : [Xuanyaz/CVE-2021-4034](https://github.com/Xuanyaz/CVE-2021-4034)  create time: 2022-03-02T13:07:00Z
 
 **no description** : [lucksec/Spring-Cloud-Gateway-CVE-2022-22947](https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947)  create time: 2022-03-02T11:58:55Z
 
