@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-02 15:25:07.369995  total: 8437 
+ > update time: 2022-03-02 16:33:24.390526  total: 8439 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-11235-Git-Submodule-CE + Docker Ngrok Configuration** : [twseptian/CVE-2018-11235-Git-Submodule-CE-and-Docker-Ngrok-Configuration](https://github.com/twseptian/CVE-2018-11235-Git-Submodule-CE-and-Docker-Ngrok-Configuration)  create time: 2022-03-02T16:26:52Z
+
+**A "Creation of Temporary Files in Directory with Insecure Permissions" vulnerability in PrintixService.exe, in Printix's "Printix Secure Cloud Print Management", Version 1.3.1106.0 and below allows any logged in user to elevate any executable or file to the SYSTEM context. This is achieved by exploiting race conditions in the Installer.** : [ComparedArray/printix-CVE-2022-25090](https://github.com/ComparedArray/printix-CVE-2022-25090)  create time: 2022-03-02T13:14:11Z
 
 **no description** : [takumak/cve-2019-5736-reproducer](https://github.com/takumak/cve-2019-5736-reproducer)  create time: 2022-03-02T14:57:08Z
 
