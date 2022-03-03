@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 02:48:55.020113  total: 8442 
+ > update time: 2022-03-03 07:23:41.595838  total: 8443 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Kali linux _ CVE 2019 - 2022** : [AhnSungHoon/Kali_CVE](https://github.com/AhnSungHoon/Kali_CVE)  create time: 2022-03-03T07:16:21Z
 
 **Test tool for CVE-2020-1472** : [Anonymous-Family/CVE-2020-1472](https://github.com/Anonymous-Family/CVE-2020-1472)  create time: 2022-03-03T02:00:21Z
 
