@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 17:26:06.169595  total: 8451 
+ > update time: 2022-03-03 19:20:40.539174  total: 8453 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-4034** : [Jesrat/make_me_root](https://github.com/Jesrat/make_me_root)  create time: 2022-03-03T18:29:11Z
+
+**Spring Cloud Gateway < 3.0.7 & < 3.1.1 Code Injection (RCE)** : [carlosevieira/CVE-2022-22947](https://github.com/carlosevieira/CVE-2022-22947)  create time: 2022-03-03T18:26:18Z
 
 **no description** : [micha3lcve/CVE-2021-44228-Mass-RCE](https://github.com/micha3lcve/CVE-2021-44228-Mass-RCE)  create time: 2022-03-03T17:18:43Z
 
