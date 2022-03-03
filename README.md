@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 13:29:16.745153  total: 8448 
+ > update time: 2022-03-03 17:26:06.169595  total: 8451 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [micha3lcve/CVE-2021-44228-Mass-RCE](https://github.com/micha3lcve/CVE-2021-44228-Mass-RCE)  create time: 2022-03-03T17:18:43Z
+
+**RFI to RCE Nagios/NagiosXI exploitation** : [ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345](https://github.com/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345)  create time: 2021-06-02T21:39:53Z
+
+**Spring_CVE_2022_22947:Spring Cloud Gateway现高风险漏洞cve,poc漏洞利用,一键利用,开箱即用** : [wjl110/Spring_CVE_2022_22947](https://github.com/wjl110/Spring_CVE_2022_22947)  create time: 2022-03-03T16:56:37Z
 
 **Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947** : [Axx8/CVE-2022-22947_Rce_Exp](https://github.com/Axx8/CVE-2022-22947_Rce_Exp)  create time: 2022-03-03T13:13:02Z
 
