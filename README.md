@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 07:23:41.595838  total: 8443 
+ > update time: 2022-03-03 10:31:47.156644  total: 8445 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository contains files for reproducing the vulnerability.** : [yasin-cs-ko-ak/grafana-cve-2021-43798](https://github.com/yasin-cs-ko-ak/grafana-cve-2021-43798)  create time: 2022-03-03T09:37:46Z
+
+**poc for cve-2022-22947** : [cgddgc/cve-2022-22947](https://github.com/cgddgc/cve-2022-22947)  create time: 2022-03-03T09:24:36Z
 
 **Kali linux _ CVE 2019 - 2022** : [AhnSungHoon/Kali_CVE](https://github.com/AhnSungHoon/Kali_CVE)  create time: 2022-03-03T07:16:21Z
 
