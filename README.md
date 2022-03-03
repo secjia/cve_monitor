@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 11:20:31.400867  total: 8447 
+ > update time: 2022-03-03 13:29:16.745153  total: 8448 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947** : [Axx8/CVE-2022-22947_Rce_Exp](https://github.com/Axx8/CVE-2022-22947_Rce_Exp)  create time: 2022-03-03T13:13:02Z
 
 **Spring cloud gateway code injection : CVE-2022-22947** : [Vulnmachines/spring-cve-2022-22947](https://github.com/Vulnmachines/spring-cve-2022-22947)  create time: 2022-03-03T11:14:37Z
 
