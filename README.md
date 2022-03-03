@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-02 19:21:13.787388  total: 8440 
+ > update time: 2022-03-03 02:48:55.020113  total: 8442 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test tool for CVE-2020-1472** : [Anonymous-Family/CVE-2020-1472](https://github.com/Anonymous-Family/CVE-2020-1472)  create time: 2022-03-03T02:00:21Z
+
+**Zero-day-scanning is a Domain Controller vulnerability scanner, that currently includes checks for Zero-day-scanning (CVE-2020-1472), MS-PAR/MS-RPRN and SMBv2 Signing.** : [Anonymous-Family/Zero-day-scanning](https://github.com/Anonymous-Family/Zero-day-scanning)  create time: 2022-03-03T01:55:28Z
 
 **Exploiting Linux Kernel Vulnerability: Dirty Cow  (CVE-2016-5195)** : [ellietoulabi/Dirty-Cow](https://github.com/ellietoulabi/Dirty-Cow)  create time: 2022-03-02T19:06:36Z
 
