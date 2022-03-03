@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 10:31:47.156644  total: 8445 
+ > update time: 2022-03-03 11:20:31.400867  total: 8447 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring cloud gateway code injection : CVE-2022-22947** : [Vulnmachines/spring-cve-2022-22947](https://github.com/Vulnmachines/spring-cve-2022-22947)  create time: 2022-03-03T11:14:37Z
+
+**CVE-2022-22947 RCE** : [shakeman8/CVE-2022-22947-RCE](https://github.com/shakeman8/CVE-2022-22947-RCE)  create time: 2022-03-03T10:44:36Z
 
 **This repository contains files for reproducing the vulnerability.** : [yasin-cs-ko-ak/grafana-cve-2021-43798](https://github.com/yasin-cs-ko-ak/grafana-cve-2021-43798)  create time: 2022-03-03T09:37:46Z
 
