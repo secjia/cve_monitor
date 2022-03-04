@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-04 05:23:04.023949  total: 8460 
+ > update time: 2022-03-04 06:28:31.591516  total: 8462 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**日常更新一些顺手写的gobypoc，包含高危害EXP** : [york-cmd/CVE-2022-22947-goby](https://github.com/york-cmd/CVE-2022-22947-goby)  create time: 2022-03-04T05:45:05Z
+
+**Exp** : [BerMalBerIst/CVE-2022-22947](https://github.com/BerMalBerIst/CVE-2022-22947)  create time: 2022-03-04T05:26:33Z
 
 **poc for cve-2022-22947** : [scopion/cve-2022-22947](https://github.com/scopion/cve-2022-22947)  create time: 2022-03-03T09:30:37Z
 
