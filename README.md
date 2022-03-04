@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-04 10:26:33.975155  total: 8467 
+ > update time: 2022-03-04 12:37:59.620077  total: 8468 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更** : [chaosec2021/CVE-2022-22947-POC](https://github.com/chaosec2021/CVE-2022-22947-POC)  create time: 2022-03-04T11:31:00Z
 
 **Spring-Cloud-Gateway-CVE-2022-22947** : [nu0l/cve-2022-22947](https://github.com/nu0l/cve-2022-22947)  create time: 2022-03-04T10:10:12Z
 
