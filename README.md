@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-04 01:38:55.667117  total: 8455 
+ > update time: 2022-03-04 02:50:24.827448  total: 8458 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway远程代码执行漏洞** : [Summer177/Spring-Cloud-Gateway-CVE-2022-22947-](https://github.com/Summer177/Spring-Cloud-Gateway-CVE-2022-22947-)  create time: 2022-03-04T02:36:02Z
+
+**Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947）** : [helloexp/CVE-2022-22947](https://github.com/helloexp/CVE-2022-22947)  create time: 2022-03-04T02:29:02Z
+
+**no description** : [Greetdawn/CVE-2022-22947](https://github.com/Greetdawn/CVE-2022-22947)  create time: 2022-03-04T02:27:50Z
 
 **no description** : [skentagon/CVE-2021-41773](https://github.com/skentagon/CVE-2021-41773)  create time: 2022-02-27T22:39:58Z
 
