@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-03 20:25:03.652380  total: 8454 
+ > update time: 2022-03-04 01:38:55.667117  total: 8455 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [skentagon/CVE-2021-41773](https://github.com/skentagon/CVE-2021-41773)  create time: 2022-02-27T22:39:58Z
 
 **SpringCloudGatewayRCE - CVE-2022-22947 / Code By:Tas9er** : [Tas9er/SpringCloudGatewayRCE](https://github.com/Tas9er/SpringCloudGatewayRCE)  create time: 2022-03-03T19:45:18Z
 
