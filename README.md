@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-06 08:27:07.405948  total: 8481 
+ > update time: 2022-03-06 11:20:07.865520  total: 8483 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2020-0601 - CryptoAPI exploit** : [ioncodes/Curveball](https://github.com/ioncodes/Curveball)  create time: 2020-01-28T21:24:54Z
+
+**A script to check if a container environment is vulnerable to container escapes via CVE-2022-0492** : [SofianeHamlaoui/CVE-2022-0492-Checker](https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker)  create time: 2022-03-06T10:57:09Z
 
 **no description** : [Onurhan1337/CVE-2018-10933](https://github.com/Onurhan1337/CVE-2018-10933)  create time: 2022-03-06T07:43:02Z
 
