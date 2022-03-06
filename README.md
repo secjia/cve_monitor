@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-06 11:20:07.865520  total: 8483 
+ > update time: 2022-03-06 21:21:20.282300  total: 8484 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible.** : [T369-Real/pwnkit-pwn](https://github.com/T369-Real/pwnkit-pwn)  create time: 2022-03-05T19:49:52Z
 
 **PoC for CVE-2020-0601 - CryptoAPI exploit** : [ioncodes/Curveball](https://github.com/ioncodes/Curveball)  create time: 2020-01-28T21:24:54Z
 
