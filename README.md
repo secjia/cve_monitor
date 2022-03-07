@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-06 21:21:20.282300  total: 8484 
+ > update time: 2022-03-07 08:29:15.383306  total: 8485 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway远程代码执行漏洞POC，基于命令执行的基础上，增加了反弹shell操作** : [j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE](https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE)  create time: 2022-03-07T07:24:13Z
 
 **It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible.** : [T369-Real/pwnkit-pwn](https://github.com/T369-Real/pwnkit-pwn)  create time: 2022-03-05T19:49:52Z
 
