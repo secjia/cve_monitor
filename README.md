@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-07 14:22:04.486096  total: 8491 
+ > update time: 2022-03-07 15:25:37.408041  total: 8493 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [darkb1rd/cve-2022-22947](https://github.com/darkb1rd/cve-2022-22947)  create time: 2022-03-07T15:12:45Z
+
+**This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes.** : [Udyz/CVE-2022-0847](https://github.com/Udyz/CVE-2022-0847)  create time: 2022-03-07T14:31:38Z
 
 **CVE-2022-25636** : [Bonfee/CVE-2022-25636](https://github.com/Bonfee/CVE-2022-25636)  create time: 2022-03-07T13:38:41Z
 
