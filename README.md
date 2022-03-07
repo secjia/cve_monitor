@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-07 18:27:57.859625  total: 8498 
+ > update time: 2022-03-07 19:20:31.494155  total: 8501 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit.** : [mauricelambert/CVE-2021-31166](https://github.com/mauricelambert/CVE-2021-31166)  create time: 2022-03-07T18:56:52Z
+
+**A root exploit for CVE-2022-0847** : [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)  create time: 2022-03-07T18:55:20Z
+
+**CVE-2022-0847简单复现** : [imfiver/CVE-2022-0847](https://github.com/imfiver/CVE-2022-0847)  create time: 2022-03-07T18:36:50Z
 
 **Script CVE-2021-4034 en python** : [GatoGamer1155/CVE-2021-4034](https://github.com/GatoGamer1155/CVE-2021-4034)  create time: 2022-03-07T15:10:32Z
 
