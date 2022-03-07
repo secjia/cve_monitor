@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-07 15:25:37.408041  total: 8493 
+ > update time: 2022-03-07 16:34:24.192512  total: 8496 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947)** : [mrknow001/CVE-2022-22947](https://github.com/mrknow001/CVE-2022-22947)  create time: 2022-03-07T16:24:42Z
+
+**CVE-2022-0847** : [bbaranoff/CVE-2022-0847](https://github.com/bbaranoff/CVE-2022-0847)  create time: 2022-03-07T15:50:18Z
+
+**PoC for CVE-2022-23940** : [manuelz120/CVE-2022-23940](https://github.com/manuelz120/CVE-2022-23940)  create time: 2022-03-06T17:05:02Z
 
 **no description** : [darkb1rd/cve-2022-22947](https://github.com/darkb1rd/cve-2022-22947)  create time: 2022-03-07T15:12:45Z
 
