@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-07 19:20:31.494155  total: 8501 
+ > update time: 2022-03-07 20:25:32.541724  total: 8502 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**66666** : [2xYuan/CVE-2022-0847](https://github.com/2xYuan/CVE-2022-0847)  create time: 2022-03-07T19:56:37Z
 
 **CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit.** : [mauricelambert/CVE-2021-31166](https://github.com/mauricelambert/CVE-2021-31166)  create time: 2022-03-07T18:56:52Z
 
