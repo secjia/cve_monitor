@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-07 09:23:51.512732  total: 8486 
+ > update time: 2022-03-07 10:27:14.309075  total: 8489 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [RobertDra/CVE-2022-25257](https://github.com/RobertDra/CVE-2022-25257)  create time: 2022-03-07T10:19:20Z
+
+**no description** : [RobertDra/CVE-2022-25256](https://github.com/RobertDra/CVE-2022-25256)  create time: 2022-03-07T10:18:41Z
+
+**no description** : [puckiestyle/CVE-2022-0492](https://github.com/puckiestyle/CVE-2022-0492)  create time: 2022-03-07T10:03:17Z
 
 **Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947）批量检测工具** : [YutuSec/SpEL](https://github.com/YutuSec/SpEL)  create time: 2022-03-07T09:14:50Z
 
