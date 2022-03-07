@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-07 08:29:15.383306  total: 8485 
+ > update time: 2022-03-07 09:23:51.512732  total: 8486 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947）批量检测工具** : [YutuSec/SpEL](https://github.com/YutuSec/SpEL)  create time: 2022-03-07T09:14:50Z
 
 **Spring Cloud Gateway远程代码执行漏洞POC，基于命令执行的基础上，增加了反弹shell操作** : [j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE](https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE)  create time: 2022-03-07T07:24:13Z
 
