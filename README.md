@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 21:21:52.129447  total: 8530 
+ > update time: 2022-03-08 22:24:24.554088  total: 8532 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This script exploits CVE-2021-41773 to print file or/and execute command.** : [mauricelambert/CVE-2021-41773](https://github.com/mauricelambert/CVE-2021-41773)  create time: 2022-03-08T21:55:53Z
+
+**This script exploits CVE-2021-42013 to print file or/and execute command.** : [mauricelambert/CVE-2021-42013](https://github.com/mauricelambert/CVE-2021-42013)  create time: 2022-03-08T21:48:40Z
 
 **Script en python sobre la vulnerabilidad CVE-2021-3560** : [GatoGamer1155/CVE-2021-3560](https://github.com/GatoGamer1155/CVE-2021-3560)  create time: 2022-03-08T20:27:00Z
 
