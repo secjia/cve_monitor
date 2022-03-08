@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 13:29:06.727036  total: 8517 
+ > update time: 2022-03-08 14:20:55.341732  total: 8519 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The Dirty Pipe Vulnerability** : [knqyf263/CVE-2022-0847](https://github.com/knqyf263/CVE-2022-0847)  create time: 2022-03-08T13:48:55Z
+
+**CVE-2022-25943** : [HadiMed/KINGSOFT-WPS-Office-LPE](https://github.com/HadiMed/KINGSOFT-WPS-Office-LPE)  create time: 2021-07-09T23:34:57Z
 
 **CVE-2022-0847: Linux Kernel Privilege Escalation Vulnerability** : [ahrixia/CVE_2022_0847](https://github.com/ahrixia/CVE_2022_0847)  create time: 2022-03-08T12:43:43Z
 
