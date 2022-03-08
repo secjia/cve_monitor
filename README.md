@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 09:23:43.679738  total: 8512 
+ > update time: 2022-03-08 10:27:09.864200  total: 8514 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**调试代码包含断点信息,直接导入即可进行调试** : [ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code](https://github.com/ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code)  create time: 2022-03-08T10:07:54Z
+
+**CVE-2022-22947_EXP,CVE-2022-22947_RCE,CVE-2022-22947反弹shell,CVE-2022-22947 getshell** : [aodsec/CVE-2022-22947](https://github.com/aodsec/CVE-2022-22947)  create time: 2022-03-08T09:32:36Z
 
 **no description** : [zhangweijie11/CVE-2020-17519](https://github.com/zhangweijie11/CVE-2020-17519)  create time: 2022-03-08T09:19:27Z
 
