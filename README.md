@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 19:20:30.200339  total: 8527 
+ > update time: 2022-03-08 20:26:36.355952  total: 8529 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Script en python sobre la vulnerabilidad CVE-2021-4034** : [GatoGamer1155/CVE-2021-4034](https://github.com/GatoGamer1155/CVE-2021-4034)  create time: 2022-03-08T20:12:38Z
+
+**CVE-2022-0847** : [4luc4rdr5290/CVE-2022-0847](https://github.com/4luc4rdr5290/CVE-2022-0847)  create time: 2022-03-08T20:18:28Z
 
 **no description** : [chompie1337/Linux_LPE_io_uring_CVE-2021-41073](https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073)  create time: 2022-03-02T19:07:37Z
 
