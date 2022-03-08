@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 16:35:04.829545  total: 8522 
+ > update time: 2022-03-08 17:24:55.913539  total: 8525 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bash script to check for CVE-2022-0847 "Dirty Pipe"** : [basharkey/CVE-2022-0847-dirty-pipe-checker](https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker)  create time: 2022-03-08T17:13:24Z
+
+**CVE-2022-24112: Apache APISIX Remote Code Execution Vulnerability** : [Mah1ndra/CVE-2022-244112](https://github.com/Mah1ndra/CVE-2022-244112)  create time: 2022-03-08T17:08:52Z
+
+**Docker exploit** : [mrchucu1/CVE-2022-0847-Docker](https://github.com/mrchucu1/CVE-2022-0847-Docker)  create time: 2022-03-08T17:02:40Z
 
 **no description** : [ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit)  create time: 2022-03-08T15:33:39Z
 
