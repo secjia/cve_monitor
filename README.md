@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 07:23:33.591230  total: 8510 
+ > update time: 2022-03-08 09:23:43.679738  total: 8512 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [zhangweijie11/CVE-2020-17519](https://github.com/zhangweijie11/CVE-2020-17519)  create time: 2022-03-08T09:19:27Z
+
+**Linux Kernel Local Privilege Escalation Vulnerability CVE-2022-0847.** : [antx-code/CVE-2022-0847](https://github.com/antx-code/CVE-2022-0847)  create time: 2022-03-08T09:10:51Z
 
 **A python implementation of the Dirty Pipe exploit that adds an unprivliged user to the sudoers group.** : [eremus-dev/CVE-2016-5195-sudo-poc](https://github.com/eremus-dev/CVE-2016-5195-sudo-poc)  create time: 2022-03-08T07:17:39Z
 
