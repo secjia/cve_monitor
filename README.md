@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 15:25:30.374356  total: 8520 
+ > update time: 2022-03-08 16:35:04.829545  total: 8522 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit)  create time: 2022-03-08T15:33:39Z
+
+**Implementation of Max Kellermann's exploit for CVE-2022-0847** : [0xIronGoat/dirty-pipe](https://github.com/0xIronGoat/dirty-pipe)  create time: 2022-03-08T15:30:45Z
 
 **no description** : [puckiestyle/CVE-2022-0847](https://github.com/puckiestyle/CVE-2022-0847)  create time: 2022-03-08T14:46:21Z
 
