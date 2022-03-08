@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 12:39:03.443889  total: 8516 
+ > update time: 2022-03-08 13:29:06.727036  total: 8517 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0847: Linux Kernel Privilege Escalation Vulnerability** : [ahrixia/CVE_2022_0847](https://github.com/ahrixia/CVE_2022_0847)  create time: 2022-03-08T12:43:43Z
 
 **CVE-2022-0847 DirtyPipe Exploit.** : [febinrev/dirtypipez-exploit](https://github.com/febinrev/dirtypipez-exploit)  create time: 2022-03-08T11:49:40Z
 
