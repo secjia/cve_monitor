@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 11:21:23.890547  total: 8515 
+ > update time: 2022-03-08 12:39:03.443889  total: 8516 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0847 DirtyPipe Exploit.** : [febinrev/dirtypipez-exploit](https://github.com/febinrev/dirtypipez-exploit)  create time: 2022-03-08T11:49:40Z
 
 **An exploit for CVE-2022-0847 dirty-pipe vulnerability** : [cspshivam/CVE-2022-0847-dirty-pipe-exploit](https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit)  create time: 2022-03-08T10:40:07Z
 
