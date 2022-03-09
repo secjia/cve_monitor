@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-09 05:23:05.520617  total: 8539 
+ > update time: 2022-03-09 06:29:22.855678  total: 8540 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit)  create time: 2022-03-09T05:22:20Z
 
 **Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn. a root shell. (and attempts to restore the damaged binary as well)** : [MRNIKO1/Dirtypipe-exploit](https://github.com/MRNIKO1/Dirtypipe-exploit)  create time: 2022-03-09T04:42:59Z
 
