@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-09 13:28:49.994137  total: 8546 
+ > update time: 2022-03-09 16:34:40.971636  total: 8547 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dirty Pipe POC** : [gyaansastra/CVE-2022-0847](https://github.com/gyaansastra/CVE-2022-0847)  create time: 2022-03-09T15:44:58Z
 
 **ThinkAdmin CVE-2020-25540 POC** : [Rajchowdhury420/ThinkAdmin-CVE-2020-25540](https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540)  create time: 2022-03-09T13:08:31Z
 
