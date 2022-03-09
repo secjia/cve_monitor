@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-09 17:24:38.284243  total: 8548 
+ > update time: 2022-03-09 19:20:41.932813  total: 8549 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploits CVE-2022-22588 vulnerability on iOS 15.2 and lower. Provided for research purposes only.** : [trevorspiniolas/homekitdos](https://github.com/trevorspiniolas/homekitdos)  create time: 2022-01-01T07:38:48Z
 
 **no description** : [T4t4ru/CVE-2022-0847](https://github.com/T4t4ru/CVE-2022-0847)  create time: 2022-03-09T16:47:36Z
 
