@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-08 22:24:24.554088  total: 8532 
+ > update time: 2022-03-09 02:45:56.749168  total: 8535 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Springboot web application accepts a name get parameter and logs its value to log4j2.  Vulnerable to CVE-2021-44228.** : [paulvkitor/log4shellwithlog4j2_13_3](https://github.com/paulvkitor/log4shellwithlog4j2_13_3)  create time: 2022-03-09T02:29:58Z
+
+**no description** : [bakhtiyarsierad/CVE-2021-4034-bug-root](https://github.com/bakhtiyarsierad/CVE-2021-4034-bug-root)  create time: 2022-03-09T02:04:07Z
+
+**A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection.** : [dadhee/CVE-2022-0847_DirtyPipeExploit](https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit)  create time: 2022-03-09T01:55:04Z
 
 **This script exploits CVE-2021-41773 to print file or/and execute command.** : [mauricelambert/CVE-2021-41773](https://github.com/mauricelambert/CVE-2021-41773)  create time: 2022-03-08T21:55:53Z
 
