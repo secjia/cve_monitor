@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-09 12:37:46.445060  total: 8545 
+ > update time: 2022-03-09 13:28:49.994137  total: 8546 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ThinkAdmin CVE-2020-25540 POC** : [Rajchowdhury420/ThinkAdmin-CVE-2020-25540](https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540)  create time: 2022-03-09T13:08:31Z
 
 **Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn. a root shell. (and attempts to restore the damaged binary as well)** : [nanaao/Dirtypipe-exploit](https://github.com/nanaao/Dirtypipe-exploit)  create time: 2022-03-09T07:16:57Z
 
