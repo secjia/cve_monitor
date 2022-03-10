@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-10 02:52:23.629286  total: 8554 
+ > update time: 2022-03-10 03:28:25.423289  total: 8555 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**仅仅是poc,并不是exp** : [VVeakee/CVE-2022-24990-POC](https://github.com/VVeakee/CVE-2022-24990-POC)  create time: 2022-03-10T03:16:04Z
 
 **no description** : [babyshen/CVE-2019-13272](https://github.com/babyshen/CVE-2019-13272)  create time: 2022-03-10T01:27:46Z
 
