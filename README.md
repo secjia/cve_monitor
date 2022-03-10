@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-09 19:20:41.932813  total: 8549 
+ > update time: 2022-03-10 01:30:50.683263  total: 8552 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [edsonjt81/CVE-2021-4034-Linux](https://github.com/edsonjt81/CVE-2021-4034-Linux)  create time: 2022-03-10T01:24:14Z
+
+**no description** : [edsonjt81/CVE-2022-0847-Linux](https://github.com/edsonjt81/CVE-2022-0847-Linux)  create time: 2022-03-10T01:18:26Z
+
+**A root exploit for CVE-2022-0847 (Dirty Pipe)** : [babyshen/CVE-2022-0847](https://github.com/babyshen/CVE-2022-0847)  create time: 2022-03-10T00:54:11Z
 
 **Exploits CVE-2022-22588 vulnerability on iOS 15.2 and lower. Provided for research purposes only.** : [trevorspiniolas/homekitdos](https://github.com/trevorspiniolas/homekitdos)  create time: 2022-01-01T07:38:48Z
 
