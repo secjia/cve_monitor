@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-10 05:22:50.241648  total: 8558 
+ > update time: 2022-03-10 06:29:24.863445  total: 8559 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [PaoPaoLong-lab/Spring-CVE-2022-22947-](https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947-)  create time: 2022-03-10T06:01:32Z
 
 **CVE-2021-44228 in Container** : [cryst4lliz3/CVE-2021-44228](https://github.com/cryst4lliz3/CVE-2021-44228)  create time: 2022-03-10T04:32:07Z
 
