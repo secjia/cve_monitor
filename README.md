@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-11 13:27:26.365190  total: 8580 
+ > update time: 2022-03-11 14:21:59.150100  total: 8581 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [frarinha/CVE-2018-6574](https://github.com/frarinha/CVE-2018-6574)  create time: 2022-03-11T13:40:22Z
 
 **LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123** : [echo-devim/exploit_linux_kernel4.13](https://github.com/echo-devim/exploit_linux_kernel4.13)  create time: 2022-03-11T12:54:10Z
 
