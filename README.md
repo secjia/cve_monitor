@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-11 18:28:38.540265  total: 8583 
+ > update time: 2022-03-11 19:20:08.829129  total: 8584 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Script en python para crear imagenes maliciosas (reverse shell)** : [GatoGamer1155/CVE-2021-22204](https://github.com/GatoGamer1155/CVE-2021-22204)  create time: 2022-03-11T19:02:28Z
 
 **Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated)** : [TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated](https://github.com/TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated)  create time: 2022-03-11T00:16:35Z
 
