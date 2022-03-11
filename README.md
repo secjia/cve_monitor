@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-11 19:20:08.829129  total: 8584 
+ > update time: 2022-03-11 22:24:18.446953  total: 8585 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Small PoC of CVE-2021-41773** : [the29a/CVE-2021-41773](https://github.com/the29a/CVE-2021-41773)  create time: 2022-03-11T21:50:35Z
 
 **Script en python para crear imagenes maliciosas (reverse shell)** : [GatoGamer1155/CVE-2021-22204](https://github.com/GatoGamer1155/CVE-2021-22204)  create time: 2022-03-11T19:02:28Z
 
