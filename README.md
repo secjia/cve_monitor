@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-10 21:22:25.252433  total: 8568 
+ > update time: 2022-03-11 01:29:44.730658  total: 8569 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [VVeakee/CVE-2022-24990-EXP](https://github.com/VVeakee/CVE-2022-24990-EXP)  create time: 2022-03-11T01:06:26Z
 
 **CVE-2022-0847 Python exploit to get root or write a no write permission, immutable or read-only mounted file.** : [terabitSec/dirtyPipe-automaticRoot](https://github.com/terabitSec/dirtyPipe-automaticRoot)  create time: 2022-03-10T20:15:07Z
 
