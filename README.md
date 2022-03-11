@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-11 07:23:01.854344  total: 8572 
+ > update time: 2022-03-11 08:29:07.621004  total: 8575 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Python-based DirtyPipe (CVE-2022-0847) POC to pop a root shell** : [crusoe112/DirtyPipePython](https://github.com/crusoe112/DirtyPipePython)  create time: 2022-03-11T08:22:56Z
+
+**CVE-2022-0492 EXP and Analysis write up** : [chenaotian/CVE-2022-0492](https://github.com/chenaotian/CVE-2022-0492)  create time: 2022-03-11T08:02:46Z
+
+**no description** : [dskmehra/CVE-2022-0848](https://github.com/dskmehra/CVE-2022-0848)  create time: 2022-03-11T07:26:04Z
 
 **MetaBase 任意文件读取** : [Chen-ling-afk/CVE-2021-41277](https://github.com/Chen-ling-afk/CVE-2021-41277)  create time: 2022-03-11T06:39:38Z
 
