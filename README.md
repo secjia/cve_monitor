@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-11 12:38:17.732671  total: 8577 
+ > update time: 2022-03-11 13:27:26.365190  total: 8580 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123** : [echo-devim/exploit_linux_kernel4.13](https://github.com/echo-devim/exploit_linux_kernel4.13)  create time: 2022-03-11T12:54:10Z
+
+**MSF Module CVE-2018-15727** : [svnsyn/CVE-2018-15727](https://github.com/svnsyn/CVE-2018-15727)  create time: 2022-03-11T13:20:19Z
+
+**Log4j2组件命令执行RCE / Code By:Jun_sheng** : [Jun-5heng/CVE-2021-44228](https://github.com/Jun-5heng/CVE-2021-44228)  create time: 2022-03-11T12:43:15Z
 
 **no description** : [sakib570/CVE-2018-1263-Demo](https://github.com/sakib570/CVE-2018-1263-Demo)  create time: 2022-03-11T12:07:16Z
 
