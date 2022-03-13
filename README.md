@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-13 20:24:42.745225  total: 8593 
+ > update time: 2022-03-13 21:21:20.486905  total: 8595 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**OPEN AND READ JSON** : [StepOK10/CVE.NVD.NIST2202-2002](https://github.com/StepOK10/CVE.NVD.NIST2202-2002)  create time: 2022-03-13T21:01:21Z
+
+**CVE-2021-4034 (PWNKIT). A memory corruption vulnerability in Polkit's pkexec, which allows any unprivileged user to gain full root privileges on a vulnerable system using default polkit configuration.** : [Nel0x/pwnkit-vulnerability](https://github.com/Nel0x/pwnkit-vulnerability)  create time: 2022-03-13T20:24:59Z
 
 **Dirty Pipe (CVE-2022-0847) zafiyeti kontrolü** : [realbatuhan/dirtypipetester](https://github.com/realbatuhan/dirtypipetester)  create time: 2022-03-13T19:30:14Z
 
