@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-12 22:24:46.619442  total: 8588 
+ > update time: 2022-03-13 06:31:51.125431  total: 8589 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0847 (Dirty Pipe) is an arbitrary file overwrite vulnerability that allows escalation of privileges by modifying or overwriting arbitrary read-only files e.g. /etc/passwd, /etc/shadow.** : [sa-infinity8888/Dirty-Pipe-CVE-2022-0847](https://github.com/sa-infinity8888/Dirty-Pipe-CVE-2022-0847)  create time: 2022-03-13T05:51:06Z
 
 **Apache2 2.4.49 - LFI & RCE Exploit - CVE-2021-41773** : [thehackersbrain/CVE-2021-41773](https://github.com/thehackersbrain/CVE-2021-41773)  create time: 2022-03-12T21:24:55Z
 
