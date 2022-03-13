@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-13 16:32:55.701453  total: 8592 
+ > update time: 2022-03-13 20:24:42.745225  total: 8593 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dirty Pipe (CVE-2022-0847) zafiyeti kontrolü** : [realbatuhan/dirtypipetester](https://github.com/realbatuhan/dirtypipetester)  create time: 2022-03-13T19:30:14Z
 
 **no description** : [micha3lcve/LOG4J-mass-rce-CVE-2021-44228](https://github.com/micha3lcve/LOG4J-mass-rce-CVE-2021-44228)  create time: 2022-03-13T15:23:49Z
 
