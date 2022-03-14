@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-14 04:37:05.580513  total: 8600 
+ > update time: 2022-03-14 05:42:42.970291  total: 8601 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587** : [antx-code/CVE-2021-35587](https://github.com/antx-code/CVE-2021-35587)  create time: 2022-03-14T05:03:54Z
 
 **no description** : [cryst4lliz3/CVE-2021-44228-vuln-app](https://github.com/cryst4lliz3/CVE-2021-44228-vuln-app)  create time: 2022-03-14T04:13:13Z
 
