@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-14 05:42:42.970291  total: 8601 
+ > update time: 2022-03-14 08:28:50.918527  total: 8602 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-30955 iOS 15.1.1 POC for 6GB RAM devices (A14-A15)** : [markie-dev/desc_race_A15](https://github.com/markie-dev/desc_race_A15)  create time: 2022-03-14T06:42:45Z
 
 **Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587** : [antx-code/CVE-2021-35587](https://github.com/antx-code/CVE-2021-35587)  create time: 2022-03-14T05:03:54Z
 
