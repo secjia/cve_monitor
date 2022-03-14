@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-14 18:27:29.638210  total: 8609 
+ > update time: 2022-03-14 21:23:04.310471  total: 8610 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24122 Proof of Concept** : [meowmeowxw/CVE-2022-24122](https://github.com/meowmeowxw/CVE-2022-24122)  create time: 2022-03-10T15:20:04Z
 
 **Exploit for the Rails CVE-2019-5420** : [trickstersec/CVE-2019-5420](https://github.com/trickstersec/CVE-2019-5420)  create time: 2022-03-14T17:29:47Z
 
