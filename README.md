@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-14 14:23:42.005029  total: 8604 
+ > update time: 2022-03-14 16:35:05.822037  total: 8605 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0847 POC** : [breachnix/dirty-pipe-poc](https://github.com/breachnix/dirty-pipe-poc)  create time: 2022-03-14T15:32:25Z
 
 **no description** : [p0ch4t/CVE-2022-0867](https://github.com/p0ch4t/CVE-2022-0867)  create time: 2022-03-14T14:19:28Z
 
