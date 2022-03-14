@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-14 16:35:05.822037  total: 8605 
+ > update time: 2022-03-14 17:23:54.014658  total: 8607 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Fa1c0n35/CVE-2021-41773](https://github.com/Fa1c0n35/CVE-2021-41773)  create time: 2022-03-14T16:43:49Z
+
+**Exploits for Hotel Druid 3.0.3 - Remote Code Execution (RCE)  CVE-2022-22909** : [kaal18/CVE-2022-22909](https://github.com/kaal18/CVE-2022-22909)  create time: 2022-03-14T17:10:08Z
 
 **CVE-2022-0847 POC** : [breachnix/dirty-pipe-poc](https://github.com/breachnix/dirty-pipe-poc)  create time: 2022-03-14T15:32:25Z
 
