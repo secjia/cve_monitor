@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-15 06:29:44.511336  total: 8615 
+ > update time: 2022-03-15 08:29:00.625943  total: 8616 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Mani1325/ka-cve-2021-21341](https://github.com/Mani1325/ka-cve-2021-21341)  create time: 2022-03-15T07:28:52Z
 
 **no description** : [phuonguno98/CVE-2022-0847](https://github.com/phuonguno98/CVE-2022-0847)  create time: 2022-03-15T06:06:31Z
 
