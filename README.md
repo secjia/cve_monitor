@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-15 01:28:27.560542  total: 8612 
+ > update time: 2022-03-15 05:22:48.069728  total: 8614 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of concept app for Android permanent denial-of-service vulnerability, CVE-2020-0443** : [Supersonic/CVE-2020-0443](https://github.com/Supersonic/CVE-2020-0443)  create time: 2022-03-15T04:54:31Z
+
+**no description** : [k0zulzr/CVE-2022-24086-RCE](https://github.com/k0zulzr/CVE-2022-24086-RCE)  create time: 2022-03-15T05:11:23Z
 
 **pkexec --> privilege escalation** : [TomSgn/CVE-2021-4034](https://github.com/TomSgn/CVE-2021-4034)  create time: 2022-03-14T22:42:49Z
 
