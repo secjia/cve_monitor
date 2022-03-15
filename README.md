@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-15 14:23:25.693712  total: 8624 
+ > update time: 2022-03-15 18:28:48.682502  total: 8626 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-11235: Git Submodule RCE** : [SenSecurity/exploit](https://github.com/SenSecurity/exploit)  create time: 2022-03-15T17:33:22Z
+
+**no description** : [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)  create time: 2022-03-15T18:14:46Z
 
 **Simple python script to exploit Vsftpd 2.3.4 Backdoor Command Execution (CVE-2011-2523)** : [PrestaDZ/vsftpd-2.3.4](https://github.com/PrestaDZ/vsftpd-2.3.4)  create time: 2022-03-15T13:39:19Z
 
