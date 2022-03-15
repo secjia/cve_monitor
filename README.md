@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-15 12:39:53.110932  total: 8621 
+ > update time: 2022-03-15 14:23:25.693712  total: 8624 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple python script to exploit Vsftpd 2.3.4 Backdoor Command Execution (CVE-2011-2523)** : [PrestaDZ/vsftpd-2.3.4](https://github.com/PrestaDZ/vsftpd-2.3.4)  create time: 2022-03-15T13:39:19Z
+
+**no description** : [dmlino/cve-2018-6574](https://github.com/dmlino/cve-2018-6574)  create time: 2022-03-15T14:11:57Z
+
+**desc_race exploit for iOS 15.0 - 15.1.1 (with stable kernel r/w primitives) (CVE-2021-30955)** : [Dylbin/desc_race](https://github.com/Dylbin/desc_race)  create time: 2022-03-15T13:30:38Z
 
 **Python script to check if your kernel is vulnerable to Dirty pipe CVE-2022-0847** : [MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker](https://github.com/MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker)  create time: 2022-03-15T11:25:19Z
 
