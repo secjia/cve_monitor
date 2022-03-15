@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-15 18:28:48.682502  total: 8626 
+ > update time: 2022-03-15 19:21:27.198567  total: 8627 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt** : [drago-96/CVE-2022-0778](https://github.com/drago-96/CVE-2022-0778)  create time: 2022-03-15T19:06:33Z
 
 **CVE-2018-11235: Git Submodule RCE** : [SenSecurity/exploit](https://github.com/SenSecurity/exploit)  create time: 2022-03-15T17:33:22Z
 
