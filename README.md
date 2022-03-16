@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-16 16:33:14.573911  total: 8642 
+ > update time: 2022-03-16 23:24:09.187410  total: 8643 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Local Privilege Escalation (LPE) vulnerability found on Polkit's pkexec utility** : [Hifumi1337/CVE-2021-4034](https://github.com/Hifumi1337/CVE-2021-4034)  create time: 2022-03-16T23:05:53Z
 
 **A years old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77.** : [tandasat/CVE-2022-25949](https://github.com/tandasat/CVE-2022-25949)  create time: 2022-03-16T14:42:21Z
 
