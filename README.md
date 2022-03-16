@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-16 15:26:12.228154  total: 8641 
+ > update time: 2022-03-16 16:33:14.573911  total: 8642 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A years old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77.** : [tandasat/CVE-2022-25949](https://github.com/tandasat/CVE-2022-25949)  create time: 2022-03-16T14:42:21Z
 
 **Exploitation of CVE-2020-256480 using scapy** : [dim0x69/cve-2022-25640-exploit](https://github.com/dim0x69/cve-2022-25640-exploit)  create time: 2022-03-16T14:59:08Z
 
