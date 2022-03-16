@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-15 19:21:27.198567  total: 8627 
+ > update time: 2022-03-16 07:24:03.370362  total: 8629 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行** : [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)  create time: 2022-03-16T06:41:50Z
+
+**Exploring and exploiting CVE-2022-0778.** : [BobTheShoplifter/CVE-2022-0778-POC](https://github.com/BobTheShoplifter/CVE-2022-0778-POC)  create time: 2022-03-16T06:29:42Z
 
 **Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt** : [drago-96/CVE-2022-0778](https://github.com/drago-96/CVE-2022-0778)  create time: 2022-03-15T19:06:33Z
 
