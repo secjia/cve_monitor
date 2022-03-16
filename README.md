@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-16 07:24:03.370362  total: 8629 
+ > update time: 2022-03-16 09:23:35.263104  total: 8630 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit** : [M4xSec/Apache-APISIX-CVE-2022-24112](https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112)  create time: 2022-03-16T09:19:12Z
 
 **CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行** : [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)  create time: 2022-03-16T06:41:50Z
 
