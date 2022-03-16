@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-16 11:21:15.975397  total: 8637 
+ > update time: 2022-03-16 12:37:55.110064  total: 8638 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[CVE-2021-21983] VMware vRealize Operations (vROps) Manager File Path Traversal Leads to Remote Code Execution (RCE)** : [murataydemir/CVE-2021-21983](https://github.com/murataydemir/CVE-2021-21983)  create time: 2022-03-16T11:56:25Z
 
 **no description** : [pazhanivel07/frameworks_base-CVE-2021-0595](https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595)  create time: 2022-03-16T11:07:36Z
 
