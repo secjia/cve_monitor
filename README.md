@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-17 04:30:34.822036  total: 8645 
+ > update time: 2022-03-17 08:28:49.394317  total: 8646 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache APISIX 2.12.1 Remote Code Execution by IP restriction bypass and using default admin AIP token** : [kavishkagihan/CVE-2022-24112-POC](https://github.com/kavishkagihan/CVE-2022-24112-POC)  create time: 2022-03-17T08:22:54Z
 
 **CVE-2018-4185: iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.** : [xigexbh/bazad1](https://github.com/xigexbh/bazad1)  create time: 2022-03-17T03:38:01Z
 
