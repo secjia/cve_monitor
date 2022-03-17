@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-17 15:32:52.917048  total: 8650 
+ > update time: 2022-03-17 16:34:23.563041  total: 8651 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Kibana <6.6.0 RCE written in python3** : [Cr4ckC4t/cve-2019-7609](https://github.com/Cr4ckC4t/cve-2019-7609)  create time: 2022-03-17T15:33:33Z
 
 **GLPI automatic exploitation tool for CVE-2020-15175** : [Xn2/GLPwn](https://github.com/Xn2/GLPwn)  create time: 2022-03-14T13:51:17Z
 
