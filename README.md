@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-17 17:24:21.209210  total: 8652 
+ > update time: 2022-03-18 01:39:04.807831  total: 8653 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-3156** : [RodricBr/CVE-2021-3156](https://github.com/RodricBr/CVE-2021-3156)  create time: 2022-03-18T00:05:48Z
 
 **node-ipc is malware / protestware!** : [scriptzteam/node-ipc-malware-protestware-CVE-2022-23812](https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812)  create time: 2022-03-17T16:49:22Z
 
