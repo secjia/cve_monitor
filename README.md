@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-18 14:22:49.254715  total: 8658 
+ > update time: 2022-03-18 17:24:46.463697  total: 8659 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Redis沙盒逃逸漏洞复现(CVE-2022-0543)** : [Newbee740/REDIS-CVE-2022-0543](https://github.com/Newbee740/REDIS-CVE-2022-0543)  create time: 2022-03-18T17:15:19Z
 
 **A Path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager Project’s Tiny File Manager <= 2.4.3 allows remote attackers with valid user accounts to upload malicious PHP files to the webroot and achieve code execution on the target server.** : [febinrev/CVE-2021-45010-TinyFileManager-Exploit](https://github.com/febinrev/CVE-2021-45010-TinyFileManager-Exploit)  create time: 2022-03-18T14:00:03Z
 
