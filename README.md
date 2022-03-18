@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-18 17:24:46.463697  total: 8659 
+ > update time: 2022-03-18 23:25:04.309794  total: 8660 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well)** : [LudovicPatho/CVE-2022-0847](https://github.com/LudovicPatho/CVE-2022-0847)  create time: 2022-03-18T22:51:02Z
 
 **Redis沙盒逃逸漏洞复现(CVE-2022-0543)** : [Newbee740/REDIS-CVE-2022-0543](https://github.com/Newbee740/REDIS-CVE-2022-0543)  create time: 2022-03-18T17:15:19Z
 
