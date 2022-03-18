@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-18 07:22:57.319781  total: 8655 
+ > update time: 2022-03-18 10:27:12.510862  total: 8656 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22947 memshell** : [viemsr/spring_cloud_gateway_memshell](https://github.com/viemsr/spring_cloud_gateway_memshell)  create time: 2022-03-18T07:17:17Z
 
 **Local privilege escalation for OS X 10.10.5 via CVE-2016-1828.** : [berritus163t/bazad5](https://github.com/berritus163t/bazad5)  create time: 2022-03-18T06:59:32Z
 
