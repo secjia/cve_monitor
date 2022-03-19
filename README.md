@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-18 23:25:04.309794  total: 8660 
+ > update time: 2022-03-19 01:25:15.585551  total: 8661 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2022-27226** : [SakuraSamuraii/ez-iRZ](https://github.com/SakuraSamuraii/ez-iRZ)  create time: 2022-03-16T17:45:12Z
 
 **Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well)** : [LudovicPatho/CVE-2022-0847](https://github.com/LudovicPatho/CVE-2022-0847)  create time: 2022-03-18T22:51:02Z
 
