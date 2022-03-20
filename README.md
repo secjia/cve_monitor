@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-20 04:30:53.488496  total: 8676 
+ > update time: 2022-03-20 06:27:47.273415  total: 8677 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24990信息泄露+RCE 一条龙** : [lishang520/CVE-2022-24990](https://github.com/lishang520/CVE-2022-24990)  create time: 2022-03-20T05:21:08Z
 
 **CVE-2022-22600 Proof of Concept** : [KlinKlinKlin/MSF-screenrecord-on-MacOS](https://github.com/KlinKlinKlin/MSF-screenrecord-on-MacOS)  create time: 2022-03-19T04:13:52Z
 
