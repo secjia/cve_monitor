@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-19 21:20:28.642343  total: 8672 
+ > update time: 2022-03-20 01:29:05.857643  total: 8673 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24086 and CVE-2022-24087 exploits proof of concept** : [Sam00rx/CVE-2022-24087](https://github.com/Sam00rx/CVE-2022-24087)  create time: 2022-03-19T23:33:24Z
 
 **Remote Code Execution in LocalStack 0.12.6** : [TheCyberGeek/CVE-2022-27251](https://github.com/TheCyberGeek/CVE-2022-27251)  create time: 2022-03-19T20:49:56Z
 
