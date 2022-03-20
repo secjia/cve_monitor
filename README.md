@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-20 01:29:05.857643  total: 8673 
+ > update time: 2022-03-20 02:43:25.307721  total: 8674 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mtthwstffrd/saleemrashid-sudo-cve-2019-18634](https://github.com/mtthwstffrd/saleemrashid-sudo-cve-2019-18634)  create time: 2022-03-20T01:39:22Z
 
 **CVE-2022-24086 and CVE-2022-24087 exploits proof of concept** : [Sam00rx/CVE-2022-24087](https://github.com/Sam00rx/CVE-2022-24087)  create time: 2022-03-19T23:33:24Z
 
