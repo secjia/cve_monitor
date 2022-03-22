@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-22 14:23:10.723384  total: 8695 
+ > update time: 2022-03-22 18:28:16.030644  total: 8696 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Chamilo LMS v1.11.14 was discovered to contain a zero click code injection vulnerability which allows attackers to execute arbitrary code via a crafted plugin. This vulnerability is triggered through user interaction with the attacker's profile page.** : [febinrev/CVE-2021-46398_Chamilo-LMS-RCE](https://github.com/febinrev/CVE-2021-46398_Chamilo-LMS-RCE)  create time: 2022-03-22T17:35:38Z
 
 **CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation** : [0xf4n9x/CVE-2022-24990](https://github.com/0xf4n9x/CVE-2022-24990)  create time: 2022-03-20T05:15:16Z
 
