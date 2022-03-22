@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-22 04:30:50.763657  total: 8693 
+ > update time: 2022-03-22 07:22:51.868085  total: 8694 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94.** : [hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-](https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-)  create time: 2022-03-22T07:07:42Z
 
 **Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990.** : [cryst4lliz3/CVE-2022-0824](https://github.com/cryst4lliz3/CVE-2022-0824)  create time: 2022-03-22T03:49:51Z
 
