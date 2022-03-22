@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-22 07:22:51.868085  total: 8694 
+ > update time: 2022-03-22 14:23:10.723384  total: 8695 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation** : [0xf4n9x/CVE-2022-24990](https://github.com/0xf4n9x/CVE-2022-24990)  create time: 2022-03-20T05:15:16Z
 
 **CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94.** : [hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-](https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-)  create time: 2022-03-22T07:07:42Z
 
