@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-22 23:25:02.981258  total: 8697 
+ > update time: 2022-03-23 06:30:50.047548  total: 8701 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite.** : [domain9065v/bazad3](https://github.com/domain9065v/bazad3)  create time: 2022-03-23T06:02:52Z
+
+**no description** : [buff07/CVE-2022-24294](https://github.com/buff07/CVE-2022-24294)  create time: 2022-03-23T06:26:02Z
+
+**no description** : [buff07/CVE-2022-24293](https://github.com/buff07/CVE-2022-24293)  create time: 2022-03-23T06:25:56Z
+
+**no description** : [buff07/CVE-2022-24292](https://github.com/buff07/CVE-2022-24292)  create time: 2022-03-23T06:25:45Z
 
 **Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021  Assigning CNA: Microsoft MITRE CVE-2021-41338  CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges Required Low User Interaction None Scope Unchanged Confidentiality High Integrity None Availability None Exploit Code Maturity Proof-of-Concept Remediation Level Official Fix Report Confidence Confirmed Please see Common Vulnerability Scoring System for more information on the definition of these metrics.  Exploitability The following table provides an exploitability assessment for this vulnerability at the time of original publication. Yes No Exploitation Less Likely** : [Mario-Kart-Felix/firewall-cve](https://github.com/Mario-Kart-Felix/firewall-cve)  create time: 2022-03-22T22:53:32Z
 
