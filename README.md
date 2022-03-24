@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-24 02:55:24.863144  total: 8704 
+ > update time: 2022-03-24 04:31:23.068360  total: 8705 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44529 PoC** : [jkana/CVE-2021-44529](https://github.com/jkana/CVE-2021-44529)  create time: 2022-03-24T03:58:16Z
 
 **no description** : [buff07/CVE-2022-10249](https://github.com/buff07/CVE-2022-10249)  create time: 2022-03-24T02:09:28Z
 
