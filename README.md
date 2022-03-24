@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-24 07:23:37.078904  total: 8707 
+ > update time: 2022-03-24 09:24:33.206561  total: 8708 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [the-valluvarsploit/CVE-2018-6574](https://github.com/the-valluvarsploit/CVE-2018-6574)  create time: 2022-03-24T08:40:42Z
 
 **This is a exploit code for CVE-202-8163** : [TKLinux966/CVE-2020-8163](https://github.com/TKLinux966/CVE-2020-8163)  create time: 2022-03-24T06:43:39Z
 
