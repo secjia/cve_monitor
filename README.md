@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-24 10:27:07.893230  total: 8710 
+ > update time: 2022-03-24 12:40:12.272218  total: 8711 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments.** : [alexander-fernandes/CVE-2019-16278](https://github.com/alexander-fernandes/CVE-2019-16278)  create time: 2022-03-24T12:06:55Z
 
 **no description** : [nxtexploit/CVE-2020-3580](https://github.com/nxtexploit/CVE-2020-3580)  create time: 2022-03-24T09:34:04Z
 
