@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-24 04:31:23.068360  total: 8705 
+ > update time: 2022-03-24 07:23:37.078904  total: 8707 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This is a exploit code for CVE-202-8163** : [TKLinux966/CVE-2020-8163](https://github.com/TKLinux966/CVE-2020-8163)  create time: 2022-03-24T06:43:39Z
+
+**CVE-2022-0185 analysis write up** : [chenaotian/CVE-2022-25636](https://github.com/chenaotian/CVE-2022-25636)  create time: 2022-03-24T07:04:55Z
 
 **CVE-2021-44529 PoC** : [jkana/CVE-2021-44529](https://github.com/jkana/CVE-2021-44529)  create time: 2022-03-24T03:58:16Z
 
