@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-23 16:33:59.735011  total: 8703 
+ > update time: 2022-03-24 02:55:24.863144  total: 8704 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [buff07/CVE-2022-10249](https://github.com/buff07/CVE-2022-10249)  create time: 2022-03-24T02:09:28Z
 
 **PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)** : [nonamecoder/CVE-2022-27254](https://github.com/nonamecoder/CVE-2022-27254)  create time: 2022-03-23T15:03:09Z
 
