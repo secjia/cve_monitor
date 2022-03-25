@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-25 09:24:28.850593  total: 8716 
+ > update time: 2022-03-25 13:11:10.495885  total: 8718 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tzwlhack/CVE-2018-20250](https://github.com/tzwlhack/CVE-2018-20250)  create time: 2022-03-25T13:02:41Z
+
+**poc for CVE-2022-22947** : [Nathaniel1025/CVE-2022-22947](https://github.com/Nathaniel1025/CVE-2022-22947)  create time: 2022-03-25T12:43:53Z
 
 **CVE-2019-0708 (BlueKeep) proof of concept allowing pre-auth RCE on Windows7** : [RICSecLab/CVE-2019-0708](https://github.com/RICSecLab/CVE-2019-0708)  create time: 2020-03-15T19:33:53Z
 
