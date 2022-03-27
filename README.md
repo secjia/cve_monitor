@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-27 09:22:58.241604  total: 8729 
+ > update time: 2022-03-27 13:27:07.158677  total: 8730 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Watchguard RCE POC CVE-2022-26318** : [Throns1956/watchguard_cve-2022-26318](https://github.com/Throns1956/watchguard_cve-2022-26318)  create time: 2022-03-27T12:51:19Z
 
 **CVE-2022-0995 exploit** : [Bonfee/CVE-2022-0995](https://github.com/Bonfee/CVE-2022-0995)  create time: 2022-03-26T21:46:09Z
 
