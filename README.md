@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-26 23:23:31.245121  total: 8726 
+ > update time: 2022-03-27 06:28:55.038642  total: 8727 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [warmachine-57/CVE-2021-44117](https://github.com/warmachine-57/CVE-2021-44117)  create time: 2022-03-27T05:50:34Z
 
 **no description** : [sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability](https://github.com/sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability)  create time: 2022-03-26T22:50:36Z
 
