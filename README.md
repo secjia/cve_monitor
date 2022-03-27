@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-27 06:28:55.038642  total: 8727 
+ > update time: 2022-03-27 08:27:51.945074  total: 8728 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fake WPS Update Server PoC** : [MagicPiperSec/WPS-CVE-2022-24934](https://github.com/MagicPiperSec/WPS-CVE-2022-24934)  create time: 2022-03-27T07:47:10Z
 
 **no description** : [warmachine-57/CVE-2021-44117](https://github.com/warmachine-57/CVE-2021-44117)  create time: 2022-03-27T05:50:34Z
 
