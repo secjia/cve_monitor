@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-28 17:26:32.287395  total: 8743 
+ > update time: 2022-03-28 18:29:03.239446  total: 8744 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2022-27666** : [plummm/CVE-2022-27666](https://github.com/plummm/CVE-2022-27666)  create time: 2022-03-23T22:54:28Z
 
 **Suzuki connect app is used to get the car information like Fuel, Ignition status, Current location, Seat buckle status etc. In Ignis, Zeta variant car if the Fuel CAN messages and Seat buckle status is spoofed via OBD 2 port with the crafted value (e.g. zero percent fuel and Car seat is buckled ), then the same value is reflected on Suzuki connect app, which can mislead the user.** : [nsbogam/CVE-2022-26269](https://github.com/nsbogam/CVE-2022-26269)  create time: 2022-03-28T17:10:24Z
 
