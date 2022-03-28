@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-28 20:26:48.923800  total: 8745 
+ > update time: 2022-03-28 22:24:49.917834  total: 8746 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [darkpills/CVE-2021-25094-tatsu-preauth-rce](https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce)  create time: 2022-01-03T21:19:42Z
 
 **no description** : [0xNix/CVE-2021-4034](https://github.com/0xNix/CVE-2021-4034)  create time: 2022-03-28T19:26:39Z
 
