@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-28 08:31:12.467055  total: 8740 
+ > update time: 2022-03-28 11:22:25.882251  total: 8742 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [puckiestyle/CVE-2021-41773](https://github.com/puckiestyle/CVE-2021-41773)  create time: 2022-03-28T11:02:46Z
+
+**no description** : [misterxid/watchguard_cve-2022-26318](https://github.com/misterxid/watchguard_cve-2022-26318)  create time: 2022-03-28T10:53:38Z
 
 **no description** : [Tankirat/CVE-2017-5638](https://github.com/Tankirat/CVE-2017-5638)  create time: 2022-03-28T07:58:31Z
 
