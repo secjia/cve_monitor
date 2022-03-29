@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-29 03:04:07.372184  total: 8748 
+ > update time: 2022-03-29 05:24:15.559087  total: 8749 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [koleksibot/CVE-2022](https://github.com/koleksibot/CVE-2022)  create time: 2022-03-29T05:16:07Z
 
 **Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928** : [GatoGamer1155/CVE-2021-27928](https://github.com/GatoGamer1155/CVE-2021-27928)  create time: 2022-03-29T02:54:37Z
 
