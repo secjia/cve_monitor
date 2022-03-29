@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-29 16:34:49.598875  total: 8763 
+ > update time: 2022-03-29 17:26:09.597392  total: 8764 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter** : [PenteraIO/CVE-2022-22948](https://github.com/PenteraIO/CVE-2022-22948)  create time: 2021-10-17T09:59:20Z
 
 **no description** : [tzwlhack/CVE-2022-24934](https://github.com/tzwlhack/CVE-2022-24934)  create time: 2022-03-29T15:51:29Z
 
