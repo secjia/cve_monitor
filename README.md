@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-29 15:26:09.996850  total: 8761 
+ > update time: 2022-03-29 16:34:49.598875  total: 8763 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tzwlhack/CVE-2022-24934](https://github.com/tzwlhack/CVE-2022-24934)  create time: 2022-03-29T15:51:29Z
+
+**no description** : [tzwlhack/WPS-CVE-2022-24934](https://github.com/tzwlhack/WPS-CVE-2022-24934)  create time: 2022-03-29T15:29:59Z
 
 **no description** : [tzwlhack/CVE-2021-21017](https://github.com/tzwlhack/CVE-2021-21017)  create time: 2022-03-29T14:45:16Z
 
