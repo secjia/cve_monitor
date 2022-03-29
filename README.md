@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-29 12:42:34.800558  total: 8756 
+ > update time: 2022-03-29 14:23:15.655153  total: 8758 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/CVE-2020-29370_AFTERFIX](https://github.com/nanopathi/CVE-2020-29370_AFTERFIX)  create time: 2022-03-29T14:17:51Z
+
+**no description** : [nanopathi/CVE-2020-029370_AFTPATCH](https://github.com/nanopathi/CVE-2020-029370_AFTPATCH)  create time: 2022-03-29T13:35:16Z
 
 **no description** : [nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370](https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370)  create time: 2022-03-29T11:55:26Z
 
