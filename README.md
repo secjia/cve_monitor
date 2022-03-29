@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-29 10:28:20.452442  total: 8754 
+ > update time: 2022-03-29 12:42:34.800558  total: 8756 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370](https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370)  create time: 2022-03-29T11:55:26Z
+
+**no description** : [nanopathi/kERNEL_GIT_TORVALDS_AFP_CVE-2020-29370](https://github.com/nanopathi/kERNEL_GIT_TORVALDS_AFP_CVE-2020-29370)  create time: 2022-03-29T11:45:12Z
 
 **no description** : [nanopathi/packages_apps_Nfc_cve-2020_02453](https://github.com/nanopathi/packages_apps_Nfc_cve-2020_02453)  create time: 2022-03-29T09:29:01Z
 
