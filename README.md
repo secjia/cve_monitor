@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-30 18:30:34.964209  total: 8794 
+ > update time: 2022-03-30 19:21:40.464893  total: 8795 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**{ Spring Core 0day CVE-2022-22963 }** : [stevemats/Spring0DayCoreExploit](https://github.com/stevemats/Spring0DayCoreExploit)  create time: 2022-03-30T19:07:35Z
 
 **no description** : [Kirill89/CVE-2022-22963-PoC](https://github.com/Kirill89/CVE-2022-22963-PoC)  create time: 2022-03-30T17:37:35Z
 
