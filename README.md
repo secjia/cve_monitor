@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-30 01:48:02.993668  total: 8774 
+ > update time: 2022-03-30 03:41:16.615160  total: 8775 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [bigbigban1/CVE-2022-22947-exp](https://github.com/bigbigban1/CVE-2022-22947-exp)  create time: 2022-03-30T03:10:23Z
 
 **no description** : [metapox/CVE-2020-25613](https://github.com/metapox/CVE-2020-25613)  create time: 2022-03-30T00:51:08Z
 
