@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-30 15:26:14.013561  total: 8791 
+ > update time: 2022-03-30 16:32:44.770674  total: 8792 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [darryk10/CVE-2022-22963](https://github.com/darryk10/CVE-2022-22963)  create time: 2022-03-30T15:49:32Z
 
 **A TLS server using a vendored fork of the Go TLS stack that has renegotation indication extension forcibly disabled.** : [johnwchadwick/cve-2009-3555-test-server](https://github.com/johnwchadwick/cve-2009-3555-test-server)  create time: 2022-03-30T15:02:48Z
 
