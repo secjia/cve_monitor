@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-30 22:25:32.591271  total: 8796 
+ > update time: 2022-03-31 01:45:00.773274  total: 8797 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Gateway RCE - CVE-2022-22947** : [sagaryadav8742/springcloudRCE](https://github.com/sagaryadav8742/springcloudRCE)  create time: 2022-03-30T23:33:43Z
 
 **try to determine if a host is vulnerable to SpringShell CVE‐2022‐22963** : [jschauma/check-springshell](https://github.com/jschauma/check-springshell)  create time: 2022-03-30T21:30:09Z
 
