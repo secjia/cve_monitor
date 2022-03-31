@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 16:34:26.832006  total: 8817 
+ > update time: 2022-03-31 17:26:27.987942  total: 8819 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Safer PoC for CVE-2022-22965 (Spring4Shell)** : [colincowie/Safer_PoC_CVE-2022-22965](https://github.com/colincowie/Safer_PoC_CVE-2022-22965)  create time: 2022-03-31T16:58:56Z
+
+**Vulnerabilidad RCE en Spring Framework via Data Binding on JDK 9+** : [GuayoyoCyber/CVE-2022-22965](https://github.com/GuayoyoCyber/CVE-2022-22965)  create time: 2022-03-31T16:14:36Z
 
 **no description** : [nanopathi/framework_base_AOSP10_r33_CVE-2021-0472](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472)  create time: 2022-03-31T15:28:01Z
 
