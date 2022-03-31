@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 09:25:25.669348  total: 8804 
+ > update time: 2022-03-31 10:28:39.792838  total: 8807 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/system_bt_AOSP10_r33_CVE-2020-0225](https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0225)  create time: 2022-03-31T10:23:25Z
+
+**no description** : [Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330](https://github.com/Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330)  create time: 2022-03-31T09:36:07Z
+
+**no description** : [webraybtl/CVE-2022-24934](https://github.com/webraybtl/CVE-2022-24934)  create time: 2022-03-31T09:59:01Z
 
 **ColdFusion 8.0.1 - Arbitrary File Upload to RCE** : [persian64/CVE-2009-2265](https://github.com/persian64/CVE-2009-2265)  create time: 2022-03-31T08:52:08Z
 
