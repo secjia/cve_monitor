@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 11:21:59.079026  total: 8808 
+ > update time: 2022-03-31 12:42:12.141859  total: 8809 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for Dirty-Pipe (CVE-2022-0847)** : [Nekoox/dirty-pipe](https://github.com/Nekoox/dirty-pipe)  create time: 2022-03-31T11:47:31Z
 
 **no description** : [puckiestyle/CVE-2022-22963](https://github.com/puckiestyle/CVE-2022-22963)  create time: 2022-03-31T11:14:46Z
 
