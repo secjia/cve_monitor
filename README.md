@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 15:26:51.630228  total: 8815 
+ > update time: 2022-03-31 16:34:26.832006  total: 8817 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/framework_base_AOSP10_r33_CVE-2021-0472](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472)  create time: 2022-03-31T15:28:01Z
+
+**Spring Framework RCE (Quick pentest notes)** : [alt3kx/CVE-2022-22965_PoC](https://github.com/alt3kx/CVE-2022-22965_PoC)  create time: 2022-03-31T15:43:06Z
 
 **Threat Intelligence on Zero-Day for Spring4Shell (CVE-2010-1622)** : [strainerart/Spring4Shell](https://github.com/strainerart/Spring4Shell)  create time: 2022-03-31T14:25:54Z
 
