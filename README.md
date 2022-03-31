@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 19:21:38.773577  total: 8821 
+ > update time: 2022-03-31 20:26:31.565060  total: 8823 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test for cve-2021-3864** : [walac/cve-2021-3864](https://github.com/walac/cve-2021-3864)  create time: 2022-03-31T20:03:04Z
+
+**CVE-2022-22965 poc including reverse-shell support** : [viniciuspereiras/CVE-2022-22965-poc](https://github.com/viniciuspereiras/CVE-2022-22965-poc)  create time: 2022-03-31T19:19:52Z
 
 **Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit** : [reznok/Spring4Shell-POC](https://github.com/reznok/Spring4Shell-POC)  create time: 2022-03-31T00:24:28Z
 
