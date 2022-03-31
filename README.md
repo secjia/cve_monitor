@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-03-31 20:26:31.565060  total: 8823 
+ > update time: 2022-03-31 21:22:57.044811  total: 8824 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This includes CVE-2022-22963, a Spring SpEL / Expression Resource Access Vulnerability, as well as CVE-2022-22965, the spring-webmvc/spring-webflux RCE termed "SpringShell".** : [kh4sh3i/Spring-CVE](https://github.com/kh4sh3i/Spring-CVE)  create time: 2022-03-31T20:19:51Z
 
 **Test for cve-2021-3864** : [walac/cve-2021-3864](https://github.com/walac/cve-2021-3864)  create time: 2022-03-31T20:03:04Z
 
