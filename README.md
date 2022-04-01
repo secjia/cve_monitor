@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 13:40:12.294232  total: 8852 
+ > update time: 2022-04-01 14:25:12.565805  total: 8854 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325)  create time: 2022-04-01T14:11:58Z
+
+**CVE-2022-22965** : [wshon/spring-framework-rce](https://github.com/wshon/spring-framework-rce)  create time: 2022-04-01T13:46:55Z
 
 **Proof of Concept for CVE-2022-28251** : [mubix/CVE-2022-28251-POC](https://github.com/mubix/CVE-2022-28251-POC)  create time: 2022-04-01T13:35:48Z
 
