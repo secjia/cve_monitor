@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 01:58:07.588193  total: 8825 
+ > update time: 2022-04-01 03:23:05.373155  total: 8828 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**BIGIP F5** : [DDestinys/CVE-2021-22986](https://github.com/DDestinys/CVE-2021-22986)  create time: 2022-04-01T02:02:33Z
+
+**CSDFASDFAESFAEAEF** : [l4fu/CVE-2022-3000](https://github.com/l4fu/CVE-2022-3000)  create time: 2022-04-01T02:59:03Z
+
+**CVE-2022-22965 EXP** : [likewhite/CVE-2022-22965](https://github.com/likewhite/CVE-2022-22965)  create time: 2022-04-01T02:25:46Z
 
 **Created after the release of CVE-2022-22965 and CVE-2022-22963. Bash script that detects Spring Framework occurrences in your projects and systems, allowing you to get insight on versions used. Unpacks JARs and analyzes their Manifest files.** : [mebibite/springhound](https://github.com/mebibite/springhound)  create time: 2022-04-01T00:34:29Z
 
