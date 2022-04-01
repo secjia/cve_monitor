@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 05:23:05.951449  total: 8831 
+ > update time: 2022-04-01 06:32:08.746387  total: 8834 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652)  create time: 2022-04-01T06:06:53Z
+
+**Showcase of overridding the Spring Framework version in older Spring Boot versions** : [snicoll-scratches/spring-boot-cve-2022-22965](https://github.com/snicoll-scratches/spring-boot-cve-2022-22965)  create time: 2022-04-01T06:16:20Z
+
+**Presentation slides and supplementary material** : [stfnw/Debugging_Dirty_Pipe_CVE-2022-0847](https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847)  create time: 2022-04-01T05:51:27Z
 
 **SpringFramework 远程代码执行漏洞CVE-2022-22965** : [Axx8/SpringFramework_CVE-2022-22965_RCE](https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE)  create time: 2022-04-01T04:51:44Z
 
