@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 19:21:10.219274  total: 8857 
+ > update time: 2022-04-01 20:26:19.634375  total: 8858 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Prova de conceito para a vulnerabilidade Polkit Pkexec: CVE-2021-4034(Pkexec Local Privilege Escalation)** : [Nosferatuvjr/PwnKit](https://github.com/Nosferatuvjr/PwnKit)  create time: 2022-04-01T19:51:18Z
 
 **no description** : [rwincey/spring4shell-CVE-2022-22965](https://github.com/rwincey/spring4shell-CVE-2022-22965)  create time: 2022-03-31T18:09:58Z
 
