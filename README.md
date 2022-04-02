@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-02 16:32:50.135352  total: 8869 
+ > update time: 2022-04-02 18:28:29.851711  total: 8870 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-23131漏洞利用工具开箱即用。** : [Kazaf6s/CVE-2022-23131-](https://github.com/Kazaf6s/CVE-2022-23131-)  create time: 2022-04-02T18:16:56Z
 
 **no description** : [asurti6783/SAP-memory-pipes-desynchronization-vulnerability-MPI-CVE-2022-22536](https://github.com/asurti6783/SAP-memory-pipes-desynchronization-vulnerability-MPI-CVE-2022-22536)  create time: 2022-04-02T16:12:56Z
 
