@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-02 18:28:29.851711  total: 8870 
+ > update time: 2022-04-02 20:24:17.276262  total: 8871 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mwojterski/cve-2022-22965](https://github.com/mwojterski/cve-2022-22965)  create time: 2022-04-02T19:47:47Z
 
 **CVE-2022-23131漏洞利用工具开箱即用。** : [Kazaf6s/CVE-2022-23131-](https://github.com/Kazaf6s/CVE-2022-23131-)  create time: 2022-04-02T18:16:56Z
 
