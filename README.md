@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-02 06:29:43.495011  total: 8862 
+ > update time: 2022-04-02 07:23:26.787385  total: 8863 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**XSS via Host Header injection and Steal  Password Reset Token of another user** : [comrade99/CVE-2022-24181](https://github.com/comrade99/CVE-2022-24181)  create time: 2022-03-22T08:06:53Z
 
 **spring框架RCE漏洞 CVE-2022-22965** : [k3rwin/spring-core-rce](https://github.com/k3rwin/spring-core-rce)  create time: 2022-03-31T12:41:29Z
 
