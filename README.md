@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-02 13:28:43.156291  total: 8867 
+ > update time: 2022-04-02 14:22:57.316920  total: 8868 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**DirtyPipe: Exploit for a new Linux vulnerability known as 'Dirty Pipe(CVE-2022-0847)' allows local users to gain root privileges. The vulnerability is tracked as CVE-2022-0847 and allows a non-privileged user to inject and overwrite data in read-only files, including SUID processes that run as root.** : [drapl0n/dirtypipe](https://github.com/drapl0n/dirtypipe)  create time: 2022-04-02T13:49:03Z
 
 **no description** : [d0l0sapth3/cve20186574](https://github.com/d0l0sapth3/cve20186574)  create time: 2022-04-02T12:50:30Z
 
