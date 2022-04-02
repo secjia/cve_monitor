@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-01 20:26:19.634375  total: 8858 
+ > update time: 2022-04-02 03:36:47.902242  total: 8860 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [pqlx/CVE-2022-1015](https://github.com/pqlx/CVE-2022-1015)  create time: 2022-04-02T03:27:11Z
+
+**no description** : [Wrin9/CVE-2022-22965](https://github.com/Wrin9/CVE-2022-22965)  create time: 2022-04-02T03:17:48Z
 
 **Prova de conceito para a vulnerabilidade Polkit Pkexec: CVE-2021-4034(Pkexec Local Privilege Escalation)** : [Nosferatuvjr/PwnKit](https://github.com/Nosferatuvjr/PwnKit)  create time: 2022-04-01T19:51:18Z
 
