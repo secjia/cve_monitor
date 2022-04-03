@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-03 03:35:33.362307  total: 8873 
+ > update time: 2022-04-03 07:22:55.658842  total: 8875 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Function SpEL - cve-2022-22963** : [twseptian/cve-2022-22963](https://github.com/twseptian/cve-2022-22963)  create time: 2022-04-03T06:45:51Z
+
+**Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5** : [itsecurityco/CVE-2022-22965](https://github.com/itsecurityco/CVE-2022-22965)  create time: 2022-04-03T06:43:07Z
 
 **File upload to Remote Code Execution on Zenario CMS 9.0.54156** : [minhnq22/CVE-2021-42171](https://github.com/minhnq22/CVE-2021-42171)  create time: 2021-09-30T02:44:19Z
 
