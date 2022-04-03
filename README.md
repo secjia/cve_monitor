@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-02 23:24:37.389274  total: 8872 
+ > update time: 2022-04-03 03:35:33.362307  total: 8873 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**File upload to Remote Code Execution on Zenario CMS 9.0.54156** : [minhnq22/CVE-2021-42171](https://github.com/minhnq22/CVE-2021-42171)  create time: 2021-09-30T02:44:19Z
 
 **no description** : [zanezhub/CVE-2022-1015-1016](https://github.com/zanezhub/CVE-2022-1015-1016)  create time: 2022-04-02T22:49:40Z
 
