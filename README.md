@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-03 23:24:56.434053  total: 8884 
+ > update time: 2022-04-04 01:54:03.058065  total: 8885 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965** : [me2nuk/CVE-2022-22965](https://github.com/me2nuk/CVE-2022-22965)  create time: 2022-04-01T13:35:01Z
 
 **no description** : [persian64/CVE-2018-7600](https://github.com/persian64/CVE-2018-7600)  create time: 2022-04-03T22:45:53Z
 
