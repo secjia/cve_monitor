@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-04 16:36:47.857793  total: 8895 
+ > update time: 2022-04-04 17:28:09.394932  total: 8896 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring4Shell - CVE-2022-22965** : [twseptian/cve-2022-22965](https://github.com/twseptian/cve-2022-22965)  create time: 2022-04-04T16:43:03Z
 
 **POC to prove springshell CVE 2022-22965** : [anair-it/springshell-vuln-POC](https://github.com/anair-it/springshell-vuln-POC)  create time: 2022-04-04T16:04:55Z
 
