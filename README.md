@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-04 13:35:54.951341  total: 8892 
+ > update time: 2022-04-04 14:24:00.229056  total: 8894 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring4Shell vulnerability Proof of Concept** : [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC)  create time: 2022-04-04T13:44:39Z
+
+**Intentionally vulnerable Spring app to test CVE-2022-22965** : [fracturelabs/spring4shell_victim](https://github.com/fracturelabs/spring4shell_victim)  create time: 2022-04-04T13:35:56Z
 
 **Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite.** : [superMan7912002/bazad3](https://github.com/superMan7912002/bazad3)  create time: 2022-04-04T12:58:14Z
 
