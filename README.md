@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-05 05:23:21.285757  total: 8901 
+ > update time: 2022-04-05 09:24:45.622586  total: 8905 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-24186的攻击脚本** : [Sakura-501/CVE-2020-24186-exploit](https://github.com/Sakura-501/CVE-2020-24186-exploit)  create time: 2022-04-05T08:31:56Z
+
+**CVE-2021-22555 exploit rewritten with pipe primitive** : [veritas501/CVE-2021-22555-PipeVersion](https://github.com/veritas501/CVE-2021-22555-PipeVersion)  create time: 2022-04-05T06:35:25Z
+
+**CVE-2022-0185 exploit rewritten with pipe primitive** : [veritas501/CVE-2022-0185-PipeVersion](https://github.com/veritas501/CVE-2022-0185-PipeVersion)  create time: 2022-04-05T07:48:35Z
+
+**CVE-2022-25636 exploit rewritten with pipe primitive** : [veritas501/CVE-2022-25636-PipeVersion](https://github.com/veritas501/CVE-2022-25636-PipeVersion)  create time: 2022-04-05T07:08:09Z
 
 **Exploitation of CVE-2022-22639** : [jhftss/CVE-2022-22639](https://github.com/jhftss/CVE-2022-22639)  create time: 2022-03-17T06:16:54Z
 
