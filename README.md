@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-04 22:24:53.505220  total: 8900 
+ > update time: 2022-04-05 05:23:21.285757  total: 8901 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploitation of CVE-2022-22639** : [jhftss/CVE-2022-22639](https://github.com/jhftss/CVE-2022-22639)  create time: 2022-03-17T06:16:54Z
 
 **CVE-2021-41773 | CVE-2021-42013 Exploiter Tool** : [CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit](https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit)  create time: 2022-04-04T22:07:21Z
 
