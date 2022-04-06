@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-06 03:39:31.032855  total: 8914 
+ > update time: 2022-04-06 04:31:20.030652  total: 8915 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The demo code showing the recent Spring4Shell RCE (CVE-2022-22965)** : [datawiza-inc/spring-rec-demo](https://github.com/datawiza-inc/spring-rec-demo)  create time: 2022-04-06T04:17:51Z
 
 **RHSB-2022-002 Dirty Pipe - kernel arbitrary file manipulation - (CVE-2022-0847)** : [mhanief/dirtypipe](https://github.com/mhanief/dirtypipe)  create time: 2022-04-06T03:29:03Z
 
