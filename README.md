@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-06 04:31:20.030652  total: 8915 
+ > update time: 2022-04-06 10:28:49.751957  total: 8916 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring-Cloud-Spel-RCE** : [Ha0Liu/CVE-2022-22947](https://github.com/Ha0Liu/CVE-2022-22947)  create time: 2022-04-06T09:40:05Z
 
 **The demo code showing the recent Spring4Shell RCE (CVE-2022-22965)** : [datawiza-inc/spring-rec-demo](https://github.com/datawiza-inc/spring-rec-demo)  create time: 2022-04-06T04:17:51Z
 
