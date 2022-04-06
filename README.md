@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-06 10:28:49.751957  total: 8916 
+ > update time: 2022-04-06 15:26:56.657525  total: 8919 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [vuongnv3389-sec/cve-2021-41773](https://github.com/vuongnv3389-sec/cve-2021-41773)  create time: 2022-04-06T14:53:19Z
+
+**CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi** : [Cyb3rR3ap3r/CVE-2022-26631](https://github.com/Cyb3rR3ap3r/CVE-2022-26631)  create time: 2022-04-06T15:05:47Z
+
+**Exploit a vulnerable Spring application with the Spring4Shell (CVE-2022-22965) Vulnerability.** : [FourCoreLabs/spring4shell-exploit-poc](https://github.com/FourCoreLabs/spring4shell-exploit-poc)  create time: 2022-03-31T15:01:12Z
 
 **Spring-Cloud-Spel-RCE** : [Ha0Liu/CVE-2022-22947](https://github.com/Ha0Liu/CVE-2022-22947)  create time: 2022-04-06T09:40:05Z
 
