@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-07 17:26:10.108462  total: 8937 
+ > update time: 2022-04-07 19:21:37.820118  total: 8938 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Will-Beninger/CVE-2022-22965_SpringShell](https://github.com/Will-Beninger/CVE-2022-22965_SpringShell)  create time: 2022-04-07T18:48:43Z
 
 **no description** : [tmatejicek/CVE-2015-1397](https://github.com/tmatejicek/CVE-2015-1397)  create time: 2022-04-07T17:01:22Z
 
