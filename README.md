@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-07 04:31:33.036594  total: 8931 
+ > update time: 2022-04-07 08:30:29.331958  total: 8932 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/linux-4.19.72_CVE-2020-14381](https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381)  create time: 2022-04-07T07:28:17Z
 
 **no description** : [persian64/CVE-2012-4869](https://github.com/persian64/CVE-2012-4869)  create time: 2022-04-07T04:13:13Z
 
