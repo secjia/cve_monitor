@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-06 22:25:25.807151  total: 8924 
+ > update time: 2022-04-07 01:43:14.745875  total: 8927 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hoaan1995/CVE-2018-9995](https://github.com/hoaan1995/CVE-2018-9995)  create time: 2022-04-07T00:37:26Z
+
+**Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)** : [alt3kx/CVE-2022-22965](https://github.com/alt3kx/CVE-2022-22965)  create time: 2022-04-07T00:08:16Z
+
+**springFramework_CVE-2022-22965_RCE简单利用** : [liangyueliangyue/spring-core-rce](https://github.com/liangyueliangyue/spring-core-rce)  create time: 2022-03-31T13:02:18Z
 
 **Unauthenticated RCE exploit for Fantec MWiD25-DS** : [code-byter/CVE-2022-28113](https://github.com/code-byter/CVE-2022-28113)  create time: 2022-03-26T21:39:00Z
 
