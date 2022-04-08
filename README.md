@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-08 17:27:52.923165  total: 8943 
+ > update time: 2022-04-08 18:31:10.654418  total: 8946 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Ported golang version of dirtycow.c** : [ArkAngeL43/CVE-2016-5195](https://github.com/ArkAngeL43/CVE-2016-5195)  create time: 2022-04-08T18:18:36Z
+
+**POC for the priv esc exploit in PKEXEC [ CVE -2021-4034 ] ( needs fixing, not the best) Converted into go** : [ArkAngeL43/CVE-2021-4034](https://github.com/ArkAngeL43/CVE-2021-4034)  create time: 2022-04-08T17:55:53Z
+
+**A DoS exploit for CVE-2022-21907** : [polakow/CVE-2022-21907](https://github.com/polakow/CVE-2022-21907)  create time: 2022-04-04T10:53:28Z
 
 **just using this for a some labs** : [Omega-Void/cve-2018-2574](https://github.com/Omega-Void/cve-2018-2574)  create time: 2022-04-08T17:14:58Z
 
