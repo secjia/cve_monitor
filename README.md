@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-09 05:23:24.718154  total: 8948 
+ > update time: 2022-04-09 08:28:41.933565  total: 8949 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [fransvanbuul/CVE-2022-22965-susceptibility](https://github.com/fransvanbuul/CVE-2022-22965-susceptibility)  create time: 2022-04-09T07:45:08Z
 
 **no description** : [mappl3/CVE-2019-0841](https://github.com/mappl3/CVE-2019-0841)  create time: 2022-04-09T05:19:25Z
 
