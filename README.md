@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-10 09:23:38.270897  total: 8956 
+ > update time: 2022-04-10 16:33:23.170802  total: 8957 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-4185: iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.** : [Giler2004/bazad1](https://github.com/Giler2004/bazad1)  create time: 2022-04-10T15:50:41Z
 
 **no description** : [nanopathi/system_bt_AOSP10_r33_CVE-2021-0507](https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0507)  create time: 2022-04-10T08:26:52Z
 
