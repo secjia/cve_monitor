@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-10 16:33:23.170802  total: 8957 
+ > update time: 2022-04-11 06:31:23.195224  total: 8958 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**burp被动扫描插件，目前只有CVE-2022-22947** : [F6JO/Burp_VulPscan](https://github.com/F6JO/Burp_VulPscan)  create time: 2022-04-11T06:19:24Z
 
 **CVE-2018-4185: iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.** : [Giler2004/bazad1](https://github.com/Giler2004/bazad1)  create time: 2022-04-10T15:50:41Z
 
