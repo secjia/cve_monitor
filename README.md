@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-12 10:28:59.606694  total: 8982 
+ > update time: 2022-04-12 11:21:53.019199  total: 8986 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0506](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0506)  create time: 2022-04-12T11:02:00Z
+
+**no description** : [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0600](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0600)  create time: 2022-04-12T10:53:20Z
+
+**no description** : [Greenwolf/CVE-2022-1175](https://github.com/Greenwolf/CVE-2022-1175)  create time: 2022-04-12T11:00:56Z
+
+**no description** : [Greenwolf/CVE-2022-1162](https://github.com/Greenwolf/CVE-2022-1162)  create time: 2022-04-12T10:56:10Z
 
 **CVE-2022-22954 Açığı test etme** : [MSeymenD/CVE-2022-22954-Testi](https://github.com/MSeymenD/CVE-2022-22954-Testi)  create time: 2022-04-12T09:35:17Z
 
