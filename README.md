@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-12 06:30:55.040451  total: 8977 
+ > update time: 2022-04-12 07:25:07.343528  total: 8979 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [lucksec/VMware-CVE-2022-22954](https://github.com/lucksec/VMware-CVE-2022-22954)  create time: 2022-04-12T06:35:10Z
+
+**提供单个或批量URL扫描是否存在CVE-2022-22954功能** : [axingde/CVE-2022-22954-POC](https://github.com/axingde/CVE-2022-22954-POC)  create time: 2020-10-09T10:14:50Z
 
 **CVE-2022-22954-VMware-RCE批量检测POC** : [chaosec2021/CVE-2022-22954-VMware-RCE](https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE)  create time: 2022-04-12T05:48:24Z
 
