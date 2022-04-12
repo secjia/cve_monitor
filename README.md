@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-12 13:36:39.023868  total: 8990 
+ > update time: 2022-04-12 15:27:50.620710  total: 8991 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Wangsafz/cve-2017-0358.sh](https://github.com/Wangsafz/cve-2017-0358.sh)  create time: 2022-04-12T14:44:13Z
 
 **no description** : [Chocapikk/CVE-2021-41773](https://github.com/Chocapikk/CVE-2021-41773)  create time: 2022-04-12T13:25:58Z
 
