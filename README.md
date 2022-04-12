@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-12 01:48:29.916039  total: 8972 
+ > update time: 2022-04-12 03:07:34.961591  total: 8973 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**TerraMaster TOS Unauthenticated Attacker Vulnerability CVE-2022-24990** : [antx-code/CVE-2022-24990](https://github.com/antx-code/CVE-2022-24990)  create time: 2022-04-12T02:45:56Z
 
 **no description** : [aniqfakhrul/CVE-2022-22954](https://github.com/aniqfakhrul/CVE-2022-22954)  create time: 2022-04-11T23:21:50Z
 
