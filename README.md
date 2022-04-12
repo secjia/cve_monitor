@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-11 20:26:37.369511  total: 8971 
+ > update time: 2022-04-12 01:48:29.916039  total: 8972 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [aniqfakhrul/CVE-2022-22954](https://github.com/aniqfakhrul/CVE-2022-22954)  create time: 2022-04-11T23:21:50Z
 
 **CVE-2022-22954 is a server-side template injection vulnerability in the VMware Workspace ONE Access and Identity Manager** : [Vulnmachines/VMWare_CVE-2022-22954](https://github.com/Vulnmachines/VMWare_CVE-2022-22954)  create time: 2022-04-11T19:46:56Z
 
