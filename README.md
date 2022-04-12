@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-12 12:40:26.826330  total: 8989 
+ > update time: 2022-04-12 13:36:39.023868  total: 8990 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Chocapikk/CVE-2021-41773](https://github.com/Chocapikk/CVE-2021-41773)  create time: 2022-04-12T13:25:58Z
 
 **Scanner for network for CVE-2005-1794.** : [InitRoot/CVE-2005-1794Scanner](https://github.com/InitRoot/CVE-2005-1794Scanner)  create time: 2022-04-12T12:18:12Z
 
