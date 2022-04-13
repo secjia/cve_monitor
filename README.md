@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-13 13:34:15.187553  total: 9000 
+ > update time: 2022-04-13 15:27:30.160550  total: 9001 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**spring4shell | CVE-2022-22965** : [0zvxr/CVE-2022-22965](https://github.com/0zvxr/CVE-2022-22965)  create time: 2022-04-12T14:59:42Z
 
 **no description** : [Satheesh575555/system_bt_AOSP_10_r33_CVE-2021-0316](https://github.com/Satheesh575555/system_bt_AOSP_10_r33_CVE-2021-0316)  create time: 2022-04-13T12:51:46Z
 
