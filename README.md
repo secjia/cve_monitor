@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-13 09:24:38.845003  total: 8998 
+ > update time: 2022-04-13 12:40:43.673897  total: 8999 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring4Shell , Spring Framework RCE (CVE-2022-22965) , Burpsuite Plugin** : [Loneyers/Spring4Shell](https://github.com/Loneyers/Spring4Shell)  create time: 2022-04-11T12:37:58Z
 
 **no description** : [jfrog/jfrog-CVE-2022-24675](https://github.com/jfrog/jfrog-CVE-2022-24675)  create time: 2022-04-13T09:05:33Z
 
