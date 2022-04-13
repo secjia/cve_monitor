@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-13 18:29:28.977959  total: 9006 
+ > update time: 2022-04-13 19:22:02.601311  total: 9007 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC of CVE-2021-30731** : [osy/WebcamViewer](https://github.com/osy/WebcamViewer)  create time: 2022-04-13T06:13:24Z
 
 **CVE-2022-26809 PoC** : [f8al/CVE-2022-26809](https://github.com/f8al/CVE-2022-26809)  create time: 2022-04-13T18:00:01Z
 
