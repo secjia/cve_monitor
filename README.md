@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-14 14:23:19.724247  total: 9023 
+ > update time: 2022-04-14 16:37:24.854917  total: 9024 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [h0cksr/Fastjson--CVE-2017-18349-](https://github.com/h0cksr/Fastjson--CVE-2017-18349-)  create time: 2022-04-14T16:31:46Z
 
 **no description** : [astyn9/Exploit-Medium-CVE-2021-41184](https://github.com/astyn9/Exploit-Medium-CVE-2021-41184)  create time: 2022-04-14T13:42:54Z
 
