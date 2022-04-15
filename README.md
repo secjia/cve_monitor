@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-15 11:22:08.504908  total: 9039 
+ > update time: 2022-04-15 12:39:57.823232  total: 9040 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) 支持批量扫描漏洞及漏洞利用** : [jax7sec/S2-062](https://github.com/jax7sec/S2-062)  create time: 2022-04-15T11:30:26Z
 
 **Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805)** : [Axx8/Struts2_S2-062_CVE-2021-31805](https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805)  create time: 2022-04-15T10:28:29Z
 
