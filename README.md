@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-15 04:45:49.574378  total: 9034 
+ > update time: 2022-04-15 06:31:00.241178  total: 9035 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0331](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0331)  create time: 2022-04-15T05:45:49Z
 
 **S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE** : [Wrin9/CVE-2021-31805](https://github.com/Wrin9/CVE-2021-31805)  create time: 2022-04-15T04:23:44Z
 
