@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-15 21:22:49.624076  total: 9044 
+ > update time: 2022-04-15 23:25:55.967368  total: 9045 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.** : [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072)  create time: 2022-04-15T22:59:03Z
 
 **CVE-2022-0185 solution** : [E1efuntik/CVE-2022-0185](https://github.com/E1efuntik/CVE-2022-0185)  create time: 2022-04-15T20:56:54Z
 
