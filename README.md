@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-14 17:27:52.007709  total: 9025 
+ > update time: 2022-04-15 01:52:19.443195  total: 9027 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [SeptS0/CVE-2022-26809-RCE](https://github.com/SeptS0/CVE-2022-26809-RCE)  create time: 2022-04-14T23:42:17Z
+
+**Proof of Concept for exploiting VMware CVE-2022-22954** : [tyleraharrison/VMware-CVE-2022-22954-Command-Injector](https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector)  create time: 2022-04-14T23:38:06Z
 
 **no description** : [Neimar47574/CVE-2022-24087](https://github.com/Neimar47574/CVE-2022-24087)  create time: 2022-04-14T16:56:08Z
 
