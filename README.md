@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-16 17:25:15.390063  total: 9052 
+ > update time: 2022-04-16 18:29:25.866493  total: 9053 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Laravel RCE (CVE-2021-3129)** : [joshuavanderpoll/CVE-2021-3129](https://github.com/joshuavanderpoll/CVE-2021-3129)  create time: 2022-04-16T17:22:55Z
 
 **PoC for CVE-2021-39749, allowing starting arbitrary Activity on Android 12L Beta** : [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)  create time: 2022-04-16T16:36:48Z
 
