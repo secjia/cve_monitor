@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-16 10:28:15.465091  total: 9048 
+ > update time: 2022-04-16 14:23:11.103566  total: 9049 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [XmasSnow/CVE-2022-26809-RCE](https://github.com/XmasSnow/CVE-2022-26809-RCE)  create time: 2022-04-16T14:09:59Z
 
 **no description** : [AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit](https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit)  create time: 2022-04-15T19:37:35Z
 
