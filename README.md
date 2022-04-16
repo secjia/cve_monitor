@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-16 15:25:36.824324  total: 9050 
+ > update time: 2022-04-16 16:33:09.497775  total: 9051 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE 2022-22954 - VMWare Workspace ONE Acess SSTI** : [astraztech/vmware4shell](https://github.com/astraztech/vmware4shell)  create time: 2022-04-16T15:54:43Z
 
 **CVE-2021-44529 Ivanti EPM 云服务设备 (CSA) 中的代码注入漏洞允许未经身份验证的用户以有限的权限（nobody）执行任意代码。** : [jax7sec/CVE-2021-44529](https://github.com/jax7sec/CVE-2021-44529)  create time: 2022-04-16T15:19:39Z
 
