@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-17 06:30:02.819112  total: 9060 
+ > update time: 2022-04-17 11:21:24.841029  total: 9061 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Log4j vulnerability scanner is used to identify the CVE-2021-44228 and CVE_2021_45046** : [manishkanyal/log4j-scanner](https://github.com/manishkanyal/log4j-scanner)  create time: 2022-04-17T11:01:24Z
 
 **List of CVE-2021-*** : [mcdulltii/CVE-2021](https://github.com/mcdulltii/CVE-2021)  create time: 2022-04-17T05:56:34Z
 
