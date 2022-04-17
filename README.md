@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-17 01:51:06.335942  total: 9057 
+ > update time: 2022-04-17 05:22:31.375139  total: 9058 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scripted Linux Privilege Escalation for the CVE-2022-0847 "Dirty Pipe" vulnerability** : [rexpository/Linux-privilege-escalation](https://github.com/rexpository/Linux-privilege-escalation)  create time: 2022-04-17T04:28:24Z
 
 **Seowon 130-SLC router - 'queriesCnt' Remote Code Execution (Unauthenticated)** : [TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated](https://github.com/TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated)  create time: 2021-12-01T20:12:56Z
 
