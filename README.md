@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-17 05:22:31.375139  total: 9058 
+ > update time: 2022-04-17 06:30:02.819112  total: 9060 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**List of CVE-2021-*** : [mcdulltii/CVE-2021](https://github.com/mcdulltii/CVE-2021)  create time: 2022-04-17T05:56:34Z
+
+**WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC** : [mcdulltii/CVE-2022-1329](https://github.com/mcdulltii/CVE-2022-1329)  create time: 2022-04-17T05:44:45Z
 
 **Scripted Linux Privilege Escalation for the CVE-2022-0847 "Dirty Pipe" vulnerability** : [rexpository/Linux-privilege-escalation](https://github.com/rexpository/Linux-privilege-escalation)  create time: 2022-04-17T04:28:24Z
 
