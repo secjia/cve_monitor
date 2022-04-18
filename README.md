@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-18 17:30:35.494961  total: 9079 
+ > update time: 2022-04-18 18:31:37.182723  total: 9080 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [puneetbehl/grails3-cve-2022-27772](https://github.com/puneetbehl/grails3-cve-2022-27772)  create time: 2022-04-18T17:32:49Z
 
 **Powershell to mitigate CVE-2022-29072** : [tiktb8/CVE-2022-29072](https://github.com/tiktb8/CVE-2022-29072)  create time: 2022-04-18T17:08:43Z
 
