@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-18 18:31:37.182723  total: 9080 
+ > update time: 2022-04-18 21:22:29.895202  total: 9082 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**vuln scaner and exploit** : [HellKnightsCrew/CVE-2022-26809](https://github.com/HellKnightsCrew/CVE-2022-26809)  create time: 2022-04-18T19:26:59Z
+
+**7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.** : [sentinelblue/CVE-2022-29072](https://github.com/sentinelblue/CVE-2022-29072)  create time: 2022-04-18T18:59:01Z
 
 **no description** : [puneetbehl/grails3-cve-2022-27772](https://github.com/puneetbehl/grails3-cve-2022-27772)  create time: 2022-04-18T17:32:49Z
 
