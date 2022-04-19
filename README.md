@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-19 03:39:17.322648  total: 9084 
+ > update time: 2022-04-19 05:32:10.045179  total: 9085 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A pkexec CVE-2021-4034 vulnerability exploit** : [rhin0cer0s/CVE-2021-4034](https://github.com/rhin0cer0s/CVE-2021-4034)  create time: 2022-04-19T05:01:19Z
 
 **A web application vulnerable to CVE-2020-14343 insecure deserialization leading to command execution in PyYAML package.** : [j4k0m/loader-CVE-2020-14343](https://github.com/j4k0m/loader-CVE-2020-14343)  create time: 2022-04-19T02:06:41Z
 
