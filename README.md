@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-19 06:30:49.065887  total: 9087 
+ > update time: 2022-04-19 09:25:32.528314  total: 9088 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-4034** : [karaname/pkexec-exploit](https://github.com/karaname/pkexec-exploit)  create time: 2022-04-19T08:46:43Z
 
 **no description** : [Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332](https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332)  create time: 2022-04-19T06:06:57Z
 
