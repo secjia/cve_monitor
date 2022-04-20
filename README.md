@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-20 09:26:06.762773  total: 9105 
+ > update time: 2022-04-20 10:28:19.195822  total: 9106 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [jfrog/jfrog-CVE-2022-21449](https://github.com/jfrog/jfrog-CVE-2022-21449)  create time: 2022-04-20T10:23:07Z
 
 **no description** : [Phantomlancer123/CVE-2017-0199](https://github.com/Phantomlancer123/CVE-2017-0199)  create time: 2022-04-20T09:07:52Z
 
