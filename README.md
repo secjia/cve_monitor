@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-20 13:41:20.104570  total: 9111 
+ > update time: 2022-04-20 16:39:36.345437  total: 9112 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [yavolo/CVE-2018-6574](https://github.com/yavolo/CVE-2018-6574)  create time: 2022-04-20T16:03:00Z
 
 **no description** : [pazhanivel07/system_bt_A10-r33_CVE-2020-0176](https://github.com/pazhanivel07/system_bt_A10-r33_CVE-2020-0176)  create time: 2022-04-20T13:17:24Z
 
