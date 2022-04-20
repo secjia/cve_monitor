@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-20 06:32:32.582563  total: 9102 
+ > update time: 2022-04-20 07:25:44.354120  total: 9104 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2017-9841批量扫描及利用脚本。PHPUnit是其中的一个基于PHP的测试框架。 PHPUnit 4.8.28之前的版本和5.6.3之前的5.x版本中的Util/PHP/eval-stdin.php文件存在安全漏洞。远程攻击者可通过发送以‘<?php’字符串开头的HTTP POST数据利用该漏洞执行任意PHP代码。** : [jax7sec/CVE-2017-9841](https://github.com/jax7sec/CVE-2017-9841)  create time: 2022-04-20T07:01:20Z
+
+**no description** : [ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0475](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0475)  create time: 2022-04-20T06:36:43Z
 
 **no description** : [ShaikUsaf/system_bt_AOSP10_r33_CVE-2020-0380](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2020-0380)  create time: 2022-04-20T06:19:13Z
 
