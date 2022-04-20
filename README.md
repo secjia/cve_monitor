@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-20 16:39:36.345437  total: 9112 
+ > update time: 2022-04-20 17:33:39.650153  total: 9113 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tool which leverages CVE-2021-36798 (HotCobalt) and related work from SentinelOne to DoS CobaltStrike 4.2 and 4.3 servers** : [hariomenkel/CobaltSploit](https://github.com/hariomenkel/CobaltSploit)  create time: 2022-04-20T16:36:23Z
 
 **no description** : [yavolo/CVE-2018-6574](https://github.com/yavolo/CVE-2018-6574)  create time: 2022-04-20T16:03:00Z
 
