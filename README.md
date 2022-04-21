@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-21 15:28:25.507931  total: 9141 
+ > update time: 2022-04-21 16:39:13.170185  total: 9142 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Demos the Psychic Signatures vulnerability (CVE-2022-21449)** : [marschall/psychic-signatures](https://github.com/marschall/psychic-signatures)  create time: 2022-04-21T16:26:50Z
 
 **Pre-auth RCE bug  CVE-2022-29464** : [mr-r3bot/WSO2-CVE-2022-29464](https://github.com/mr-r3bot/WSO2-CVE-2022-29464)  create time: 2022-04-21T14:47:18Z
 
