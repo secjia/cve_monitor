@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-22 08:31:07.774410  total: 9156 
+ > update time: 2022-04-22 09:26:37.072890  total: 9159 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481)  create time: 2022-04-22T09:10:38Z
+
+**no description** : [martinfrancois/CVE-2021-36460](https://github.com/martinfrancois/CVE-2021-36460)  create time: 2022-04-22T08:33:47Z
+
+**CVE-2022-25943** : [webraybtl/CVE-2022-25943](https://github.com/webraybtl/CVE-2022-25943)  create time: 2022-04-22T08:30:55Z
 
 **no description** : [Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166](https://github.com/Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166)  create time: 2022-04-22T07:43:37Z
 
