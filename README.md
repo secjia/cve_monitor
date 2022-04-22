@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-22 22:26:20.626232  total: 9164 
+ > update time: 2022-04-22 23:26:13.522078  total: 9165 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE.** : [gpiechnik2/nmap-CVE-2022-29464](https://github.com/gpiechnik2/nmap-CVE-2022-29464)  create time: 2022-04-22T21:23:57Z
 
 **no description** : [0xAgun/CVE-2022-29464](https://github.com/0xAgun/CVE-2022-29464)  create time: 2022-04-22T22:13:45Z
 
