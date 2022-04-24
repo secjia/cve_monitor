@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-24 03:00:03.899283  total: 9183 
+ > update time: 2022-04-24 06:30:25.726249  total: 9186 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [LogSec/CVE-2013-0212](https://github.com/LogSec/CVE-2013-0212)  create time: 2022-04-24T06:13:43Z
+
+**Proof of concept exploit for CVE-2021-42697: Akka HTTP 10.1.x before 10.1.15 and 10.2.x before 10.2.7 can encounter stack exhaustion while parsing HTTP headers, which allows a remote attacker to conduct a Denial of Service attack by sending a User-Agent header with deeply nested comments.** : [cxosmo/CVE-2021-42697](https://github.com/cxosmo/CVE-2021-42697)  create time: 2022-04-24T05:51:24Z
+
+**Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0.** : [cxosmo/CVE-2022-29548](https://github.com/cxosmo/CVE-2022-29548)  create time: 2022-04-24T06:00:25Z
 
 **CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit** : [ExploitPwner/CVE-2021-20038-Mass-RCE](https://github.com/ExploitPwner/CVE-2021-20038-Mass-RCE)  create time: 2022-04-24T02:02:54Z
 
