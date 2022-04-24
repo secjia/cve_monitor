@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-24 18:29:15.874553  total: 9191 
+ > update time: 2022-04-24 23:25:09.076119  total: 9192 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [k4u5h41/CVE-2022-29464](https://github.com/k4u5h41/CVE-2022-29464)  create time: 2022-04-24T22:40:38Z
 
 **😭 WSOB is a python created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.** : [oppsec/WSOB](https://github.com/oppsec/WSOB)  create time: 2022-04-24T18:25:26Z
 
