@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-25 17:28:49.070878  total: 9204 
+ > update time: 2022-04-25 19:20:45.043714  total: 9207 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component.** : [XmasSnowREAL/CVE-2020-15823](https://github.com/XmasSnowREAL/CVE-2020-15823)  create time: 2022-04-25T19:16:00Z
+
+**A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.** : [XmasSnowREAL/CVE-2021-42292](https://github.com/XmasSnowREAL/CVE-2021-42292)  create time: 2022-04-25T18:48:42Z
+
+**CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime** : [XmasSnowREAL/CVE-2022-26809-RCE](https://github.com/XmasSnowREAL/CVE-2022-26809-RCE)  create time: 2022-04-25T18:40:24Z
 
 **Test tool to demonstrate the vulnerability of CVE-2022-21449** : [Damok82/SignChecker](https://github.com/Damok82/SignChecker)  create time: 2022-04-25T16:02:24Z
 
