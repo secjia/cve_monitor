@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-25 07:24:56.497748  total: 9197 
+ > update time: 2022-04-25 08:35:53.005709  total: 9199 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586)  create time: 2022-04-25T07:58:29Z
+
+**SQL injection in QuerySet.annotate(), aggregate(), and extra()** : [YouGina/CVE-2022-28346](https://github.com/YouGina/CVE-2022-28346)  create time: 2022-04-25T08:27:34Z
 
 **no description** : [nanopathi/framework_base_AOSP10_r33_CVE-2021-0339](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339)  create time: 2022-04-25T07:09:36Z
 
