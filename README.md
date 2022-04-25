@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-25 03:20:21.687900  total: 9193 
+ > update time: 2022-04-25 05:25:35.107766  total: 9194 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/framework_base_AOSP10_r33_CVE-2021-0954](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954)  create time: 2022-04-25T05:13:39Z
 
 **A basic analysis about CVE-2021-35942. SQL injection in Django.** : [WynSon/CVE-2021-35042](https://github.com/WynSon/CVE-2021-35042)  create time: 2022-04-25T02:50:00Z
 
