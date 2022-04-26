@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-26 11:22:40.925044  total: 9218 
+ > update time: 2022-04-26 12:48:46.656023  total: 9220 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nanopathi/linux-4.19.72_CVE-2021-3347](https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347)  create time: 2022-04-26T11:32:34Z
+
+**dingdingtest** : [w1023913214/CVE-2022-8899](https://github.com/w1023913214/CVE-2022-8899)  create time: 2022-04-26T11:26:18Z
 
 **no description** : [nanopathi/framework_base_AOSP10_r33_CVE-2021-39704](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704)  create time: 2022-04-26T11:04:14Z
 
