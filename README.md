@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-26 06:32:56.873967  total: 9212 
+ > update time: 2022-04-26 08:32:08.005639  total: 9214 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle](https://github.com/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle)  create time: 2022-04-26T07:52:24Z
+
+**test dingding** : [w1023913214/CVE-2022-3333](https://github.com/w1023913214/CVE-2022-3333)  create time: 2022-04-26T08:05:12Z
 
 **CVE-2022-22947 注入Godzilla内存马** : [whwlsfb/cve-2022-22947-godzilla-memshell](https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell)  create time: 2022-04-26T05:48:27Z
 
