@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-26 15:27:22.196834  total: 9227 
+ > update time: 2022-04-26 17:29:45.915766  total: 9228 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Image Magick Exploit for CVE-2016–3714** : [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)  create time: 2022-04-26T17:12:36Z
 
 **no description** : [nanopathi/Packages_wpa_supplicant8_CVE-2021-0326](https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326)  create time: 2022-04-26T14:41:51Z
 
