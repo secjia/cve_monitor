@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-26 04:39:23.682836  total: 9210 
+ > update time: 2022-04-26 06:32:56.873967  total: 9212 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-22947 注入Godzilla内存马** : [whwlsfb/cve-2022-22947-godzilla-memshell](https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell)  create time: 2022-04-26T05:48:27Z
+
+**no description** : [lowkey0808/cve-2022-29464](https://github.com/lowkey0808/cve-2022-29464)  create time: 2022-04-26T05:28:39Z
 
 **CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit** : [XmasSnowREAL/CVE-2021-20038-Mass-RCE](https://github.com/XmasSnowREAL/CVE-2021-20038-Mass-RCE)  create time: 2022-04-26T04:38:11Z
 
