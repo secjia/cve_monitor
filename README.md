@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-27 21:24:03.035563  total: 9238 
+ > update time: 2022-04-28 02:42:15.053527  total: 9240 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [RedLeavesChilde/CVE-2021-40444](https://github.com/RedLeavesChilde/CVE-2021-40444)  create time: 2022-04-28T02:14:10Z
+
+**CVE-2022-28454** : [YavuzSahbaz/Limbas-4.3.36.1319-is-vulnerable-to-Cross-Site-Scripting-XSS-](https://github.com/YavuzSahbaz/Limbas-4.3.36.1319-is-vulnerable-to-Cross-Site-Scripting-XSS-)  create time: 2022-04-28T01:12:19Z
 
 **no description** : [QwertyStack/CVE-2021-40444_PoC](https://github.com/QwertyStack/CVE-2021-40444_PoC)  create time: 2022-04-27T20:38:22Z
 
