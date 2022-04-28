@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-28 12:51:10.907560  total: 9248 
+ > update time: 2022-04-28 13:48:14.682029  total: 9251 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453](https://github.com/Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453)  create time: 2022-04-28T13:12:23Z
+
+**Astra Pro Addon < 3.5.2 - Unauthenticated SQL Injection - CVE-2021-24507** : [RandomRobbieBF/CVE-2021-24507](https://github.com/RandomRobbieBF/CVE-2021-24507)  create time: 2022-04-28T13:10:55Z
+
+**Solar Appscreener XXE** : [jet-pentest/CVE-2022-24449](https://github.com/jet-pentest/CVE-2022-24449)  create time: 2022-04-28T12:51:01Z
 
 **no description** : [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706)  create time: 2022-04-28T11:30:43Z
 
