@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-29 07:26:02.223317  total: 9263 
+ > update time: 2022-04-29 08:37:40.357646  total: 9264 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-29464 POC exploit** : [superzerosec/CVE-2022-29464](https://github.com/superzerosec/CVE-2022-29464)  create time: 2022-04-29T08:24:17Z
 
 **no description** : [Trinadh465/hardware_nxp_nfc_AOSP10_r33_CVE-2020-0155](https://github.com/Trinadh465/hardware_nxp_nfc_AOSP10_r33_CVE-2020-0155)  create time: 2022-04-29T06:33:54Z
 
