@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-29 02:06:48.676938  total: 9254 
+ > update time: 2022-04-29 03:57:03.049311  total: 9256 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [iczc/Ethermint-CVE-2021-25837](https://github.com/iczc/Ethermint-CVE-2021-25837)  create time: 2022-04-29T03:12:27Z
+
+**CVE-2022-28452** : [YavuzSahbaz/Red-Planet-Laundry-Management-System-1.0-is-vulnerable-to-SQL](https://github.com/YavuzSahbaz/Red-Planet-Laundry-Management-System-1.0-is-vulnerable-to-SQL)  create time: 2022-04-29T03:03:25Z
 
 **Loops through all Log4j files and remediates CVE-2021-44228** : [digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation)  create time: 2022-04-28T23:56:01Z
 
