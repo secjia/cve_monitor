@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-28 15:29:08.268408  total: 9252 
+ > update time: 2022-04-29 02:06:48.676938  total: 9254 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Loops through all Log4j files and remediates CVE-2021-44228** : [digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation)  create time: 2022-04-28T23:56:01Z
+
+**no description** : [mwina/CVE-2022-21728-test](https://github.com/mwina/CVE-2022-21728-test)  create time: 2022-04-28T23:56:58Z
 
 **CVE-2021-30937 vulnerability checking app** : [realrodri/ExploiteameEsta](https://github.com/realrodri/ExploiteameEsta)  create time: 2022-04-28T14:50:00Z
 
