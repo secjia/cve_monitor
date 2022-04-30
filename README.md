@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-30 16:34:42.332602  total: 9281 
+ > update time: 2022-04-30 22:25:40.760142  total: 9282 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**TEM FLEX-1080/FLEX-1085 1.6.0 log log.cgi Information Disclosure** : [MrEmpy/CVE-2022-1077](https://github.com/MrEmpy/CVE-2022-1077)  create time: 2022-04-30T21:55:03Z
 
 **This repository contains a PoC for remote code execution CVE-2022-26809** : [ZyxelTeam/CVE-2022-26809-RCE](https://github.com/ZyxelTeam/CVE-2022-26809-RCE)  create time: 2022-04-30T15:49:28Z
 
