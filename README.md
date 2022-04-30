@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-04-30 03:47:06.846286  total: 9274 
+ > update time: 2022-04-30 04:34:06.994461  total: 9275 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [UUFR/CVE-2022-29464](https://github.com/UUFR/CVE-2022-29464)  create time: 2022-04-30T04:21:26Z
 
 **no description** : [Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924](https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924)  create time: 2022-04-30T03:40:15Z
 
