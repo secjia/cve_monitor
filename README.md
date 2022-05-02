@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-01 22:25:00.368290  total: 9285 
+ > update time: 2022-05-02 07:25:40.253362  total: 9286 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection** : [ExploitPwner/Totolink-CVE-2022-Exploits](https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits)  create time: 2022-05-02T06:47:00Z
 
 **CVE-2022-22954, CVE-2022-22955,CVE-2022-22956, CVE-2022-22957, CVE-2022-22958, CVE-2022-22959, CVE-2022-22960, CVE-2022-22961 all in one!** : [kaanymz/2022-04-06-critical-vmware-fix](https://github.com/kaanymz/2022-04-06-critical-vmware-fix)  create time: 2022-05-01T20:52:10Z
 
