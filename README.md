@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-02 14:30:30.833820  total: 9287 
+ > update time: 2022-05-02 17:33:12.887375  total: 9288 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Willian-2-0-0-1/Log4j-Exploit-CVE-2021-44228](https://github.com/Willian-2-0-0-1/Log4j-Exploit-CVE-2021-44228)  create time: 2022-05-02T16:53:26Z
 
 **no description** : [Off3nS3c/CVE-2022-29932](https://github.com/Off3nS3c/CVE-2022-29932)  create time: 2022-05-02T13:56:05Z
 
