@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-03 16:45:19.064378  total: 9294 
+ > update time: 2022-05-03 20:31:41.795983  total: 9295 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cachet configuration leak dumper. CVE-2021-39174 PoC.** : [narkopolo/CVE-2021-39174-PoC](https://github.com/narkopolo/CVE-2021-39174-PoC)  create time: 2022-05-03T20:17:23Z
 
 **My own python implementation of a CVE-2021-22204 exploit** : [BBurgarella/CVE-2021-22204](https://github.com/BBurgarella/CVE-2021-22204)  create time: 2022-05-03T16:36:02Z
 
