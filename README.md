@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-03 20:31:41.795983  total: 9295 
+ > update time: 2022-05-03 22:25:53.322044  total: 9296 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover** : [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)  create time: 2022-05-03T21:38:58Z
 
 **Cachet configuration leak dumper. CVE-2021-39174 PoC.** : [narkopolo/CVE-2021-39174-PoC](https://github.com/narkopolo/CVE-2021-39174-PoC)  create time: 2022-05-03T20:17:23Z
 
