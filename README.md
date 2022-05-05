@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-05 14:29:14.143408  total: 9307 
+ > update time: 2022-05-05 15:30:51.437433  total: 9309 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5)** : [jheeree/CVE-2022-1388-checker](https://github.com/jheeree/CVE-2022-1388-checker)  create time: 2022-05-05T15:25:53Z
+
+**BIG** : [TomArni680/CVE-2022-1388-POC](https://github.com/TomArni680/CVE-2022-1388-POC)  create time: 2022-05-05T14:55:45Z
 
 **no description** : [0xRaw/CVE-2021-42183](https://github.com/0xRaw/CVE-2021-42183)  create time: 2022-05-05T13:45:43Z
 
