@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-04 09:32:19.900440  total: 9297 
+ > update time: 2022-05-05 03:30:28.149451  total: 9298 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Improper privilege management vulnerability in Samsung Video Player prior to version 7.3.15.30 allows attackers to execute video files without permission.** : [heegong/CVE-2022-24924](https://github.com/heegong/CVE-2022-24924)  create time: 2022-05-05T03:08:53Z
 
 **CMS Made Simple < 2.2.10 - SQL Injection (rewritten for python3),  CVE-2019-905** : [xtafnull/CMS-made-simple-sqli-python3](https://github.com/xtafnull/CMS-made-simple-sqli-python3)  create time: 2022-05-04T09:26:45Z
 
