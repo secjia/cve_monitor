@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-06 17:32:04.364614  total: 9313 
+ > update time: 2022-05-06 18:31:43.077813  total: 9314 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation** : [biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)  create time: 2022-05-06T17:40:55Z
 
 **no description** : [u201424348/CVE-2022-21984](https://github.com/u201424348/CVE-2022-21984)  create time: 2022-05-06T17:08:43Z
 
