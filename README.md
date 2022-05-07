@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-06 18:31:43.077813  total: 9314 
+ > update time: 2022-05-07 01:50:08.999090  total: 9315 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**fuzzing with libFuzzer，inlude openssl heartbleed (CVE-2014-0160)** : [GardeniaWhite/fuzzing](https://github.com/GardeniaWhite/fuzzing)  create time: 2022-05-07T00:52:46Z
 
 **WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation** : [biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)  create time: 2022-05-06T17:40:55Z
 
