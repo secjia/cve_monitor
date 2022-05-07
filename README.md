@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-07 10:28:27.156826  total: 9320 
+ > update time: 2022-05-07 12:40:36.863473  total: 9322 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SambaCry exploit (CVE-2017-7494)** : [eulercode/exploit-CVE-2017-7494](https://github.com/eulercode/exploit-CVE-2017-7494)  create time: 2022-05-07T11:42:40Z
+
+**CVE-2022-25075 totolink command injection vulnerability** : [kuznyJan1972/CVE-2022-25075-RCE](https://github.com/kuznyJan1972/CVE-2022-25075-RCE)  create time: 2022-05-07T11:43:01Z
 
 **Just proof of concept for Cisco CVE-2020-3452. Using external or internal file base.** : [iveresk/cve-2020-3452](https://github.com/iveresk/cve-2020-3452)  create time: 2022-05-07T09:45:25Z
 
