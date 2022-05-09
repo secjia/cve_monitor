@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-09 12:46:26.963304  total: 9342 
+ > update time: 2022-05-09 13:45:18.386345  total: 9344 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [HoAd-sc/CVE_2022_1388](https://github.com/HoAd-sc/CVE_2022_1388)  create time: 2022-05-09T13:41:11Z
+
+**no description** : [Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492)  create time: 2022-05-09T13:20:03Z
 
 **Apisix系列漏洞：未授权漏洞（CVE-2021-45232）、默认秘钥（CVE-2020-13945）批量探测。** : [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)  create time: 2022-05-09T12:26:11Z
 
