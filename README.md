@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-09 16:39:06.917412  total: 9353 
+ > update time: 2022-05-09 17:32:21.529290  total: 9357 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor** : [FlaviuPopescu/CVE-2022-28986](https://github.com/FlaviuPopescu/CVE-2022-28986)  create time: 2022-05-09T17:07:37Z
+
+**A Two-Factor Authentication (2FA) bypass vulnerability in "Simple 2FA  Plugin for Moodle" by LMS Doctor** : [FlaviuPopescu/CVE-2022-28601](https://github.com/FlaviuPopescu/CVE-2022-28601)  create time: 2022-05-09T16:57:14Z
+
+**CVE-2022-1040 is an authentication bypass and rce in user portal and webadmin of sophos firewall** : [Seatwe/CVE-2022-1040-rce](https://github.com/Seatwe/CVE-2022-1040-rce)  create time: 2022-05-09T16:49:58Z
+
+**CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime** : [ExploitPwner/CVE-2022-26809-RCE-POC](https://github.com/ExploitPwner/CVE-2022-26809-RCE-POC)  create time: 2022-05-09T16:48:30Z
 
 **CVE-2022-1388 POC exploit** : [superzerosec/CVE-2022-1388](https://github.com/superzerosec/CVE-2022-1388)  create time: 2022-05-09T15:42:55Z
 
