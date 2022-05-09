@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-09 08:33:08.584373  total: 9333 
+ > update time: 2022-05-09 10:30:20.078912  total: 9334 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**batch scan CVE-2022-1388** : [yukar1z0e/CVE-2022-1388](https://github.com/yukar1z0e/CVE-2022-1388)  create time: 2022-05-09T10:06:11Z
 
 **PoC for CVE-2022-1388_F5_BIG-IP** : [sherlocksecurity/CVE-2022-1388_F5_BIG-IP](https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP)  create time: 2022-05-09T07:39:55Z
 
