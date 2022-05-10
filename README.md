@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-10 16:40:38.101230  total: 9381 
+ > update time: 2022-05-10 17:34:28.731535  total: 9382 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [sprushed/CVE-2022-30292](https://github.com/sprushed/CVE-2022-30292)  create time: 2022-05-10T16:39:00Z
 
 **An unauthenticated attacker can send an HTTP request with an "Accept-Encoding" HTTP request header triggering a double free in the unknown coding-list inside the HTTP Protocol Stack (http.sys) to process packets, resulting in a kernel crash.** : [iveresk/cve-2021-43008-1vere-k](https://github.com/iveresk/cve-2021-43008-1vere-k)  create time: 2022-05-10T16:00:50Z
 
