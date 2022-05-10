@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-10 06:32:09.994438  total: 9365 
+ > update time: 2022-05-10 08:32:09.874397  total: 9368 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple shell script for the exploit** : [iveresk/cve-2022-1388-1veresk](https://github.com/iveresk/cve-2022-1388-1veresk)  create time: 2022-05-10T08:22:46Z
+
+**CVE-2022-1388-EXP可批量实现攻击** : [LinJacck/CVE-2022-1388-EXP](https://github.com/LinJacck/CVE-2022-1388-EXP)  create time: 2022-05-10T08:09:30Z
+
+**no description** : [hou5/CVE-2022-1388](https://github.com/hou5/CVE-2022-1388)  create time: 2022-05-10T07:24:33Z
 
 **no description** : [Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388](https://github.com/Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388)  create time: 2022-05-10T05:30:11Z
 
