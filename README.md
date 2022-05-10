@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-10 03:35:09.808863  total: 9360 
+ > update time: 2022-05-10 04:33:18.861352  total: 9362 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**may the poc with you！** : [killvxk/CVE-2022-1388](https://github.com/killvxk/CVE-2022-1388)  create time: 2022-05-10T04:13:47Z
+
+**CVE-2022-1388 is an authentication bypass vulnerability in the REST      component of BIG-IP’s iControl API that was assigned a CVSSv3      score of 9.8. The iControl REST API is used for the management and      configuration of BIG-IP devices. CVE-2022-1388 could be exploited      by an unauthenticated attacker with network access to the management      port or self IP addresses of devices that use BIG-IP. Exploitation would      allow the attacker to execute arbitrary system commands, create and      delete files and disable services.** : [MrCl0wnLab/Nuclei-Template-Exploit-CVE-2022-1388-BIG-IP-iControl-REST](https://github.com/MrCl0wnLab/Nuclei-Template-Exploit-CVE-2022-1388-BIG-IP-iControl-REST)  create time: 2022-05-10T04:10:46Z
 
 **PoC For F5 BIG-IP - bash script Exploit one Liner** : [Stonzyy/Exploit-F5-CVE-2022-1388](https://github.com/Stonzyy/Exploit-F5-CVE-2022-1388)  create time: 2022-05-10T02:57:31Z
 
