@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-11 02:04:38.821994  total: 9385 
+ > update time: 2022-05-11 06:35:22.200608  total: 9387 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Home Owners Collection Management System 1.0 - Reflected XSS** : [bigzooooz/CVE-2022-28078](https://github.com/bigzooooz/CVE-2022-28078)  create time: 2022-05-11T06:28:28Z
+
+**Home Owners Collection Management System 1.0 - Reflected XSS** : [bigzooooz/CVE-2022-28077](https://github.com/bigzooooz/CVE-2022-28077)  create time: 2022-05-11T06:23:46Z
 
 **On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated** : [ExploitPwner/CVE-2022-1388](https://github.com/ExploitPwner/CVE-2022-1388)  create time: 2022-05-11T00:15:07Z
 
