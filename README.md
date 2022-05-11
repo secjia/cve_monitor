@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-11 15:27:58.818629  total: 9393 
+ > update time: 2022-05-11 18:32:27.444483  total: 9394 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [AmirHoseinTangsiriNET/CVE-2022-1388-Scanner](https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner)  create time: 2022-05-11T17:43:44Z
 
 **big-ip icontrol rest auth bypass RCE MASS with huge list of ip dumped** : [kuznyJan1972/cve-2022-1388-mass](https://github.com/kuznyJan1972/cve-2022-1388-mass)  create time: 2022-05-11T14:57:31Z
 
