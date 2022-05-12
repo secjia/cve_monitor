@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-12 12:49:27.394882  total: 9409 
+ > update time: 2022-05-12 13:52:14.448124  total: 9411 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-23253 PoC** : [nettitude/CVE-2022-23253-PoC](https://github.com/nettitude/CVE-2022-23253-PoC)  create time: 2022-05-12T13:18:47Z
+
+**Proof of concept exploit for CVE-2022-30525 (Zxyel firewall command injection)** : [jbaines-r7/victorian_machinery](https://github.com/jbaines-r7/victorian_machinery)  create time: 2022-05-10T10:31:19Z
 
 **Nuclei Template for CVE-2022-1388** : [SecTheBit/CVE-2022-1388](https://github.com/SecTheBit/CVE-2022-1388)  create time: 2022-05-12T12:17:11Z
 
