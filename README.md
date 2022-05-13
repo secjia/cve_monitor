@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-13 07:27:49.427040  total: 9417 
+ > update time: 2022-05-13 09:27:41.689496  total: 9418 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Melissa** : [itstarsec/CVE-2020-0618](https://github.com/itstarsec/CVE-2020-0618)  create time: 2022-05-13T08:58:16Z
 
 **WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields** : [V35HR4J/CVE-2022-1051](https://github.com/V35HR4J/CVE-2022-1051)  create time: 2022-05-13T06:50:25Z
 
