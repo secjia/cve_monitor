@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-12 21:22:44.380964  total: 9415 
+ > update time: 2022-05-13 06:34:18.512181  total: 9416 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Essay (and PoCs) about CVE-2021-41773, a remote code execution vulnerability in Apache 2.4.49 🕸️** : [iosifache/ApacheRCEEssay](https://github.com/iosifache/ApacheRCEEssay)  create time: 2022-05-12T13:23:08Z
 
 **NETATALK-AFP-PROTO RCE :| This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries function. The issue results from the lack of proper error handling when parsing AppleDouble entries. An attacker can leverage this vulnerability to execute code in the context of root.** : [kuznyJan1972/CVE-2022-23121-RCE](https://github.com/kuznyJan1972/CVE-2022-23121-RCE)  create time: 2022-05-12T20:58:01Z
 
