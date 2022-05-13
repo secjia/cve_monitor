@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-13 06:34:18.512181  total: 9416 
+ > update time: 2022-05-13 07:27:49.427040  total: 9417 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields** : [V35HR4J/CVE-2022-1051](https://github.com/V35HR4J/CVE-2022-1051)  create time: 2022-05-13T06:50:25Z
 
 **Essay (and PoCs) about CVE-2021-41773, a remote code execution vulnerability in Apache 2.4.49 🕸️** : [iosifache/ApacheRCEEssay](https://github.com/iosifache/ApacheRCEEssay)  create time: 2022-05-12T13:23:08Z
 
