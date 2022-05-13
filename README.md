@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-13 09:27:41.689496  total: 9418 
+ > update time: 2022-05-13 10:30:36.907362  total: 9419 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tool for CVE-2022-1388** : [justakazh/CVE-2022-1388](https://github.com/justakazh/CVE-2022-1388)  create time: 2022-05-13T10:18:29Z
 
 **Melissa** : [itstarsec/CVE-2020-0618](https://github.com/itstarsec/CVE-2020-0618)  create time: 2022-05-13T08:58:16Z
 
