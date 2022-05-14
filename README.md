@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-13 18:32:05.955425  total: 9424 
+ > update time: 2022-05-14 04:44:23.697054  total: 9425 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A proof-of-concept font with a write-up attached.** : [Exploitables/CVE-2022-26927](https://github.com/Exploitables/CVE-2022-26927)  create time: 2022-05-14T04:12:23Z
 
 **Zyxel 防火墙未经身份验证的远程命令注入** : [savior-only/CVE-2022-30525](https://github.com/savior-only/CVE-2022-30525)  create time: 2022-05-13T18:16:31Z
 
