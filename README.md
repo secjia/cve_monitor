@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-15 11:22:37.797104  total: 9439 
+ > update time: 2022-05-15 20:29:27.780272  total: 9440 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**MyBB 1.8.29 - Remote Code Execution** : [lavclash75/mybb-CVE-2022-24734](https://github.com/lavclash75/mybb-CVE-2022-24734)  create time: 2022-05-15T19:18:32Z
 
 **Private keys vulnerable to Debian OpenSSL bug (CVE-2008-0166)** : [badkeys/debianopenssl](https://github.com/badkeys/debianopenssl)  create time: 2022-05-15T10:28:03Z
 
