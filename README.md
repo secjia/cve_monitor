@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-15 02:08:16.610407  total: 9432 
+ > update time: 2022-05-15 03:46:29.864724  total: 9433 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-38314 - Unauthenticated Sensitive Information Disclosure** : [twseptian/cve-2021-38314](https://github.com/twseptian/cve-2021-38314)  create time: 2022-05-15T02:10:01Z
 
 **An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs.** : [ahsentekdemir/CVE-2022-28346](https://github.com/ahsentekdemir/CVE-2022-28346)  create time: 2022-05-15T00:24:19Z
 
