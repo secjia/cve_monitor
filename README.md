@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-16 13:48:38.196030  total: 9450 
+ > update time: 2022-05-16 16:40:02.924453  total: 9453 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[Reserved for CVE-2022-30006]** : [ComparedArray/printix-CVE-2022-30006](https://github.com/ComparedArray/printix-CVE-2022-30006)  create time: 2022-05-16T16:15:52Z
+
+**The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks** : [V35HR4J/CVE-2022-1598](https://github.com/V35HR4J/CVE-2022-1598)  create time: 2022-05-16T15:33:48Z
+
+**Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947） 注入哥斯拉内存马** : [0730Nophone/CVE-2022-22947-](https://github.com/0730Nophone/CVE-2022-22947-)  create time: 2022-05-16T15:27:41Z
 
 **no description** : [ratiros01/CVE-2014-8609-exploit](https://github.com/ratiros01/CVE-2014-8609-exploit)  create time: 2022-05-16T13:24:39Z
 
