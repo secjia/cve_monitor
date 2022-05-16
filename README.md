@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-16 03:08:24.009912  total: 9442 
+ > update time: 2022-05-16 05:29:28.981644  total: 9444 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ratiros01/CVE-2004-1561](https://github.com/ratiros01/CVE-2004-1561)  create time: 2020-06-09T14:54:00Z
+
+**CVE-2022-30525（Zxyel 防火墙命令注入）的概念证明漏洞利用** : [YGoldking/CVE-2022-30525](https://github.com/YGoldking/CVE-2022-30525)  create time: 2022-05-16T04:45:43Z
 
 **Exploit for CVE-2021-3560 (Polkit)** : [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)  create time: 2022-05-02T23:56:31Z
 
