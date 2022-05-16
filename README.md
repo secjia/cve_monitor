@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-16 11:23:36.803467  total: 9448 
+ > update time: 2022-05-16 12:49:17.761864  total: 9449 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [user16-et/cve-2021-21972_PoC](https://github.com/user16-et/cve-2021-21972_PoC)  create time: 2022-05-16T11:57:42Z
 
 **Persistent XSS on 'last_known_version' field (My Settings)** : [patrickdeanramos/CVE-2022-28598](https://github.com/patrickdeanramos/CVE-2022-28598)  create time: 2022-05-16T10:27:47Z
 
