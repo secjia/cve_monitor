@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-17 09:26:20.032888  total: 9456 
+ > update time: 2022-05-17 11:22:56.132056  total: 9457 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust** : [aancw/CVE-2022-1388-rs](https://github.com/aancw/CVE-2022-1388-rs)  create time: 2022-05-17T10:51:39Z
 
 **CVE-2018-6574: go get RCE** : [ThaFWord/pentesterlab](https://github.com/ThaFWord/pentesterlab)  create time: 2022-05-17T08:32:20Z
 
