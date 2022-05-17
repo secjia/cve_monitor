@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-16 18:32:52.843845  total: 9454 
+ > update time: 2022-05-17 03:40:06.214173  total: 9455 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-1388** : [getdrive/F5-BIG-IP-exploit](https://github.com/getdrive/F5-BIG-IP-exploit)  create time: 2022-05-17T03:23:39Z
 
 **Multithread Golang application** : [iveresk/cve-2022-21907](https://github.com/iveresk/cve-2022-21907)  create time: 2022-05-16T17:42:45Z
 
