@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-17 15:30:57.138792  total: 9461 
+ > update time: 2022-05-17 16:44:03.162422  total: 9462 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Zyxel multithreaded Mass Exploitation tool compatible with URL/IP lists.** : [ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter](https://github.com/ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter)  create time: 2022-05-17T15:58:19Z
 
 **no description** : [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946)  create time: 2022-05-17T15:23:12Z
 
