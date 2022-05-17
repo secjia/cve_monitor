@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-17 11:22:56.132056  total: 9457 
+ > update time: 2022-05-17 12:51:35.813073  total: 9458 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Details regarding the Z-Wave S0-No-More attack** : [ITSecLab-HSEL/CVE-2022-24611](https://github.com/ITSecLab-HSEL/CVE-2022-24611)  create time: 2022-05-17T11:55:09Z
 
 **CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust** : [aancw/CVE-2022-1388-rs](https://github.com/aancw/CVE-2022-1388-rs)  create time: 2022-05-17T10:51:39Z
 
