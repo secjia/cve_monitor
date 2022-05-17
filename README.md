@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-17 03:40:06.214173  total: 9455 
+ > update time: 2022-05-17 09:26:20.032888  total: 9456 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-6574: go get RCE** : [ThaFWord/pentesterlab](https://github.com/ThaFWord/pentesterlab)  create time: 2022-05-17T08:32:20Z
 
 **CVE-2022-1388** : [getdrive/F5-BIG-IP-exploit](https://github.com/getdrive/F5-BIG-IP-exploit)  create time: 2022-05-17T03:23:39Z
 
