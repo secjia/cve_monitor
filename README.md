@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-18 11:23:03.971262  total: 9468 
+ > update time: 2022-05-18 12:50:38.386197  total: 9470 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each.** : [kuznyJan1972/CVE-2021-44228-mass](https://github.com/kuznyJan1972/CVE-2021-44228-mass)  create time: 2022-05-18T12:30:14Z
+
+**zyxel firewall unauthenticated rce mass multi threaded exploit** : [kuznyJan1972/CVE-2022-30525-mass](https://github.com/kuznyJan1972/CVE-2022-30525-mass)  create time: 2022-05-18T12:10:11Z
 
 **The Repository contains documents that explains the explotation of CVE-2016-5195** : [malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195](https://github.com/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195)  create time: 2022-05-18T10:51:23Z
 
