@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-18 13:48:06.327070  total: 9471 
+ > update time: 2022-05-18 15:31:19.702192  total: 9472 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Simple python script to exploit CVE-2022-30525 (FIXED): Zyxel Firewall Unauthenticated Remote Command Injection** : [Chocapikk/CVE-2022-30525-Reverse-Shell](https://github.com/Chocapikk/CVE-2022-30525-Reverse-Shell)  create time: 2022-05-18T15:22:17Z
 
 **Analysis, POC and Explanation of CVE-2021-1732** : [reccoon-dev/CVE-2021-1732](https://github.com/reccoon-dev/CVE-2021-1732)  create time: 2022-05-18T13:34:07Z
 
