@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-18 12:50:38.386197  total: 9470 
+ > update time: 2022-05-18 13:48:06.327070  total: 9471 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Analysis, POC and Explanation of CVE-2021-1732** : [reccoon-dev/CVE-2021-1732](https://github.com/reccoon-dev/CVE-2021-1732)  create time: 2022-05-18T13:34:07Z
 
 **CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each.** : [kuznyJan1972/CVE-2021-44228-mass](https://github.com/kuznyJan1972/CVE-2021-44228-mass)  create time: 2022-05-18T12:30:14Z
 
