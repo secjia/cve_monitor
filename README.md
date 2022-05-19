@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-19 20:27:51.345117  total: 9488 
+ > update time: 2022-05-19 22:25:35.600530  total: 9490 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-28590](https://github.com/trhacknon/CVE-2022-28590)  create time: 2022-05-19T21:27:09Z
+
+**no description** : [trhacknon/CVE-2022-29464](https://github.com/trhacknon/CVE-2022-29464)  create time: 2022-05-19T21:24:02Z
 
 **no description** : [corelight/cve-2022-22954](https://github.com/corelight/cve-2022-22954)  create time: 2022-04-12T18:08:58Z
 
