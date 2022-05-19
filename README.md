@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-19 16:58:12.798123  total: 9487 
+ > update time: 2022-05-19 20:27:51.345117  total: 9488 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [corelight/cve-2022-22954](https://github.com/corelight/cve-2022-22954)  create time: 2022-04-12T18:08:58Z
 
 **一个可单独、批量验证的脚本，也可以反弹shell** : [anansec/CVE-2022-22947_EXP](https://github.com/anansec/CVE-2022-22947_EXP)  create time: 2022-05-19T14:58:45Z
 
