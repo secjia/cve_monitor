@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-19 11:23:28.188934  total: 9481 
+ > update time: 2022-05-19 12:50:15.016230  total: 9484 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository contains studies on CVE-2021-44228. I would like to thank everyone who somehow supported the development of this work.** : [caiquebaracho/CVE-2021-44228](https://github.com/caiquebaracho/CVE-2021-44228)  create time: 2022-05-18T22:58:26Z
+
+**CVE-2022-30525 Zyxel防火墙命令注入漏洞 POC&EXP** : [west9b/CVE-2022-30525](https://github.com/west9b/CVE-2022-30525)  create time: 2022-05-19T12:21:08Z
+
+**CVE-2022-30525 Zyxel防火墙命令注入漏洞 POC&EXP** : [160Team/CVE-2022-30525](https://github.com/160Team/CVE-2022-30525)  create time: 2022-05-19T12:09:42Z
 
 **PoC for Dirty COW (CVE-2016-5195)** : [1equeneRise/scumjr9](https://github.com/1equeneRise/scumjr9)  create time: 2022-05-19T10:53:43Z
 
