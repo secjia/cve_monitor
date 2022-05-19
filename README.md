@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-19 02:09:03.848663  total: 9478 
+ > update time: 2022-05-19 03:58:31.725555  total: 9480 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26809 RCE Exploit Remote Code Execution** : [rkxxz/CVE-2022-26809](https://github.com/rkxxz/CVE-2022-26809)  create time: 2022-05-19T03:35:02Z
+
+**CVE-2022-24500 RCE Exploit Remote Code Execution Vulnerability** : [rkxxz/CVE-2022-24500](https://github.com/rkxxz/CVE-2022-24500)  create time: 2022-05-19T03:32:12Z
 
 **no description** : [theori-io/CVE-2022-26717-Safari-WebGL-Exploit](https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit)  create time: 2022-05-19T01:16:01Z
 
