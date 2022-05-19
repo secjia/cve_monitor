@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-18 17:31:51.482337  total: 9475 
+ > update time: 2022-05-19 02:09:03.848663  total: 9478 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [theori-io/CVE-2022-26717-Safari-WebGL-Exploit](https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit)  create time: 2022-05-19T01:16:01Z
+
+**Verifed Proof of Concept on CVE-2022-24086** : [oK0mo/CVE-2022-24086-RCE-PoC](https://github.com/oK0mo/CVE-2022-24086-RCE-PoC)  create time: 2022-05-19T01:15:57Z
+
+**no description** : [trhacknon/XSS-CVE-2022-30489](https://github.com/trhacknon/XSS-CVE-2022-30489)  create time: 2022-05-18T23:28:06Z
 
 **no description** : [trhacknon/CVE-2022-23131](https://github.com/trhacknon/CVE-2022-23131)  create time: 2022-05-18T17:18:45Z
 
