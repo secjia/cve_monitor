@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-20 10:30:30.431362  total: 9494 
+ > update time: 2022-05-20 11:23:08.199555  total: 9495 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow** : [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)  create time: 2022-05-20T10:05:55Z
 
 **CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each.** : [TomArni680/CVE-2021-44228-RCE](https://github.com/TomArni680/CVE-2021-44228-RCE)  create time: 2022-05-20T09:48:24Z
 
