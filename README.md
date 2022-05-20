@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-20 12:47:55.903705  total: 9496 
+ > update time: 2022-05-20 15:29:35.574714  total: 9498 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26809 | is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows** : [seciurdt/CVE-2022-26809-MASS](https://github.com/seciurdt/CVE-2022-26809-MASS)  create time: 2022-05-20T15:16:30Z
+
+**CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime** : [XmasSnowISBACK/CVE-2022-26809](https://github.com/XmasSnowISBACK/CVE-2022-26809)  create time: 2022-05-20T14:26:38Z
 
 **CVE-2017-1000486** : [prok3z/Nuclei-Template-Primefaces-RCE](https://github.com/prok3z/Nuclei-Template-Primefaces-RCE)  create time: 2022-05-20T12:43:10Z
 
