@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-20 02:00:18.002283  total: 9491 
+ > update time: 2022-05-20 04:37:07.910139  total: 9492 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache CouchDB 3.2.1 - Remote Code Execution (RCE)** : [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)  create time: 2022-05-20T04:28:51Z
 
 **CVE-2022-22965 Spring4Shell research & PoC** : [cxzero/CVE-2022-22965-spring4shell](https://github.com/cxzero/CVE-2022-22965-spring4shell)  create time: 2022-05-19T23:16:40Z
 
