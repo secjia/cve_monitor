@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-21 12:41:37.316654  total: 9509 
+ > update time: 2022-05-21 15:26:45.669395  total: 9510 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Simple bash script that patches the CVE-2022-0847 (dirty pipe) kernel vulnerability on Debian 11** : [IHenakaarachchi/debian11-dirty_pipe-patcher](https://github.com/IHenakaarachchi/debian11-dirty_pipe-patcher)  create time: 2022-05-21T15:14:51Z
 
 **no description** : [sudoninja-noob/CVE-2022-29009](https://github.com/sudoninja-noob/CVE-2022-29009)  create time: 2022-05-21T11:58:36Z
 
