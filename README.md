@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-21 02:57:57.569723  total: 9501 
+ > update time: 2022-05-21 06:32:17.808730  total: 9502 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-4034 for single commcand** : [wudicainiao/cve-2021-4034](https://github.com/wudicainiao/cve-2021-4034)  create time: 2022-05-21T05:42:01Z
 
 **race condition in apport lead to Local Privilege Escalation on Ubuntu** : [liumuqing/CVE-2021-3899_PoC](https://github.com/liumuqing/CVE-2021-3899_PoC)  create time: 2022-05-21T01:52:34Z
 
