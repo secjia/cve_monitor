@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-21 15:26:45.669395  total: 9510 
+ > update time: 2022-05-21 16:34:19.904434  total: 9512 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A login bypass(CVE-2019-18371) and a command injection vulnerability(CVE-2019-18370) in Xiaomi Router R3G up to versi…** : [jsnhcuan1997/UltramanGaia](https://github.com/jsnhcuan1997/UltramanGaia)  create time: 2022-05-21T16:30:37Z
+
+**CVE-2022-22916,O2OA RCE 远程命令执行** : [aodsec/CVE-2022-22916](https://github.com/aodsec/CVE-2022-22916)  create time: 2022-05-21T16:28:23Z
 
 **A Simple bash script that patches the CVE-2022-0847 (dirty pipe) kernel vulnerability on Debian 11** : [IHenakaarachchi/debian11-dirty_pipe-patcher](https://github.com/IHenakaarachchi/debian11-dirty_pipe-patcher)  create time: 2022-05-21T15:14:51Z
 
