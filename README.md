@@ -1,9 +1,23 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-23 07:27:27.087623  total: 9526 
+ > update time: 2022-05-23 12:45:56.033351  total: 9533 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2018-14042](https://github.com/korestreet/https-nj.gov---CVE-2018-14042)  create time: 2022-05-23T08:27:22Z
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2018-14040](https://github.com/korestreet/https-nj.gov---CVE-2018-14040)  create time: 2022-05-23T08:11:01Z
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2018-14041](https://github.com/korestreet/https-nj.gov---CVE-2018-14041)  create time: 2022-05-23T07:59:01Z
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2019-11358](https://github.com/korestreet/https-nj.gov---CVE-2019-11358)  create time: 2022-05-23T08:51:42Z
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2019-8331](https://github.com/korestreet/https-nj.gov---CVE-2019-8331)  create time: 2022-05-23T07:48:19Z
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2020-11023](https://github.com/korestreet/https-nj.gov---CVE-2020-11023)  create time: 2022-05-23T10:49:19Z
+
+**Vulnearability Report of the New Jersey official site** : [korestreet/https-nj.gov---CVE-2020-11022](https://github.com/korestreet/https-nj.gov---CVE-2020-11022)  create time: 2022-05-23T10:26:10Z
 
 **Case for CVE-2022-30778** : [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)  create time: 2022-05-23T07:04:54Z
 
