@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-23 01:58:15.670907  total: 9525 
+ > update time: 2022-05-23 07:27:27.087623  total: 9526 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Case for CVE-2022-30778** : [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)  create time: 2022-05-23T07:04:54Z
 
 **Aplicação para explorar CVEs e calcular CVSSs. Atividade de segurança de aplicações (2022/1)** : [Jefh-Graduacao/segapps-cve-exporer](https://github.com/Jefh-Graduacao/segapps-cve-exporer)  create time: 2022-05-23T00:34:07Z
 
