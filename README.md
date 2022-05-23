@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-23 17:29:03.494046  total: 9534 
+ > update time: 2022-05-23 21:24:20.388602  total: 9535 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tinker Script for CVE-2022-23046** : [bernauers/CVE-2022-23046](https://github.com/bernauers/CVE-2022-23046)  create time: 2022-05-23T20:44:15Z
 
 **Initial POC for the CVE-2022-30525** : [iveresk/cve-2022-30525](https://github.com/iveresk/cve-2022-30525)  create time: 2022-05-23T16:51:42Z
 
