@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-24 10:29:01.229338  total: 9538 
+ > update time: 2022-05-24 17:31:47.448210  total: 9540 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [b1ackros337/CVE-2020-25213](https://github.com/b1ackros337/CVE-2020-25213)  create time: 2022-05-24T16:35:23Z
+
+**SDT-CW3B1 1.1.0 - OS Command Injection** : [nobodyatall648/CVE-2021-46422](https://github.com/nobodyatall648/CVE-2021-46422)  create time: 2022-05-24T16:45:41Z
 
 **CVE-2022-1292** : [li8u99/CVE-2022-1292](https://github.com/li8u99/CVE-2022-1292)  create time: 2022-05-24T09:26:29Z
 
