@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-25 11:24:08.594429  total: 9552 
+ > update time: 2022-05-25 13:50:32.098699  total: 9553 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**C-DATA FD702XW-X-R430 v2.1.13_X001 was discovered to contain a command injection vulnerability via the va_cmd parameter in formlanipv6. This vulnerability allows attackers to execute arbitrary commands via a crafted HTTP request.** : [exploitwritter/CVE-2022-29337](https://github.com/exploitwritter/CVE-2022-29337)  create time: 2022-05-25T13:02:34Z
 
 **Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540）** : [Pear1y/CVE-2022-0540-Preauth-RCE](https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE)  create time: 2022-05-25T10:47:04Z
 
