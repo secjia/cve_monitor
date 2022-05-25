@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-25 16:38:59.943576  total: 9556 
+ > update time: 2022-05-25 17:33:28.811892  total: 9558 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**School Dormitory Management System 1.0 - Reflected XSS** : [bigzooooz/CVE-2022-30513](https://github.com/bigzooooz/CVE-2022-30513)  create time: 2022-05-25T16:46:09Z
+
+**School Dormitory Management System 1.0 - Reflected XSS** : [bigzooooz/CVE-2022-30514](https://github.com/bigzooooz/CVE-2022-30514)  create time: 2022-05-25T16:42:25Z
 
 **School Dormitory Management System 1.0 - Unauthenticated SQL Injection** : [bigzooooz/CVE-2022-30511](https://github.com/bigzooooz/CVE-2022-30511)  create time: 2022-05-25T16:35:06Z
 
