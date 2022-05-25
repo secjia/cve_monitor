@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-25 06:32:43.374843  total: 9545 
+ > update time: 2022-05-25 07:26:23.964365  total: 9547 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308](https://github.com/Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308)  create time: 2022-05-25T06:50:30Z
+
+**no description** : [trhacknon/CVE-2022-1292](https://github.com/trhacknon/CVE-2022-1292)  create time: 2022-05-25T07:06:48Z
 
 **CVE-2022-29221 Proof of Concept Code** : [sbani/CVE-2022-29221-PoC](https://github.com/sbani/CVE-2022-29221-PoC)  create time: 2022-05-25T06:02:23Z
 
