@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-25 20:27:59.450725  total: 9559 
+ > update time: 2022-05-26 03:56:02.111737  total: 9560 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**sudo提权漏洞CVE-2021-3156复现代码** : [q77190858/CVE-2021-3156](https://github.com/q77190858/CVE-2021-3156)  create time: 2022-05-26T02:47:53Z
 
 **Implementation of CVE-2018-6242 (AKA Fusée Gelée, AKA shofel2)** : [Swiftloke/fusee-toy](https://github.com/Swiftloke/fusee-toy)  create time: 2022-05-25T19:51:06Z
 
