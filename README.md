@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-26 12:48:25.813196  total: 9563 
+ > update time: 2022-05-26 14:25:10.144943  total: 9564 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [horizon3ai/CVE-2022-22972](https://github.com/horizon3ai/CVE-2022-22972)  create time: 2022-05-24T20:19:55Z
 
 **no description** : [gog1071/Spring4Shell-CVE-2022-22965](https://github.com/gog1071/Spring4Shell-CVE-2022-22965)  create time: 2022-05-26T11:39:25Z
 
