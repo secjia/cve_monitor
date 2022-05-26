@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-26 14:25:10.144943  total: 9564 
+ > update time: 2022-05-26 18:32:09.199606  total: 9565 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**APOLOGEE is a Python script and Metasploit module that enumerates a hidden directory on Siemens APOGEE PXC BACnet Automation Controllers (all versions prior to V3.5) and TALON TC BACnet Automation Controllers (all versions prior to V3.5). With a 7.5 CVSS, this exploit allows for an attacker to perform an authentication bypass using an alternate path or channel to access hidden directories in the web server.  This repository takes advantage of CVE-2017-9947.** : [RoseSecurity/APOLOGEE](https://github.com/RoseSecurity/APOLOGEE)  create time: 2022-05-26T01:13:42Z
 
 **no description** : [horizon3ai/CVE-2022-22972](https://github.com/horizon3ai/CVE-2022-22972)  create time: 2022-05-24T20:19:55Z
 
