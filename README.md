@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-26 19:22:41.365030  total: 9566 
+ > update time: 2022-05-26 20:28:29.138371  total: 9567 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python script to exploit CVE-2022-29464 (mass mode)** : [Chocapikk/CVE-2022-29464](https://github.com/Chocapikk/CVE-2022-29464)  create time: 2022-05-26T20:19:53Z
 
 **.json and .yaml files used to exploit CVE-2018-25031** : [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)  create time: 2022-05-26T19:06:21Z
 
