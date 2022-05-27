@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-27 13:44:43.405974  total: 9574 
+ > update time: 2022-05-27 15:29:26.214942  total: 9576 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [jftierno/CVE-2018-6574-2](https://github.com/jftierno/CVE-2018-6574-2)  create time: 2022-05-27T15:10:11Z
+
+**Exploit for Pentester Labs** : [Cypheer/exploit_CVE-2018-6574](https://github.com/Cypheer/exploit_CVE-2018-6574)  create time: 2022-05-27T14:35:11Z
 
 **CVE-2022-1609 WordPress Weblizar后门** : [savior-only/CVE-2022-1609](https://github.com/savior-only/CVE-2022-1609)  create time: 2022-05-27T13:15:38Z
 
