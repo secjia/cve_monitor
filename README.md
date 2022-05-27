@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-26 22:26:51.407491  total: 9568 
+ > update time: 2022-05-27 08:32:55.395861  total: 9569 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**exploit for T3 rce （CVE 2015-4852 \CVE 2016-0638 \CVE 2016-3510）** : [minhangxiaohui/Weblogic_direct_T3_Rces](https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces)  create time: 2022-05-27T08:04:24Z
 
 **no description** : [trhacknon/CVE-2022-29464-mass](https://github.com/trhacknon/CVE-2022-29464-mass)  create time: 2022-05-26T22:02:45Z
 
