@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-28 07:25:23.143973  total: 9581 
+ > update time: 2022-05-28 11:22:47.032440  total: 9582 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit** : [0x4E0x650x6F/Wordpress-cve-CVE-2022-21661](https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661)  create time: 2022-05-28T10:46:48Z
 
 **no description** : [west9b/CVE-2022-30525](https://github.com/west9b/CVE-2022-30525)  create time: 2022-05-28T07:19:31Z
 
