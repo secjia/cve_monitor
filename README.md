@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-28 03:16:56.788673  total: 9579 
+ > update time: 2022-05-28 06:31:33.217972  total: 9580 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [kuznyJan1972/CVE-2022-23121-MASS-RCE](https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE)  create time: 2022-05-28T05:48:35Z
 
 **FreePascal implementation of the UnrealIRCD CVE-2010-2075** : [MFernstrom/Offensive-Pascal-CVE-2010-2075](https://github.com/MFernstrom/Offensive-Pascal-CVE-2010-2075)  create time: 2022-05-28T02:47:22Z
 
