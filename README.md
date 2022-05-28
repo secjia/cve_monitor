@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-28 15:27:26.572601  total: 9588 
+ > update time: 2022-05-28 21:23:56.782903  total: 9589 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**vmware authentication bypass** : [Dghpi9/CVE-2022-22972](https://github.com/Dghpi9/CVE-2022-22972)  create time: 2022-05-28T20:56:09Z
 
 **CVE-2020-5902 CVE-2021-22986 CVE-2022-1388 POC集合** : [west9b/F5-BIG-IP-POC](https://github.com/west9b/F5-BIG-IP-POC)  create time: 2022-05-28T13:30:22Z
 
