@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-29 16:34:48.348171  total: 9592 
+ > update time: 2022-05-29 18:30:20.421241  total: 9593 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [SecurityBoi/TEST-CVE-05-2022-0438](https://github.com/SecurityBoi/TEST-CVE-05-2022-0438)  create time: 2022-05-29T18:05:30Z
 
 **exploit is already public** : [TomArni680/CVE-2022-1388-RCE](https://github.com/TomArni680/CVE-2022-1388-RCE)  create time: 2022-05-29T15:29:44Z
 
