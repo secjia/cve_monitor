@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-30 15:29:19.807858  total: 9600 
+ > update time: 2022-05-30 16:37:06.418793  total: 9601 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [SenpaiX00/CVE-05-2022-0438](https://github.com/SenpaiX00/CVE-05-2022-0438)  create time: 2022-05-30T15:41:44Z
 
 **CVE-2022-1292 OpenSSL c_rehash Vulnerability** : [alcaparra/CVE-2022-1292](https://github.com/alcaparra/CVE-2022-1292)  create time: 2022-05-30T14:45:15Z
 
