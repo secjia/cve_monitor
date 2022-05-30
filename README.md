@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-29 18:30:20.421241  total: 9593 
+ > update time: 2022-05-30 02:08:53.440663  total: 9595 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit CVE-2021-24160** : [hnthuan1998/Exploit-CVE-2021-24160](https://github.com/hnthuan1998/Exploit-CVE-2021-24160)  create time: 2022-05-30T01:48:27Z
+
+**no description** : [hnthuan1998/CVE-2021-24160](https://github.com/hnthuan1998/CVE-2021-24160)  create time: 2022-05-30T01:46:50Z
 
 **no description** : [SecurityBoi/TEST-CVE-05-2022-0438](https://github.com/SecurityBoi/TEST-CVE-05-2022-0438)  create time: 2022-05-29T18:05:30Z
 
