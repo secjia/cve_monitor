@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-30 02:08:53.440663  total: 9595 
+ > update time: 2022-05-30 07:27:11.492415  total: 9596 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-24086 and CVE-2022-24087 are an rce in adobe commerce and magento** : [TomArni680/CVE-2022-24086-MASS-RCE](https://github.com/TomArni680/CVE-2022-24086-MASS-RCE)  create time: 2022-05-30T07:08:41Z
 
 **Exploit CVE-2021-24160** : [hnthuan1998/Exploit-CVE-2021-24160](https://github.com/hnthuan1998/Exploit-CVE-2021-24160)  create time: 2022-05-30T01:48:27Z
 
