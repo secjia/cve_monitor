@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-31 19:22:58.169916  total: 9619 
+ > update time: 2022-05-31 20:29:37.964690  total: 9621 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mghostz/CVE202230190](https://github.com/mghostz/CVE202230190)  create time: 2022-05-31T20:24:44Z
+
+**A remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker who successfully exploits this vulnerability can run arbitrary code with the privileges of the calling application. The attacker can then install programs, view, change, or delete data, or create new accounts in the context allowed by the user’s rights.** : [sentinelblue/CVE-2022-30190](https://github.com/sentinelblue/CVE-2022-30190)  create time: 2022-05-31T18:00:42Z
 
 **no description** : [trhacknon/CVE-2022-30190](https://github.com/trhacknon/CVE-2022-30190)  create time: 2022-05-31T18:58:55Z
 
