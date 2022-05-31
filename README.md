@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-30 17:30:30.750324  total: 9602 
+ > update time: 2022-05-31 03:56:47.279003  total: 9606 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tuannq2299/CVE-2019-8942](https://github.com/tuannq2299/CVE-2019-8942)  create time: 2022-05-31T03:28:22Z
+
+**Exploit for Apache 2.4.50 (CVE-2021-42013)** : [viliuspovilaika/cve-2021-42013](https://github.com/viliuspovilaika/cve-2021-42013)  create time: 2022-05-31T03:28:20Z
+
+**no description** : [tuannq2299/CVE-2021-43408](https://github.com/tuannq2299/CVE-2021-43408)  create time: 2022-05-31T03:00:27Z
+
+**CVE-2022-22978 Spring-Security bypass Demo** : [DeEpinGh0st/CVE-2022-22978](https://github.com/DeEpinGh0st/CVE-2022-22978)  create time: 2022-05-31T03:14:55Z
 
 **CVE-2022-1292 OpenSSL c_rehash Vulnerability** : [rama291041610/CVE-2022-1292](https://github.com/rama291041610/CVE-2022-1292)  create time: 2022-05-30T16:59:54Z
 
