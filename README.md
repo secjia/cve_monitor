@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-05-31 07:26:30.439377  total: 9608 
+ > update time: 2022-05-31 11:23:39.056095  total: 9610 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Exzh34/PentestLab-CVE-2018-6574-go-get-RCE](https://github.com/Exzh34/PentestLab-CVE-2018-6574-go-get-RCE)  create time: 2022-05-31T11:17:51Z
+
+**no description** : [JCPpeiqi/-cve-2021-46381](https://github.com/JCPpeiqi/-cve-2021-46381)  create time: 2022-05-31T10:54:40Z
 
 **CVE-2022-30190  Follina POC** : [onecloudemoji/CVE-2022-30190](https://github.com/onecloudemoji/CVE-2022-30190)  create time: 2022-05-31T06:45:25Z
 
