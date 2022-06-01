@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-01 05:53:03.922224  total: 9627 
+ > update time: 2022-06-01 07:27:32.270098  total: 9628 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Phone number notification bug** : [fordsham/CVE-2021-30956](https://github.com/fordsham/CVE-2021-30956)  create time: 2022-06-01T07:09:18Z
 
 **no description** : [Ran-Xing/cve-2022-193372](https://github.com/Ran-Xing/cve-2022-193372)  create time: 2022-06-01T05:32:09Z
 
