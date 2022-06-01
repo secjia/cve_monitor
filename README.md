@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-01 22:27:56.629679  total: 9645 
+ > update time: 2022-06-01 23:27:30.873062  total: 9646 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of Concept zu MSDT-Follina - CVE-2022-30190. ÜBERPRÜFUNG DER WIRKSAMKEIT VON MICROSOFT DEFNEDER IN DER JEWEILS AKTUELLSTEN WINDOWS 10 VERSION.** : [ImproveCybersecurityJaro/2022_PoC-MSDT-Follina-CVE-2022-30190](https://github.com/ImproveCybersecurityJaro/2022_PoC-MSDT-Follina-CVE-2022-30190)  create time: 2022-06-01T23:07:26Z
 
 **CVE-2022-30190 or "Follina" 0day proof of concept** : [rayorole/CVE-2022-30190](https://github.com/rayorole/CVE-2022-30190)  create time: 2022-06-01T21:33:18Z
 
