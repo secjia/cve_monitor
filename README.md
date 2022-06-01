@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-01 21:25:06.900738  total: 9644 
+ > update time: 2022-06-01 22:27:56.629679  total: 9645 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30190 or "Follina" 0day proof of concept** : [rayorole/CVE-2022-30190](https://github.com/rayorole/CVE-2022-30190)  create time: 2022-06-01T21:33:18Z
 
 **Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.** : [p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE)  create time: 2022-05-31T15:31:37Z
 
