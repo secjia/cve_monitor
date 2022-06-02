@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 17:35:19.279160  total: 9671 
+ > update time: 2022-06-02 22:25:12.715078  total: 9673 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/exploit-CVE-2014-6271](https://github.com/trhacknon/exploit-CVE-2014-6271)  create time: 2022-06-02T21:52:52Z
+
+**no description** : [trhacknon/CVE-2014-6271](https://github.com/trhacknon/CVE-2014-6271)  create time: 2022-06-02T21:33:59Z
 
 **CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities** : [Kesinger57/CVE-2022-30190-mass-rce](https://github.com/Kesinger57/CVE-2022-30190-mass-rce)  create time: 2022-06-02T17:28:27Z
 
