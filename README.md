@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 10:31:09.110873  total: 9655 
+ > update time: 2022-06-02 12:53:44.714666  total: 9658 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tjcim/cve-2018-6574-1](https://github.com/tjcim/cve-2018-6574-1)  create time: 2022-06-02T12:35:08Z
+
+**no description** : [gyaansastra/CVE2022-30190](https://github.com/gyaansastra/CVE2022-30190)  create time: 2022-06-02T12:44:02Z
+
+**CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。** : [komomon/CVE-2022-30190-follina-Office-MSDT-Fixed](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)  create time: 2022-06-02T12:33:18Z
 
 **Mitigates the "Folina"-ZeroDay (CVE-2022-30190)** : [derco0n/mitigate-folina](https://github.com/derco0n/mitigate-folina)  create time: 2022-06-02T09:30:13Z
 
