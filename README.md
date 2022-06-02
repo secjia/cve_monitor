@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 04:10:37.821635  total: 9651 
+ > update time: 2022-06-02 07:29:31.370944  total: 9653 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ITMarcin2211/CVE-2022-30190](https://github.com/ITMarcin2211/CVE-2022-30190)  create time: 2022-06-02T07:01:19Z
+
+**A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190)** : [ErrorNoInternet/FollinaScanner](https://github.com/ErrorNoInternet/FollinaScanner)  create time: 2022-06-02T06:45:19Z
 
 **no description** : [trhacknon/CVE-2021-35064](https://github.com/trhacknon/CVE-2021-35064)  create time: 2022-06-02T03:07:40Z
 
