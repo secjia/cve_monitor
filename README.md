@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 14:29:59.205395  total: 9665 
+ > update time: 2022-06-02 16:40:28.267486  total: 9670 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [arozx/CVE-2022-30910](https://github.com/arozx/CVE-2022-30910)  create time: 2022-06-02T16:14:13Z
+
+**CVE-2022-30190 | MS-MSDT Follina One Click** : [AchocolatechipPancake/MS-MSDT-Office-RCE-Follina](https://github.com/AchocolatechipPancake/MS-MSDT-Office-RCE-Follina)  create time: 2022-06-02T16:09:02Z
+
+**no description** : [intentagmbh/cve_2022-30190](https://github.com/intentagmbh/cve_2022-30190)  create time: 2022-06-02T15:40:10Z
+
+**Simple Follina poc exploit** : [WesyHub/CVE-2022-30190---Follina---Poc-Exploit](https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit)  create time: 2022-06-02T15:39:20Z
+
+**PDQ Package I created for CVE-2022-30190** : [castlesmadeofsand/ms-msdt-vulnerability-pdq-package](https://github.com/castlesmadeofsand/ms-msdt-vulnerability-pdq-package)  create time: 2022-06-02T15:33:15Z
 
 **CVE-2020-2551 Exploiter** : [0xAbbarhSF/CVE-Exploit](https://github.com/0xAbbarhSF/CVE-Exploit)  create time: 2022-06-02T14:20:43Z
 
