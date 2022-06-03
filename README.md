@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 07:23:07.894438  total: 9682 
+ > update time: 2022-06-03 08:30:12.749437  total: 9684 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Information and scripts for the confluence CVE-2022-26134** : [offlinehoster/CVE-2022-26134](https://github.com/offlinehoster/CVE-2022-26134)  create time: 2022-06-03T08:01:49Z
+
+**Follina POC by John Hammond** : [SrikeshMaharaj/CVE-2022-30190](https://github.com/SrikeshMaharaj/CVE-2022-30190)  create time: 2022-06-03T08:00:01Z
 
 **Powershell script to mitigate cve-2022-30190** : [hilt86/cve-2022-30190-mitigate](https://github.com/hilt86/cve-2022-30190-mitigate)  create time: 2022-06-03T06:54:35Z
 
