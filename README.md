@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-02 22:25:12.715078  total: 9673 
+ > update time: 2022-06-03 01:52:26.467345  total: 9675 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python exploit for CVE-2011-2523** : [NullBrunk/CVE-2011-2523](https://github.com/NullBrunk/CVE-2011-2523)  create time: 2022-06-03T00:17:18Z
+
+**All about CVE-2022-30190, aka follina, that is a RCE vulnerability that affects Microsoft Support Diagnostic Tools (MSDT) on Office apps such as Word. This is a very simple POC, feel free to check the sources below for more threat intelligence.** : [Noxtal/follina](https://github.com/Noxtal/follina)  create time: 2022-06-03T00:25:37Z
 
 **no description** : [trhacknon/exploit-CVE-2014-6271](https://github.com/trhacknon/exploit-CVE-2014-6271)  create time: 2022-06-02T21:52:52Z
 
