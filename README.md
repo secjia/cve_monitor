@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 11:21:08.891295  total: 9688 
+ > update time: 2022-06-03 13:37:21.409858  total: 9690 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring exploit (LIMITED COPIES)** : [Expl0desploit/CVE-2022-22965](https://github.com/Expl0desploit/CVE-2022-22965)  create time: 2022-06-03T12:56:08Z
+
+**no description** : [e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-06-03T12:53:14Z
 
 **CVE-2022-26134  vuln domains** : [s0rtega/CVE-2022-26134_vuln](https://github.com/s0rtega/CVE-2022-26134_vuln)  create time: 2022-06-03T10:38:51Z
 
