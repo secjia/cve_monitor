@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 03:19:17.845904  total: 9676 
+ > update time: 2022-06-03 06:30:19.573355  total: 9681 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)  create time: 2022-06-03T06:24:34Z
+
+**Microsoft's recommended mitigation for CVE-2022-30190 using Powershell** : [hilt86/cve-2022-30190-mitigate](https://github.com/hilt86/cve-2022-30190-mitigate)  create time: 2022-06-03T06:03:15Z
+
+**This is to patch CVE-2022-30190. Use at your own risk.** : [droidrzrlover/CVE-2022-30190](https://github.com/droidrzrlover/CVE-2022-30190)  create time: 2022-06-03T05:52:36Z
+
+**Fidelis Network and Deception - Insecure File Permissions Privilege Escalation** : [henryreed/CVE-2022-0997](https://github.com/henryreed/CVE-2022-0997)  create time: 2022-06-03T05:46:10Z
+
+**Fidelis Network and Deception - Insecure File Permissions Privilege Escalation - Multiple** : [henryreed/CVE-2022-0486](https://github.com/henryreed/CVE-2022-0486)  create time: 2022-06-03T05:06:52Z
 
 **Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor** : [NullBrunk/CVE-2022-1609](https://github.com/NullBrunk/CVE-2022-1609)  create time: 2022-06-03T02:49:49Z
 
