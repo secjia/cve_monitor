@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-03 09:26:19.382092  total: 9686 
+ > update time: 2022-06-03 10:30:03.045623  total: 9687 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134).** : [CyberDonkyx0/CVE-2022-26134](https://github.com/CyberDonkyx0/CVE-2022-26134)  create time: 2022-06-03T09:30:51Z
 
 **VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором)** : [badboy-sft/CVE-2022-22954](https://github.com/badboy-sft/CVE-2022-22954)  create time: 2022-06-03T09:17:12Z
 
