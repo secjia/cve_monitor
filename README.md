@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-04 11:22:01.579508  total: 9710 
+ > update time: 2022-06-04 12:37:48.282635  total: 9712 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-06-04T11:44:51Z
+
+**CVE-2022-26133 Exploit** : [0xAbbarhSF/CVE-2022-26133](https://github.com/0xAbbarhSF/CVE-2022-26133)  create time: 2022-06-04T11:31:48Z
 
 **CVE-2021-3129** : [914525753/Laravel-CVE-2021-3129](https://github.com/914525753/Laravel-CVE-2021-3129)  create time: 2022-06-04T10:58:47Z
 
