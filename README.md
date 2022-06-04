@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-04 20:25:09.830036  total: 9718 
+ > update time: 2022-06-04 21:23:21.722992  total: 9720 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A file upload restriction bypass vulnerability in Pluck CMS before 4.7.13 allows an admin privileged user to gain access in the host through the "manage files" functionality, which may result in remote code execution.** : [0xAbbarhSF/CVE-2020-29607](https://github.com/0xAbbarhSF/CVE-2020-29607)  create time: 2022-06-04T21:09:38Z
+
+**Dump SQL database version on host running Casdoor < 1.13.1** : [0xAbbarhSF/CVE-2022-24124](https://github.com/0xAbbarhSF/CVE-2022-24124)  create time: 2022-06-04T21:01:22Z
 
 **no description** : [DerZiad/CVE-2022-30190](https://github.com/DerZiad/CVE-2022-30190)  create time: 2022-06-04T19:48:37Z
 
