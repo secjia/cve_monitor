@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-04 17:23:02.060464  total: 9716 
+ > update time: 2022-06-04 18:27:27.094275  total: 9717 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-29464 PoC for WSO2 products** : [jimidk/Better-CVE-2022-29464](https://github.com/jimidk/Better-CVE-2022-29464)  create time: 2022-06-04T16:46:52Z
 
 **PoC of CVE-2022-22978 vulnerability in Spring Security framework** : [ducluongtran9121/CVE-2022-22978-PoC](https://github.com/ducluongtran9121/CVE-2022-22978-PoC)  create time: 2022-06-04T16:57:18Z
 
