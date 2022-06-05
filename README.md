@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-05 21:22:11.890603  total: 9731 
+ > update time: 2022-06-05 22:23:14.204386  total: 9733 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of Concept/Test for CVE-2022-24713 on Ubuntu** : [ItzSwirlz/CVE-2022-24713-POC](https://github.com/ItzSwirlz/CVE-2022-24713-POC)  create time: 2022-06-05T22:17:00Z
+
+**Challenge for you all to prove that CVE-2022–29622 is not false** : [keymandll/CVE-2022-29622](https://github.com/keymandll/CVE-2022-29622)  create time: 2022-06-05T22:15:21Z
 
 **no description** : [abhishekmorla/CVE-2022-26134](https://github.com/abhishekmorla/CVE-2022-26134)  create time: 2022-06-05T20:35:38Z
 
