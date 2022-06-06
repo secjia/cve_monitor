@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-06 09:24:20.355985  total: 9738 
+ > update time: 2022-06-06 10:30:07.211654  total: 9739 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit in Rails Development Mode. With some knowledge of a target application it is possible for an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit.** : [PenTestical/CVE-2019-5420](https://github.com/PenTestical/CVE-2019-5420)  create time: 2022-06-06T10:01:35Z
 
 **Microsoft MS-MSDT Follina (0-day Vulnerability) CVE-2022-30190 Attack Vector** : [IamVSM/msdt-follina](https://github.com/IamVSM/msdt-follina)  create time: 2022-06-06T09:17:25Z
 
