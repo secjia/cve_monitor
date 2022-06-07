@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-06 17:26:33.100318  total: 9743 
+ > update time: 2022-06-07 03:26:01.930598  total: 9745 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**C# POC for CVE-2021-26855 aka ProxyLogon, supports the classically semi-interactive web shell as well as shellcode in…** : [1342486672/Flangvik](https://github.com/1342486672/Flangvik)  create time: 2022-06-07T02:09:10Z
+
+**no description** : [vesperp/CVE-2022-26134-Confluence](https://github.com/vesperp/CVE-2022-26134-Confluence)  create time: 2022-06-07T02:16:56Z
 
 **no description** : [PsykoDev/CVE-2022-26134](https://github.com/PsykoDev/CVE-2022-26134)  create time: 2022-06-06T16:45:35Z
 
