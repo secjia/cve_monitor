@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 09:27:47.294499  total: 9748 
+ > update time: 2022-06-07 10:33:45.561804  total: 9750 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Microsoft Support Diagnostic Tool (CVE-2022-30190)** : [joshuavanderpoll/CVE-2022-30190](https://github.com/joshuavanderpoll/CVE-2022-30190)  create time: 2022-06-07T10:07:52Z
+
+**CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation** : [tr3ee/CVE-2022-23222](https://github.com/tr3ee/CVE-2022-23222)  create time: 2022-06-07T03:20:23Z
 
 **no description** : [BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)  create time: 2022-06-07T09:19:02Z
 
