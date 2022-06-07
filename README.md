@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 11:22:53.891059  total: 9753 
+ > update time: 2022-06-07 12:47:46.527538  total: 9755 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 | Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks** : [hab1b0x/CVE-2021-41773](https://github.com/hab1b0x/CVE-2021-41773)  create time: 2022-06-07T11:22:08Z
+
+**Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)** : [hab1b0x/CVE-2022-26134](https://github.com/hab1b0x/CVE-2022-26134)  create time: 2022-06-07T11:55:37Z
 
 **Apache 2.4.49 RCE CVE-2021-41773 in Ruby** : [hab1b0x/CVE-2021-41773](https://github.com/hab1b0x/CVE-2021-41773)  create time: 2022-06-07T10:38:23Z
 
