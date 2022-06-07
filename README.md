@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 10:33:45.561804  total: 9750 
+ > update time: 2022-06-07 11:22:53.891059  total: 9753 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache 2.4.49 RCE CVE-2021-41773 in Ruby** : [hab1b0x/CVE-2021-41773](https://github.com/hab1b0x/CVE-2021-41773)  create time: 2022-06-07T10:38:23Z
+
+**Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection** : [whokilleddb/CVE-2022-26134-Confluence-RCE](https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE)  create time: 2022-06-07T11:17:25Z
+
+**CVE-2022-26134 Confluence OGNL Injection POC** : [alcaparra/CVE-2022-26134](https://github.com/alcaparra/CVE-2022-26134)  create time: 2022-06-07T10:36:11Z
 
 **Microsoft Support Diagnostic Tool (CVE-2022-30190)** : [joshuavanderpoll/CVE-2022-30190](https://github.com/joshuavanderpoll/CVE-2022-30190)  create time: 2022-06-07T10:07:52Z
 
