@@ -1,9 +1,79 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-07 12:47:46.527538  total: 9755 
+ > update time: 2022-06-11 16:27:38.406677  total: 9790 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution)** : [0xSojalSec/-CVE-2011-2523](https://github.com/0xSojalSec/-CVE-2011-2523)  create time: 2022-06-09T16:25:25Z
+
+**Exploit for CVE-2017-12561: dbman Opcode 10012 Use-After-Free Remote Code Execution** : [whokilleddb/CVE-2017-12561-Exploit](https://github.com/whokilleddb/CVE-2017-12561-Exploit)  create time: 2022-06-11T11:00:42Z
+
+**Exploit vulnerabilities and vulnerability prevention implementation** : [TrG-1999/DetectPacket-CVE-2017-8464](https://github.com/TrG-1999/DetectPacket-CVE-2017-8464)  create time: 2022-06-08T01:39:48Z
+
+**CVE-2018-17240** : [BBge/CVE-2018-17240](https://github.com/BBge/CVE-2018-17240)  create time: 2022-06-10T04:34:17Z
+
+**Microsoft vulnerability for CVE 2019-1205 in 2022.** : [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)  create time: 2022-06-08T15:51:36Z
+
+**no description** : [SamuelGaudemer/POC_CVE-2020-11898](https://github.com/SamuelGaudemer/POC_CVE-2020-11898)  create time: 2022-06-09T13:42:01Z
+
+**no description** : [motherfucker12138/CVE-2020-0796_SMBGhost](https://github.com/motherfucker12138/CVE-2020-0796_SMBGhost)  create time: 2022-06-08T07:52:26Z
+
+**CVE-2020-0796 explanation and researching vulnerability for term porject CENG325** : [arzuozkan/CVE-2020-0796](https://github.com/arzuozkan/CVE-2020-0796)  create time: 2022-06-07T17:16:16Z
+
+**no description** : [warmachine-57/CVE-2021-44582](https://github.com/warmachine-57/CVE-2021-44582)  create time: 2022-06-10T08:32:28Z
+
+**check CVE-2021-40438** : [gassara-kys/CVE-2021-40438](https://github.com/gassara-kys/CVE-2021-40438)  create time: 2022-06-10T00:46:58Z
+
+**Exploit modificado para el tito Eu** : [CronoX1/CVE-2021-4034](https://github.com/CronoX1/CVE-2021-4034)  create time: 2022-06-08T20:00:39Z
+
+**Proof of concept of the Log4Shell vulnerability (CVE-2021-44228)** : [jaehnri/CVE-2021-44228](https://github.com/jaehnri/CVE-2021-44228)  create time: 2022-06-08T01:09:28Z
+
+**This project files demostrate a proof-of-concept of log4j vulnerability (CVE-2021-44228) on AWS using Terraform Infrastructure-as-a-code means.** : [moshuum/tf-log4j-aws-poc](https://github.com/moshuum/tf-log4j-aws-poc)  create time: 2022-06-07T13:30:37Z
+
+**writeup and poc for [CVE-2022-26809]** : [scoobydoobi/CVE-2022-26809-RCE](https://github.com/scoobydoobi/CVE-2022-26809-RCE)  create time: 2022-06-11T13:22:45Z
+
+**no description** : [trhacknon/CVE-2022-30075](https://github.com/trhacknon/CVE-2022-30075)  create time: 2022-06-11T07:04:55Z
+
+**[CVE-2022-26134] Attlasian Confluence RCE** : [KeepWannabe/BotCon](https://github.com/KeepWannabe/BotCon)  create time: 2022-06-10T18:07:16Z
+
+**this is my simple article about CVE 2022-30190 (Follina) analysis. I use the lab from Letsdefend.** : [Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab](https://github.com/Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab)  create time: 2022-06-10T16:29:07Z
+
+**proof of concept to CVE-2022-30190 (follina)** : [AmitNiz/follina_cve_2022-30190](https://github.com/AmitNiz/follina_cve_2022-30190)  create time: 2022-06-10T14:57:17Z
+
+**no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)  create time: 2022-06-10T12:23:08Z
+
+**CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina** : [safakTamsesCS/PicusSecurity4.Week.Repo](https://github.com/safakTamsesCS/PicusSecurity4.Week.Repo)  create time: 2022-06-10T12:09:37Z
+
+**no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005)  create time: 2022-06-10T11:56:59Z
+
+**no description** : [google-mirror/CVE-2022-1966](https://github.com/google-mirror/CVE-2022-1966)  create time: 2022-06-10T11:34:25Z
+
+**NEW EXPLOIT FOR TP LINK** : [SAJIDAMINE/CVE-2022-30075](https://github.com/SAJIDAMINE/CVE-2022-30075)  create time: 2022-06-10T11:09:30Z
+
+**[CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection** : [murataydemir/CVE-2022-26134](https://github.com/murataydemir/CVE-2022-26134)  create time: 2022-06-10T09:52:22Z
+
+**CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script** : [sunny-kathuria/exploit_CVE-2022-26134](https://github.com/sunny-kathuria/exploit_CVE-2022-26134)  create time: 2022-06-10T08:57:30Z
+
+**PoC for Sourcegraph Gitserver < 3.37.0 RCE (CVE-2022-23642)** : [Altelus1/CVE-2022-23642](https://github.com/Altelus1/CVE-2022-23642)  create time: 2022-06-10T06:12:15Z
+
+**no description** : [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007)  create time: 2022-06-10T04:26:02Z
+
+**hello** : [buff07/CVE-2022-31403](https://github.com/buff07/CVE-2022-31403)  create time: 2022-06-10T03:25:56Z
+
+**CVE-2022-31402** : [YavuzSahbaz/CVE-2022-31402](https://github.com/YavuzSahbaz/CVE-2022-31402)  create time: 2022-06-10T03:23:58Z
+
+**Mitigation for CVE-2022-30190** : [k508/CVE-2022-30190](https://github.com/k508/CVE-2022-30190)  create time: 2022-06-10T00:23:11Z
+
+**f you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.** : [krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-06-09T21:38:51Z
+
+**Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG** : [leokok10/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/leokok10/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-06-09T21:31:49Z
+
+**Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot** : [krxbl/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/krxbl/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-06-09T21:30:54Z
+
+**no description** : [Trhackno/CVE-2022-23808](https://github.com/Trhackno/CVE-2022-23808)  create time: 2022-06-09T17:34:46Z
+
+**Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)** : [Hrishikesh7665/Follina_Exploiter_CLI](https://github.com/Hrishikesh7665/Follina_Exploiter_CLI)  create time: 2022-06-09T09:32:10Z
 
 **CVE-2021-41773 | Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks** : [hab1b0x/CVE-2021-41773](https://github.com/hab1b0x/CVE-2021-41773)  create time: 2022-06-07T11:22:08Z
 
