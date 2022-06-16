@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-16 13:32:04.979432  total: 9858 
+ > update time: 2022-06-16 15:11:53.175011  total: 9859 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26757 discovered by @nedwill** : [Dylbin/flow_divert](https://github.com/Dylbin/flow_divert)  create time: 2022-06-16T14:58:25Z
 
 **Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)** : [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075)  create time: 2022-06-07T23:26:47Z
 
