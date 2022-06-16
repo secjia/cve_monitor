@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-16 12:24:25.790217  total: 9857 
+ > update time: 2022-06-16 13:32:04.979432  total: 9858 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)** : [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075)  create time: 2022-06-07T23:26:47Z
 
 **关于漂亮鼠的那些精彩事迹（变态的油腻大叔）CVE-2022-6969、CVE-2022-0001** : [piaoliangshu/piaoliangshusb](https://github.com/piaoliangshu/piaoliangshusb)  create time: 2022-06-16T11:58:36Z
 
