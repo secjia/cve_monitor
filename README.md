@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-19 13:20:52.420051  total: 9881 
+ > update time: 2022-06-19 15:10:56.737842  total: 9882 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**「💥」CVE-2022-26134 - Confluence Pre-Auth RCE** : [AmoloHT/CVE-2022-26134](https://github.com/AmoloHT/CVE-2022-26134)  create time: 2022-06-19T13:50:22Z
 
 **CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System** : [zir0x00/CVE-2022-30136-MASS-RCE](https://github.com/zir0x00/CVE-2022-30136-MASS-RCE)  create time: 2022-06-19T12:13:41Z
 
