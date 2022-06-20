@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-20 20:12:19.611961  total: 9886 
+ > update time: 2022-06-20 22:14:53.332583  total: 9887 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[CVE-2018-4084]** : [dybrkr/wifi_leak](https://github.com/dybrkr/wifi_leak)  create time: 2022-06-20T21:10:22Z
 
 **Telesquare SDT-CW3B1 1.1.0 - OS Command Injection** : [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)  create time: 2022-06-20T19:24:55Z
 
