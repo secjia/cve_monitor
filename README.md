@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-20 02:53:25.856845  total: 9884 
+ > update time: 2022-06-20 12:24:23.774140  total: 9885 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Golang implementation of CVE-2019-17662 TinyVNC Arbitrary File Read leading to Authentication Bypass Exploit** : [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)  create time: 2022-06-19T16:33:04Z
 
 **CVE-2022-1388 | F5 - Big IP Pre Auth RCE via '/mgmt/tm/util/bash' endpoint** : [Chocapikk/CVE-2022-1388](https://github.com/Chocapikk/CVE-2022-1388)  create time: 2022-06-20T01:58:40Z
 
