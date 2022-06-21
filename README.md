@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-20 22:14:53.332583  total: 9887 
+ > update time: 2022-06-21 00:46:50.035861  total: 9888 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Windows Network File System Crash PoC** : [i6c/CVE-2022-26937](https://github.com/i6c/CVE-2022-26937)  create time: 2022-06-21T00:12:32Z
 
 **[CVE-2018-4084]** : [dybrkr/wifi_leak](https://github.com/dybrkr/wifi_leak)  create time: 2022-06-20T21:10:22Z
 
