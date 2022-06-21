@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-21 08:15:09.155438  total: 9889 
+ > update time: 2022-06-21 09:16:39.850516  total: 9891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [delicateByte/CVE-2019-19945_Test](https://github.com/delicateByte/CVE-2019-19945_Test)  create time: 2022-06-21T09:07:10Z
+
+**no description** : [hou5/CVE-2022-26134](https://github.com/hou5/CVE-2022-26134)  create time: 2022-06-08T07:54:56Z
 
 **cve-2021-22005vcenter任意文件上传漏洞，可直接上传冰蝎** : [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)  create time: 2022-06-21T07:36:01Z
 
