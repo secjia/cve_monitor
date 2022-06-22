@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-22 07:11:23.684099  total: 9898 
+ > update time: 2022-06-22 08:16:59.271707  total: 9901 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting** : [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)  create time: 2022-06-22T07:10:53Z
+
+**CVE-2022-22980 漏洞靶场（扫描器可使用）** : [jweny/CVE-2022-22980-web-env](https://github.com/jweny/CVE-2022-22980-web-env)  create time: 2022-06-22T07:51:22Z
+
+**CVE-2022-22980环境** : [li8u99/Spring-Data-Mongodb-Demo](https://github.com/li8u99/Spring-Data-Mongodb-Demo)  create time: 2022-06-22T07:39:42Z
 
 **Spring Data MongoDB SpEL表达式注入漏洞(CVE-2022-22980) Demo环境** : [li8u99/Spring-Data-Mongodb-Demo](https://github.com/li8u99/Spring-Data-Mongodb-Demo)  create time: 2022-06-22T06:27:43Z
 
