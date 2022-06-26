@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-26 03:11:06.440953  total: 9923 
+ > update time: 2022-06-26 13:21:27.651672  total: 9924 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WPCargo < 6.9.0 - Unauthenticated RCE** : [biulove0x/CVE-2021-25003](https://github.com/biulove0x/CVE-2021-25003)  create time: 2022-06-26T13:07:47Z
 
 **no description** : [Viniciuspxf/CVE-2019-10742](https://github.com/Viniciuspxf/CVE-2019-10742)  create time: 2022-06-26T01:14:56Z
 
