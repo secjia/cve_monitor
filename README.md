@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-26 21:11:09.099868  total: 9926 
+ > update time: 2022-06-27 08:16:14.179486  total: 9927 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ProxyLogon (CVE-2021-26855+CVE-2021-27065) Exchange Server RCE (SSRF->GetWebShell)** : [kh4sh3i/ProxyLogon](https://github.com/kh4sh3i/ProxyLogon)  create time: 2022-06-27T08:07:48Z
 
 **CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System** : [oturu/CVE-2022-30136-POC](https://github.com/oturu/CVE-2022-30136-POC)  create time: 2022-06-26T20:54:02Z
 
