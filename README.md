@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-28 08:16:10.759077  total: 9933 
+ > update time: 2022-06-28 09:11:45.048978  total: 9936 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**工控安全，溯源** : [Kvi74/CVE-2022-8475](https://github.com/Kvi74/CVE-2022-8475)  create time: 2022-06-28T09:00:55Z
+
+**红队，蓝队，免杀** : [Kvi74/CVE-2022-5561](https://github.com/Kvi74/CVE-2022-5561)  create time: 2022-06-28T09:00:26Z
+
+**ARMember < 3.4.8 - Unauthenticated Admin Account Takeover** : [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)  create time: 2022-06-28T08:39:12Z
 
 **攻击，免杀** : [huihuo123/CVE-2022-5555](https://github.com/huihuo123/CVE-2022-5555)  create time: 2022-06-28T07:42:17Z
 
