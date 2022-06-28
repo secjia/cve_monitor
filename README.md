@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-28 10:12:40.574100  total: 9937 
+ > update time: 2022-06-28 17:20:53.751079  total: 9939 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [NBAquicknut/CVE-2018-6574](https://github.com/NBAquicknut/CVE-2018-6574)  create time: 2022-06-28T16:36:05Z
+
+**Old exploit for Issue 1076708** : [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)  create time: 2022-06-28T16:58:51Z
 
 **Dirty Cow exploit - CVE-2016-5195** : [flux10n/dirtycow](https://github.com/flux10n/dirtycow)  create time: 2022-06-28T10:08:43Z
 
