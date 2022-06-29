@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 07:11:31.728413  total: 9944 
+ > update time: 2022-06-29 09:12:12.050395  total: 9946 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-30190 powerpoint version** : [Gra3s/CVE-2022-30190-PowerPoint](https://github.com/Gra3s/CVE-2022-30190-PowerPoint)  create time: 2022-06-29T08:48:12Z
+
+**$$$$$$$$$$$$$$$** : [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)  create time: 2022-06-29T08:28:18Z
 
 **no description** : [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)  create time: 2022-06-29T06:51:36Z
 
