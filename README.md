@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 09:12:12.050395  total: 9946 
+ > update time: 2022-06-29 12:17:32.352466  total: 9947 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.** : [flux10n/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits)  create time: 2022-06-29T12:02:13Z
 
 **CVE-2022-30190 powerpoint version** : [Gra3s/CVE-2022-30190-PowerPoint](https://github.com/Gra3s/CVE-2022-30190-PowerPoint)  create time: 2022-06-29T08:48:12Z
 
