@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 13:33:32.544955  total: 9949 
+ > update time: 2022-06-29 15:44:46.565882  total: 9950 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation** : [huangyutange0uywlcn/HyperSine](https://github.com/huangyutange0uywlcn/HyperSine)  create time: 2022-06-29T15:33:05Z
 
 **CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability** : [kh4sh3i/ProxyShell](https://github.com/kh4sh3i/ProxyShell)  create time: 2022-06-29T12:37:31Z
 
