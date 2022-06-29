@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 15:44:46.565882  total: 9950 
+ > update time: 2022-06-29 17:37:47.169184  total: 9951 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for exploiting CVE-2022-26134 on Confluence** : [Luchoane/CVE-2022-26134_conFLU](https://github.com/Luchoane/CVE-2022-26134_conFLU)  create time: 2022-06-29T17:33:18Z
 
 **CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation** : [huangyutange0uywlcn/HyperSine](https://github.com/huangyutange0uywlcn/HyperSine)  create time: 2022-06-29T15:33:05Z
 
