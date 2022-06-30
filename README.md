@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-29 20:13:20.308385  total: 9952 
+ > update time: 2022-06-30 06:13:44.804106  total: 9953 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**0.6.18 - 1.20.0 Nginx Memory Overwrite Vulnerability PoC** : [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)  create time: 2022-06-30T04:39:58Z
 
 **REST API for CVE from years '99-2022** : [Vicariss/cve-rest](https://github.com/Vicariss/cve-rest)  create time: 2022-06-23T17:23:10Z
 
