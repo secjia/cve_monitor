@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-06-30 14:11:00.339304  total: 9958 
+ > update time: 2022-06-30 20:12:36.394589  total: 9961 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [notSMods/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/notSMods/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-06-30T20:06:10Z
+
+**no description** : [notSMods/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/notSMods/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-06-30T19:57:00Z
+
+**no description** : [notSMods/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/notSMods/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-06-30T19:56:11Z
 
 **no description** : [Asbatel/CBDS_CVE-2022-0847_POC](https://github.com/Asbatel/CBDS_CVE-2022-0847_POC)  create time: 2022-06-30T13:07:55Z
 
