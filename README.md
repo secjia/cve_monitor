@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-01 13:34:54.274237  total: 9964 
+ > update time: 2022-07-01 15:13:12.821507  total: 9966 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-6574: go get RCE PentesterLab** : [Logan-Elliott/CVE-2018-6574-go-get-RCE](https://github.com/Logan-Elliott/CVE-2018-6574-go-get-RCE)  create time: 2022-07-01T14:41:47Z
+
+**ASUS router exploit** : [Expl0desploit/CVE-2021-44158](https://github.com/Expl0desploit/CVE-2021-44158)  create time: 2022-07-01T14:54:42Z
 
 **no description** : [Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130](https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130)  create time: 2022-07-01T13:16:14Z
 
