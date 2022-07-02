@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-01 18:14:29.647615  total: 9968 
+ > update time: 2022-07-02 07:11:47.077531  total: 9970 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof-of-concept for CVE-2022-26766 on macOS 12.3.1** : [zhuowei/CoreTrustDemo](https://github.com/zhuowei/CoreTrustDemo)  create time: 2022-07-02T06:16:33Z
+
+**PCIDriverKit proof-of-concept for CVE-2022-26763** : [zhuowei/PCICrash](https://github.com/zhuowei/PCICrash)  create time: 2022-07-02T06:15:29Z
 
 **PoC for exploiting CVE-2022-1388 on BIG IP F5** : [Luchoane/CVE-2022-1388_refresh](https://github.com/Luchoane/CVE-2022-1388_refresh)  create time: 2022-07-01T18:08:50Z
 
