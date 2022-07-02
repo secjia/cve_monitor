@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-02 13:21:35.536201  total: 9972 
+ > update time: 2022-07-02 16:13:20.753067  total: 9973 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Ruby反序列化命令执行漏洞（CVE-2019-5420）-vulfocus通关版** : [laffray/ruby-RCE-CVE-2019-5420-](https://github.com/laffray/ruby-RCE-CVE-2019-5420-)  create time: 2022-07-02T15:44:03Z
 
 **no description** : [macilin/CVE-2021-21300](https://github.com/macilin/CVE-2021-21300)  create time: 2022-07-02T12:19:21Z
 
