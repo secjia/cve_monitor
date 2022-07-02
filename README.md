@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-02 08:14:06.309260  total: 9971 
+ > update time: 2022-07-02 13:21:35.536201  total: 9972 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [macilin/CVE-2021-21300](https://github.com/macilin/CVE-2021-21300)  create time: 2022-07-02T12:19:21Z
 
 **CVE-2022-2185 poc** : [safe3s/CVE-2022-2185-poc](https://github.com/safe3s/CVE-2022-2185-poc)  create time: 2022-07-02T07:58:01Z
 
