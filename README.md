@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-04 07:15:04.167610  total: 9979 
+ > update time: 2022-07-04 10:13:25.751768  total: 9981 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)  create time: 2022-07-04T10:01:05Z
+
+**metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445** : [Ziggy78/CVE-2022-26809-RCE](https://github.com/Ziggy78/CVE-2022-26809-RCE)  create time: 2022-07-04T09:22:09Z
 
 **CVE-2022-1388, bypassing iControl REST authentication** : [jbharucha05/CVE-2022-1388](https://github.com/jbharucha05/CVE-2022-1388)  create time: 2022-07-04T06:31:56Z
 
