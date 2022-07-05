@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-04 20:12:23.399124  total: 9986 
+ > update time: 2022-07-05 03:12:23.630181  total: 9990 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 does not set the Secure flag for the session cookie in an HTTPS session** : [swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)  create time: 2022-07-05T03:07:56Z
+
+**EXP for Spring4Shell(CVE-2022-22965)** : [D1mang/Spring4Shell-CVE-2022-22965](https://github.com/D1mang/Spring4Shell-CVE-2022-22965)  create time: 2022-07-05T03:03:31Z
+
+**no description** : [TheL1ghtVn/CVE-2022-30333-PoC](https://github.com/TheL1ghtVn/CVE-2022-30333-PoC)  create time: 2022-07-05T02:35:12Z
+
+**no description** : [trhacknon/CVE-2022-22965](https://github.com/trhacknon/CVE-2022-22965)  create time: 2022-07-05T02:30:29Z
 
 **no description** : [MuallimNaci/CVE-2022-30887](https://github.com/MuallimNaci/CVE-2022-30887)  create time: 2022-07-04T19:24:56Z
 
