@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-06 20:12:17.683282  total: 10013 
+ > update time: 2022-07-07 03:18:17.974895  total: 10014 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-27850 ysoserial** : [novysodope/CVE-2021-27850](https://github.com/novysodope/CVE-2021-27850)  create time: 2022-07-07T01:42:44Z
 
 **A script to change OpenSSL versions on Ubuntu to 1.1.1q to protect against CVE-2022-2097.** : [PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu](https://github.com/PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu)  create time: 2022-07-06T19:18:58Z
 
