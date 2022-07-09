@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-09 06:14:03.738027  total: 10032 
+ > update time: 2022-07-09 16:13:50.879548  total: 10033 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Instagram Bypass the Name Oneline Limit and 14 Days waiting time!** : [deidal0s/instagram_CVE_2019](https://github.com/deidal0s/instagram_CVE_2019)  create time: 2022-07-09T15:22:36Z
 
 **Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). CVE-2021-36711** : [Nwqda/Sashimi-Evil-OctoBot-Tentacle](https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle)  create time: 2021-09-14T00:10:30Z
 
