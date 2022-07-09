@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-09 20:11:51.449202  total: 10034 
+ > update time: 2022-07-09 21:10:46.622873  total: 10035 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Attacks against QUIC (CVE 2022 30591)** : [efchatz/QUIC-attacks](https://github.com/efchatz/QUIC-attacks)  create time: 2022-06-30T18:25:23Z
 
 **CVE-2022-23222, managed with Rust.** : [RafaelOrtizRC/CVE-2022-23222](https://github.com/RafaelOrtizRC/CVE-2022-23222)  create time: 2022-07-09T19:28:46Z
 
