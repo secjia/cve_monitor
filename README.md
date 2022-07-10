@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-09 22:10:46.138880  total: 10036 
+ > update time: 2022-07-10 03:09:54.239912  total: 10037 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**GILANG - Exploiter for CVE-2021-25094** : [TUANB4DUT/typehub-exploiter](https://github.com/TUANB4DUT/typehub-exploiter)  create time: 2022-07-10T02:01:11Z
 
 **Fastjson exploit** : [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)  create time: 2022-07-09T21:56:10Z
 
