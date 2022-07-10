@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-10 03:09:54.239912  total: 10037 
+ > update time: 2022-07-10 04:23:24.188497  total: 10039 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.** : [Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)  create time: 2022-07-10T04:16:16Z
+
+**The MsIo64.sys and MsIo32.sys drivers in Patriot Viper RGB before 1.1 allow local users (including low integrity processes) to read and write to arbitrary memory locations, and consequently gain NT AUTHORITY\SYSTEM privileges, by mapping \Device\PhysicalMemory into the calling process via ZwOpenSection and ZwMapViewOfSection.** : [Exploitables/CVE-2019-18845](https://github.com/Exploitables/CVE-2019-18845)  create time: 2022-07-10T04:19:35Z
 
 **GILANG - Exploiter for CVE-2021-25094** : [TUANB4DUT/typehub-exploiter](https://github.com/TUANB4DUT/typehub-exploiter)  create time: 2022-07-10T02:01:11Z
 
