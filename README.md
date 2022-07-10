@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-10 04:23:24.188497  total: 10039 
+ > update time: 2022-07-10 05:12:59.647422  total: 10040 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.** : [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)  create time: 2022-07-10T04:22:55Z
 
 **Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.** : [Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)  create time: 2022-07-10T04:16:16Z
 
