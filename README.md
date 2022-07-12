@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-12 09:21:29.160164  total: 10049 
+ > update time: 2022-07-12 13:36:57.482635  total: 10052 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Lubnan-Skech/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/Lubnan-Skech/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-07-12T12:38:46Z
+
+**We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed.  Featrues Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder** : [Lubnan-Skech/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/Lubnan-Skech/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-07-12T12:30:43Z
+
+**Zcash, Armory, Bytecoin, Jaxx, Exodus, Ethereum, Electrum, AtomicWallet, Guarda, Coinomi, Litecoin, Dash, Bitcoin  Crypto Wallet Extensions from Chrome & Edge Binance, coin98, Phantom, Mobox, XinPay, Math10, Metamask, BitApp, Guildwallet, iconx, Sollet, Slope Wallet, Starcoin, Swash, Finnie, KEPLR, Crocobit, OXYGEN, Nifty, Liquality, Auvitas wallet, Math wallet, MTV wallet, Rabet wallet, Ronin wallet, Yoroi wallet, ZilPay wallet, Exodus, Terra Station, Jaxx.  Messenger Sessions, Accounts, Tokens Discord, Telegram, ICQ, Skype, Pidgin, Outlook, Tox, Element, Signal  Directories structure Filezilla hosts Process list Product key Autorun module  🎹 Keylogger: The keylogger will turn on if the user is texting in the chat or using the bank's website.  📋 Clipper: Clipper turns on and replaces crypto wallet addresses in the clipboard when a user makes a transaction.  📷 Webcam screenshots: Webcam screenshots will be taken if the user is watching something obscene on the Internet.** : [Lubnan-Skech/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/Lubnan-Skech/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-07-12T12:30:21Z
 
 **no description** : [kmahyyg/CVE-2022-22947](https://github.com/kmahyyg/CVE-2022-22947)  create time: 2022-07-12T08:20:02Z
 
