@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-13 17:20:29.397233  total: 10060 
+ > update time: 2022-07-14 03:19:38.491358  total: 10062 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46422_PoC** : [twoning/CVE-2021-46422_PoC](https://github.com/twoning/CVE-2021-46422_PoC)  create time: 2022-07-14T01:10:18Z
+
+**CVE-2022-26134-PoC** : [twoning/CVE-2022-26134-PoC](https://github.com/twoning/CVE-2022-26134-PoC)  create time: 2022-07-14T01:28:16Z
 
 **CVE-2022-26134-PoC** : [twoning/CVE-2022-26134-PoC](https://github.com/twoning/CVE-2022-26134-PoC)  create time: 2022-07-13T16:27:04Z
 
