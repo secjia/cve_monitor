@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-14 03:19:38.491358  total: 10062 
+ > update time: 2022-07-14 17:25:09.518806  total: 10063 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [sentrium-security/Follina-Workaround-CVE-2022-30190](https://github.com/sentrium-security/Follina-Workaround-CVE-2022-30190)  create time: 2022-06-08T14:20:50Z
 
 **CVE-2021-46422_PoC** : [twoning/CVE-2021-46422_PoC](https://github.com/twoning/CVE-2021-46422_PoC)  create time: 2022-07-14T01:10:18Z
 
