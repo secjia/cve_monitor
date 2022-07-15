@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-15 00:56:43.329536  total: 10064 
+ > update time: 2022-07-15 03:22:53.976756  total: 10067 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228** : [bughuntar/log4j-scan](https://github.com/bughuntar/log4j-scan)  create time: 2022-07-15T01:07:56Z
+
+**CVE-2022-32119 - Arox-Unrestricted-File-Upload** : [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)  create time: 2022-04-06T04:33:47Z
+
+**CVE-2022-32118 - Arox-XSS** : [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118)  create time: 2022-04-06T04:12:03Z
 
 **Additional exploits for XSS in Cisco ASA devices discovered by PTSwarm** : [catatonicprime/CVE-2020-3580](https://github.com/catatonicprime/CVE-2020-3580)  create time: 2022-07-15T00:11:29Z
 
