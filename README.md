@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-17 13:23:04.905770  total: 10079 
+ > update time: 2022-07-17 18:13:33.061982  total: 10080 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**nDay exploit for CVE-2021-27239** : [WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)  create time: 2022-07-17T18:03:15Z
 
 **no description** : [ooooooo-q/cve-2022-32224-rails](https://github.com/ooooooo-q/cve-2022-32224-rails)  create time: 2022-07-17T04:09:03Z
 
