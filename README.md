@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-17 12:18:27.116240  total: 10078 
+ > update time: 2022-07-17 13:23:04.905770  total: 10079 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ooooooo-q/cve-2022-32224-rails](https://github.com/ooooooo-q/cve-2022-32224-rails)  create time: 2022-07-17T04:09:03Z
 
 **CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability** : [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)  create time: 2022-07-17T11:25:12Z
 
