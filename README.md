@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-19 20:12:58.385935  total: 10102 
+ > update time: 2022-07-19 22:12:00.500010  total: 10104 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-33891** : [west-wind/CVE-2022-33891-POC](https://github.com/west-wind/CVE-2022-33891-POC)  create time: 2022-07-19T21:52:23Z
+
+**Apache Spark Shell Command Injection Vulnerability** : [HuskyHacks/cve-2022-33891](https://github.com/HuskyHacks/cve-2022-33891)  create time: 2022-07-19T18:52:12Z
 
 **samAccountName Spoofing (CVE-2021–42278) & Domain Controller Impersonation (CVE-2021–42287)** : [IAMinZoho/sAMAccountName-Spoofing](https://github.com/IAMinZoho/sAMAccountName-Spoofing)  create time: 2022-07-19T19:36:14Z
 
