@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-21 19:11:54.373515  total: 10122 
+ > update time: 2022-07-21 22:11:57.069202  total: 10123 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-34918-LPE-PoC](https://github.com/trhacknon/CVE-2022-34918-LPE-PoC)  create time: 2022-07-21T22:06:19Z
 
 **Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6** : [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)  create time: 2022-07-21T13:09:50Z
 
