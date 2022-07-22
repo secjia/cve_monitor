@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-22 06:15:28.834198  total: 10126 
+ > update time: 2022-07-22 10:12:57.161697  total: 10128 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mitigation/fix of CVE-2021-41773 A Path Traversal And File Disclosure Vulnerability In Apache** : [EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-](https://github.com/EkamSinghWalia/Mitigation-Apache-CVE-2021-41773-)  create time: 2022-07-22T09:11:47Z
+
+**no description** : [d4rkduck/CVE-2022-0666](https://github.com/d4rkduck/CVE-2022-0666)  create time: 2022-07-22T09:38:20Z
 
 **CVE-2022-23131漏洞批量检测与利用脚本** : [1324132494/CVE-2022-23131poc-exp-zabbix-](https://github.com/1324132494/CVE-2022-23131poc-exp-zabbix-)  create time: 2022-07-22T05:48:23Z
 
