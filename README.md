@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-22 22:12:07.588961  total: 10133 
+ > update time: 2022-07-23 09:11:32.620455  total: 10134 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**EXPLOIT FOR CVE IDRAC 8 2021** : [krdsploit/DELL-IDRAC-8-EXPLOIT](https://github.com/krdsploit/DELL-IDRAC-8-EXPLOIT)  create time: 2022-07-23T08:55:55Z
 
 **The New Exploit there no available on metasploit framework !** : [krdsploit/CVE-2002-2420](https://github.com/krdsploit/CVE-2002-2420)  create time: 2022-07-22T21:33:26Z
 
