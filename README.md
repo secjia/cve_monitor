@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-24 08:14:12.244777  total: 10137 
+ > update time: 2022-07-24 15:11:55.985233  total: 10139 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [merlinepedra/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC)  create time: 2022-07-24T14:47:55Z
+
+**no description** : [merlinepedra25/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC)  create time: 2022-07-24T14:47:40Z
 
 **Apache Spark RCE** : [llraudseppll/cve-2022-33891](https://github.com/llraudseppll/cve-2022-33891)  create time: 2022-07-24T07:45:46Z
 
