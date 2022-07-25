@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-25 10:13:55.147327  total: 10145 
+ > update time: 2022-07-25 12:21:52.415662  total: 10147 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520](https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520)  create time: 2022-07-25T11:57:50Z
+
+**no description** : [ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520](https://github.com/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520)  create time: 2022-07-25T11:51:11Z
 
 **Unauthenticated RCE via CVE-2022-26138 confluence** : [Daro1967/CVE-2022-26138-RCE](https://github.com/Daro1967/CVE-2022-26138-RCE)  create time: 2022-07-25T09:30:27Z
 
