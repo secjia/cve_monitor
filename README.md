@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-27 06:15:01.893325  total: 10157 
+ > update time: 2022-07-27 11:11:20.598445  total: 10158 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Vulnerability Polkit's pkexec** : [carloscast1llo/CVE-2021-4034](https://github.com/carloscast1llo/CVE-2021-4034)  create time: 2022-07-27T10:15:37Z
 
 **weblogic-cve-2018-2628-exp** : [cscadoge/weblogic-cve-2018-2628](https://github.com/cscadoge/weblogic-cve-2018-2628)  create time: 2022-07-27T06:10:28Z
 
