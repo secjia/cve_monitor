@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-27 11:11:20.598445  total: 10158 
+ > update time: 2022-07-27 15:12:41.829694  total: 10160 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Java classpath enumeration, focussed on CVE-2014-0043 for Apache Wicket 6.x** : [JJK96/JavaClasspathEnum](https://github.com/JJK96/JavaClasspathEnum)  create time: 2022-07-27T14:43:54Z
+
+**CVE-2022-*** : [GREENHAT7/pxplan](https://github.com/GREENHAT7/pxplan)  create time: 2021-11-22T12:57:22Z
 
 **Vulnerability Polkit's pkexec** : [carloscast1llo/CVE-2021-4034](https://github.com/carloscast1llo/CVE-2021-4034)  create time: 2022-07-27T10:15:37Z
 
