@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-28 14:14:42.772669  total: 10170 
+ > update time: 2022-07-29 05:25:37.564124  total: 10171 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WordPress Simple File List FileRead POC** : [z92g/CVE-2022-1119](https://github.com/z92g/CVE-2022-1119)  create time: 2022-07-29T05:04:26Z
 
 **libSSH-Authentication-Bypass** : [EmmanuelCruzL/CVE-2018-10933](https://github.com/EmmanuelCruzL/CVE-2018-10933)  create time: 2022-07-28T13:49:47Z
 
