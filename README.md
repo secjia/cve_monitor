@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-07-30 00:45:18.274599  total: 10176 
+ > update time: 2022-07-30 08:13:55.748814  total: 10177 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Confluence Hardcoded Password POC** : [z92g/CVE-2022-26138](https://github.com/z92g/CVE-2022-26138)  create time: 2022-07-30T07:14:52Z
 
 **DistCC exploit** : [angelpimentell/distcc_cve_2004-2687_exploit](https://github.com/angelpimentell/distcc_cve_2004-2687_exploit)  create time: 2022-03-15T18:25:27Z
 
