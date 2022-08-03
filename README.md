@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-03 11:12:06.686216  total: 10204 
+ > update time: 2022-08-03 18:14:41.032389  total: 10207 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit to capitalize on vulnerability CVE-2020-2038.** : [und3sc0n0c1d0/CVE-2020-2038](https://github.com/und3sc0n0c1d0/CVE-2020-2038)  create time: 2022-08-03T17:21:51Z
+
+**海康威视RCE漏洞 批量检测和利用工具** : [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)  create time: 2022-08-03T17:27:59Z
+
+**no description** : [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)  create time: 2022-08-03T17:14:13Z
 
 **no description** : [aweiiy/CVE-2021-43617](https://github.com/aweiiy/CVE-2021-43617)  create time: 2022-08-03T10:18:44Z
 
