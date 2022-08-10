@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-10 00:48:49.279991  total: 10228 
+ > update time: 2022-08-10 03:36:29.120440  total: 10229 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE** : [HKirito/CVE-2022-33980](https://github.com/HKirito/CVE-2022-33980)  create time: 2022-08-10T03:21:19Z
 
 **no description** : [markisback/CVE-2018-6574](https://github.com/markisback/CVE-2018-6574)  create time: 2022-08-09T23:45:13Z
 
