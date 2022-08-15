@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-15 19:11:06.070286  total: 10264 
+ > update time: 2022-08-15 21:11:30.296611  total: 10266 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [MaherAzzouzi/CVE-2022-36163](https://github.com/MaherAzzouzi/CVE-2022-36163)  create time: 2022-08-15T20:43:53Z
+
+**no description** : [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)  create time: 2022-08-15T20:36:51Z
 
 **ApacheOfBiz 17.12.01 - Unauthorized Remote Code Executión** : [Ly0nt4r/CVE-2020-9496](https://github.com/Ly0nt4r/CVE-2020-9496)  create time: 2022-08-15T18:15:11Z
 
