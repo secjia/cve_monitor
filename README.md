@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-16 09:11:37.011135  total: 10268 
+ > update time: 2022-08-16 12:18:53.715896  total: 10270 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229)  create time: 2022-08-16T12:08:11Z
+
+**no description** : [ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224)  create time: 2022-08-16T11:14:27Z
 
 **HTTP3-attacks (CVE-2022-30592)** : [efchatz/HTTP3-attacks](https://github.com/efchatz/HTTP3-attacks)  create time: 2022-08-06T09:57:43Z
 
