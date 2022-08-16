@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-16 03:16:27.163516  total: 10267 
+ > update time: 2022-08-16 09:11:37.011135  total: 10268 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**HTTP3-attacks (CVE-2022-30592)** : [efchatz/HTTP3-attacks](https://github.com/efchatz/HTTP3-attacks)  create time: 2022-08-06T09:57:43Z
 
 **no description** : [docfate111/CVE-2022-21789](https://github.com/docfate111/CVE-2022-21789)  create time: 2022-05-25T01:20:14Z
 
