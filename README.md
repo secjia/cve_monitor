@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-17 13:43:32.366063  total: 10275 
+ > update time: 2022-08-17 18:14:27.909430  total: 10276 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploits of different CVE IDs (CVE-2021-37910, CVE-2021-40288, CVE-2021-41435, CVE-2021-41436, CVE-2021-41437, CVE-2021-41441, CVE-2021-41442, CVE-2021-41445, CVE-2021-41449, CVE-2021-41450, CVE-2021-41451, CVE-2021-41753, CVE-2021-41788, CVE-2021-46353)** : [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)  create time: 2022-05-27T21:09:03Z
 
 **Remote code execution in CA APM Team Center** : [gquere/CVE-2020-6364](https://github.com/gquere/CVE-2020-6364)  create time: 2022-08-17T12:57:29Z
 
