@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-18 08:15:01.479938  total: 10281 
+ > update time: 2022-08-18 14:13:58.416269  total: 10282 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Example payload for CVE-2022-21894** : [sm0ke1337/CVE-2022-21894-Payload](https://github.com/sm0ke1337/CVE-2022-21894-Payload)  create time: 2022-08-18T13:37:56Z
 
 **no description** : [tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228](https://github.com/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228)  create time: 2022-08-18T07:27:32Z
 
