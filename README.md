@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-18 20:14:11.470988  total: 10283 
+ > update time: 2022-08-18 21:11:57.576136  total: 10284 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)  create time: 2022-08-18T18:39:39Z
 
 **no description** : [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)  create time: 2022-08-18T19:58:53Z
 
