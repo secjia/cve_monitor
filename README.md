@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-20 16:13:47.403348  total: 10293 
+ > update time: 2022-08-20 22:12:19.798304  total: 10294 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE_2021_24212** : [EmmanuelCruzL/CVE_2021_24212](https://github.com/EmmanuelCruzL/CVE_2021_24212)  create time: 2022-08-20T22:06:47Z
 
 **Zimbra CVE-2022-27925** : [Josexv1/CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925)  create time: 2022-08-20T15:58:29Z
 
