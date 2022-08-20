@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-20 04:27:55.289761  total: 10290 
+ > update time: 2022-08-20 06:14:53.119065  total: 10291 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PKEXEC Shell Executor for CVE-2021-4034 Pwnkit** : [Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor)  create time: 2022-08-20T05:31:59Z
 
 **no description** : [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)  create time: 2022-08-20T03:01:30Z
 
