@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-22 16:14:25.036568  total: 10305 
+ > update time: 2022-08-23 00:59:36.489314  total: 10306 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-2588** : [greek0x0/2022-LPE-UAF](https://github.com/greek0x0/2022-LPE-UAF)  create time: 2022-08-22T23:08:40Z
 
 **THE FINAL POC FOR CVE-2022-26809 TO ACHIEVE RCE** : [ToomArni65/CVE-2022-26809-RCE](https://github.com/ToomArni65/CVE-2022-26809-RCE)  create time: 2022-08-22T16:09:50Z
 
