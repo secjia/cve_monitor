@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-23 00:59:36.489314  total: 10306 
+ > update time: 2022-08-23 07:17:12.157758  total: 10307 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)  create time: 2022-08-23T06:38:46Z
 
 **CVE-2022-2588** : [greek0x0/2022-LPE-UAF](https://github.com/greek0x0/2022-LPE-UAF)  create time: 2022-08-22T23:08:40Z
 
