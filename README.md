@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-26 06:32:58.749335  total: 10334 
+ > update time: 2022-08-26 08:16:22.866277  total: 10335 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-26134 web payload** : [1337in/CVE-2022-26134web](https://github.com/1337in/CVE-2022-26134web)  create time: 2022-08-26T07:38:29Z
 
 **no description** : [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416)  create time: 2022-08-26T05:44:57Z
 
