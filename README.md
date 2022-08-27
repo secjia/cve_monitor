@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-27 17:14:29.295273  total: 10346 
+ > update time: 2022-08-27 20:12:51.381471  total: 10347 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Docker image vulnerable to CVE-2020-7246.** : [arafatansari/SecAssignment](https://github.com/arafatansari/SecAssignment)  create time: 2022-08-27T19:47:23Z
 
 **CVE-2022-37177 - HireVue-Broken-Or-Risky-Cryptographic-Algorithm** : [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)  create time: 2022-08-27T15:00:23Z
 
