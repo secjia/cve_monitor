@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-28 07:11:54.154483  total: 10349 
+ > update time: 2022-08-28 21:13:20.111424  total: 10350 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Based on https://devel0pment.de/?p=2494** : [watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce](https://github.com/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce)  create time: 2022-08-28T20:30:24Z
 
 **nameko Arbitrary code execution due to YAML deserialization** : [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)  create time: 2022-08-28T06:42:59Z
 
