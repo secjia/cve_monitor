@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-27 20:12:51.381471  total: 10347 
+ > update time: 2022-08-28 03:27:00.182071  total: 10348 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [jturner786/magento-CVE-2022-24086](https://github.com/jturner786/magento-CVE-2022-24086)  create time: 2022-08-28T02:48:05Z
 
 **A Docker image vulnerable to CVE-2020-7246.** : [arafatansari/SecAssignment](https://github.com/arafatansari/SecAssignment)  create time: 2022-08-27T19:47:23Z
 
