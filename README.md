@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-29 18:14:59.434978  total: 10359 
+ > update time: 2022-08-30 08:16:27.326468  total: 10361 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository contains a test case for CVE-2020-0796** : [awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest)  create time: 2020-03-12T09:35:57Z
+
+**repo showcasing "psychic signatures in java"** : [davwwwx/CVE-2022-21449](https://github.com/davwwwx/CVE-2022-21449)  create time: 2022-08-30T08:12:24Z
 
 **no description** : [DShankle/VLC_CVE-2021-25804_Analysis](https://github.com/DShankle/VLC_CVE-2021-25804_Analysis)  create time: 2022-05-23T20:58:56Z
 
