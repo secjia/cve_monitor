@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-30 10:13:30.433000  total: 10364 
+ > update time: 2022-08-30 12:23:49.415172  total: 10365 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Oracle Weblogic RCE - CVE-2022-2109** : [Vulnmachines/oracle-weblogic-CVE-2021-2109](https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109)  create time: 2022-08-30T11:50:17Z
 
 **CVE-2010-2553-reproduction** : [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)  create time: 2022-08-30T09:46:14Z
 
