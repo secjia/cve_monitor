@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-31 06:53:00.021051  total: 10367 
+ > update time: 2022-08-31 11:11:40.318040  total: 10368 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [TakenoSite/RemoteUploader-CVE2021-36260](https://github.com/TakenoSite/RemoteUploader-CVE2021-36260)  create time: 2022-08-28T03:11:00Z
 
 **CVE-2020-1472 C++** : [Rvn0xsy/ZeroLogon](https://github.com/Rvn0xsy/ZeroLogon)  create time: 2022-08-31T06:01:02Z
 
