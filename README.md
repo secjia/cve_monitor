@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-08-31 17:18:59.136251  total: 10369 
+ > update time: 2022-09-01 00:49:44.836038  total: 10370 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof-of-concept exploit for the Dirty Pipe vulnerability (CVE-2022-0847)** : [notl0cal/dpipe](https://github.com/notl0cal/dpipe)  create time: 2022-08-31T23:19:28Z
 
 **Casdoor是一个基于OAuth 2.0/OIDC 的中心化的单点登录（SSO）身份验证平台，此漏洞属于Sql注入漏洞，在查询API 存在与字段和值参数相关的SQL注入漏洞** : [cukw/CVE-2022-24124_POC](https://github.com/cukw/CVE-2022-24124_POC)  create time: 2022-08-31T16:23:16Z
 
