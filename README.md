@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-01 08:17:54.378267  total: 10372 
+ > update time: 2022-09-01 10:13:30.697687  total: 10373 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [75ACOL/CVE-2022-22963](https://github.com/75ACOL/CVE-2022-22963)  create time: 2022-09-01T09:13:59Z
 
 **Metasploit exploit for CVE-2022-30526** : [greek0x0/CVE-2022-30526](https://github.com/greek0x0/CVE-2022-30526)  create time: 2022-09-01T07:15:09Z
 
