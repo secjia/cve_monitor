@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-01 15:16:11.651608  total: 10374 
+ > update time: 2022-09-01 17:19:42.938932  total: 10375 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Redis RCE through Lua Sandbox Escape vulnerability** : [JacobEbben/CVE-2022-0543](https://github.com/JacobEbben/CVE-2022-0543)  create time: 2022-09-01T16:44:56Z
 
 **fastjson 1.2.80 CVE-2022-25845** : [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)  create time: 2022-09-01T04:36:50Z
 
