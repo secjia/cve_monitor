@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-02 10:14:12.997068  total: 10383 
+ > update time: 2022-09-02 11:12:30.420836  total: 10384 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)  create time: 2022-09-02T10:35:11Z
 
 **Black board CMS Escalation of Privileges** : [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)  create time: 2022-09-02T09:35:35Z
 
