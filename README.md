@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-02 13:36:47.920888  total: 10385 
+ > update time: 2022-09-03 12:18:10.700772  total: 10386 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0xrobiul/CVE-2018-15473](https://github.com/0xrobiul/CVE-2018-15473)  create time: 2022-09-03T11:44:12Z
 
 **Zabbix-SAML-Bypass: CVE-2022-23131** : [Vulnmachines/Zabbix-CVE-2022-23131](https://github.com/Vulnmachines/Zabbix-CVE-2022-23131)  create time: 2022-09-02T13:24:13Z
 
