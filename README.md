@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-05 16:16:06.858698  total: 10396 
+ > update time: 2022-09-06 00:56:52.564841  total: 10398 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation** : [hackerhouse-opensource/cve-2021-34527](https://github.com/hackerhouse-opensource/cve-2021-34527)  create time: 2022-09-05T23:48:44Z
+
+**no description** : [trhacknon/CVE-2022-24706-CouchDB-Exploit](https://github.com/trhacknon/CVE-2022-24706-CouchDB-Exploit)  create time: 2022-09-06T00:17:19Z
 
 **no description** : [s1204IT/CVE-2022-20186_CTXZ](https://github.com/s1204IT/CVE-2022-20186_CTXZ)  create time: 2022-09-05T15:26:30Z
 
