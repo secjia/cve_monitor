@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-07 08:18:34.977911  total: 10402 
+ > update time: 2022-09-07 18:14:27.379209  total: 10403 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The issue is due to the fact that when installing a package, Golang will build native extensions. This can be used to pass additional flags to the compiler to gain code execution. For example, CFLAGS can be used.** : [hasharmujahid/CVE-2018-6574-go-get-RCE](https://github.com/hasharmujahid/CVE-2018-6574-go-get-RCE)  create time: 2022-09-07T18:09:38Z
 
 **Insecure Permissions WeDayCare** : [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)  create time: 2022-09-07T07:58:08Z
 
