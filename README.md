@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-07 03:45:07.526215  total: 10401 
+ > update time: 2022-09-07 08:18:34.977911  total: 10402 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Insecure Permissions WeDayCare** : [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)  create time: 2022-09-07T07:58:08Z
 
 **CVE-2022-2639 Linux kernel openvswitch local privilege escalation** : [avboy1337/CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)  create time: 2022-09-05T15:31:56Z
 
