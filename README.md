@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-09 20:13:51.544905  total: 10420 
+ > update time: 2022-09-09 23:13:48.025203  total: 10421 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Primefaces 5.X EL Injection Exploit (CVE-2017-1000486)** : [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces)  create time: 2022-09-09T23:09:40Z
 
 **CVE-2022-22629 Proof of Concept** : [parsdefense/CVE-2022-22629](https://github.com/parsdefense/CVE-2022-22629)  create time: 2022-09-09T17:21:27Z
 
