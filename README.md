@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-10 10:13:09.135297  total: 10425 
+ > update time: 2022-09-10 14:12:10.151235  total: 10426 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Pwnrin/CVE-2022-30206](https://github.com/Pwnrin/CVE-2022-30206)  create time: 2022-09-10T13:44:40Z
 
 **Unauthicated RCE for open-web-analytics(1.7.3)** : [garySec/CVE-2022-24637](https://github.com/garySec/CVE-2022-24637)  create time: 2022-09-10T09:11:44Z
 
