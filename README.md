@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-12 08:18:11.698564  total: 10435 
+ > update time: 2022-09-12 09:18:49.456158  total: 10436 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-27925 nuclei template** : [akincibor/CVE-2022-27925](https://github.com/akincibor/CVE-2022-27925)  create time: 2022-09-12T08:30:30Z
 
 **no description** : [nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344](https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344)  create time: 2022-09-12T07:53:33Z
 
