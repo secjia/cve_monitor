@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-13 20:15:12.009702  total: 10444 
+ > update time: 2022-09-13 22:14:40.466272  total: 10445 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system.** : [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)  create time: 2022-09-13T22:01:05Z
 
 **Amanda Information Disclosure bug.** : [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)  create time: 2022-09-13T19:26:38Z
 
