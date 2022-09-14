@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 05:23:04.861529  total: 10448 
+ > update time: 2022-09-14 08:16:20.264400  total: 10449 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)  create time: 2022-09-14T07:28:23Z
 
 **no description** : [trhacknon/CVE-2020-8515-PoC](https://github.com/trhacknon/CVE-2020-8515-PoC)  create time: 2022-09-14T04:28:51Z
 
