@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-14 10:14:25.107390  total: 10450 
+ > update time: 2022-09-14 11:12:03.045533  total: 10451 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548** : [Administrative2022/CVE-2022-32548-RCE](https://github.com/Administrative2022/CVE-2022-32548-RCE)  create time: 2022-09-14T10:51:42Z
 
 **Exploit code for CVE-2021-1961** : [tamirzb/CVE-2021-1961](https://github.com/tamirzb/CVE-2021-1961)  create time: 2022-09-03T13:31:13Z
 
