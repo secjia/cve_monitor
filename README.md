@@ -1,9 +1,33 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-15 09:16:34.225637  total: 10460 
+ > update time: 2022-09-15 10:14:47.260300  total: 10472 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mightysai1997/CVE-2021-41773-L-](https://github.com/mightysai1997/CVE-2021-41773-L-)  create time: 2022-09-15T10:08:36Z
+
+**no description** : [mightysai1997/CVE-2021-41773-i-](https://github.com/mightysai1997/CVE-2021-41773-i-)  create time: 2022-09-15T09:38:04Z
+
+**no description** : [mightysai1997/cve-2021-41773-v-](https://github.com/mightysai1997/cve-2021-41773-v-)  create time: 2022-09-15T09:36:17Z
+
+**no description** : [mightysai1997/CVE-2021-41773h](https://github.com/mightysai1997/CVE-2021-41773h)  create time: 2022-09-15T09:27:04Z
+
+**CVE-2022-37208** : [AgainstTheLight/CVE-2022-37208](https://github.com/AgainstTheLight/CVE-2022-37208)  create time: 2022-09-15T09:55:49Z
+
+**CVE-2022-37207 POC** : [AgainstTheLight/CVE-2022-37207](https://github.com/AgainstTheLight/CVE-2022-37207)  create time: 2022-09-15T09:53:06Z
+
+**CVE-2022-37206 POC** : [AgainstTheLight/CVE-2022-37206](https://github.com/AgainstTheLight/CVE-2022-37206)  create time: 2022-09-15T09:48:18Z
+
+**CVE-2022-37205 POC** : [AgainstTheLight/CVE-2022-37205](https://github.com/AgainstTheLight/CVE-2022-37205)  create time: 2022-09-15T09:46:06Z
+
+**CVE-2022-37204 POC** : [AgainstTheLight/CVE-2022-37204](https://github.com/AgainstTheLight/CVE-2022-37204)  create time: 2022-09-15T09:43:39Z
+
+**CVE-2022-37203 POC** : [AgainstTheLight/CVE-2022-37203](https://github.com/AgainstTheLight/CVE-2022-37203)  create time: 2022-09-15T09:38:52Z
+
+**CVE-2022-37202 POC** : [AgainstTheLight/CVE-2022-37202](https://github.com/AgainstTheLight/CVE-2022-37202)  create time: 2022-09-15T09:29:39Z
+
+**CVE-2022-37201 POC** : [AgainstTheLight/CVE-2022-37201](https://github.com/AgainstTheLight/CVE-2022-37201)  create time: 2022-09-15T09:21:30Z
 
 **no description** : [mightysai1997/cve-2021-41773](https://github.com/mightysai1997/cve-2021-41773)  create time: 2022-09-15T09:08:58Z
 
