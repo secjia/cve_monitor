@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-15 11:12:05.165879  total: 10474 
+ > update time: 2022-09-15 12:25:05.012065  total: 10478 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [mightysai1997/cve-2021-42013.get](https://github.com/mightysai1997/cve-2021-42013.get)  create time: 2022-09-15T12:15:00Z
+
+**no description** : [mightysai1997/cve-2021-42013L](https://github.com/mightysai1997/cve-2021-42013L)  create time: 2022-09-15T11:35:00Z
+
+**no description** : [mightysai1997/cve-2021-42013](https://github.com/mightysai1997/cve-2021-42013)  create time: 2022-09-15T11:28:39Z
+
+**DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field** : [rftg1000/CVE-2022-32548-MASS-RCE](https://github.com/rftg1000/CVE-2022-32548-MASS-RCE)  create time: 2022-09-15T11:31:04Z
 
 **no description** : [nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14463](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14463)  create time: 2022-09-15T10:21:14Z
 
