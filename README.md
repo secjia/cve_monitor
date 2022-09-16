@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-16 09:14:57.561875  total: 10491 
+ > update time: 2022-09-16 10:13:56.843380  total: 10492 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347)  create time: 2022-09-16T09:59:04Z
 
 **cve-2010-2553复现** : [Sunqiz/cve-2010-2553-reproduction](https://github.com/Sunqiz/cve-2010-2553-reproduction)  create time: 2022-09-16T08:51:40Z
 
