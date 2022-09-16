@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-16 11:11:22.671964  total: 10496 
+ > update time: 2022-09-16 12:21:00.739287  total: 10497 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696)  create time: 2022-09-16T11:28:52Z
 
 **Mass exploitation scripts for 12 software which are affected by log4j rce** : [Administrative2022/CVE-2021-44228-RCE](https://github.com/Administrative2022/CVE-2021-44228-RCE)  create time: 2022-09-16T10:59:58Z
 
