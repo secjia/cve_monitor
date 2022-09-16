@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-16 10:13:56.843380  total: 10492 
+ > update time: 2022-09-16 11:11:22.671964  total: 10496 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass exploitation scripts for 12 software which are affected by log4j rce** : [Administrative2022/CVE-2021-44228-RCE](https://github.com/Administrative2022/CVE-2021-44228-RCE)  create time: 2022-09-16T10:59:58Z
+
+**no description** : [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696)  create time: 2022-09-16T10:47:24Z
+
+**Unauthenticated RCE in sophos webadmin and administrative console** : [Administrative2022/CVE-2022-1040](https://github.com/Administrative2022/CVE-2022-1040)  create time: 2022-09-16T10:44:26Z
+
+**A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.** : [CEOrbey/CVE-2022-36804-RCE](https://github.com/CEOrbey/CVE-2022-36804-RCE)  create time: 2022-09-16T10:14:26Z
 
 **no description** : [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347)  create time: 2022-09-16T09:59:04Z
 
