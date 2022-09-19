@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-19 13:45:30.522394  total: 10515 
+ > update time: 2022-09-19 14:23:46.714336  total: 10517 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1** : [notxesh/CVE-2022-36804-PoC](https://github.com/notxesh/CVE-2022-36804-PoC)  create time: 2022-09-19T13:15:13Z
+
+**CVE-2022-31814 Exploitation Toolkit.** : [EvergreenCartoons/SenselessViolence](https://github.com/EvergreenCartoons/SenselessViolence)  create time: 2022-09-18T11:10:04Z
 
 **no description** : [CEOrbey/CVE-2022-36804-POC-RCE](https://github.com/CEOrbey/CVE-2022-36804-POC-RCE)  create time: 2022-09-19T12:46:33Z
 
