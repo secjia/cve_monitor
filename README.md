@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-19 14:23:46.714336  total: 10517 
+ > update time: 2022-09-20 03:38:09.225193  total: 10518 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection)** : [BenHays142/CVE-2022-36804-PoC-Exploit](https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit)  create time: 2022-09-20T02:35:53Z
 
 **Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1** : [notxesh/CVE-2022-36804-PoC](https://github.com/notxesh/CVE-2022-36804-PoC)  create time: 2022-09-19T13:15:13Z
 
