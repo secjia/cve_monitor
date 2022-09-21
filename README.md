@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-20 15:14:48.376420  total: 10527 
+ > update time: 2022-09-21 05:24:46.016058  total: 10528 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.** : [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)  create time: 2022-09-21T04:29:42Z
 
 **CROSS SITE SCRIPTING (XSS) ON "ACADEMY LEARNING MANAGEMENT SYSTEM" - PROOF OF CONCEPT (POC) CVE-2022-38553** : [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)  create time: 2022-09-20T14:51:52Z
 
