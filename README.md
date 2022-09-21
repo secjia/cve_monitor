@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-21 15:14:24.039497  total: 10536 
+ > update time: 2022-09-21 17:30:06.038539  total: 10537 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [pswalia2u/CVE-2020-7246](https://github.com/pswalia2u/CVE-2020-7246)  create time: 2022-09-16T10:36:19Z
 
 **Creosote is our solution to searching for the tarfile vulnerability described by CVE-2007-4559.** : [advanced-threat-research/Creosote](https://github.com/advanced-threat-research/Creosote)  create time: 2022-09-20T17:03:57Z
 
