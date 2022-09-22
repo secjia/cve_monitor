@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-22 13:43:08.000886  total: 10542 
+ > update time: 2022-09-22 15:13:59.685210  total: 10543 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-39197  poc** : [burpheart/cve-2022-39197](https://github.com/burpheart/cve-2022-39197)  create time: 2022-09-22T14:39:02Z
 
 **For detection of sitecore RCE - CVE-2021-42237** : [crankyyash/SiteCore-RCE-Detection](https://github.com/crankyyash/SiteCore-RCE-Detection)  create time: 2022-09-22T12:32:11Z
 
