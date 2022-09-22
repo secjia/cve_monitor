@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-22 15:13:59.685210  total: 10543 
+ > update time: 2022-09-22 18:17:11.653869  total: 10544 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WSO2 Arbitrary File Upload to Remote Command Execution (RCE)** : [hupe1980/CVE-2022-29464](https://github.com/hupe1980/CVE-2022-29464)  create time: 2022-09-22T14:04:49Z
 
 **cve-2022-39197  poc** : [burpheart/cve-2022-39197](https://github.com/burpheart/cve-2022-39197)  create time: 2022-09-22T14:39:02Z
 
