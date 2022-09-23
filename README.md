@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-23 18:17:08.034662  total: 10560 
+ > update time: 2022-09-23 20:13:47.416712  total: 10564 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ASUS router exploit** : [expl0despl0it/CVE-2021-44158](https://github.com/expl0despl0it/CVE-2021-44158)  create time: 2022-09-23T20:02:58Z
+
+**DrayTek Vigor Exploit** : [expl0despl0it/CVE-2022-32548](https://github.com/expl0despl0it/CVE-2022-32548)  create time: 2022-09-23T20:01:16Z
+
+**Fastjson exploit** : [expl0despl0it/CVE-2022-25845](https://github.com/expl0despl0it/CVE-2022-25845)  create time: 2022-09-23T20:00:22Z
+
+**Cisco Small Business RCE [included mass exploiter and scanner]** : [expl0despl0it/CVE-2022-20841](https://github.com/expl0despl0it/CVE-2022-20841)  create time: 2022-09-23T19:57:53Z
 
 **no description** : [trhacknon/CVE-2022-36804-ReverseShell](https://github.com/trhacknon/CVE-2022-36804-ReverseShell)  create time: 2022-09-23T18:06:20Z
 
