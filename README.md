@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-24 05:11:22.637546  total: 10565 
+ > update time: 2022-09-24 10:13:05.778158  total: 10566 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cobalt Strike RCE CVE-2022-39197** : [yqcs/CSPOC](https://github.com/yqcs/CSPOC)  create time: 2022-09-24T08:14:36Z
 
 **You can find a python script to exploit the vulnerability on Bitbucket related CVE-2022-36804.** : [khal4n1/CVE-2022-36804](https://github.com/khal4n1/CVE-2022-36804)  create time: 2022-09-24T05:04:30Z
 
