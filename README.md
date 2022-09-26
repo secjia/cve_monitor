@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-26 13:48:43.715980  total: 10585 
+ > update time: 2022-09-26 17:26:52.499667  total: 10587 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [RobertRevalo/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/RobertRevalo/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)  create time: 2022-09-26T17:14:52Z
+
+**no description** : [RobertRevalo/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/RobertRevalo/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)  create time: 2022-09-26T17:13:27Z
 
 **SonicWall SMA 100 Multiple Vulnerabilities, RCE** : [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)  create time: 2022-09-26T13:36:19Z
 
