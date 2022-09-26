@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-25 20:13:57.944892  total: 10577 
+ > update time: 2022-09-26 05:27:19.894073  total: 10578 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [nidhi7598/linux-4.19.72_CVE-2022-29581](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581)  create time: 2022-09-26T04:52:12Z
 
 **A somewhat reliable PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection).** : [touchmycrazyredhat/CVE-2022-36804-RevSh](https://github.com/touchmycrazyredhat/CVE-2022-36804-RevSh)  create time: 2022-09-25T20:09:04Z
 
