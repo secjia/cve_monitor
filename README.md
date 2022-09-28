@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-28 12:23:26.737357  total: 10599 
+ > update time: 2022-09-28 14:30:52.382920  total: 10601 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve2018-6574-gogetRCE** : [Bj0rn-gungnir/cve2018-6574-gogetRCE](https://github.com/Bj0rn-gungnir/cve2018-6574-gogetRCE)  create time: 2022-09-28T14:03:14Z
+
+**New 0day sophos firewall(userportal and webadmin) remote code execution cv 9.8** : [Ziggy78/CVE-2022-3236-RCE-POC](https://github.com/Ziggy78/CVE-2022-3236-RCE-POC)  create time: 2022-09-28T14:11:30Z
 
 **CVE-2022-30190** : [flux10n/CVE-2022-30190](https://github.com/flux10n/CVE-2022-30190)  create time: 2022-03-02T12:17:56Z
 
