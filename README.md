@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-29 11:12:33.098381  total: 10606 
+ > update time: 2022-09-29 14:25:20.368925  total: 10608 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Golang Proof of Concept Exploit for CVE-2021-44077: PreAuth RCE in ManageEngine ServiceDesk Plus < 11306** : [pizza-power/Golang-CVE-2021-44077-POC](https://github.com/pizza-power/Golang-CVE-2021-44077-POC)  create time: 2022-09-29T14:07:54Z
+
+**Don't be evil.** : [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)  create time: 2022-09-29T13:59:44Z
 
 **no description** : [d4rk0x00/CVE-2022-32548-batch](https://github.com/d4rk0x00/CVE-2022-32548-batch)  create time: 2022-09-29T10:25:05Z
 
