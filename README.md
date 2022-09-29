@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-28 15:18:18.671218  total: 10603 
+ > update time: 2022-09-29 01:08:08.893251  total: 10604 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ruifi47/cve-2021-21300-PoC](https://github.com/ruifi47/cve-2021-21300-PoC)  create time: 2022-09-29T00:49:29Z
 
 **Tiny File Manager v2.4.7 and below are vulnerable to Cross Site Scripting** : [whitej3rry/CVE-2022-40490](https://github.com/whitej3rry/CVE-2022-40490)  create time: 2022-09-28T14:32:41Z
 
