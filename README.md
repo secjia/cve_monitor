@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-29 14:25:20.368925  total: 10608 
+ > update time: 2022-09-30 01:19:36.542294  total: 10610 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tool for mass testing ZeroLogon vulnerability CVE-2020-1472** : [guglia001/MassZeroLogon](https://github.com/guglia001/MassZeroLogon)  create time: 2022-09-30T00:03:12Z
+
+**Apache 2.4.49 & 2.4.50 LFI to RCE exploit** : [Juuso1337/CVE-2021-41773](https://github.com/Juuso1337/CVE-2021-41773)  create time: 2022-09-28T20:12:34Z
 
 **Golang Proof of Concept Exploit for CVE-2021-44077: PreAuth RCE in ManageEngine ServiceDesk Plus < 11306** : [pizza-power/Golang-CVE-2021-44077-POC](https://github.com/pizza-power/Golang-CVE-2021-44077-POC)  create time: 2022-09-29T14:07:54Z
 
