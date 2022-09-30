@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 18:19:56.759295  total: 10621 
+ > update time: 2022-09-30 19:17:37.672242  total: 10623 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [kev1n-beaum0nt/CVE-2022-41082-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41082-RCE-POC)  create time: 2022-09-30T19:07:36Z
+
+**CVE-2022-41040 Remote Code Exeuction vulnerability** : [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)  create time: 2022-09-30T18:25:21Z
 
 **PoC for CVE-2022-41082 RCE as known as ProxyNotShell** : [R007er/CVE-2022-41082-POC](https://github.com/R007er/CVE-2022-41082-POC)  create time: 2022-09-30T17:51:47Z
 
