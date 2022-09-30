@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-09-30 04:29:02.096720  total: 10611 
+ > update time: 2022-09-30 07:36:41.871788  total: 10613 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**mass adding script for draytek vigor [CVE-2022-32548]** : [d4rk0x00/CVE-2022-32548-RCE](https://github.com/d4rk0x00/CVE-2022-32548-RCE)  create time: 2022-09-30T07:17:19Z
+
+**Vulnerability Details for CVE-2022-41218** : [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)  create time: 2022-09-30T07:12:23Z
 
 **no description** : [Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)  create time: 2022-09-30T02:26:41Z
 
