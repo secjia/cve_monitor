@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-01 04:24:59.841542  total: 10626 
+ > update time: 2022-10-01 05:57:53.323931  total: 10627 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2022-41082 RCE a.k.a ProxyNotShell** : [jml4da/CVE-2022-41082-POC](https://github.com/jml4da/CVE-2022-41082-POC)  create time: 2022-10-01T05:30:48Z
 
 **WonderCMS 3.1.3 - Authenticated Remote Code Execution** : [AkashLingayat/WonderCMS-CVE-2020-35314](https://github.com/AkashLingayat/WonderCMS-CVE-2020-35314)  create time: 2022-10-01T04:14:20Z
 
