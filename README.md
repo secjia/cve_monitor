@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-03 11:13:11.080361  total: 10648 
+ > update time: 2022-10-03 12:25:26.417008  total: 10650 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**批量poc脚本** : [hughink/CVE-2022-35914-GLPI-](https://github.com/hughink/CVE-2022-35914-GLPI-)  create time: 2022-10-03T12:13:36Z
+
+**Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python** : [0xR0o7/CVE-2022-41082-MASS-RCE](https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE)  create time: 2022-10-03T12:09:27Z
 
 **no description** : [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)  create time: 2022-10-03T10:10:11Z
 
