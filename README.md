@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-04 09:19:36.274305  total: 10659 
+ > update time: 2022-10-04 12:25:45.343747  total: 10660 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Лабораторная работа по Веб-технологиям** : [fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich](https://github.com/fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich)  create time: 2022-10-04T12:20:54Z
 
 **Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804)** : [ColdFusionX/CVE-2022-36804](https://github.com/ColdFusionX/CVE-2022-36804)  create time: 2022-10-04T08:26:12Z
 
