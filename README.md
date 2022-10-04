@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-04 12:25:45.343747  total: 10660 
+ > update time: 2022-10-04 13:52:55.173222  total: 10661 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Лабораторная работа по Веб-технологиям** : [hgkufjbknhmlj/2022-fall-lab-portfolio-CvetkovVyacheslavAndreevich](https://github.com/hgkufjbknhmlj/2022-fall-lab-portfolio-CvetkovVyacheslavAndreevich)  create time: 2022-10-04T13:15:32Z
 
 **Лабораторная работа по Веб-технологиям** : [fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich](https://github.com/fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich)  create time: 2022-10-04T12:20:54Z
 
