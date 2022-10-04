@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-04 13:52:55.173222  total: 10661 
+ > update time: 2022-10-04 14:33:14.126283  total: 10663 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**mitigation script for MS Exchange server vuln** : [r3dcl1ff/CVE-2022-41040](https://github.com/r3dcl1ff/CVE-2022-41040)  create time: 2022-10-04T14:07:18Z
+
+**no description** : [AruiBlog/CVE-2022-35914](https://github.com/AruiBlog/CVE-2022-35914)  create time: 2022-10-04T14:04:38Z
 
 **Лабораторная работа по Веб-технологиям** : [hgkufjbknhmlj/2022-fall-lab-portfolio-CvetkovVyacheslavAndreevich](https://github.com/hgkufjbknhmlj/2022-fall-lab-portfolio-CvetkovVyacheslavAndreevich)  create time: 2022-10-04T13:15:32Z
 
