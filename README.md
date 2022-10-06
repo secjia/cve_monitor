@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-06 03:09:43.266712  total: 10672 
+ > update time: 2022-10-06 09:20:39.840155  total: 10674 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-41082 aka ProxyNotShell** : [kev-beaumont/CVE-2022-41082-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41082-RCE-POC)  create time: 2022-10-06T08:22:38Z
+
+**CVE-2022-41040 aka Proxynotshell** : [kev-beaumont/CVE-2022-41040-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41040-RCE-POC)  create time: 2022-10-06T08:18:55Z
 
 **CVE 2016-6210 OpenSSH 7.2p2 Time response vulnerability to enumerate usernames** : [Tardcircus/CVE2016-6210](https://github.com/Tardcircus/CVE2016-6210)  create time: 2022-10-06T01:52:30Z
 
