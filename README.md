@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-07 08:17:30.548840  total: 10684 
+ > update time: 2022-10-07 09:18:19.278666  total: 10685 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-31629 POC** : [SilNex/CVE-2022-31629-poc](https://github.com/SilNex/CVE-2022-31629-poc)  create time: 2022-10-07T08:15:23Z
 
 **Python implementation for NotProxyShell aka CVE-2022-40140 & CVE-2022-41082** : [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner)  create time: 2022-10-07T08:10:00Z
 
