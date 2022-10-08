@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-08 11:11:56.048607  total: 10698 
+ > update time: 2022-10-08 12:21:35.996837  total: 10700 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [uisvit/CVE-2022-32548-MASS-RCE](https://github.com/uisvit/CVE-2022-32548-MASS-RCE)  create time: 2022-10-08T12:05:41Z
+
+**Authenticated Remote Command Execution in Gitlab via GitHub import** : [CsEnox/CVE-2022-2992](https://github.com/CsEnox/CVE-2022-2992)  create time: 2022-10-08T11:42:49Z
 
 **mass rce for ProxyNotShell** : [t0mby/CVE-2022-41082-RCE](https://github.com/t0mby/CVE-2022-41082-RCE)  create time: 2022-10-08T10:33:51Z
 
