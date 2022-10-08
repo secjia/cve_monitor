@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-08 16:16:36.988913  total: 10704 
+ > update time: 2022-10-08 17:22:34.636534  total: 10705 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Grafana - Directory Traversal and Arbitrary File Read** : [hupe1980/CVE-2021-43798](https://github.com/hupe1980/CVE-2021-43798)  create time: 2022-10-08T15:31:19Z
 
 **🤯 Exploit for sudo heap overflow.** : [iyamroshan/CVE-2021-3156](https://github.com/iyamroshan/CVE-2021-3156)  create time: 2022-10-08T15:53:25Z
 
