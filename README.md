@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-08 13:38:21.630812  total: 10701 
+ > update time: 2022-10-08 14:17:22.330206  total: 10702 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ProxyNotShell and CVE-2022-41040 and CVE-2022-41082** : [gitzero0/ProxyNotShell](https://github.com/gitzero0/ProxyNotShell)  create time: 2022-10-08T13:37:33Z
 
 **no description** : [7BitsTeam/exch_CVE-2021-42321](https://github.com/7BitsTeam/exch_CVE-2021-42321)  create time: 2022-10-08T13:00:23Z
 
