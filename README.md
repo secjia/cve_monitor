@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-09 22:11:17.499827  total: 10716 
+ > update time: 2022-10-10 04:10:34.503678  total: 10719 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0bfxgh0st/cve-2014-6271](https://github.com/0bfxgh0st/cve-2014-6271)  create time: 2022-10-10T01:44:07Z
+
+**testtesttesttesttesttesttesttesttesttest** : [realyme/CVE-2022-31479-test](https://github.com/realyme/CVE-2022-31479-test)  create time: 2022-10-10T03:47:18Z
+
+**test漏洞** : [exam-jcfxu/CVE-2022-test](https://github.com/exam-jcfxu/CVE-2022-test)  create time: 2022-10-10T02:57:02Z
 
 **Script to check for IOC's created by ProxyNotShell (CVE-2022-41040 & CVE-2022-41082)** : [rjsudlow/proxynotshell-IOC-Checker](https://github.com/rjsudlow/proxynotshell-IOC-Checker)  create time: 2022-10-09T21:15:00Z
 
