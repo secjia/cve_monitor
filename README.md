@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-10 09:21:37.584485  total: 10721 
+ > update time: 2022-10-10 13:55:03.581599  total: 10722 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-41352 poc** : [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)  create time: 2022-10-10T13:04:34Z
 
 **no description** : [SecLabResearchBV/CVE-2022-34718-PoC](https://github.com/SecLabResearchBV/CVE-2022-34718-PoC)  create time: 2022-10-03T11:39:25Z
 
