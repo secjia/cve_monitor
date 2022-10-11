@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-11 14:29:20.008926  total: 10726 
+ > update time: 2022-10-11 17:27:09.215430  total: 10727 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Compled version of CVE-2022-0847 aka Dirty Pipe. Just one shot to root them all :D** : [badboy-sft/Dirty-Pipe-Oneshot](https://github.com/badboy-sft/Dirty-Pipe-Oneshot)  create time: 2022-10-11T17:17:48Z
 
 **PoC and writeup for CVE-2022-41082. is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins** : [y4b4n/CVE-2022-41082-RCE-POC](https://github.com/y4b4n/CVE-2022-41082-RCE-POC)  create time: 2022-10-11T13:52:49Z
 
