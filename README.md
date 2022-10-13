@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 14:23:57.823308  total: 10744 
+ > update time: 2022-10-13 15:16:28.515885  total: 10745 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unrestricted File Upload by Weak Encryption affected versions (CVE-2017-11317) 2. Remote Code Execution by Insecure Deserialization - (CVE-2019-18935)** : [KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation](https://github.com/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation)  create time: 2022-10-13T14:21:31Z
 
 **Arbitrary code execution analysis based on Telerik-UI. This will be done so that the article can be read by others. The document provides an in-depth explanation of the various vectors involved with Telerik-UI for ASP.NET AJAX, as well as POST requests, the architecture of ASP.NET AJAX,** : [KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut](https://github.com/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut)  create time: 2022-10-13T14:19:12Z
 
