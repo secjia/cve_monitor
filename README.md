@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 15:16:28.515885  total: 10745 
+ > update time: 2022-10-13 17:35:23.174444  total: 10747 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Adobe Reader DC Information Leak Exploit** : [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)  create time: 2022-10-13T16:42:10Z
+
+**A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager** : [horizon3ai/CVE-2022-40684](https://github.com/horizon3ai/CVE-2022-40684)  create time: 2022-10-13T14:24:12Z
 
 **Unrestricted File Upload by Weak Encryption affected versions (CVE-2017-11317) 2. Remote Code Execution by Insecure Deserialization - (CVE-2019-18935)** : [KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation](https://github.com/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation)  create time: 2022-10-13T14:21:31Z
 
