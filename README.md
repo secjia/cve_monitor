@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-14 17:27:59.303254  total: 10761 
+ > update time: 2022-10-14 21:14:35.190437  total: 10762 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Authenticated Remote Command Execution in Gitlab via GitHub import.** : [Malwareman007/CVE-2022-2992](https://github.com/Malwareman007/CVE-2022-2992)  create time: 2022-10-14T20:47:51Z
 
 **no description** : [ITPATJIDR/CVE-2022-41040](https://github.com/ITPATJIDR/CVE-2022-41040)  create time: 2022-10-14T17:01:17Z
 
