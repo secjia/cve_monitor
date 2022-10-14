@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-13 21:15:15.002033  total: 10751 
+ > update time: 2022-10-14 01:11:49.445233  total: 10752 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)  create time: 2022-10-14T01:07:01Z
 
 **FortiProxy / FortiOS Authentication bypass** : [kljunowsky/CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC)  create time: 2022-10-13T21:07:50Z
 
