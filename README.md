@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 01:03:11.332064  total: 10763 
+ > update time: 2022-10-15 12:22:03.003607  total: 10764 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**exploit for CVE-2022-40684 Fortinet** : [ClickCyber/cve-2022-40684](https://github.com/ClickCyber/cve-2022-40684)  create time: 2022-10-15T11:34:17Z
 
 **u think that it doesnt but it do** : [xen0bit/CVE-2022-37434_poc](https://github.com/xen0bit/CVE-2022-37434_poc)  create time: 2022-10-15T00:29:38Z
 
