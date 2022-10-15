@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-15 12:22:03.003607  total: 10764 
+ > update time: 2022-10-15 13:37:15.780827  total: 10767 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-46422漏洞** : [Awei507/CVE-2021-46422](https://github.com/Awei507/CVE-2021-46422)  create time: 2022-10-15T12:46:31Z
+
+**no description** : [yigexioabai/CVE-2021-46422-RCE](https://github.com/yigexioabai/CVE-2021-46422-RCE)  create time: 2022-10-15T06:01:53Z
+
+**CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool** : [n0npro/CVE-2022-3236-RCE-POC](https://github.com/n0npro/CVE-2022-3236-RCE-POC)  create time: 2022-10-15T12:43:46Z
 
 **exploit for CVE-2022-40684 Fortinet** : [ClickCyber/cve-2022-40684](https://github.com/ClickCyber/cve-2022-40684)  create time: 2022-10-15T11:34:17Z
 
