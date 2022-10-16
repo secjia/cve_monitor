@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 19:14:30.711772  total: 10797 
+ > update time: 2022-10-16 23:15:04.954873  total: 10798 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Linux Kernel 3.10.0-514.21.2.el7.x86_64 / 3.10.0-514.26.1.el7.x86_64 (CentOS 7) - SUID Position Independent Executable 'PIE' Local Privilege Escalation** : [sxlmnwb/CVE-2017-1000253](https://github.com/sxlmnwb/CVE-2017-1000253)  create time: 2022-10-16T23:08:16Z
 
 **[CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution** : [redrays-io/CVE-2022-39802](https://github.com/redrays-io/CVE-2022-39802)  create time: 2022-10-16T18:40:56Z
 
