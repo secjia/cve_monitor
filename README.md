@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-16 14:15:32.932066  total: 10792 
+ > update time: 2022-10-16 15:13:52.704275  total: 10793 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**在 Telesquare SDT-CW3B1 1.1.0中曾发现分类为致命的漏洞。 此漏洞会影响未知代码。 手动调试的不合法输入可导致 权限升级。 使用CWE来声明会导致 CWE-78 的问题。** : [kailing0220/CVE-2021-46422](https://github.com/kailing0220/CVE-2021-46422)  create time: 2022-10-16T14:39:55Z
 
 **no description** : [Jackey0/CVE-2022-40664](https://github.com/Jackey0/CVE-2022-40664)  create time: 2022-10-16T13:51:36Z
 
