@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-17 11:16:42.650626  total: 10809 
+ > update time: 2022-10-17 12:27:10.083427  total: 10811 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [coderphp7/cve-2012](https://github.com/coderphp7/cve-2012)  create time: 2022-10-17T11:29:40Z
+
+**Exploit POC for CVE-2022-0824** : [pizza-power/golang-webmin-CVE-2022-0824-revshell](https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell)  create time: 2022-10-17T11:47:04Z
 
 **vm2 sandbox remote code execution [mass adding] [payload send for botnets]** : [backcr4t/CVE-2022-36067-MASS-RCE](https://github.com/backcr4t/CVE-2022-36067-MASS-RCE)  create time: 2022-10-17T10:44:31Z
 
