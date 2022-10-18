@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 11:14:46.825468  total: 10821 
+ > update time: 2022-10-18 14:31:56.585454  total: 10823 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Kylin有一个restful api会在没有任何认证的情况下暴露配置信息** : [kailing0220/CVE-2020-13937](https://github.com/kailing0220/CVE-2020-13937)  create time: 2022-10-18T14:11:16Z
+
+**cve-2022-42889 Text4Shell CVE-2022-42889 affects Apache Commons Text versions 1.5 through 1.9. It has been patched as of Commons Text version 1.10.** : [ClickCyber/cve-2022-42889](https://github.com/ClickCyber/cve-2022-42889)  create time: 2022-10-18T13:53:55Z
 
 **ClusterImagePolicy demo for cve-2022-42889 text4shell** : [chainguard-dev/text4shell-policy](https://github.com/chainguard-dev/text4shell-policy)  create time: 2022-10-17T21:49:13Z
 
