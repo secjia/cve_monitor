@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-18 09:23:55.763363  total: 10818 
+ > update time: 2022-10-18 10:18:10.689130  total: 10820 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dockerized POC for CVE-2022-42889 Text4Shell** : [karthikuj/cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker)  create time: 2022-10-18T09:58:00Z
+
+**no description** : [Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)  create time: 2022-10-18T09:16:04Z
 
 **An intentionally vulnerable webapp to get your hands dirty with CVE-2022-42889.** : [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat)  create time: 2022-10-18T08:22:55Z
 
