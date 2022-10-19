@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-19 16:21:53.866848  total: 10834 
+ > update time: 2022-10-19 20:15:14.679303  total: 10835 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2022-40684](https://github.com/trhacknon/CVE-2022-40684)  create time: 2022-10-19T19:51:33Z
 
 **Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler.** : [blacklanternsecurity/dp_cryptomg](https://github.com/blacklanternsecurity/dp_cryptomg)  create time: 2022-10-04T21:09:27Z
 
