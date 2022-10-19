@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-19 20:15:14.679303  total: 10835 
+ > update time: 2022-10-19 21:14:12.817204  total: 10836 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A fully automated, accurate, and extensive scanner for finding text4shell RCE CVE-2022-42889** : [securekomodo/text4shell-scan](https://github.com/securekomodo/text4shell-scan)  create time: 2022-10-19T20:14:22Z
 
 **no description** : [trhacknon/CVE-2022-40684](https://github.com/trhacknon/CVE-2022-40684)  create time: 2022-10-19T19:51:33Z
 
