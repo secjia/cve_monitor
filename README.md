@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-20 03:36:47.256987  total: 10841 
+ > update time: 2022-10-20 13:55:39.556535  total: 10843 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**通过 jvm 启动参数 以及 jps pid进行拦截非法参数** : [uk0/cve-2022-42889-intercept](https://github.com/uk0/cve-2022-42889-intercept)  create time: 2022-10-20T13:05:24Z
+
+**ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell** : [backcr4t/CVE-2022-41082-MASS-RCE](https://github.com/backcr4t/CVE-2022-41082-MASS-RCE)  create time: 2022-10-20T12:53:41Z
 
 **the metasploit script(POC) about CVE-2022-41040. Microsoft Exchange are vulnerable to a server-side request forgery (SSRF) attack. An authenticated attacker can use the vulnerability to elevate privileges.** : [TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell)  create time: 2022-10-20T03:11:03Z
 
