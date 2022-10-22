@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-22 10:14:04.000630  total: 10863 
+ > update time: 2022-10-22 11:12:34.961092  total: 10865 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2022-42889 Text4Shell Exploit POC** : [rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC](https://github.com/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC)  create time: 2022-10-22T10:30:41Z
+
+**CVE-2022-39197 RCE POC** : [TheCryingGame/CVE-2022-39197-RCE](https://github.com/TheCryingGame/CVE-2022-39197-RCE)  create time: 2022-10-22T10:11:37Z
 
 **Dockerized PoC for CVE-2022-42889 Text4Shell** : [galoget/CVE-2022-42889-Text4Shell-Docker](https://github.com/galoget/CVE-2022-42889-Text4Shell-Docker)  create time: 2022-10-22T10:01:13Z
 
