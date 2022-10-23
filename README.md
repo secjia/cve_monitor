@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-23 12:22:35.253346  total: 10878 
+ > update time: 2022-10-23 14:17:27.820766  total: 10879 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Authenticated Vertical Privilege Escalation Vulnerability in Blood Donor Management Systm (BDMS)** : [RashidKhanPathan/CVE-2022-38813](https://github.com/RashidKhanPathan/CVE-2022-38813)  create time: 2022-10-23T14:03:41Z
 
 **Amanda 3.5.1 second LPE.** : [MaherAzzouzi/CVE-2022-37705](https://github.com/MaherAzzouzi/CVE-2022-37705)  create time: 2022-10-23T11:48:36Z
 
