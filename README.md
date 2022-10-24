@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-24 14:37:42.180052  total: 10885 
+ > update time: 2022-10-24 15:19:35.961185  total: 10887 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)  create time: 2022-10-24T13:49:17Z
+
+**Cross-site Scripting (XSS) in Preview functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-36432](https://github.com/afine-com/CVE-2022-36432)  create time: 2022-10-24T13:36:09Z
 
 **CVE-2018-6066 using VBA** : [DISREL/Ring0VBA](https://github.com/DISREL/Ring0VBA)  create time: 2022-10-24T13:59:12Z
 
