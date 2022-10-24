@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-24 16:21:52.743500  total: 10890 
+ > update time: 2022-10-24 19:23:46.639186  total: 10891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [badboy-sft/CVE-2022-26134](https://github.com/badboy-sft/CVE-2022-26134)  create time: 2022-10-24T19:00:25Z
 
 **Text4Shell PoC Exploit** : [west-wind/CVE-2022-42889](https://github.com/west-wind/CVE-2022-42889)  create time: 2022-10-24T15:28:02Z
 
