@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-24 15:19:35.961185  total: 10887 
+ > update time: 2022-10-24 16:21:52.743500  total: 10890 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Text4Shell PoC Exploit** : [west-wind/CVE-2022-42889](https://github.com/west-wind/CVE-2022-42889)  create time: 2022-10-24T15:28:02Z
+
+**Stored Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-35501](https://github.com/afine-com/CVE-2022-35501)  create time: 2022-10-24T15:02:43Z
+
+**Stored Cross-site Scripting (XSS) in leave comment functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-35500](https://github.com/afine-com/CVE-2022-35500)  create time: 2022-10-24T14:52:41Z
 
 **Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2** : [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)  create time: 2022-10-24T13:49:17Z
 
