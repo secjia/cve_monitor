@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 13:56:23.187636  total: 10900 
+ > update time: 2022-10-25 16:25:55.370573  total: 10903 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [k4u5h41/CVE-2007-2447](https://github.com/k4u5h41/CVE-2007-2447)  create time: 2022-10-25T16:05:16Z
+
+**no description** : [k4u5h41/CVE-2014-0160_Heartbleed](https://github.com/k4u5h41/CVE-2014-0160_Heartbleed)  create time: 2022-04-24T11:53:16Z
+
+**This script was created to automate addressing the vulnerability described in CVE-2021-26414 (https://support.microsoft.com/en-us/topic/kb5004442-manage-changes-for-windows-dcom-server-security-feature-bypass-cve-2021-26414-f1400b52-c141-43d2-941e-37ed901c769c), adds two regkeys under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole\AppCompa** : [Nels2/dcom_10036_Solver](https://github.com/Nels2/dcom_10036_Solver)  create time: 2022-10-25T15:24:03Z
 
 **cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read** : [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)  create time: 2022-10-25T12:24:02Z
 
