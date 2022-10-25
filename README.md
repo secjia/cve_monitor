@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-25 12:27:03.949304  total: 10895 
+ > update time: 2022-10-25 13:56:23.187636  total: 10900 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read** : [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)  create time: 2022-10-25T12:24:02Z
+
+**no description** : [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)  create time: 2022-10-25T13:15:20Z
+
+**no description** : [Vulnmachines/text4shell-CVE-2022-42889](https://github.com/Vulnmachines/text4shell-CVE-2022-42889)  create time: 2022-10-25T13:11:24Z
+
+**no description** : [EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)  create time: 2022-10-25T12:59:31Z
+
+**cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE** : [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388)  create time: 2022-10-25T12:29:54Z
 
 **cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE** : [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)  create time: 2022-10-25T12:15:31Z
 
