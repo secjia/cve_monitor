@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-28 03:18:19.712731  total: 10912 
+ > update time: 2022-10-28 04:41:08.527358  total: 10914 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hughink/CVE-2022-40684](https://github.com/hughink/CVE-2022-40684)  create time: 2022-10-28T03:46:00Z
+
+**no description** : [cvelopers/COMP229-F2022-A2-CVEL](https://github.com/cvelopers/COMP229-F2022-A2-CVEL)  create time: 2022-10-28T03:38:08Z
 
 **no description** : [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)  create time: 2022-10-28T01:46:51Z
 
