@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-10-29 19:10:35.536547  total: 10924 
+ > update time: 2022-10-30 18:16:12.201516  total: 10925 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool** : [sml1nk/CVE-2022-3236-RCE](https://github.com/sml1nk/CVE-2022-3236-RCE)  create time: 2022-10-30T18:09:58Z
 
 **This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo** : [OUMBela/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/OUMBela/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-10-29T18:58:51Z
 
