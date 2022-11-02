@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 01:00:11.905927  total: 10945 
+ > update time: 2022-11-02 03:22:05.465371  total: 10947 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)  create time: 2022-11-02T01:39:49Z
+
+**Simple bash script to automate the exploit of cve 2022 0739** : [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)  create time: 2022-11-02T01:39:37Z
 
 **SambaCry (CVE-2017-7494) exploit for Samba | bind shell without Metasploit** : [caique-garbim/CVE-2017-7494_SambaCry](https://github.com/caique-garbim/CVE-2017-7494_SambaCry)  create time: 2022-11-01T23:17:25Z
 
