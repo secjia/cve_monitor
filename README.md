@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-02 10:15:02.654562  total: 10948 
+ > update time: 2022-11-02 12:23:32.918165  total: 10949 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A sample spring boot application demonstrating configuration that is vulnerable to CVE-2022-31692** : [SpindleSec/CVE-2022-31692](https://github.com/SpindleSec/CVE-2022-31692)  create time: 2022-11-02T12:07:42Z
 
 **SpookySSL CVE-2022-3602 SSLv3 Scanner for Windows, Linux, macOS** : [alicangnll/SpookySSL-Scanner](https://github.com/alicangnll/SpookySSL-Scanner)  create time: 2022-11-02T09:29:04Z
 
