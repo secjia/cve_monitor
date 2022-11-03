@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-03 03:00:50.324975  total: 10956 
+ > update time: 2022-11-03 09:13:31.763968  total: 10958 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Cross Site Scripting in Teacher's Record Management System using CodeIgnitor** : [RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)  create time: 2022-11-03T09:06:39Z
+
+**A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692** : [SpindleSec/cve-2022-31692-demo](https://github.com/SpindleSec/cve-2022-31692-demo)  create time: 2022-11-03T08:35:20Z
 
 **no description** : [Undefind404/cve_2021_41773](https://github.com/Undefind404/cve_2021_41773)  create time: 2022-11-02T09:31:31Z
 
