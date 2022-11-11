@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-11 11:12:02.968409  total: 11012 
+ > update time: 2022-11-11 13:39:22.030894  total: 11014 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2022-1** : [mike-develop-root/cve-2022-1](https://github.com/mike-develop-root/cve-2022-1)  create time: 2022-11-11T13:09:35Z
+
+**XSS in Simple Cashiering System** : [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)  create time: 2022-11-11T12:21:51Z
 
 **no description** : [maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)  create time: 2022-11-11T10:24:01Z
 
