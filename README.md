@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-16 04:19:14.106184  total: 11038 
+ > update time: 2022-11-16 09:12:00.062021  total: 11039 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability** : [ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER)  create time: 2022-11-16T08:22:29Z
 
 **A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.** : [Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits)  create time: 2022-11-16T03:44:14Z
 
