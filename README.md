@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-16 11:11:48.494773  total: 11040 
+ > update time: 2022-11-17 07:11:24.930593  total: 11042 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-8163** : [qazbnm456/CVE-2020-8163](https://github.com/qazbnm456/CVE-2020-8163)  create time: 2022-11-17T07:00:12Z
+
+**CouchDB & EPMD RCE exploit** : [LightningGod7/CVE-2022-24706-POC](https://github.com/LightningGod7/CVE-2022-24706-POC)  create time: 2022-11-17T06:16:47Z
 
 **no description** : [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)  create time: 2022-11-16T10:56:02Z
 
