@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-18 13:31:10.774246  total: 11054 
+ > update time: 2022-11-18 14:12:51.735096  total: 11055 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC** : [Mr-xn/CVE-2022-40127](https://github.com/Mr-xn/CVE-2022-40127)  create time: 2022-11-18T13:19:23Z
 
 **no description** : [daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)  create time: 2022-11-18T12:46:10Z
 
