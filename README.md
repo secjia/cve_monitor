@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-19 11:10:31.893243  total: 11059 
+ > update time: 2022-11-19 18:14:18.146307  total: 11060 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Command Line based python tool for exploit Zero-Day vulnerability in MSDT (Microsoft Support Diagnostic Tool) also know as 'Follina' CVE-2022-30190.** : [0xAbbarhSF/FollinaXploit](https://github.com/0xAbbarhSF/FollinaXploit)  create time: 2022-11-19T18:09:47Z
 
 **Cross Site Scripting on sanitization-management-system** : [Urban4/CVE-2022-3992](https://github.com/Urban4/CVE-2022-3992)  create time: 2022-11-19T10:36:37Z
 
