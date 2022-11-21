@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-20 18:13:21.851826  total: 11078 
+ > update time: 2022-11-21 00:50:09.333622  total: 11079 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection](https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection)  create time: 2022-11-21T00:39:16Z
 
 **INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port.** : [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)  create time: 2022-11-20T17:39:48Z
 
