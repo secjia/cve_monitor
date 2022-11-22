@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-22 16:15:48.250988  total: 11094 
+ > update time: 2022-11-22 17:14:27.954980  total: 11096 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tinhtrumtd/ANM_CVE_2019_0708](https://github.com/tinhtrumtd/ANM_CVE_2019_0708)  create time: 2022-11-22T16:14:57Z
+
+**Apache HTTP-Server 2.4.49-2.4.50 Path Traversal & Remote Code Execution PoC (CVE-2021-41773 & CVE-2021-42013)** : [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution)  create time: 2022-11-22T14:09:18Z
 
 **no description** : [tinhtrumtd/CDANM_CVE_2019_0708](https://github.com/tinhtrumtd/CDANM_CVE_2019_0708)  create time: 2022-11-22T15:25:36Z
 
