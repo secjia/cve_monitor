@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-22 23:12:06.706447  total: 11099 
+ > update time: 2022-11-23 02:32:26.806547  total: 11100 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [alalng/CVE-2022-44789](https://github.com/alalng/CVE-2022-44789)  create time: 2022-11-22T23:11:08Z
 
 **CVE-2021-22205 Exploitation of unauthenticated upload** : [pdelteil/CVE-2021-22205](https://github.com/pdelteil/CVE-2021-22205)  create time: 2022-11-22T22:58:48Z
 
