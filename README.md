@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-26 23:10:58.738861  total: 11115 
+ > update time: 2022-11-27 12:17:09.442181  total: 11116 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-6574; don't get excited** : [gman0x00/gogetRCE](https://github.com/gman0x00/gogetRCE)  create time: 2022-11-27T12:07:21Z
 
 **no description** : [trhacknon/CVE-2022-29455-XSS](https://github.com/trhacknon/CVE-2022-29455-XSS)  create time: 2022-11-26T23:02:01Z
 
