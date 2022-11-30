@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-11-29 19:10:18.917261  total: 11133 
+ > update time: 2022-11-30 00:46:56.344441  total: 11134 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [NetJBS/-CVE-2020-0796-RCE](https://github.com/NetJBS/-CVE-2020-0796-RCE)  create time: 2022-11-30T00:40:45Z
 
 **流血你(BLEED YOU) A critical RCE vulnerability in Windows Internet Key Exchange (IKE) Protocol Extensions** : [sandpix/CVE-2022-34721-RCE-POC](https://github.com/sandpix/CVE-2022-34721-RCE-POC)  create time: 2022-11-29T18:34:08Z
 
