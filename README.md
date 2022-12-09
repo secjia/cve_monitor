@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-09 07:11:01.234717  total: 11183 
+ > update time: 2022-12-09 10:11:24.717223  total: 11184 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**text4shell(CVE-2022-42889) BurpSuite Scanner** : [f0ng/text4shellburpscanner](https://github.com/f0ng/text4shellburpscanner)  create time: 2022-12-09T08:18:19Z
 
 **Scan IP ranges for IP's vulnerable to the F5 Big IP exploit (CVE-2022-1388)** : [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)  create time: 2022-12-09T06:51:21Z
 
