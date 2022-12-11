@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-11 16:13:05.112091  total: 11196 
+ > update time: 2022-12-11 19:09:42.027334  total: 11197 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**writeup and PoC for CVE-2022-3236 (unauthenticated RCE in userportal and webadmin of sophos firewall)** : [subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)  create time: 2022-12-11T18:16:53Z
 
 **no description** : [junyeong01/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/junyeong01/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)  create time: 2022-12-11T16:04:23Z
 
