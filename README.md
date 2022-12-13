@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-13 03:20:20.759579  total: 11206 
+ > update time: 2022-12-13 05:11:37.250964  total: 11207 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [trhacknon/CVE-2020-5902-Scanner](https://github.com/trhacknon/CVE-2020-5902-Scanner)  create time: 2022-12-13T04:42:11Z
 
 **no description** : [Administrator-Xorex/CVE-2022-25845-Server](https://github.com/Administrator-Xorex/CVE-2022-25845-Server)  create time: 2022-12-13T03:02:27Z
 
