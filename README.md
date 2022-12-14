@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-14 18:13:52.617103  total: 11225 
+ > update time: 2022-12-14 20:11:56.174508  total: 11226 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [amitlttwo/CVE-2022-46381](https://github.com/amitlttwo/CVE-2022-46381)  create time: 2022-12-14T20:07:52Z
 
 **A Proof of Concept for the CVE-2021-27928 flaw exploitation** : [LalieA/CVE-2021-27928](https://github.com/LalieA/CVE-2021-27928)  create time: 2022-12-14T17:36:38Z
 
