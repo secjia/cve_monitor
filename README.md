@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-15 00:45:27.736339  total: 11227 
+ > update time: 2022-12-15 02:21:02.740803  total: 11228 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**💣 CVE-2020-5398 - RFD(Reflected File Download) Attack for Spring MVC** : [motikan2010/CVE-2020-5398](https://github.com/motikan2010/CVE-2020-5398)  create time: 2020-01-17T05:35:01Z
 
 **Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE** : [Y4er/CVE-2020-2555](https://github.com/Y4er/CVE-2020-2555)  create time: 2020-03-07T18:58:09Z
 
