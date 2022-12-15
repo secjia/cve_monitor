@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-15 13:21:19.806394  total: 11232 
+ > update time: 2022-12-15 20:11:42.568180  total: 11233 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for Acronis Arbitrary File Read - CVE-2022-45451** : [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)  create time: 2022-12-15T19:16:20Z
 
 **PoC exploit for CVE-2012-2982 implemented in Rust** : [0xTas/CVE-2012-2982](https://github.com/0xTas/CVE-2012-2982)  create time: 2022-12-15T12:45:48Z
 
