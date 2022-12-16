@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-16 17:10:31.293485  total: 11238 
+ > update time: 2022-12-16 21:10:37.755085  total: 11240 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) - BOTNET_VERSION** : [n4rmex/CVE-2022-32548-RCE-POC](https://github.com/n4rmex/CVE-2022-32548-RCE-POC)  create time: 2022-12-16T20:54:51Z
+
+**writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell** : [LivingFree8/CVE-2022-41082-RCE-POC](https://github.com/LivingFree8/CVE-2022-41082-RCE-POC)  create time: 2022-12-16T20:28:29Z
 
 **CVE-2022-46169 - Cacti Blind Remote Code Execution (Pre-Auth)** : [taythebot/CVE-2022-46169](https://github.com/taythebot/CVE-2022-46169)  create time: 2022-12-16T16:16:35Z
 
