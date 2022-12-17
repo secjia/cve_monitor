@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-16 21:10:37.755085  total: 11240 
+ > update time: 2022-12-17 02:06:58.435423  total: 11241 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Files and tools for CVE-2021-26258** : [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)  create time: 2022-12-17T00:59:32Z
 
 **Mass DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) - BOTNET_VERSION** : [n4rmex/CVE-2022-32548-RCE-POC](https://github.com/n4rmex/CVE-2022-32548-RCE-POC)  create time: 2022-12-16T20:54:51Z
 
