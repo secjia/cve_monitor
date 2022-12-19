@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-19 10:13:24.455501  total: 11250 
+ > update time: 2022-12-19 11:11:00.652982  total: 11251 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [wh-gov/CVE-2022-44215](https://github.com/wh-gov/CVE-2022-44215)  create time: 2022-12-19T10:10:54Z
 
 **Public disclosure of TitanFTP 19.X Open Redirection vulnerability** : [JBalanza/CVE-2022-44215](https://github.com/JBalanza/CVE-2022-44215)  create time: 2022-12-19T09:34:49Z
 
