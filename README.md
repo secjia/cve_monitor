@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-20 13:18:58.285373  total: 11258 
+ > update time: 2022-12-20 14:11:26.860151  total: 11259 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [pescepilota/CVE-2022-24086](https://github.com/pescepilota/CVE-2022-24086)  create time: 2022-12-20T13:44:52Z
 
 **no description** : [kiks7/CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit)  create time: 2022-12-20T12:16:38Z
 
