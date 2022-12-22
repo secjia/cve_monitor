@@ -1,9 +1,69 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-22 17:10:49.328292  total: 11430 
+ > update time: 2022-12-22 18:12:42.493091  total: 11460 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-37018 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-37018](https://github.com/Live-Hack-CVE/CVE-2022-37018)  create time: 2022-12-22T18:08:58Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20533 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20533](https://github.com/Live-Hack-CVE/CVE-2022-20533)  create time: 2022-12-22T18:08:55Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46908 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46908](https://github.com/Live-Hack-CVE/CVE-2022-46908)  create time: 2022-12-22T18:08:51Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20531 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20531](https://github.com/Live-Hack-CVE/CVE-2022-20531)  create time: 2022-12-22T18:08:48Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20529 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20529](https://github.com/Live-Hack-CVE/CVE-2022-20529)  create time: 2022-12-22T17:38:44Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20528 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20528](https://github.com/Live-Hack-CVE/CVE-2022-20528)  create time: 2022-12-22T17:38:40Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20526 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20526](https://github.com/Live-Hack-CVE/CVE-2022-20526)  create time: 2022-12-22T17:38:36Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20513 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20513](https://github.com/Live-Hack-CVE/CVE-2022-20513)  create time: 2022-12-22T17:38:33Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-20514 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-20514](https://github.com/Live-Hack-CVE/CVE-2022-20514)  create time: 2022-12-22T17:38:29Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4511 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-4511](https://github.com/Live-Hack-CVE/CVE-2022-4511)  create time: 2022-12-22T17:38:10Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4513 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-4513](https://github.com/Live-Hack-CVE/CVE-2022-4513)  create time: 2022-12-22T17:38:07Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46076 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46076](https://github.com/Live-Hack-CVE/CVE-2022-46076)  create time: 2022-12-22T17:38:03Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46914 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46914](https://github.com/Live-Hack-CVE/CVE-2022-46914)  create time: 2022-12-22T17:38:00Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46912 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46912](https://github.com/Live-Hack-CVE/CVE-2022-46912)  create time: 2022-12-22T17:37:56Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46910 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46910](https://github.com/Live-Hack-CVE/CVE-2022-46910)  create time: 2022-12-22T17:37:53Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46771 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46771](https://github.com/Live-Hack-CVE/CVE-2022-46771)  create time: 2022-12-22T17:37:50Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46435 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46435](https://github.com/Live-Hack-CVE/CVE-2022-46435)  create time: 2022-12-22T17:37:46Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46434 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46434](https://github.com/Live-Hack-CVE/CVE-2022-46434)  create time: 2022-12-22T17:37:43Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46432 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46432](https://github.com/Live-Hack-CVE/CVE-2022-46432)  create time: 2022-12-22T17:37:39Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46430 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46430](https://github.com/Live-Hack-CVE/CVE-2022-46430)  create time: 2022-12-22T17:37:36Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46428 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46428](https://github.com/Live-Hack-CVE/CVE-2022-46428)  create time: 2022-12-22T17:37:33Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46424 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46424](https://github.com/Live-Hack-CVE/CVE-2022-46424)  create time: 2022-12-22T17:37:29Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46423 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46423](https://github.com/Live-Hack-CVE/CVE-2022-46423)  create time: 2022-12-22T17:37:26Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46422 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46422](https://github.com/Live-Hack-CVE/CVE-2022-46422)  create time: 2022-12-22T17:37:14Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-46139 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-46139](https://github.com/Live-Hack-CVE/CVE-2022-46139)  create time: 2022-12-22T17:37:10Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-39304 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-39304](https://github.com/Live-Hack-CVE/CVE-2022-39304)  create time: 2022-12-22T17:37:06Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-38873 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)  create time: 2022-12-22T17:37:03Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-4515 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-4515](https://github.com/Live-Hack-CVE/CVE-2022-4515)  create time: 2022-12-22T17:36:59Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-43875 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-43875](https://github.com/Live-Hack-CVE/CVE-2022-43875)  create time: 2022-12-22T17:36:56Z
+
+**This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-43872 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2022-43872](https://github.com/Live-Hack-CVE/CVE-2022-43872)  create time: 2022-12-22T17:36:52Z
 
 **This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2016-0996 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2016-0996](https://github.com/Live-Hack-CVE/CVE-2016-0996)  create time: 2022-12-22T17:00:37Z
 
