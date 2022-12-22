@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-21 22:10:50.507783  total: 11277 
+ > update time: 2022-12-22 07:10:58.674423  total: 11278 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-42287/CVE-2021-42278 Exploiter** : [TryA9ain/noPac](https://github.com/TryA9ain/noPac)  create time: 2022-12-22T06:39:07Z
 
 **this exemple of application permet to test the vunerability CVE_2017-5638** : [mfdev-solution/Exploit-CVE-2017-5638](https://github.com/mfdev-solution/Exploit-CVE-2017-5638)  create time: 2022-12-21T21:14:12Z
 
