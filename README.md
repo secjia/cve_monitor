@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2022-12-22 09:11:17.095137  total: 11345 
+ > update time: 2022-12-22 10:11:37.215990  total: 11346 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for the CVE-2022-41082 Vulnerability Effecting Microsoft Exchange Servers** : [balki97/CVE-2022-41082-POC](https://github.com/balki97/CVE-2022-41082-POC)  create time: 2022-12-22T09:35:26Z
 
 **This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2012-4681 Made by Sn0wAlice. ❤️** : [Live-Hack-CVE/CVE-2012-4681](https://github.com/Live-Hack-CVE/CVE-2012-4681)  create time: 2022-12-22T08:45:42Z
 
